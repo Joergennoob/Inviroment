@@ -127,6 +127,11 @@ DISTRICTS = [
     ("lawmaker-esmeralda-soria", "AD 27", TIGER_SLDL_2024, "027", "2024 SLDL", "Forsamlingsdistrikt 27, Census 2024."),
     ("lawmaker-damon-connolly", "AD 12", TIGER_SLDL_2024, "012", "2024 SLDL", "Forsamlingsdistrikt 12, Census 2024."),
     ("lawmaker-joaquin-arambula", "AD 31", TIGER_SLDL_2024, "031", "2024 SLDL", "Forsamlingsdistrikt 31, Census 2024."),
+    ("lawmaker-buffy-wicks", "AD 14", TIGER_SLDL_2024, "014", "2024 SLDL", "Forsamlingsdistrikt 14, Census 2024."),
+    ("lawmaker-steve-bennett", "AD 38", TIGER_SLDL_2024, "038", "2024 SLDL", "Forsamlingsdistrikt 38, Census 2024."),
+    ("lawmaker-mike-gipson", "AD 65", TIGER_SLDL_2024, "065", "2024 SLDL", "Forsamlingsdistrikt 65, Census 2024."),
+    ("lawmaker-eloise-gomez-reyes", "SD 29", TIGER_SLDU_2024, "029", "2024 SLDU", "Senatdistrikt 29, Census 2024."),
+    ("lawmaker-caroline-menjivar", "SD 20", TIGER_SLDU_2024, "020", "2024 SLDU", "Senatdistrikt 20, Census 2024."),
 ]
 
 

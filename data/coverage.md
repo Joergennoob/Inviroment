@@ -29,8 +29,11 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `lawmaker-anna-caballero` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-benjamin-allen` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-bill-monning` | lawmaker | sjekket | mangler | mangler | sjekket | mangler | 10/10 | 1 |
+| `lawmaker-buffy-wicks` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 0 |
+| `lawmaker-caroline-menjivar` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-cristina-garcia` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 10/10 | 1 |
 | `lawmaker-damon-connolly` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 0 |
+| `lawmaker-eloise-gomez-reyes` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-esmeralda-soria` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-fran-pavley` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 13/13 | 1 |
 | `lawmaker-heath-flora` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
@@ -43,11 +46,13 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `lawmaker-lori-wilson` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-marie-alvarado-gil` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-melissa-hurtado` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 1 |
+| `lawmaker-mike-gipson` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-monique-limon` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 2/5 | 0 |
 | `lawmaker-pilar-schiavo` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 2/5 | 0 |
 | `lawmaker-roger-dickinson` | lawmaker | sjekket | mangler | mangler | sjekket | mangler | 9/9 | 1 |
 | `lawmaker-rosilicie-ochoa-bogh` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-shannon-grove` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 4/8 | 1 |
+| `lawmaker-steve-bennett` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-steve-padilla` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-suzette-valladares` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-tim-grayson` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 1 |

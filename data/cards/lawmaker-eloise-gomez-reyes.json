@@ -1,0 +1,230 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-eloise-gomez-reyes",
+  "type": "lawmaker",
+  "name": "Eloise Gómez Reyes",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Eloise Gómez Reyes er demokrat. Hun er senator for San Bernardino. Før desember 2024 satt hun i forsamlingen. Håndboken sier at hun var i lovgiveren fra desember 2016, og senator fra desember 2024.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I 2022, da hun satt i forsamlingen, stemte hun ja til loven om avstand mellom oljebrønner og hus.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "Stemmeliste sb1137",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Hun stemte ja til loven om lager av drivstoff i oktober 2024.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "title": "Stemmeliste abx2",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260308020621/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Hun stemte ja til loven om lokal luft i 2017.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "Stemmeliste ab617",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-south-coast-air",
+      "text": "Distriktet ligger i sør."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Ja til avstandsloven."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-617",
+      "text": "Ja i 2017."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.7044,
+          34.0953
+        ],
+        [
+          -117.6758,
+          34.1344
+        ],
+        [
+          -117.4954,
+          34.1365
+        ],
+        [
+          -117.4882,
+          34.1794
+        ],
+        [
+          -117.4383,
+          34.1845
+        ],
+        [
+          -117.4765,
+          34.2379
+        ],
+        [
+          -117.4513,
+          34.2783
+        ],
+        [
+          -117.3998,
+          34.2209
+        ],
+        [
+          -117.3357,
+          34.2084
+        ],
+        [
+          -117.3344,
+          34.2301
+        ],
+        [
+          -117.2973,
+          34.1839
+        ],
+        [
+          -117.2873,
+          34.2104
+        ],
+        [
+          -117.2262,
+          34.1935
+        ],
+        [
+          -117.2622,
+          34.1679
+        ],
+        [
+          -117.1651,
+          34.146
+        ],
+        [
+          -117.1953,
+          34.1201
+        ],
+        [
+          -117.1341,
+          34.0773
+        ],
+        [
+          -117.1388,
+          34.0333
+        ],
+        [
+          -117.2506,
+          34.0667
+        ],
+        [
+          -117.3754,
+          34.0194
+        ],
+        [
+          -117.4812,
+          34.0335
+        ],
+        [
+          -117.524,
+          34.0772
+        ],
+        [
+          -117.7044,
+          34.0953
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06029",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/5/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen SD 29 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Kartet viser senatdistriktet hun har nå, ikke forsamlingsdistriktet hun stemte fra."
+  ]
+}
