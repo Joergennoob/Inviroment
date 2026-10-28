@@ -21,10 +21,10 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `bill-sb-1168` | bill | sjekket | sjekket | mangler | sjekket | mangler | 10/10 | 1 |
 | `bill-sb-1319` | bill | sjekket | sjekket | mangler | sjekket | mangler | 8/8 | 1 |
 | `bill-sb-200` | bill | sjekket | sjekket | sjekket | sjekket | mangler | 9/9 | 1 |
-| `firm-carpenter-garcia-sievers` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 6/6 | 1 |
-| `firm-greenberg-traurig` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 4/4 | 1 |
-| `firm-leacox` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 4/4 | 1 |
-| `firm-pillsbury` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 4/4 | 1 |
+| `firm-carpenter-garcia-sievers` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 9/9 | 1 |
+| `firm-greenberg-traurig` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 7/7 | 1 |
+| `firm-leacox` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 7/7 | 1 |
+| `firm-pillsbury` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 7/7 | 1 |
 | `lawmaker-al-muratsuchi` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 10/10 | 1 |
 | `lawmaker-bill-monning` | lawmaker | sjekket | mangler | mangler | sjekket | mangler | 10/10 | 1 |
 | `lawmaker-cristina-garcia` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 10/10 | 1 |

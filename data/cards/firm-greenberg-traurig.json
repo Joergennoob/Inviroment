@@ -5,7 +5,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "WSPAs Form 635 for andre kvartal 2025 fører Greenberg Traurig, LLP, Sacramento, med 37 500,00 dollar this period og 75 000,00 dollar kumulativt.",
+      "text": "WSPA betalte lobbyfirmaet Greenberg Traurig 37 500 dollar i ett kvartal i 2025.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -21,7 +21,7 @@
     },
     {
       "id": "s2",
-      "text": "Beløpet er det WSPA betalte, ikke firmaets samlede omsetning.",
+      "text": "Beløpet er det WSPA betalte, ikke firmaets hele omsetning.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "I SOS-rådata, tabellen LEMP_CD, der firmaet står som underfirma og ikrafttredelse er 2024–2026, er oppdragsgiverne: Aspire Public Schools og Stockdale Capital Partners, LLC. Ingen av navnene er en miljø- eller klimaorganisasjon, så påstand om begge sider er ikke tatt med.",
+      "text": "Andre oppdragsgivere i registeret er en skolekjede og et eiendomsselskap. Ingen av dem er en miljøorganisasjon, så vi sier ikke at firmaet jobber for begge sider.",
       "status": "confirmed",
       "note": "Listen er oppdragsgivere som selv har ført firmaet. Den er ikke et bevis for at listen er uttømmende. WSPA-betalingen står på WSPAs skjema, ikke nødvendigvis her.",
       "sources": [
@@ -65,6 +65,54 @@
           "publisher": "California Secretary of State",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "WSPAs Form 635 for andre kvartal 2025 fører Greenberg Traurig, LLP, Sacramento, med 37 500,00 dollar this period og 75 000,00 dollar kumulativt.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Beløpet er det WSPA betalte, ikke firmaets samlede omsetning.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "I SOS-rådata, tabellen LEMP_CD, der firmaet står som underfirma og ikrafttredelse er 2024–2026, er oppdragsgiverne: Aspire Public Schools og Stockdale Capital Partners, LLC. Ingen av navnene er en miljø- eller klimaorganisasjon, så påstand om begge sider er ikke tatt med.",
+      "status": "confirmed",
+      "note": "Listen er oppdragsgivere som selv har ført firmaet. Den er ikke et bevis for at listen er uttømmende. WSPA-betalingen står på WSPAs skjema, ikke nødvendigvis her.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
