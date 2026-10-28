@@ -1,0 +1,109 @@
+{
+  "id": "firm-carpenter-garcia-sievers",
+  "type": "lobbying_firm",
+  "name": "Carpenter Garcia Sievers LLC",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "På WSPAs Form 635 for andre kvartal 2025 står firmaet med 90 000,00 dollar i fees, 0 i utlegg, og 90 000,00 dollar this period. Kumulativt til da: 180 396,00 dollar.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Adressen i skjemaet er Sacramento CA 95811.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Andre oppdragsgivere enn WSPA er ikke hentet.",
+      "status": "not_found",
+      "note": "Firmaposten i Cal-Access er ikke åpnet.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx",
+          "title": "Cal-Access Lobbying Firm search",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260106185656/https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Kvartalstotalen på WSPA-skjemaet, 3 032 226,49 dollar, samsvarer med andre kvartal på aktivitetssiden.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity",
+          "title": "Cal-Access employer 1147195, Western States Petroleum Association, activity",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025",
+          "archive_note": "Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "organization",
+      "target_id": "org-wspa",
+      "text": "Betalingen i andre kvartal 2025."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "other_clients",
+      "searched": "LobbyFirmsSearch er ikke kjørt for CARPENTER GARCIA.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Om firmaet i samme kvartal også hadde en offentlig eller klimarelatert oppdragsgiver. Det krever firmaskjemaet, ikke WSPAs skjema alene."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

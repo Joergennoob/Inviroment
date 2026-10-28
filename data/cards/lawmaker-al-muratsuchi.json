@@ -1,0 +1,127 @@
+{
+  "id": "lawmaker-al-muratsuchi",
+  "type": "lawmaker",
+  "name": "Al Muratsuchi",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "AB 1647, kapittel 589 av 2017, har Muratsuchi som forfatter i lovteksten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Forsamlingen samtykket 13. september 2017 med 57 mot 19.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Han står også som principal coauthor på SB 1137-statussiden, sammen med flere forsamlingsmedlemmer.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 status",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Distrikt i 2026 er ikke slått opp på assembly.ca.gov.",
+      "status": "not_verified",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Votes-siden for AB 1647 med enkeltnavn er ikke åpnet. Historikken gir tellingene. Derfor er det ikke skrevet om han selv stemte ja, bare at han er forfatter og at flertallet vedtok loven.",
+      "status": "not_verified",
+      "note": "billVotesClient for AB 1647 ville vise hans stemme.",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-1647",
+      "text": "Forfatter."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-1137",
+      "text": "Principal coauthor på statussiden."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-refineries",
+      "text": "Fence-line-loven."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "district",
+      "searched": "assembly.ca.gov er ikke åpnet.",
+      "result": "not_found",
+      "urls": [
+        "https://www.assembly.ca.gov/"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hans stemme på AB 1647 og SB 1137, og dagens distrikt."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,91 @@
+{
+  "id": "org-dwr",
+  "type": "organization",
+  "org_kind": "regulator",
+  "name": "Department of Water Resources",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "DWR peker ut kritisk overtrukne grunnvannsbasseng etter SGMA og publiserer definisjonen av critical overdraft.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "title": "Critically Overdrafted Basins",
+          "publisher": "California Department of Water Resources",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Kart-PDF-en lister 21 basseng, hvorav elleve i San Joaquin Valley.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf",
+          "title": "Critically Overdrafted Basins map",
+          "publisher": "DWR",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250630230548/https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Polygonet for bassengene er ikke lastet inn i kartet.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins",
+          "title": "i08 CriticallyOverdraftedBasins",
+          "publisher": "data.ca.gov",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "org-dwr-c1",
+      "text": "DWR peker ut kritisk overtrukne grunnvannsbasseng etter SGMA og publiserer definisjonen av critical overdraft.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "title": "Critically Overdrafted Basins",
+          "publisher": "California Department of Water Resources",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-groundwater-overdraft",
+      "text": "Utpekingen av basseng."
+    }
+  ],
+  "checked_empty": [],
+  "open_questions": [
+    "Nedlasting av geodatabasen og en sjekk av hvilke trakter som ligger inni 5-022.14."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

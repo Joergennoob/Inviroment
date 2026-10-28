@@ -1,0 +1,106 @@
+{
+  "id": "org-sjvapcd",
+  "type": "organization",
+  "org_kind": "regulator",
+  "name": "San Joaquin Valley Unified Air Pollution Control District",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "EPA skriver at distriktet etter delstatslov har hovedansvaret for å lage planer for å nå standardene i San Joaquin Valley, sammen med CARB.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+          "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Distriktet vedtok 2024-planen for 2012-PM2.5-standarden 20. juni 2024. Planen ber om ny frist 31. desember 2030.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+          "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "EPA skriver at distriktet vurderte stasjonære kilder og arealkilder, mens CARB vurderte mobile kilder.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+          "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "org-sjvapcd-c1",
+      "text": "EPA skriver at distriktet etter delstatslov har hovedansvaret for å lage planer for å nå standardene i San Joaquin Valley, sammen med CARB.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+          "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-san-joaquin-air",
+      "text": "PM2.5- og ozonproblemene i dalen."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-carb",
+      "text": "Delt ansvar med CARB."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "district_site",
+      "searched": "Søket stoppet ved Federal Register-teksten. Distriktets nettsted er ikke åpnet.",
+      "result": "not_found",
+      "urls": [
+        "https://www.valleyair.org/"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Distriktets egen nettside med vedtaket 20. juni 2024 er ikke åpnet. EPA gjengir datoen."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

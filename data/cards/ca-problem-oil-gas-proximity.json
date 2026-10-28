@@ -1,0 +1,264 @@
+{
+  "id": "ca-problem-oil-gas-proximity",
+  "type": "problem",
+  "name": "Olje og gass nær sensitive reseptorer",
+  "rank": 4,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "SB 1137, kapittel 365 av 2022, definerer en health protection zone som området innenfor 3 200 fot fra en sensitive receptor, og lovens funn sier at nærhet til utvinning gir helserisiko, særlig fra luftforurensning, og at belastningen uforholdsmessig treffer Black, indigenous and people of color.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137, Chapter 365, Statutes of 2022",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Lovteksten sier at studier har vist skade ved avstander under om lag én kilometer, omtrent 3 200 fot. Den inneholder ikke et folketall.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137, Chapter 365, Statutes of 2022",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "CalGEM rapporterer at Kern County produserte 89 661 583 fat olje og kondensat i 2023, og Los Angeles County 8 674 995 fat. Chevron U.S.A. Inc. betalte 20 764 561,84 dollar i vurderinger det året, Aera Energy LLC 17 168 596,04 dollar.",
+      "status": "confirmed",
+      "note": "Betalingene er assessment payments i årsrapporten, ikke fat og ikke lobbyutgifter.",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "CalGEM skriver at loven ble stanset da et referendum kvalifiserte seg i februar 2023, og at den fikk virkning igjen da forslagsstillerne trakk forslaget i juni 2024. Etatssiden sier at loven var fullt iverksatt 28. juni 2024.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+          "title": "SB 1137 Initial Statement of Reasons",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Pages/SB1137.aspx",
+          "title": "Understanding California's Oil and Gas Safety Zones: Senate Bill 1137",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261019013702/https://www.conservation.ca.gov/calgem/Pages/SB1137.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Senatet samtykket i forsamlingens endringer 31. august 2022 med 25 mot 10. Forsamlingen vedtok lovforslaget 30. august 2022 med 46 mot 24. Guvernøren godkjente det 16. september 2022.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920055011/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "Forfattere på statussiden er Gonzalez og Limón i senatet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 status",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "I Cal-Access, sesjon 2025-2026 og oppdatert 28. oktober 2026 kl. 08:15:07, er de største lobbybetalingene i kategorien oil and gas Chevron U.S.A., Inc. and Affiliates med 19 279 518,27 dollar (filer 1146815) og Western States Petroleum Association med 19 031 326,51 dollar (filer 1147195).",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "Et søk på navnet AERA i samme lobbyregister og sesjon ga ingen treff.",
+      "status": "not_found",
+      "note": "Søket var filernavn som inneholder AERA, alle kvartaler, sesjon 2025-2026.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "Problemet står som nummer fire fordi loven selv oppretter en helsesone og produksjonen er stor og geografisk konsentrert, mens et primært folketall inne i sonen ikke er hentet. Derfor rangeres det bak de tre problemene der en etat har telt mennesker under en brutt standard.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137, Chapter 365, Statutes of 2022",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www3.epa.gov/airquality/greenbook/rncl2.html",
+          "title": "PM-2.5 nonattainment areas, Green Book, data current as of September 30, 2026",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-1137",
+      "text": "Loven om health protection zones."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-lena-gonzalez",
+      "text": "Gonzalez er hovedforfatter."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-calgem",
+      "text": "CalGEM fører brønner og vurderinger."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-chevron",
+      "text": "Største vurderingsbetaling i 2023 og størst lobbybetaling i olje og gass."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-crc",
+      "text": "Selskapet beskriver seg som operatør i San Joaquin og Los Angeles."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-wspa",
+      "text": "Bransjeforeningen med nesten like stor lobbybetaling som Chevron."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-cipa",
+      "text": "California Independent Petroleum Association."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-berry",
+      "text": "Berry Corporation i samme lobbykategori."
+    },
+    {
+      "rel": "lobbying_firm",
+      "target_id": "firm-carpenter-garcia-sievers",
+      "text": "Firmaet fikk betalt av WSPA i andre kvartal 2025."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "geometry",
+      "searched": "Ingen CalGEM-brønn med API-nummer og koordinat er hentet. Et folketall innenfor 3 200 fot finnes i et faktaark fra et senator-kontor og i en analyse som ikke er en etatsstatistikk. De er ikke brukt som bekreftet tall.",
+      "result": "not_found",
+      "urls": [
+        "https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "population_inside_zone",
+      "searched": "Lovteksten og CalGEM-årsrapporten er lest. De oppgir ikke hvor mange mennesker som bor innenfor 3 200 fot.",
+      "result": "not_found",
+      "urls": [
+        "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvor mange aktive og idle brønner CalGEM selv teller innenfor health protection zones, og hvor mange mennesker som bor der, etter etatens egen metode.",
+    "Om Aera fortsatt finnes som eget selskap etter fusjonsavtalen CRC beskrev i 10-K for 2023, og hvilket filernavn som i så fall brukes i Cal-Access.",
+    "Hvem som mottok kampanjebidragene som står på Chevron- og CRC-navnestrengene."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

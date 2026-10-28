@@ -1,0 +1,109 @@
+{
+  "id": "org-berry",
+  "type": "organization",
+  "org_kind": "company",
+  "name": "Berry Corporation",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Cal-Access-filer 1420515, Berry Corporation, har 183 000,00 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Et navnesøk på BERRY ga også to jordbruksfiler, California Blueberry Commission og California Strawberry Commission. De er ikke Berry Corporation.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Ingen CalGEM-produksjonstall for Berry er skilt ut i årsrapportens topp i den delen som er lest. Selskapet er med her fordi det er en navngitt oil-and-gas-employer, ikke fordi en fatmengde er bekreftet.",
+      "status": "not_verified",
+      "note": "Primærkilden for fat ville være CalGEM produksjonsrapport per operatør.",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Filer-id 1420515 kommer fra LobbyIntSearch-postbacken.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Registrert i olje- og gasskategorien."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "campaign_contributions",
+      "searched": "ContributorSearch er ikke kjørt for BERRY CORPORATION.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/ContributorSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvor mange fat Berry produserte i Kern i 2023 ifølge CalGEM."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

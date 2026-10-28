@@ -1,0 +1,125 @@
+{
+  "id": "bill-sb-200",
+  "type": "bill",
+  "name": "SB 200 (2019), Safe and Affordable Drinking Water Fund",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "SB 200, kapittel 120 av 2019, forfatter Monning, oppretter Safe and Affordable Drinking Water Fund og viser til retten til trygt drikkevann.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200, Chapter 120, Statutes of 2019",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Senatet samtykket 8. juli 2019 med 38 mot 1, med hasteklausul. Forsamlingen vedtok 5. juli 2019 med 68 mot 0. Guvernøren godkjente 24. juli 2019.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "State Water Board skriver at loven setter av fem prosent av klimafondet, maks 130 millioner dollar i året, til 30. juni 2030.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/safer/docs/safer_program_legislative_history.pdf",
+          "title": "SAFER legislative history",
+          "publisher": "State Water Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260812021807/https://www.waterboards.ca.gov/safer/docs/safer_program_legislative_history.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Needs Assessment er et produkt av dette programmet og teller failing-systemene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Historikklinjen for forsamlingen sier at hastevedtaket ble lagt frem av Garcia, E. Det er gjengitt som en prosedyrelinje, ikke som et forfatterskap.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-drinking-water",
+      "text": "Fondet og failing-listen."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-bill-monning",
+      "text": "Forfatter på lovteksten."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-swrcb",
+      "text": "Styret forvalter fondet."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "campaign_contributions",
+      "searched": "Ingen bidrag er koblet til avstemningen. Det ville kreve mottakerlister fra Cal-Access mot navnene på votes-siden.",
+      "result": "not_found",
+      "urls": [],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvem som stemte nei i senatet. Tellingen er 38-1. Navnet er ikke skrevet av fra siden i dette kortet."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

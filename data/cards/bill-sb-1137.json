@@ -1,0 +1,135 @@
+{
+  "id": "bill-sb-1137",
+  "type": "bill",
+  "name": "SB 1137 (2021-2022), health protection zones",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Loven er kapittel 365 av 2022. Den legger artikkel 4.6 til Public Resources Code og definerer health protection zone som 3 200 fot.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137, Chapter 365, Statutes of 2022",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Senatet samtykket 31. august 2022 med 25 ja og 10 nei. Forsamlingen stemte 30. august 2022 med 46 ja og 24 nei. Guvernøren godkjente 16. september 2022.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920055011/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Forfattere på statussiden er senatorene Gonzalez og Limón.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 status",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "CalGEM beskriver at et referendum stanset loven fra februar 2023 til forslaget ble trukket i juni 2024.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+          "title": "SB 1137 ISOR",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Navnene på hver ja- og nei-stemme står på votes-siden. Dette kortet gjengir tellingene, ikke hvert navn, for å unngå avskriftsfeil. Siden er kilden.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Loven er kjernen i olje- og gasskortet."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-lena-gonzalez",
+      "text": "Hovedforfatter."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-calgem",
+      "text": "Etaten som fører sonene."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "lobby_position",
+      "searched": "WSPAs vedlegg A er ikke lest, så det er ikke bekreftet at WSPA oppga SB 1137. Loven var fra 2022, mens skjemaet som er lest, er fra 2025.",
+      "result": "not_found",
+      "urls": [
+        "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvilke selskaper som leverte referendum-signaturene. CalGEM sier opponents, uten navn i avsnittet som er lest."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

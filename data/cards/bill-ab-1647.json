@@ -1,0 +1,130 @@
+{
+  "id": "bill-ab-1647",
+  "type": "bill",
+  "name": "AB 1647 (2017), måling ved raffinerier",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "AB 1647, kapittel 589, godkjent 8. oktober 2017, forfatter Muratsuchi. Loven krever samfunnsmåling nær hvert raffineri og fence-line-måling drevet av eieren, senest 1. januar 2020.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Forsamlingen samtykket 13. september 2017 med 57 mot 19. Senatet vedtok 11. september 2017 med 28 mot 11.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Eieren skal betale, med mindre distriktet med vilje bruker stasjonen også til andre kilder. Da skal kostnaden deles.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Om hvert raffineri i FRS-uttrekket faktisk har et system i drift i 2026, er ikke sjekket mot distriktenes datasider.",
+      "status": "not_verified",
+      "note": "Distriktets offentlige dataside for det enkelte anlegg ville bekrefte drift.",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Loven viser til veiledning i overvåkingsplanen etter AB 617, Health and Safety Code 42705.5.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-refineries",
+      "text": "Fence-line-kravet."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-al-muratsuchi",
+      "text": "Forfatter."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-scaqmd",
+      "text": "Distriktet i South Coast skal designe samfunnsmålingen."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-617",
+      "text": "Søsterloven om samfunn og strategi."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "implementation_audit",
+      "searched": "Ingen anleggsside er åpnet for å se om fristen 1. januar 2020 er holdt.",
+      "result": "not_found",
+      "urls": [],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvilke raffinerier som mangler offentlig sanntidsdata i dag."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,101 @@
+{
+  "id": "org-oehha",
+  "type": "organization",
+  "org_kind": "regulator",
+  "name": "Office of Environmental Health Hazard Assessment",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "OEHHA publiserer CalEnviroScreen 4.0 med score per census tract og tilbyr nedlasting og en ArcGIS-tjeneste.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+          "title": "CalEnviroScreen 4.0",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261019155738/https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Tjenestens metadata har tomt copyrightText-felt. Traktene i kartet er hentet derfra 28. oktober 2026 og er sitert med tract-id.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0?f=json",
+          "title": "CalEnviroScreen 4.0 layer metadata",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022150903/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/ArcGIS/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0?f=json",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Verktøyet er en screening, ikke en måling av at en person er syk. Kortene bruker det som stedsangivelse og indikator, ikke som diagnose.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+          "title": "CalEnviroScreen 4.0",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261019155738/https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "org-oehha-c1",
+      "text": "OEHHA publiserer CalEnviroScreen 4.0 med score per census tract og tilbyr nedlasting og en ArcGIS-tjeneste.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+          "title": "CalEnviroScreen 4.0",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261019155738/https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-san-joaquin-air",
+      "text": "Tract 6019001100."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-pesticides",
+      "text": "Pesticidindikatoren."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-drinking-water",
+      "text": "Drikkevannsindikatoren."
+    }
+  ],
+  "checked_empty": [],
+  "open_questions": [
+    "En full tract-flate for persentil over 90 er ikke lagt inn, bare seks trakter."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

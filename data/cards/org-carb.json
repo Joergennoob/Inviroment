@@ -1,0 +1,101 @@
+{
+  "id": "org-carb",
+  "type": "organization",
+  "org_kind": "regulator",
+  "name": "California Air Resources Board",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "EPA skriver at CARB vurderer mobile kilder i San Joaquin Valley, og at CARB vedtok 2024 PM2.5-planen 25. juli 2024.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+          "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "CARB beregnet Aliso Canyon-utslippet til 99 650 tonn metan, pluss minus 9 300, og satte kompensasjonsmengden til 109 000 tonn.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
+          "publisher": "California Air Resources Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "AB 617 gir CARB ansvar for en enhetlig utslippsrapportering, en overvåkingsplan og en strategi for samfunn med høy samlet belastning.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "org-carb-c1",
+      "text": "EPA skriver at CARB vurderer mobile kilder i San Joaquin Valley, og at CARB vedtok 2024 PM2.5-planen 25. juli 2024.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+          "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-san-joaquin-air",
+      "text": "Mobile kilder og 2024-planen."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-aliso-canyon",
+      "text": "Metanestimatet."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-617",
+      "text": "AB 617."
+    }
+  ],
+  "checked_empty": [],
+  "open_questions": [
+    "En egen CARB-nettside for community air protection med listen over valgte samfunn er ikke åpnet."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,96 @@
+{
+  "id": "org-calgem",
+  "type": "organization",
+  "org_kind": "regulator",
+  "name": "California Geologic Energy Management Division",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Årsrapporten for 2023 er avgitt etter Public Resources Code avsnitt 3108 og gir olje og gass per fylke.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Kern produserte 89 661 583 fat olje og kondensat. Los Angeles County produserte 8 674 995 fat.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "CalGEM beskriver i høringsnotatet at SB 1137 ble stanset av et referendum og fikk virkning igjen i juni 2024.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+          "title": "SB 1137 Initial Statement of Reasons",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "org-calgem-c1",
+      "text": "Årsrapporten for 2023 er avgitt etter Public Resources Code avsnitt 3108 og gir olje og gass per fylke.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Produksjon, vurderinger og helsesonen."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-1137",
+      "text": "Reglene CalGEM skriver ut."
+    }
+  ],
+  "checked_empty": [],
+  "open_questions": [
+    "Et maskinlesbart brønnuttrekk med avstand til bolig er ikke lastet ned."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

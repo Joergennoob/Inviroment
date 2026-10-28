@@ -1,0 +1,101 @@
+{
+  "id": "org-scaqmd",
+  "type": "organization",
+  "org_kind": "regulator",
+  "name": "South Coast Air Quality Management District",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Distriktet skriver at South Coast Air Basin er i extreme nonattainment for 2015-ozonstandarden.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+          "title": "South Coast Air Basin Contingency Measure SIP Revision for the 2015 8-Hour Ozone NAAQS",
+          "publisher": "South Coast AQMD",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251111112546/https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I 2018-regnskapet i samme dokument sto tunge lastebiler for 27 prosent av NOx, og petroleumsraffinering var blant de største stasjonære NOx-kildene etter brensel i bygninger.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+          "title": "South Coast Air Basin Contingency Measure SIP Revision for the 2015 8-Hour Ozone NAAQS",
+          "publisher": "South Coast AQMD",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251111112546/https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Distriktet publiserte 2015-målingene av seks raffinerier. Anleggene er anonymisert som A til F i sammendraget.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
+          "title": "FluxSense refinery report",
+          "publisher": "South Coast AQMD",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260223115343/https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "org-scaqmd-c1",
+      "text": "Distriktet skriver at South Coast Air Basin er i extreme nonattainment for 2015-ozonstandarden.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+          "title": "South Coast Air Basin Contingency Measure SIP Revision for the 2015 8-Hour Ozone NAAQS",
+          "publisher": "South Coast AQMD",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251111112546/https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-south-coast-air",
+      "text": "Ozonplanen."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-refineries",
+      "text": "Raffinerimålingene."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-1647",
+      "text": "Distriktet skal lage veiledning for fence-line."
+    }
+  ],
+  "checked_empty": [],
+  "open_questions": [
+    "Hvilke fysiske anlegg som er Refinery A til F."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

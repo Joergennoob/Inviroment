@@ -1,0 +1,319 @@
+{
+  "id": "ca-problem-refineries",
+  "type": "problem",
+  "name": "Petroleumsraffinerier og måling ved gjerdet",
+  "rank": 7,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "AB 1647 (Muratsuchi, kapittel 589, 2017) krever samfunnsmåling nær raffinerier og at eieren driver et fence-line-system. Data skal gjøres offentlige så raskt som mulig. Eieren betaler, med et unntak når distriktet også bruker stasjonen til andre kilder.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "South Coast AQMD målte i 2015 VOC, NOx og SO2 ved seks raffinerier i bassenget. Rapporten sier at de hadde en samlet rapportert kapasitet på over 900 000 fat per dag, med henvisning til California Energy Commission 2016. Raffineriene er kalt A til F i sammendraget.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
+          "title": "Emission Measurements from the Refineries in the South Coast Air Basin, 2015 campaign",
+          "publisher": "South Coast AQMD",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260223115343/https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "EPA ECHO viser CHEVRON EL SEGUNDO REFINERY, registry 110002899908, med status Significant Violation, 12 kvartaler med noncompliance, samlede formelle bøter på 1 078 634 dollar, siste bot 24. november 2021 og siste inspeksjon 6. april 2026.",
+      "status": "confirmed",
+      "note": "Statusen er EPAs kategori, ikke en egen rettslig konklusjon i dette kortet.",
+      "sources": [
+        {
+          "url": "https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+          "title": "ECHO facility info, registry 110002899908",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Cal-Access viser lobbybetalinger i sesjonen 2025-2026 for Phillips 66 på 1 982 009,15 dollar, Marathon Petroleum Corporation and its subsidiaries på 1 321 231,64 dollar, PBF Holding Company på 593 436,59 dollar, Valero Services Inc på 508 895,85 dollar og PBF Energy Western Region LLC på 492 320,02 dollar.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Forsamlingen samtykket i senatets endringer av AB 1647 den 13. september 2017 med 57 mot 19. Senatet vedtok lovforslaget 11. september 2017 med 28 mot 11.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "FRS-punktet for Chevron El Segundo er 33,916216 nord og 118,41873 vest. Torrance Refining Company LLC, registry 110070241046, ligger på 33,854967 nord og 118,336907 vest. Phillips 66 Wilmington Plant, registry 110000476235, ligger på 33,76336 nord og 118,27645 vest. Benicia Valero Refinery, registry 110071102220, ligger på 38,074169 nord og 122,144559 vest.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+          "title": "FRS facility CHEVRON EL SEGUNDO REFINERY",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154154/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "title": "FRS facility TORRANCE REFINING COMPANY LLC",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+          "title": "FRS facility PHILLIPS 66 COMPANY WILMINGTON PLANT",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154209/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+          "title": "FRS facility BENICIA VALERO REFINERY",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154217/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "Problemet er skilt fra South Coast-ozon fordi loven og måleprogrammene gjelder anlegget og nabolaget, ikke bare den regionale designverdien. Befolkningen i bassenget er derfor ikke brukt på nytt som om den bare gjaldt raffineriene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www3.epa.gov/airquality/greenbook/rncl2.html",
+          "title": "PM-2.5 nonattainment areas, Green Book, data current as of September 30, 2026",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.41873,
+      33.916216
+    ],
+    "source_name": "US EPA FRS",
+    "source_record_id": "110002899908",
+    "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+    "retrieved": "2026-10-28",
+    "note": "Punktet er Latitude83/Longitude83 for CHEVRON EL SEGUNDO REFINERY, registry id 110002899908, 324 W El Segundo Blvd."
+  },
+  "map_features": [
+    {
+      "layer": "facility",
+      "name": "Chevron El Segundo Refinery",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41873,
+          33.916216
+        ],
+        "source_name": "US EPA FRS",
+        "source_record_id": "110002899908",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+        "retrieved": "2026-10-28",
+        "note": "Punktet er Latitude83/Longitude83 for CHEVRON EL SEGUNDO REFINERY, registry id 110002899908, 324 W El Segundo Blvd."
+      }
+    },
+    {
+      "layer": "facility",
+      "name": "Torrance Refining Company LLC",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33691,
+          33.85497
+        ],
+        "source_name": "US EPA FRS",
+        "source_record_id": "110070241046",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+        "retrieved": "2026-10-28",
+        "note": "Punktet er Latitude83/Longitude83 for TORRANCE REFINING COMPANY LLC, registry id 110070241046, 3700 W 190th St."
+      }
+    },
+    {
+      "layer": "facility",
+      "name": "Phillips 66 Wilmington Plant",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.27645,
+          33.76336
+        ],
+        "source_name": "US EPA FRS",
+        "source_record_id": "110000476235",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+        "retrieved": "2026-10-28",
+        "note": "Punktet er Latitude83/Longitude83 for PHILLIPS 66 COMPANY WILMINGTON PLANT, registry id 110000476235, 1660 W Anaheim Street."
+      }
+    },
+    {
+      "layer": "facility",
+      "name": "Benicia Valero Refinery",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14456,
+          38.07417
+        ],
+        "source_name": "US EPA FRS",
+        "source_record_id": "110071102220",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+        "retrieved": "2026-10-28",
+        "note": "Punktet er Latitude83/Longitude83 for BENICIA VALERO REFINERY, registry id 110071102220. Adressefeltet i samme treff er ikke en gateadresse."
+      }
+    }
+  ],
+  "links": [
+    {
+      "rel": "organization",
+      "target_id": "org-chevron",
+      "text": "El Segundo og ECHO-statusen."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-torrance-refining",
+      "text": "FRS-posten for Torrance."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-phillips66",
+      "text": "Wilmington-anlegget og lobbytallet."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-marathon",
+      "text": "Lobbytallet for Marathon Petroleum."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-pbf",
+      "text": "To PBF-filer i Cal-Access."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-valero",
+      "text": "Benicia og Valero Services."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-scaqmd",
+      "text": "2015-målingene og distriktets veiledning."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-1647",
+      "text": "Kravet om fence-line-måling."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-al-muratsuchi",
+      "text": "Muratsuchi står som forfatter på lovteksten."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-south-coast-air",
+      "text": "Regional ozon og PM2.5 i samme basseng."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "named_fluxes",
+      "searched": "2015-rapportens sammendrag bruker Refinery A til F og gir ikke navn på anleggene i teksten som er lest.",
+      "result": "not_found",
+      "urls": [
+        "https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "pbf_owns_torrance",
+      "searched": "Ingen primærkilde er hentet som sier at PBF eier FRS-posten TORRANCE REFINING COMPANY LLC.",
+      "result": "not_found",
+      "urls": [],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "refinery_operating_status",
+      "searched": "FRS viser at postene finnes. Driftsstatus i oktober 2026 er bare bekreftet for Chevron El Segundo via ECHO-inspeksjonen 6. april 2026, ikke for de andre anleggene.",
+      "result": "not_found",
+      "urls": [
+        "https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvilket selskap som i dag driver Wilmington-anlegget og Torrance-anlegget, og om noen av dem er lagt om til fornybart drivstoff.",
+    "Hvem som mottok lobbyfilenes kampanjebidrag. ContributorSearch er kjørt for Chevron, ikke for Phillips 66, Marathon, PBF eller Valero."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,759 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.55124,
+          34.30757
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-aliso-canyon",
+        "name": "SoCalGas Aliso Canyon",
+        "layer": "facility",
+        "card_type": "problem",
+        "rank": 8,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110001158238",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON, registry id 110001158238, 12801 Tampa Ave, Porter Ranch."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.77617,
+              36.70692
+            ],
+            [
+              -119.76859,
+              36.70679
+            ],
+            [
+              -119.76566,
+              36.70688
+            ],
+            [
+              -119.73675,
+              36.68058
+            ],
+            [
+              -119.73648,
+              36.69965
+            ],
+            [
+              -119.7184,
+              36.70033
+            ],
+            [
+              -119.66397,
+              36.70019
+            ],
+            [
+              -119.66388,
+              36.66348
+            ],
+            [
+              -119.71776,
+              36.66362
+            ],
+            [
+              -119.71826,
+              36.66355
+            ],
+            [
+              -119.71879,
+              36.66318
+            ],
+            [
+              -119.71943,
+              36.6636
+            ],
+            [
+              -119.73673,
+              36.66343
+            ],
+            [
+              -119.77278,
+              36.66336
+            ],
+            [
+              -119.7727,
+              36.70419
+            ],
+            [
+              -119.77284,
+              36.70469
+            ],
+            [
+              -119.77428,
+              36.70608
+            ],
+            [
+              -119.77599,
+              36.70632
+            ],
+            [
+              -119.77617,
+              36.70692
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-drinking-water",
+        "name": "Census tract 6019001500",
+        "layer": "problem",
+        "card_type": "problem",
+        "rank": 3,
+        "source_name": "OEHHA CalEnviroScreen 4.0",
+        "source_record_id": "6019001500",
+        "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Polygonet er census tract 6019001500 fra CalEnviroScreen 4.0. Det viser indikatoren for drikkevannsforurensning, ikke et navngitt vannverk på Failing-listen."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.87861,
+              35.3254
+            ],
+            [
+              -118.87849,
+              35.26716
+            ],
+            [
+              -118.87814,
+              35.20888
+            ],
+            [
+              -119.00316,
+              35.20856
+            ],
+            [
+              -119.00312,
+              35.23773
+            ],
+            [
+              -118.98539,
+              35.23776
+            ],
+            [
+              -118.98539,
+              35.29592
+            ],
+            [
+              -118.91435,
+              35.29612
+            ],
+            [
+              -118.91431,
+              35.32526
+            ],
+            [
+              -118.87861,
+              35.3254
+            ]
+          ],
+          [
+            [
+              -118.93212,
+              35.28152
+            ],
+            [
+              -118.93222,
+              35.22325
+            ],
+            [
+              -118.89615,
+              35.22352
+            ],
+            [
+              -118.89662,
+              35.26707
+            ],
+            [
+              -118.90113,
+              35.26705
+            ],
+            [
+              -118.9007,
+              35.26766
+            ],
+            [
+              -118.90075,
+              35.26812
+            ],
+            [
+              -118.90166,
+              35.26915
+            ],
+            [
+              -118.90163,
+              35.26955
+            ],
+            [
+              -118.90125,
+              35.26995
+            ],
+            [
+              -118.90012,
+              35.27064
+            ],
+            [
+              -118.89924,
+              35.27104
+            ],
+            [
+              -118.89734,
+              35.27136
+            ],
+            [
+              -118.89693,
+              35.27161
+            ],
+            [
+              -118.89456,
+              35.27522
+            ],
+            [
+              -118.89437,
+              35.27589
+            ],
+            [
+              -118.89448,
+              35.2763
+            ],
+            [
+              -118.89518,
+              35.27707
+            ],
+            [
+              -118.89636,
+              35.27769
+            ],
+            [
+              -118.89695,
+              35.28026
+            ],
+            [
+              -118.89844,
+              35.28164
+            ],
+            [
+              -118.93212,
+              35.28152
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-groundwater-overdraft",
+        "name": "Census tract 6029006201",
+        "layer": "tract",
+        "card_type": "problem",
+        "rank": 10,
+        "source_name": "OEHHA CalEnviroScreen 4.0",
+        "source_record_id": "6029006201",
+        "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Polygonet er census tract 6029006201 i Kern County fra CalEnviroScreen 4.0. Det ligger i et fylke med et kritisk overtrukket delbasseng, men kortet påstår ikke at trakten er identisk med basseng 5-022.14."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.79079,
+              36.68871
+            ],
+            [
+              -119.81785,
+              36.68858
+            ],
+            [
+              -119.81794,
+              36.70677
+            ],
+            [
+              -119.79077,
+              36.70686
+            ],
+            [
+              -119.79079,
+              36.68871
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-pesticides",
+        "name": "Census tract 6019001000",
+        "layer": "problem",
+        "card_type": "problem",
+        "rank": 5,
+        "source_name": "OEHHA CalEnviroScreen 4.0",
+        "source_record_id": "6019001000",
+        "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Polygonet er census tract 6019001000 fra CalEnviroScreen 4.0. Trakten brukes som eksempel på høy pesticidindikator i Fresno County, ikke som kart over all bruk."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41873,
+          33.916216
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-refineries",
+        "name": "Chevron El Segundo Refinery",
+        "layer": "facility",
+        "card_type": "problem",
+        "rank": 7,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110002899908",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for CHEVRON EL SEGUNDO REFINERY, registry id 110002899908, 324 W El Segundo Blvd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33691,
+          33.85497
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-refineries",
+        "name": "Torrance Refining Company LLC",
+        "layer": "facility",
+        "card_type": "problem",
+        "rank": 7,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110070241046",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for TORRANCE REFINING COMPANY LLC, registry id 110070241046, 3700 W 190th St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.27645,
+          33.76336
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-refineries",
+        "name": "Phillips 66 Wilmington Plant",
+        "layer": "facility",
+        "card_type": "problem",
+        "rank": 7,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110000476235",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for PHILLIPS 66 COMPANY WILMINGTON PLANT, registry id 110000476235, 1660 W Anaheim Street."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14456,
+          38.07417
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-refineries",
+        "name": "Benicia Valero Refinery",
+        "layer": "facility",
+        "card_type": "problem",
+        "rank": 7,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110071102220",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for BENICIA VALERO REFINERY, registry id 110071102220. Adressefeltet i samme treff er ikke en gateadresse."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -115.49269,
+              32.68638
+            ],
+            [
+              -115.49253,
+              32.6792
+            ],
+            [
+              -115.49071,
+              32.67923
+            ],
+            [
+              -115.49073,
+              32.6656
+            ],
+            [
+              -115.4904,
+              32.66527
+            ],
+            [
+              -115.49674,
+              32.66485
+            ],
+            [
+              -115.49961,
+              32.6667
+            ],
+            [
+              -115.50005,
+              32.66738
+            ],
+            [
+              -115.50261,
+              32.67403
+            ],
+            [
+              -115.50789,
+              32.6864
+            ],
+            [
+              -115.49269,
+              32.68638
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-salton-sea",
+        "name": "Census tract 6025012100",
+        "layer": "problem",
+        "card_type": "problem",
+        "rank": 6,
+        "source_name": "OEHHA CalEnviroScreen 4.0",
+        "source_record_id": "6025012100",
+        "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Polygonet er census tract 6025012100 i Imperial County fra CalEnviroScreen 4.0. Det er ikke strandlinjen til Salton Sea."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.7838,
+              36.722
+            ],
+            [
+              -119.78322,
+              36.72146
+            ],
+            [
+              -119.78173,
+              36.72148
+            ],
+            [
+              -119.76566,
+              36.70688
+            ],
+            [
+              -119.76859,
+              36.70679
+            ],
+            [
+              -119.77617,
+              36.70692
+            ],
+            [
+              -119.77599,
+              36.70632
+            ],
+            [
+              -119.7748,
+              36.70624
+            ],
+            [
+              -119.77407,
+              36.70596
+            ],
+            [
+              -119.77307,
+              36.70504
+            ],
+            [
+              -119.7727,
+              36.70419
+            ],
+            [
+              -119.7727,
+              36.69964
+            ],
+            [
+              -119.78535,
+              36.69949
+            ],
+            [
+              -119.78654,
+              36.69966
+            ],
+            [
+              -119.79073,
+              36.69956
+            ],
+            [
+              -119.79073,
+              36.71909
+            ],
+            [
+              -119.79098,
+              36.71996
+            ],
+            [
+              -119.79163,
+              36.72079
+            ],
+            [
+              -119.79096,
+              36.72124
+            ],
+            [
+              -119.79028,
+              36.72144
+            ],
+            [
+              -119.78438,
+              36.72142
+            ],
+            [
+              -119.78444,
+              36.72154
+            ],
+            [
+              -119.7838,
+              36.722
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-san-joaquin-air",
+        "name": "Census tract 6019001100",
+        "layer": "problem",
+        "card_type": "problem",
+        "rank": 2,
+        "source_name": "OEHHA CalEnviroScreen 4.0",
+        "source_record_id": "6019001100",
+        "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Polygonet er census tract 6019001100 slik det er levert av OEHHA sitt CalEnviroScreen 4.0-tjenestelag. Det er traketen med høyest samlet score i uttrekket, ikke grensen for hele San Joaquin Valley."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.19228,
+              34.02032
+            ],
+            [
+              -118.19223,
+              34.01508
+            ],
+            [
+              -118.19145,
+              34.01509
+            ],
+            [
+              -118.19143,
+              34.01286
+            ],
+            [
+              -118.20283,
+              34.01397
+            ],
+            [
+              -118.20284,
+              34.01974
+            ],
+            [
+              -118.20058,
+              34.02338
+            ],
+            [
+              -118.19515,
+              34.02103
+            ],
+            [
+              -118.19372,
+              34.02058
+            ],
+            [
+              -118.19228,
+              34.02032
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "card_id": "ca-problem-south-coast-air",
+        "name": "Census tract 6037204920",
+        "layer": "problem",
+        "card_type": "problem",
+        "rank": 1,
+        "source_name": "OEHHA CalEnviroScreen 4.0",
+        "source_record_id": "6037204920",
+        "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Polygonet er census tract 6037204920 i Los Angeles County fra CalEnviroScreen 4.0. Det er ett høyt belastet område i South Coast, ikke grensen for luftbassenget."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.41873,
+          33.916216
+        ]
+      },
+      "properties": {
+        "card_id": "org-chevron",
+        "name": "Chevron El Segundo Refinery",
+        "layer": "facility",
+        "card_type": "organization",
+        "rank": null,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110002899908",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for CHEVRON EL SEGUNDO REFINERY, registry id 110002899908, 324 W El Segundo Blvd."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.27645,
+          33.76336
+        ]
+      },
+      "properties": {
+        "card_id": "org-phillips66",
+        "name": "Phillips 66 Wilmington Plant",
+        "layer": "facility",
+        "card_type": "organization",
+        "rank": null,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110000476235",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for PHILLIPS 66 COMPANY WILMINGTON PLANT, registry id 110000476235, 1660 W Anaheim Street."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.55124,
+          34.30757
+        ]
+      },
+      "properties": {
+        "card_id": "org-sempra",
+        "name": "SoCalGas Aliso Canyon",
+        "layer": "facility",
+        "card_type": "organization",
+        "rank": null,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110001158238",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON, registry id 110001158238, 12801 Tampa Ave, Porter Ranch."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.33691,
+          33.85497
+        ]
+      },
+      "properties": {
+        "card_id": "org-torrance-refining",
+        "name": "Torrance Refining Company LLC",
+        "layer": "facility",
+        "card_type": "organization",
+        "rank": null,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110070241046",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for TORRANCE REFINING COMPANY LLC, registry id 110070241046, 3700 W 190th St."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.14456,
+          38.07417
+        ]
+      },
+      "properties": {
+        "card_id": "org-valero",
+        "name": "Benicia Valero Refinery",
+        "layer": "facility",
+        "card_type": "organization",
+        "rank": null,
+        "source_name": "US EPA FRS",
+        "source_record_id": "110071102220",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+        "source_retrieved": "2026-10-28",
+        "source_note": "Punktet er Latitude83/Longitude83 for BENICIA VALERO REFINERY, registry id 110071102220. Adressefeltet i samme treff er ikke en gateadresse."
+      }
+    }
+  ]
+}

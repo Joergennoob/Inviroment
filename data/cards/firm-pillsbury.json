@@ -1,0 +1,101 @@
+{
+  "id": "firm-pillsbury",
+  "type": "lobbying_firm",
+  "name": "Pillsbury Winthrop Shaw Pittman LLP",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "WSPAs Form 635 for andre kvartal 2025 fører Pillsbury Winthrop Shaw Pittman LLP, San Francisco, med fees 58 570,50 dollar, reimbursements 760,41 dollar og total this period 59 330,91 dollar. Kumulativt 97 727,91 dollar.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Firmaet er en av flere mottakere. Det er ikke vist at det arbeidet med et bestemt lovforslag.",
+      "status": "not_verified",
+      "note": "Vedlegg A ville vise sakene.",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Andre klienter er ikke hentet.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Skjemaet sier at summen av kolonne 4 skal føres på linje B. Enkeltfirmaene som er lest, er en del av den linjen, ikke hele linjen.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "organization",
+      "target_id": "org-wspa",
+      "text": "Betalingen i andre kvartal 2025."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "other_clients",
+      "searched": "Firmaregisteret er ikke slått opp.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Om samme firma også var engasjert av en offentlig klient i kvartalet."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

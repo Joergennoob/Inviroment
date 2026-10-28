@@ -1,0 +1,122 @@
+{
+  "id": "lawmaker-bill-monning",
+  "type": "lawmaker",
+  "name": "Bill Monning",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "SB 200, kapittel 120 av 2019, har Monning som forfatter i lovteksten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200, Chapter 120, Statutes of 2019",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Senatet samtykket 8. juli 2019 med 38 mot 1. Historikksiden navngir Monning i voteringsteksten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Han står også på ja-listen i senatets votering om AB 617 den 17. juli 2017.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Nåværende eller daværende distrikt er ikke slått opp. Han er med som forfatter på lovteksten, ikke som sittende senator i 2026.",
+      "status": "not_verified",
+      "note": "En historisk senatsside ville bekrefte distriktet.",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200, Chapter 120, Statutes of 2019",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Ingen personbiografi er hentet.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200, Chapter 120, Statutes of 2019",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-200",
+      "text": "Forfatter."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-drinking-water",
+      "text": "Drikkevannsfondet."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "district",
+      "searched": "Senatets nåværende medlemsliste er ikke brukt til å gjette et historisk distrikt.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/senators"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Distrikt i 2019 og om han fortsatt har et offentlig verv."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

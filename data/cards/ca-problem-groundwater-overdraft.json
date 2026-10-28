@@ -1,0 +1,463 @@
+{
+  "id": "ca-problem-groundwater-overdraft",
+  "type": "problem",
+  "name": "Kritisk overtrukket grunnvann",
+  "rank": 10,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "DWR skriver at SGMA pålegger etaten å peke ut basseng i critical overdraft, definert som at fortsatt bruk sannsynligvis gir betydelige negative miljø-, samfunns- eller økonomiske virkninger. Overdraft er når uttaket over tid er større enn tilførselen.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "title": "Critically Overdrafted Basins",
+          "publisher": "California Department of Water Resources",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "DWRs kart fra januar 2020, basert på Bulletin 118-grenser publisert 11. februar 2019, lister 21 basseng og delbasseng. Elleve av dem ligger i San Joaquin Valley, fra Eastern San Joaquin 5-022.01 til Kern County 5-022.14.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf",
+          "title": "California's Critically Overdrafted Groundwater Basins",
+          "publisher": "California Department of Water Resources",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250630230548/https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "DWR skriver at virkninger kan være saltvannsinntrenging, setninger, utarming av grunnvann og vedvarende senkning av grunnvannsnivået.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "title": "Critically Overdrafted Basins",
+          "publisher": "California Department of Water Resources",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Census tract 6029006201 i Kern County har drikkevannsindikator 1 022,63 og persentil 99,63, og pesticidindikator 4 226,06. Det er en illustrasjon i fylket, ikke bassengets grense.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=tract,CIscore,CIscoreP,ACS2019TotalPop,pm,drink,pest&returnGeometry=true&outSR=4326&f=geojson",
+          "title": "CalEnviroScreen 4.0 FeatureServer, utvalgte trakter",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154034/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=tract,CIscore,CIscoreP,ACS2019TotalPop,pm,drink,pest&returnGeometry=true&outSR=4326&f=geojson",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "De elleve San Joaquin Valley-numrene på kartet er 5-022.01, 5-022.04, 5-022.05, 5-022.06, 5-022.07, 5-022.08, 5-022.09, 5-022.11, 5-022.12, 5-022.13 og 5-022.14.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf",
+          "title": "California's Critically Overdrafted Groundwater Basins",
+          "publisher": "California Department of Water Resources",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250630230548/https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "Problemet rangeres sist av de ti fordi DWR dokumenterer en ressurs- og setningsrisiko, ikke et antall mennesker som drikker vann over en grenseverdi. Det tallet ligger på drikkevannskortet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "title": "Critically Overdrafted Basins",
+          "publisher": "California Department of Water Resources",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.87861,
+          35.3254
+        ],
+        [
+          -118.87849,
+          35.26716
+        ],
+        [
+          -118.87814,
+          35.20888
+        ],
+        [
+          -119.00316,
+          35.20856
+        ],
+        [
+          -119.00312,
+          35.23773
+        ],
+        [
+          -118.98539,
+          35.23776
+        ],
+        [
+          -118.98539,
+          35.29592
+        ],
+        [
+          -118.91435,
+          35.29612
+        ],
+        [
+          -118.91431,
+          35.32526
+        ],
+        [
+          -118.87861,
+          35.3254
+        ]
+      ],
+      [
+        [
+          -118.93212,
+          35.28152
+        ],
+        [
+          -118.93222,
+          35.22325
+        ],
+        [
+          -118.89615,
+          35.22352
+        ],
+        [
+          -118.89662,
+          35.26707
+        ],
+        [
+          -118.90113,
+          35.26705
+        ],
+        [
+          -118.9007,
+          35.26766
+        ],
+        [
+          -118.90075,
+          35.26812
+        ],
+        [
+          -118.90166,
+          35.26915
+        ],
+        [
+          -118.90163,
+          35.26955
+        ],
+        [
+          -118.90125,
+          35.26995
+        ],
+        [
+          -118.90012,
+          35.27064
+        ],
+        [
+          -118.89924,
+          35.27104
+        ],
+        [
+          -118.89734,
+          35.27136
+        ],
+        [
+          -118.89693,
+          35.27161
+        ],
+        [
+          -118.89456,
+          35.27522
+        ],
+        [
+          -118.89437,
+          35.27589
+        ],
+        [
+          -118.89448,
+          35.2763
+        ],
+        [
+          -118.89518,
+          35.27707
+        ],
+        [
+          -118.89636,
+          35.27769
+        ],
+        [
+          -118.89695,
+          35.28026
+        ],
+        [
+          -118.89844,
+          35.28164
+        ],
+        [
+          -118.93212,
+          35.28152
+        ]
+      ]
+    ],
+    "source_name": "OEHHA CalEnviroScreen 4.0",
+    "source_record_id": "6029006201",
+    "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+    "retrieved": "2026-10-28",
+    "note": "Polygonet er census tract 6029006201 i Kern County fra CalEnviroScreen 4.0. Det ligger i et fylke med et kritisk overtrukket delbasseng, men kortet påstår ikke at trakten er identisk med basseng 5-022.14."
+  },
+  "map_features": [
+    {
+      "layer": "tract",
+      "name": "Census tract 6029006201",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -118.87861,
+              35.3254
+            ],
+            [
+              -118.87849,
+              35.26716
+            ],
+            [
+              -118.87814,
+              35.20888
+            ],
+            [
+              -119.00316,
+              35.20856
+            ],
+            [
+              -119.00312,
+              35.23773
+            ],
+            [
+              -118.98539,
+              35.23776
+            ],
+            [
+              -118.98539,
+              35.29592
+            ],
+            [
+              -118.91435,
+              35.29612
+            ],
+            [
+              -118.91431,
+              35.32526
+            ],
+            [
+              -118.87861,
+              35.3254
+            ]
+          ],
+          [
+            [
+              -118.93212,
+              35.28152
+            ],
+            [
+              -118.93222,
+              35.22325
+            ],
+            [
+              -118.89615,
+              35.22352
+            ],
+            [
+              -118.89662,
+              35.26707
+            ],
+            [
+              -118.90113,
+              35.26705
+            ],
+            [
+              -118.9007,
+              35.26766
+            ],
+            [
+              -118.90075,
+              35.26812
+            ],
+            [
+              -118.90166,
+              35.26915
+            ],
+            [
+              -118.90163,
+              35.26955
+            ],
+            [
+              -118.90125,
+              35.26995
+            ],
+            [
+              -118.90012,
+              35.27064
+            ],
+            [
+              -118.89924,
+              35.27104
+            ],
+            [
+              -118.89734,
+              35.27136
+            ],
+            [
+              -118.89693,
+              35.27161
+            ],
+            [
+              -118.89456,
+              35.27522
+            ],
+            [
+              -118.89437,
+              35.27589
+            ],
+            [
+              -118.89448,
+              35.2763
+            ],
+            [
+              -118.89518,
+              35.27707
+            ],
+            [
+              -118.89636,
+              35.27769
+            ],
+            [
+              -118.89695,
+              35.28026
+            ],
+            [
+              -118.89844,
+              35.28164
+            ],
+            [
+              -118.93212,
+              35.28152
+            ]
+          ]
+        ],
+        "source_name": "OEHHA CalEnviroScreen 4.0",
+        "source_record_id": "6029006201",
+        "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+        "retrieved": "2026-10-28",
+        "note": "Polygonet er census tract 6029006201 i Kern County fra CalEnviroScreen 4.0. Det ligger i et fylke med et kritisk overtrukket delbasseng, men kortet påstår ikke at trakten er identisk med basseng 5-022.14."
+      }
+    }
+  ],
+  "links": [
+    {
+      "rel": "organization",
+      "target_id": "org-dwr",
+      "text": "DWR peker ut bassengene."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-swrcb",
+      "text": "Nitrat og failing-systemer er det andre kortet."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-drinking-water",
+      "text": "Failing-listen og nitraten."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Kern er også det største oljefylket i CalGEM-rapporten."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "sgma_bill_votes",
+      "searched": "Selve SGMA-lovene fra 2014 er ikke åpnet på leginfo. DWR-siden er brukt for definisjonen.",
+      "result": "not_found",
+      "urls": [
+        "https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "basin_polygon",
+      "searched": "Bulletin 118-polygonet er ikke lastet inn. Trakten er ikke bassenget.",
+      "result": "not_found",
+      "urls": [
+        "https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "lobbying",
+      "searched": "Ingen lobbyemployer er søkt spesifikt på SGMA eller grunnvannsbasseng.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvilke GSPer som er vurdert som utilstrekkelige, og hvilke vannverk som har mistet brønner på grunn av nivåsenkning.",
+    "Avstemningene og kapittelnumrene for AB 1739, SB 1168 og SB 1319."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

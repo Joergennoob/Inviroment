@@ -1,0 +1,63 @@
+# Olje og gass nær sensitive reseptorer
+
+Type: Miljøproblem. Id: `ca-problem-oil-gas-proximity`. Oppdatert: 2026-10-28.
+
+Rangering i California-oversikten: 4.
+
+## Sammendrag
+
+- [bekreftet] SB 1137, kapittel 365 av 2022, definerer en health protection zone som området innenfor 3 200 fot fra en sensitive receptor, og lovens funn sier at nærhet til utvinning gir helserisiko, særlig fra luftforurensning, og at belastningen uforholdsmessig treffer Black, indigenous and people of color.
+  - [SB 1137, Chapter 365, Statutes of 2022](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Lovteksten sier at studier har vist skade ved avstander under om lag én kilometer, omtrent 3 200 fot. Den inneholder ikke et folketall.
+  - [SB 1137, Chapter 365, Statutes of 2022](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] CalGEM rapporterer at Kern County produserte 89 661 583 fat olje og kondensat i 2023, og Los Angeles County 8 674 995 fat. Chevron U.S.A. Inc. betalte 20 764 561,84 dollar i vurderinger det året, Aera Energy LLC 17 168 596,04 dollar. Betalingene er assessment payments i årsrapporten, ikke fat og ikke lobbyutgifter.
+  - [Annual Report of the State Oil and Gas Supervisor 2023](https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] CalGEM skriver at loven ble stanset da et referendum kvalifiserte seg i februar 2023, og at den fikk virkning igjen da forslagsstillerne trakk forslaget i juni 2024. Etatssiden sier at loven var fullt iverksatt 28. juni 2024.
+  - [SB 1137 Initial Statement of Reasons](https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [Understanding California's Oil and Gas Safety Zones: Senate Bill 1137](https://www.conservation.ca.gov/calgem/Pages/SB1137.aspx) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261019013702/https://www.conservation.ca.gov/calgem/Pages/SB1137.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Funn
+
+- [bekreftet] Senatet samtykket i forsamlingens endringer 31. august 2022 med 25 mot 10. Forsamlingen vedtok lovforslaget 30. august 2022 med 46 mot 24. Guvernøren godkjente det 16. september 2022.
+  - [SB 1137 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920055011/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [SB 1137 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Forfattere på statussiden er Gonzalez og Limón i senatet.
+  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError.
+
+- [bekreftet] I Cal-Access, sesjon 2025-2026 og oppdatert 28. oktober 2026 kl. 08:15:07, er de største lobbybetalingene i kategorien oil and gas Chevron U.S.A., Inc. and Affiliates med 19 279 518,27 dollar (filer 1146815) og Western States Petroleum Association med 19 031 326,51 dollar (filer 1147195).
+  - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [ikke funnet] Et søk på navnet AERA i samme lobbyregister og sesjon ga ingen treff. Søket var filernavn som inneholder AERA, alle kvartaler, sesjon 2025-2026.
+  - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Problemet står som nummer fire fordi loven selv oppretter en helsesone og produksjonen er stor og geografisk konsentrert, mens et primært folketall inne i sonen ikke er hentet. Derfor rangeres det bak de tre problemene der en etat har telt mennesker under en brutt standard.
+  - [SB 1137, Chapter 365, Statutes of 2022](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [PM-2.5 nonattainment areas, Green Book, data current as of September 30, 2026](https://www3.epa.gov/airquality/greenbook/rncl2.html) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [2025 Drinking Water Needs Assessment](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Lenker til andre kort
+
+- Loven om health protection zones. (`bill-sb-1137`)
+- Gonzalez er hovedforfatter. (`lawmaker-lena-gonzalez`)
+- CalGEM fører brønner og vurderinger. (`org-calgem`)
+- Største vurderingsbetaling i 2023 og størst lobbybetaling i olje og gass. (`org-chevron`)
+- Selskapet beskriver seg som operatør i San Joaquin og Los Angeles. (`org-crc`)
+- Bransjeforeningen med nesten like stor lobbybetaling som Chevron. (`org-wspa`)
+- California Independent Petroleum Association. (`org-cipa`)
+- Berry Corporation i samme lobbykategori. (`org-berry`)
+- Firmaet fikk betalt av WSPA i andre kvartal 2025. (`firm-carpenter-garcia-sievers`)
+
+## Sjekket uten funn
+
+- geometry: Ingen CalGEM-brønn med API-nummer og koordinat er hentet. Et folketall innenfor 3 200 fot finnes i et faktaark fra et senator-kontor og i en analyse som ikke er en etatsstatistikk. De er ikke brukt som bekreftet tall. Resultat: ikke funnet. URL: https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx. Dato: 2026-10-28.
+- population_inside_zone: Lovteksten og CalGEM-årsrapporten er lest. De oppgir ikke hvor mange mennesker som bor innenfor 3 200 fot. Resultat: ikke funnet. URL: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Dato: 2026-10-28.
+
+## Åpne spørsmål
+
+- Hvor mange aktive og idle brønner CalGEM selv teller innenfor health protection zones, og hvor mange mennesker som bor der, etter etatens egen metode.
+- Om Aera fortsatt finnes som eget selskap etter fusjonsavtalen CRC beskrev i 10-K for 2023, og hvilket filernavn som i så fall brukes i Cal-Access.
+- Hvem som mottok kampanjebidragene som står på Chevron- og CRC-navnestrengene.

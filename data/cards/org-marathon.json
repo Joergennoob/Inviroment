@@ -1,0 +1,99 @@
+{
+  "id": "org-marathon",
+  "type": "organization",
+  "org_kind": "company",
+  "name": "Marathon Petroleum Corporation and its subsidiaries",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Cal-Access-filer 1244770 har 1 321 231,64 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Et navnesøk på MARATHON ga også Marathon Asset Management LP i finans, med 0 dollar. Den raden er ikke raffineriselskapet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Ingen FRS-post med navnet Marathon Los Angeles ga treff i søket som ble kjørt. Derfor er ikke et anleggspunkt lagt på dette kortet.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=MARATHON%20LOS%20ANGELES&state_abbr=CA&output=JSON",
+          "title": "FRS-søk MARATHON LOS ANGELES",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Filer-id 1244770 og interessekode OIL AND GAS kommer fra LobbyIntSearch.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-refineries",
+      "text": "Lobbytall, uten bekreftet anleggspunkt."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "geometry",
+      "searched": "FRS-søk på MARATHON LOS ANGELES ga null treff.",
+      "result": "not_found",
+      "urls": [],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvilket raffinerinavn Marathon bruker i FRS eller ECHO i Los Angeles i 2026."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

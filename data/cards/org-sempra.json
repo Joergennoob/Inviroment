@@ -1,0 +1,145 @@
+{
+  "id": "org-sempra",
+  "type": "organization",
+  "org_kind": "utility",
+  "name": "Sempra, SDG&E og Southern California Gas",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Cal-Access-filer 1146926 dekker Sempra og tilknyttede selskaper, inkludert San Diego Gas & Electric og Southern California Gas Company, med 3 347 511,14 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "CARB skriver at Aliso Canyon-lekkasjen var ved Southern California Gas Company sitt lager.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
+          "publisher": "California Air Resources Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "FRS-post 110001158238 er SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON i Porter Ranch.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "title": "FRS facility SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Lobbybeløpet gjelder den samlede fileren. Det er ikke delt mellom SDG&E, SoCalGas og Aliso.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Koordinatene 34,307569 og -118,551235 er Latitude83 og Longitude83 i FRS-svaret.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "title": "FRS facility SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": {
+    "type": "Point",
+    "coordinates": [
+      -118.55124,
+      34.30757
+    ],
+    "source_name": "US EPA FRS",
+    "source_record_id": "110001158238",
+    "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+    "retrieved": "2026-10-28",
+    "note": "Punktet er Latitude83/Longitude83 for SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON, registry id 110001158238, 12801 Tampa Ave, Porter Ranch."
+  },
+  "map_features": [
+    {
+      "layer": "facility",
+      "name": "SoCalGas Aliso Canyon",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.55124,
+          34.30757
+        ],
+        "source_name": "US EPA FRS",
+        "source_record_id": "110001158238",
+        "source_url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+        "retrieved": "2026-10-28",
+        "note": "Punktet er Latitude83/Longitude83 for SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON, registry id 110001158238, 12801 Tampa Ave, Porter Ranch."
+      }
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-aliso-canyon",
+      "text": "Gasslageret og metanlekkasjen."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "campaign_contributions",
+      "searched": "ContributorSearch er ikke kjørt for SEMPRA.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/ContributorSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvor stor del av lobbybeløpet som gjelder gasslager, og hvilken CPUC-sak fileren oppga."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

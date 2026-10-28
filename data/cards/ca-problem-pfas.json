@@ -1,0 +1,154 @@
+{
+  "id": "ca-problem-pfas",
+  "type": "problem",
+  "name": "PFAS i drikkevannskilder",
+  "rank": 9,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "State Water Board skriver at de tester om lag 3 600 drikkevannsbrønner i disadvantaged communities, uten kostnad for vannverkene, fra 2024 til 2026, etter bevilgning i AB 178 i 2022.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/pfas/drinking_water.html",
+          "title": "PFAS Drinking Water",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261016194002/https://www.waterboards.ca.gov/pfas/drinking_water.html",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Kvalitetsplanen for General Order DW-2024-0002-DDW, september 2024, sier at styret skal ta prøver av om lag 3 800 brønner som forsyner disadvantaged og severely disadvantaged communities.",
+      "status": "confirmed",
+      "note": "3 600 og 3 800 står i to dokumenter fra samme etat. De er ikke rettet mot hverandre her.",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf",
+          "title": "PFAS QAPP, General Order DW-2024-0002-DDW, September 2024",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260515195808/https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Et foreløpig lysbilde datert mars 2025 sier at 1 730 brønner og 337 vannsystemer var prøvetatt per 28. februar 2025. For 1 307 brønner med Method 533, prøver til og med 18. desember 2024, var det 76 PFOA-funn over CCRDL, høyeste 50 ng/L, og 84 PFOS-funn, høyeste 350 ng/L.",
+      "status": "confirmed",
+      "note": "Lysbildene er merket preliminary.",
+      "sources": [
+        {
+          "url": "https://biomonitoring.ca.gov/sites/default/files/downloads/Linck_032525.pdf",
+          "title": "PFAS DAC Community Water System Sampling Project, March 2025",
+          "publisher": "California Water Boards / CDPH Biomonitoring",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250603230919/https://biomonitoring.ca.gov/sites/default/files/downloads/Linck_032525.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Problemet står lavt i rangeringen fordi kartleggingen ikke er ferdig og fordi det ikke finnes et etatstall i de leste dokumentene for hvor mange mennesker som får levert vann over en grenseverdi.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/pfas/drinking_water.html",
+          "title": "PFAS Drinking Water",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261016194002/https://www.waterboards.ca.gov/pfas/drinking_water.html",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://biomonitoring.ca.gov/sites/default/files/downloads/Linck_032525.pdf",
+          "title": "PFAS DAC Community Water System Sampling Project, March 2025",
+          "publisher": "California Water Boards / CDPH Biomonitoring",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250603230919/https://biomonitoring.ca.gov/sites/default/files/downloads/Linck_032525.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Kvalitetsplanen sier at prøvene skal brukes både til å se geografiske mønstre og til å vurdere renseanlegg, som grunnlag for behandlingsbaserte regler.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf",
+          "title": "PFAS QAPP, General Order DW-2024-0002-DDW, September 2024",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260515195808/https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "organization",
+      "target_id": "org-swrcb",
+      "text": "Division of Drinking Water gir pålegget og publiserer siden."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "geometry",
+      "searched": "Ingen brønn med koordinat og PFAS-resultat er lastet ned fra GAMA eller SDWIS.",
+      "result": "not_found",
+      "urls": [
+        "https://www.waterboards.ca.gov/pfas/drinking_water.html"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "lobbying",
+      "searched": "LobbyIntSearch er ikke kjørt med søkeord PFAS eller for en navngitt PFAS-produsent utover Corteva, som står på pesticidkortet.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "campaign_contributions",
+      "searched": "ContributorSearch er ikke kjørt for en PFAS-produsent.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/ContributorSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "votes",
+      "searched": "AB 178 er nevnt på etatssiden som bevilgning. Avstemningstallen er ikke hentet fra leginfo.",
+      "result": "not_found",
+      "urls": [
+        "https://www.waterboards.ca.gov/pfas/drinking_water.html"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvorfor etatssiden sier om lag 3 600 brønner og kvalitetsplanen om lag 3 800.",
+    "Hvor mange vannverk som har overskredet en føderal eller californisk grenseverdi etter at prøvene er ferdige.",
+    "Hvilke anlegg, flyplasser eller brannøvingsfelt som er kilden der det er høye funn. Lysbildene som er lest, gir ikke anleggsnavn."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}
