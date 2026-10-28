@@ -1,0 +1,537 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-steve-padilla",
+  "type": "lawmaker",
+  "name": "Steve Padilla",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Steve Padilla er demokrat. Han er senator for et område der hele Imperial fylke ligger, rundt Salton Sea. Håndboken sier at han har sittet siden desember 2022.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Han stemte ja til å varsle skoler når det sprøytes i nærheten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "title": "Stemmeliste ab1864",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260117220802/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Han stemte ja til å la lokalsamfunn si mer om oljeboring.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB3233",
+          "title": "Stemmeliste ab3233",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250918105303/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB3233",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Han stemte ja til loven om lager av drivstoff ved raffineriene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "title": "Stemmeliste abx2",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260308020621/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-salton-sea",
+      "text": "Distriktet dekker Imperial."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-pesticides",
+      "text": "Ja til varsling."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.2225,
+          32.6195
+        ],
+        [
+          -117.1929,
+          32.6186
+        ],
+        [
+          -117.1931,
+          32.586
+        ],
+        [
+          -117.1218,
+          32.589
+        ],
+        [
+          -117.1333,
+          32.676
+        ],
+        [
+          -117.1732,
+          32.7017
+        ],
+        [
+          -117.1164,
+          32.7408
+        ],
+        [
+          -117.0654,
+          32.6624
+        ],
+        [
+          -117.0001,
+          32.6789
+        ],
+        [
+          -116.8838,
+          32.7823
+        ],
+        [
+          -116.8088,
+          32.7428
+        ],
+        [
+          -116.7338,
+          32.7437
+        ],
+        [
+          -116.7551,
+          32.7537
+        ],
+        [
+          -116.7152,
+          32.7786
+        ],
+        [
+          -116.6683,
+          32.7491
+        ],
+        [
+          -116.6824,
+          32.7281
+        ],
+        [
+          -116.547,
+          32.7778
+        ],
+        [
+          -116.5277,
+          32.744
+        ],
+        [
+          -116.4837,
+          32.7606
+        ],
+        [
+          -116.4554,
+          32.7334
+        ],
+        [
+          -116.4074,
+          32.8142
+        ],
+        [
+          -116.3917,
+          32.7913
+        ],
+        [
+          -116.383,
+          32.815
+        ],
+        [
+          -116.3123,
+          32.8016
+        ],
+        [
+          -116.309,
+          32.8294
+        ],
+        [
+          -116.104,
+          32.8034
+        ],
+        [
+          -116.0849,
+          33.4263
+        ],
+        [
+          -116.267,
+          33.4281
+        ],
+        [
+          -116.2848,
+          33.54
+        ],
+        [
+          -116.2157,
+          33.5403
+        ],
+        [
+          -116.2157,
+          33.5636
+        ],
+        [
+          -116.2503,
+          33.5633
+        ],
+        [
+          -116.2339,
+          33.671
+        ],
+        [
+          -116.2687,
+          33.6854
+        ],
+        [
+          -116.2652,
+          33.7443
+        ],
+        [
+          -116.3269,
+          33.8162
+        ],
+        [
+          -116.3018,
+          33.8756
+        ],
+        [
+          -116.2621,
+          33.893
+        ],
+        [
+          -116.2,
+          33.8614
+        ],
+        [
+          -116.2138,
+          33.8226
+        ],
+        [
+          -116.1542,
+          33.7149
+        ],
+        [
+          -116.0782,
+          33.7298
+        ],
+        [
+          -116.0782,
+          33.7007
+        ],
+        [
+          -115.8879,
+          33.6656
+        ],
+        [
+          -115.5793,
+          33.6743
+        ],
+        [
+          -115.4522,
+          33.7023
+        ],
+        [
+          -115.3966,
+          33.7726
+        ],
+        [
+          -115.3232,
+          33.7777
+        ],
+        [
+          -115.2559,
+          33.8383
+        ],
+        [
+          -115.2325,
+          34.0362
+        ],
+        [
+          -115.0923,
+          34.0798
+        ],
+        [
+          -115.1458,
+          34.1209
+        ],
+        [
+          -115.1058,
+          34.2427
+        ],
+        [
+          -115.166,
+          34.2766
+        ],
+        [
+          -115.1018,
+          34.2598
+        ],
+        [
+          -115.0667,
+          34.4115
+        ],
+        [
+          -115.0884,
+          34.418
+        ],
+        [
+          -115.0475,
+          34.4947
+        ],
+        [
+          -115.1599,
+          34.5443
+        ],
+        [
+          -115.1178,
+          34.6001
+        ],
+        [
+          -115.1803,
+          34.6692
+        ],
+        [
+          -115.0017,
+          34.6914
+        ],
+        [
+          -114.9893,
+          34.8372
+        ],
+        [
+          -114.9663,
+          34.8434
+        ],
+        [
+          -115.051,
+          34.83
+        ],
+        [
+          -115.0737,
+          34.9256
+        ],
+        [
+          -114.9844,
+          34.9187
+        ],
+        [
+          -114.9476,
+          35.2548
+        ],
+        [
+          -114.6335,
+          35.0019
+        ],
+        [
+          -114.6344,
+          34.8729
+        ],
+        [
+          -114.4705,
+          34.7114
+        ],
+        [
+          -114.4368,
+          34.5961
+        ],
+        [
+          -114.3808,
+          34.5297
+        ],
+        [
+          -114.3867,
+          34.4579
+        ],
+        [
+          -114.1769,
+          34.3493
+        ],
+        [
+          -114.1312,
+          34.2627
+        ],
+        [
+          -114.4342,
+          34.0874
+        ],
+        [
+          -114.4383,
+          34.0226
+        ],
+        [
+          -114.5357,
+          33.9336
+        ],
+        [
+          -114.5079,
+          33.9038
+        ],
+        [
+          -114.528,
+          33.815
+        ],
+        [
+          -114.4942,
+          33.7079
+        ],
+        [
+          -114.5315,
+          33.6751
+        ],
+        [
+          -114.5242,
+          33.5531
+        ],
+        [
+          -114.6433,
+          33.4167
+        ],
+        [
+          -114.7253,
+          33.405
+        ],
+        [
+          -114.698,
+          33.3524
+        ],
+        [
+          -114.7312,
+          33.3024
+        ],
+        [
+          -114.6721,
+          33.2585
+        ],
+        [
+          -114.7065,
+          33.0882
+        ],
+        [
+          -114.6651,
+          33.0339
+        ],
+        [
+          -114.5201,
+          33.03
+        ],
+        [
+          -114.4686,
+          32.9716
+        ],
+        [
+          -114.469,
+          32.8452
+        ],
+        [
+          -114.5296,
+          32.7955
+        ],
+        [
+          -114.5269,
+          32.7571
+        ],
+        [
+          -114.6174,
+          32.7283
+        ],
+        [
+          -114.7016,
+          32.7456
+        ],
+        [
+          -114.7195,
+          32.7187
+        ],
+        [
+          -117.2051,
+          32.5295
+        ],
+        [
+          -117.2225,
+          32.6195
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06018",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/5/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen SD 18 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Vi fant ikke en egen lov bare om Salton Sea med hans stemme."
+  ]
+}

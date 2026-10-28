@@ -1,5 +1,7 @@
 import Link from "next/link";
+import LobbyView from "@/components/LobbyView";
 import PlaceNote from "@/components/PlaceNote";
+import roster from "@/data/lobby/roster.json";
 import type { Card, Claim } from "@/lib/types";
 import { STATUS_LABEL } from "@/lib/types";
 import { plainTitle } from "@/lib/words";
@@ -82,6 +84,7 @@ export default function CardBody({ card, cardsById }: { card: Card; cardsById: M
           note={card.geometry.note}
         />
       ) : null}
+      {card.type === "problem" ? <LobbyView roster={roster} initialProblem={card.id} compact /> : null}
       {card.links.length > 0 ? (
         <>
           <h2>Les mer om</h2>

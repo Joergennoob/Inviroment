@@ -1,0 +1,387 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-heath-flora",
+  "type": "lawmaker",
+  "name": "Heath Flora",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Heath Flora er republikaner. Han sitter i forsamlingen for et område med deler av San Joaquin, Stanislaus og nabofylker. Håndboken sier at han har sittet siden desember 2016.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Han stemte nei til loven som gir lokalsamfunn mer å si om skitten luft.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "Stemmeliste ab617",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Han stemte nei til å måle luft ved gjerdet rundt raffinerier.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB1647",
+          "title": "Stemmeliste ab1647",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250919093406/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Før nei-stemmen om oljebrønner i 2022 ga Marathon, California Resources og Berry penger til valgkampen hans.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS LCCM_CD, uttrekk 28. oktober 2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Gaven er en rad i tabellen, koblet til giveren via regnskapsforsiden."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-san-joaquin-air",
+      "text": "Nei til lokalsamfunn og luft."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-refineries",
+      "text": "Nei til måling ved gjerdet."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-617",
+      "text": "Nei-stemmen om luft."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-1647",
+      "text": "Nei-stemmen om raffinerier."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.6856,
+          38.1597
+        ],
+        [
+          -121.6135,
+          38.1975
+        ],
+        [
+          -121.605,
+          38.2966
+        ],
+        [
+          -121.5216,
+          38.3601
+        ],
+        [
+          -121.5326,
+          38.4315
+        ],
+        [
+          -121.5011,
+          38.4591
+        ],
+        [
+          -121.4501,
+          38.372
+        ],
+        [
+          -121.3468,
+          38.3614
+        ],
+        [
+          -121.2565,
+          38.4723
+        ],
+        [
+          -121.2702,
+          38.4962
+        ],
+        [
+          -121.3723,
+          38.4962
+        ],
+        [
+          -121.371,
+          38.5388
+        ],
+        [
+          -121.2233,
+          38.5019
+        ],
+        [
+          -121.1706,
+          38.6059
+        ],
+        [
+          -121.0791,
+          38.6323
+        ],
+        [
+          -121.0275,
+          38.5083
+        ],
+        [
+          -120.9558,
+          38.5224
+        ],
+        [
+          -120.8897,
+          38.4581
+        ],
+        [
+          -120.9288,
+          38.3607
+        ],
+        [
+          -120.8985,
+          38.3337
+        ],
+        [
+          -120.9193,
+          38.259
+        ],
+        [
+          -120.8796,
+          38.254
+        ],
+        [
+          -120.8922,
+          38.1837
+        ],
+        [
+          -120.8431,
+          38.1838
+        ],
+        [
+          -120.8508,
+          38.1611
+        ],
+        [
+          -120.7743,
+          38.1125
+        ],
+        [
+          -120.7976,
+          38.1127
+        ],
+        [
+          -120.797,
+          38.0174
+        ],
+        [
+          -120.6906,
+          38.0246
+        ],
+        [
+          -120.6174,
+          37.985
+        ],
+        [
+          -120.6227,
+          37.9286
+        ],
+        [
+          -120.5884,
+          37.8981
+        ],
+        [
+          -120.6534,
+          37.832
+        ],
+        [
+          -120.3873,
+          37.6335
+        ],
+        [
+          -120.5991,
+          37.5511
+        ],
+        [
+          -120.7124,
+          37.5511
+        ],
+        [
+          -120.7436,
+          37.5947
+        ],
+        [
+          -120.8882,
+          37.5948
+        ],
+        [
+          -120.9216,
+          37.6925
+        ],
+        [
+          -121.0559,
+          37.7117
+        ],
+        [
+          -121.049,
+          37.6387
+        ],
+        [
+          -121.2694,
+          37.6416
+        ],
+        [
+          -121.3387,
+          37.5935
+        ],
+        [
+          -121.3438,
+          37.7425
+        ],
+        [
+          -121.38,
+          37.7398
+        ],
+        [
+          -121.4143,
+          37.8028
+        ],
+        [
+          -121.3177,
+          37.8125
+        ],
+        [
+          -121.327,
+          37.8972
+        ],
+        [
+          -121.2644,
+          37.8556
+        ],
+        [
+          -121.2662,
+          37.8809
+        ],
+        [
+          -121.2195,
+          37.8721
+        ],
+        [
+          -121.2225,
+          37.9043
+        ],
+        [
+          -121.1824,
+          37.9121
+        ],
+        [
+          -121.226,
+          37.9133
+        ],
+        [
+          -121.2213,
+          37.9438
+        ],
+        [
+          -121.2798,
+          37.9945
+        ],
+        [
+          -121.2594,
+          38.0576
+        ],
+        [
+          -121.489,
+          38.0384
+        ],
+        [
+          -121.5754,
+          38.0765
+        ],
+        [
+          -121.5755,
+          38.1295
+        ],
+        [
+          -121.6856,
+          38.1597
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06009",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/6/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen AD 9 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Vi fant ingen melding der han forklarer nei-stemmene."
+  ]
+}

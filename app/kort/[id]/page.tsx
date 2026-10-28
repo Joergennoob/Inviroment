@@ -22,6 +22,8 @@ export default async function CardPage({ params }: { params: Promise<{ id: strin
         <Link href="/oversikt/">De ti problemene</Link>
         {" · "}
         <Link href="/ord/">Ord og forklaringer</Link>
+        {" · "}
+        <Link href="/lobbyister/">Lobbyister</Link>
       </p>
       <p className="note">{TYPE_LABEL[card.type]}</p>
       <h1>{plainTitle(card)}</h1>

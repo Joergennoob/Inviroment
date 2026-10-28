@@ -1,0 +1,406 @@
+{
+  "schema_version": "1.0.0",
+  "retrieved": "2026-10-28",
+  "note": "En post her er et medie. Det bekrefter at siden finnes og hva siden selv sier. Det bekrefter ikke miljøpåstanden i filmen. Nyhetsredaksjoner og organisasjoner er avsender, ikke primærkilde for et faktum.",
+  "items": [
+    {
+      "id": "media-south-coast-carb-skies",
+      "kind": "video",
+      "title": "Clearing California Skies",
+      "maker": "California Air Resources Board",
+      "channel_url": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk2Ra8PRtXSU",
+      "date": "",
+      "url": "https://www.youtube.com/watch?v=k2Ra8PRtXSU",
+      "length": "",
+      "problems": [
+        "ca-problem-south-coast-air"
+      ],
+      "places": [
+        "Los Angeles",
+        "South Coast"
+      ],
+      "affiliation": "Laget av luftetatens egen kanal. Det er etatens historiefortelling, ikke en uavhengig dokumentar.",
+      "what_it_claims": "Filmen forteller om smog i Los Angeles fra 1943, om at disen viste seg å være ozon og svært små partikler fra forbrenning, og om at ett fylke ikke kunne rydde et helt luftbasseng alene. Den er et historisk tilbakeblikk, ikke en måling av 2012-standarden for PM2.5.",
+      "link_checked": "2026-10-28",
+      "check": "YouTube oEmbed svarte 200 og oppga tittelen og kanalen California Air Resources Board. Lengde og publiseringsdato ligger ikke i oEmbed.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dk2Ra8PRtXSU",
+          "title": "oEmbed Clearing California Skies",
+          "publisher": "YouTube",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "oEmbed er et JSON-svar og er ikke arkivert i dette steget."
+        }
+      ]
+    },
+    {
+      "id": "media-salton-kcet-2014",
+      "kind": "video",
+      "title": "Saving the Salton Sea",
+      "maker": "KCET SoCal Connected",
+      "channel_url": "https://www.youtube.com/@KCETSoCalConnected",
+      "date": "2014-12-10",
+      "url": "https://www.youtube.com/watch?v=BiVFSSuNQuc",
+      "length": "8:15",
+      "problems": [
+        "ca-problem-salton-sea"
+      ],
+      "places": [
+        "Salton Sea",
+        "Imperial Valley"
+      ],
+      "affiliation": "KCET er den offentlige TV-stasjonen i Los Angeles. Finansiering av denne episoden er ikke oppgitt i oEmbed-svaret.",
+      "what_it_claims": "Episoden sier at innsjøen var et turiststed på 1950-tallet, og at salt og giftstoffer senere drepte fisk og gjorde stedene tomme. Reporteren snakker med folk som bor der. Lengden 8 minutter og 15 sekunder og datoen 10. desember 2014 er tatt fra videolistingen som ble lest sammen med oEmbed-tittelen. oEmbed alene har ikke lengde.",
+      "link_checked": "2026-10-28",
+      "check": "oEmbed svarte 200 med tittel Saving the Salton Sea og forfatter KCETSoCalConnected.",
+      "status": "confirmed",
+      "length_status": "not_verified",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=BiVFSSuNQuc",
+          "title": "Saving the Salton Sea | SoCal Connected | KCET",
+          "publisher": "KCET SoCal Connected",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "oEmbed bekreftet tittel og kanal 2026-10-28. Lengde er ikke i oEmbed og er derfor merket ikke verifisert."
+        }
+      ]
+    },
+    {
+      "id": "media-salton-huell",
+      "kind": "video",
+      "title": "Salton Sea",
+      "maker": "PBS SoCal, Visiting with Huell Howser",
+      "channel_url": "https://www.youtube.com/@PBSSoCal",
+      "date": "",
+      "url": "https://www.youtube.com/watch?v=2yQqcYBeCmw",
+      "length": "",
+      "problems": [
+        "ca-problem-salton-sea"
+      ],
+      "places": [
+        "Bombay Beach",
+        "Salton Sea"
+      ],
+      "affiliation": "PBS SoCal. Programmet er en reiseskildring, ikke en helseundersøkelse.",
+      "what_it_claims": "Howser besøker Bombay Beach og snakker med folk som bor der om ro, post og stranden. Filmen sier ikke noe om støv fra blotlagt innsjøbunn.",
+      "link_checked": "2026-10-28",
+      "check": "oEmbed svarte 200 med tittel Salton Sea og forfatter PBS SoCal.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=2yQqcYBeCmw",
+          "title": "Salton Sea | Visiting with Huell Howser",
+          "publisher": "PBS SoCal",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "oEmbed bekreftet tittel og kanal. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "media-drinking-kvie-silent-death",
+      "kind": "video",
+      "title": "Silent Death – Toxic Water in the Valley",
+      "maker": "KVIE ViewFinder, vist på PBS",
+      "channel_url": "https://www.pbs.org/video/silent-death-toxic-water-in-the-valley-i9yolj/",
+      "date": "2020-07-13",
+      "url": "https://www.pbs.org/video/silent-death-toxic-water-in-the-valley-i9yolj/",
+      "length": "26:50",
+      "problems": [
+        "ca-problem-drinking-water",
+        "ca-problem-san-joaquin-air"
+      ],
+      "places": [
+        "San Joaquin Valley"
+      ],
+      "affiliation": "KVIE er den offentlige TV-stasjonen i Sacramento. PBS-siden oppgir ikke giverne for denne episoden.",
+      "what_it_claims": "PBS-siden sier at episoden, sesong 27 episode 1, er 26 minutter og 50 sekunder, datert 13. juli 2020, og at den handler om forurenset drikkevann for over 1 million innbyggere i San Joaquin Valley. Tallet er kanalens formulering, ikke et etatstall i dette katalogkortet.",
+      "link_checked": "2026-10-28",
+      "check": "PBS-siden svarte HTTP 200.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.pbs.org/video/silent-death-toxic-water-in-the-valley-i9yolj/",
+          "title": "ViewFinder Silent Death – Toxic Water in the Valley",
+          "publisher": "PBS",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Siden svarte 200 den 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "media-pfas-kqed-forum-2023",
+      "kind": "audio",
+      "title": "How Safe is California’s Tap Water?",
+      "maker": "KQED Forum, programleder Mina Kim",
+      "channel_url": "https://www.kqed.org/forum/2010101894219/how-safe-is-californias-tap-water",
+      "date": "2023-08-29",
+      "url": "https://www.kqed.org/forum/2010101894219/how-safe-is-californias-tap-water",
+      "length": "",
+      "problems": [
+        "ca-problem-pfas",
+        "ca-problem-drinking-water"
+      ],
+      "places": [
+        "California"
+      ],
+      "affiliation": "KQED er en offentlig radio- og TV-stasjon. Gjestelisten på siden blander etatsleder og organisasjoner. Det er et samtaleprogram, ikke en prøvetaking.",
+      "what_it_claims": "Siden sier at programmet 29. august 2023 tar opp PFAS i springvann, og lister gjester: Joaquin Esquivel, leder i State Water Resources Control Board, Susana De Anda fra Community Water Center, Gregory Pierce fra UCLA og Tasha Stoiber fra Environmental Working Group. Påstander gjestene kommer med, er deres egne.",
+      "link_checked": "2026-10-28",
+      "check": "Siden svarte HTTP 200.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.kqed.org/forum/2010101894219/how-safe-is-californias-tap-water",
+          "title": "How Safe is California’s Tap Water?",
+          "publisher": "KQED Forum",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Siden svarte 200 den 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "media-aliso-pbs-socal",
+      "kind": "video",
+      "title": "Special Report: Porter Ranch Gas Leak Aftermath",
+      "maker": "KCET / PBS SoCal, SoCal Connected, reporter Derrick Shore",
+      "channel_url": "https://www.pbssocal.org/shows/socal-connected/clip/special-report-porter-ranch-gas-leak-aftermath",
+      "date": "",
+      "url": "https://www.pbssocal.org/shows/socal-connected/clip/special-report-porter-ranch-gas-leak-aftermath",
+      "length": "30:00",
+      "problems": [
+        "ca-problem-aliso-canyon"
+      ],
+      "places": [
+        "Porter Ranch",
+        "Aliso Canyon"
+      ],
+      "affiliation": "PBS SoCal / KCET. Siden oppgir ikke en ekstern giver for denne halvtimen.",
+      "what_it_claims": "Siden sier at en brønn ved SoCalGas sitt lager i Aliso Canyon begynte å lekke 23. oktober 2015, at lekkasjen varte i tre måneder, og at beboere i Porter Ranch flyttet midlertidig. Den sier også at reporteren intervjuer beboere, SoCalGas, miljøvernere og politikere. Halvtimen er sidens egen beskrivelse. Helsetall i programmet er ikke ført som fakta her.",
+      "link_checked": "2026-10-28",
+      "check": "Siden svarte HTTP 200.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.pbssocal.org/shows/socal-connected/clip/special-report-porter-ranch-gas-leak-aftermath",
+          "title": "Special Report: Porter Ranch Gas Leak Aftermath",
+          "publisher": "PBS SoCal",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Siden svarte 200 den 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "media-refinery-baaqmd-2026",
+      "kind": "hearing",
+      "title": "Meeting #4 - Refinery Technical Working Group February 11, 2026",
+      "maker": "Bay Area Air District",
+      "channel_url": "https://www.youtube.com/@BayAreaAirDistrict",
+      "date": "2026-02-11",
+      "url": "https://www.youtube.com/watch?v=UctaJN9SK1M",
+      "length": "1:59:30",
+      "problems": [
+        "ca-problem-refineries"
+      ],
+      "places": [
+        "Richmond",
+        "Martinez",
+        "Bay Area"
+      ],
+      "affiliation": "Luftmyndigheten i Bay Area la ut møtet. Deltakerlisten i transkripsjonen som følger med videosiden, nevner ansatte ved Chevron, Marathon og Phillips 66, fagforening og lokallag. Det er et arbeidsgruppemøte, ikke en nyhetssak.",
+      "what_it_claims": "Tittelen sier at møtet er 11. februar 2026. Transkripsjonen på videosiden sier at gruppen drøfter endringer i fakkelreglene 12-11 og 12-12, og at en deltaker bor en halv engelsk mil fra Chevron-raffineriet i Richmond. Lengden 1 time 59 minutter er oppgitt i videolistingen og er ikke i oEmbed. Møtet gjelder Bay Area, ikke gjerdemålingen ved raffineriene i Los Angeles-bassenget.",
+      "link_checked": "2026-10-28",
+      "check": "oEmbed svarte 200 med tittelen og kanalen Bay Area Air District.",
+      "status": "confirmed",
+      "length_status": "not_verified",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=UctaJN9SK1M",
+          "title": "Meeting #4 - Refinery Technical Working Group February 11, 2026",
+          "publisher": "Bay Area Air District",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "oEmbed bekreftet tittel og kanal. Lengde er ikke i oEmbed."
+        }
+      ]
+    },
+    {
+      "id": "media-groundwater-ucr-water",
+      "kind": "video",
+      "title": "Water Partnerships between Cities and Farms in SoCal and the San Joaquin Valley",
+      "maker": "UCR School of Public Policy",
+      "channel_url": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DeVBbLirOxHo",
+      "date": "",
+      "url": "https://www.youtube.com/watch?v=eVBbLirOxHo",
+      "length": "",
+      "problems": [
+        "ca-problem-groundwater-overdraft",
+        "ca-problem-drinking-water"
+      ],
+      "places": [
+        "San Joaquin Valley",
+        "Sør-California"
+      ],
+      "affiliation": "University of California, Riverside, School of Public Policy. Et universitetsseminar, ikke et vedtak fra Department of Water Resources.",
+      "what_it_claims": "Tittelen sier at foredraget handler om vannsamarbeid mellom byer og gårder. Det er ikke en gjennomgang av DWRs liste over kritisk overtrukne basseng, og det er ikke brukt som kilde for den listen.",
+      "link_checked": "2026-10-28",
+      "check": "oEmbed svarte 200 med tittelen og kanalen UCR School of Public Policy.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=eVBbLirOxHo",
+          "title": "Water Partnerships between Cities and Farms in SoCal and the San Joaquin Valley",
+          "publisher": "UCR School of Public Policy",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "oEmbed bekreftet tittel og kanal. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "media-oil-la-earth-focus",
+      "kind": "video",
+      "title": "The Fight to End Oil Drilling in Los Angeles",
+      "maker": "PBS SoCal, Earth Focus, sesong 7 episode 3",
+      "date": "",
+      "url": "https://www.youtube.com/watch?v=XWBcCI4J9fI",
+      "length": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity"
+      ],
+      "places": [
+        "Los Angeles",
+        "South LA"
+      ],
+      "affiliation": "PBS SoCal. Kanalen er bekreftet med oEmbed. Hvem som betalte episoden, står ikke i det svaret.",
+      "what_it_claims": "Filmen handler om oljebrønner inne i Los Angeles, blant annet i sør. Den sier at nesten en halv million innbyggere bor innenfor en halv engelsk mil fra en brønn, og lar naboer fortelle om lukt, støy og oljesøl. Det er filmens påstand, ikke et nytt etatstall.",
+      "link_checked": "2026-10-28",
+      "check": "YouTube oEmbed svarte 200. Tittel og kanal PBS SoCal.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/oembed?format=json&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DXWBcCI4J9fI",
+          "title": "oEmbed The Fight to End Oil Drilling in Los Angeles",
+          "publisher": "YouTube",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "oEmbed bekreftet tittel og kanal. Lengde ligger ikke i svaret."
+        }
+      ]
+    },
+    {
+      "id": "media-salton-breaking-point",
+      "kind": "video",
+      "title": "Breaking Point",
+      "maker": "Palomar Films",
+      "date": "",
+      "url": "https://www.youtube.com/watch?v=LpTLW1ivx-Q",
+      "length": "",
+      "problems": [
+        "ca-problem-salton-sea"
+      ],
+      "places": [
+        "Salton Sea",
+        "Imperial Valley"
+      ],
+      "affiliation": "Palomar Films, bekreftet som kanal via oEmbed. En pris som omtales på en distributørs side, er ikke brukt som faktum her.",
+      "what_it_claims": "Filmen følger Salton Sea når vannet trekker seg tilbake. Fortellingen på videosiden beskriver død fisk og støv fra bunnen som blir liggende bar. Det er filmens historie, ikke et måleresultat.",
+      "link_checked": "2026-10-28",
+      "check": "YouTube oEmbed svarte 200. Tittel Breaking Point, kanal Palomar Films.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.youtube.com/watch?v=LpTLW1ivx-Q",
+          "title": "Breaking Point",
+          "publisher": "Palomar Films",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "oEmbed bekreftet tittel og kanal 2026-10-28."
+        }
+      ]
+    },
+    {
+      "id": "media-subsidence-pbs-newshour",
+      "kind": "video",
+      "title": "As drought-desperate California sinks, risk of flood rises",
+      "maker": "PBS NewsHour, med innslag fra Reveal og KQED",
+      "date": "",
+      "url": "https://www.pbssocal.org/shows/newshour/clip/as-drought-desperate-california-sinks-risk-of-flood-rises-1451518771",
+      "length": "",
+      "problems": [
+        "ca-problem-groundwater-overdraft"
+      ],
+      "places": [
+        "Central Valley"
+      ],
+      "affiliation": "PBS NewsHour. Siden sier at Nathan Halverson i Reveal rapporterer sammen med KQED.",
+      "what_it_claims": "Siden sier at bakken i California synker fordi bønder pumper opp grunnvann i tørke, og at det i Central Valley kan gjøre flom farligere. Det er reportasjens påstand.",
+      "link_checked": "2026-10-28",
+      "check": "Siden svarte HTTP 200.",
+      "status": "confirmed",
+      "sources": [
+        {
+          "url": "https://www.pbssocal.org/shows/newshour/clip/as-drought-desperate-california-sinks-risk-of-flood-rises-1451518771",
+          "title": "As drought-desperate California sinks, risk of flood rises",
+          "publisher": "PBS SoCal / PBS NewsHour",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Siden svarte 200 den 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "video_san_joaquin_air",
+      "searched": "Søk etter en dokumentar som navngir San Joaquin Valley og PM2.5 eller ozon, på YouTube og PBS. Treffene som ble åpnet, handlet om historisk smog i Los Angeles eller om vann, ikke om dalens PM2.5-brudd.",
+      "result": "not_found",
+      "urls": [
+        "https://www.youtube.com/results?search_query=San+Joaquin+Valley+air+pollution+documentary"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "video_pesticides",
+      "searched": "Søk etter film om sprøyting nær skoler i Fresno, Kern eller Tulare. Ingen enkeltfilm er åpnet og bekreftet med oEmbed i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.youtube.com/results?search_query=California+pesticide+drift+Central+Valley+documentary"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "video_oil_near_homes",
+      "searched": "Søk etter en beboerfilm eller dokumentar om oljebrønner innenfor 3 200 fot. Ingen URL er bekreftet med oEmbed i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.youtube.com/results?search_query=California+neighborhood+oil+drilling+documentary"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "video_south_coast_pm25_2012",
+      "searched": "CARB-filmen over er historisk smog. Et eget klipp som viser 2012-standarden for PM2.5 og designverdien 13,2 er ikke funnet.",
+      "result": "not_found",
+      "urls": [
+        "https://www.youtube.com/watch?v=k2Ra8PRtXSU"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "video_arvin_kern",
+      "searched": "Søk etter en beboerfilm fra Arvin eller Kern om oljebrønner ved hus. Treffet som ble åpnet og bekreftet, er en PBS-film om olje i Los Angeles, ikke i Kern.",
+      "result": "not_found",
+      "urls": [
+        "https://www.youtube.com/watch?v=XWBcCI4J9fI"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ]
+}

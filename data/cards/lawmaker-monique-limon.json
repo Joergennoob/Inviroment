@@ -1,0 +1,518 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-monique-limon",
+  "type": "lawmaker",
+  "name": "Monique Limón",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Monique Limón er demokrat. Hun er senator for et område med San Luis Obispo, Santa Barbara og Ventura. Håndboken fører henne som senator for distrikt 21.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Hun stemte ja til loven om avstand mellom oljebrønner og hus.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "Stemmeliste sb1137",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Dagen loven ble signert, sa hun at hun var stolt av å ha stått sammen med Lena Gonzalez. Sitatet står på Gonzalez sin side.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://sd33.senate.ca.gov/news/senator-gonzalez-and-senator-limons-historic-bill-end-neighborhood-oil-and-gas-drilling-signed",
+          "title": "Signering av SB 1137, sitat fra Limón",
+          "publisher": "Kontoret til Lena Gonzalez",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Siden er lest 2026-10-28."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Hun stemte også ja til varsling når det sprøytes nær skoler.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "title": "Stemmeliste ab1864",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260117220802/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Ja, og hun var medforfatter."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-1137",
+      "text": "Ja-stemmen."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-lena-gonzalez",
+      "text": "De la fram loven sammen."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -120.7343,
+          34.9048
+        ],
+        [
+          -120.6878,
+          35.0775
+        ],
+        [
+          -120.706,
+          35.127
+        ],
+        [
+          -120.6193,
+          35.1344
+        ],
+        [
+          -120.5804,
+          35.1018
+        ],
+        [
+          -120.5513,
+          35.1273
+        ],
+        [
+          -120.6296,
+          35.1655
+        ],
+        [
+          -120.5871,
+          35.2106
+        ],
+        [
+          -120.5967,
+          35.3205
+        ],
+        [
+          -120.553,
+          35.312
+        ],
+        [
+          -120.4435,
+          35.3667
+        ],
+        [
+          -120.2518,
+          35.3551
+        ],
+        [
+          -120.1865,
+          35.3813
+        ],
+        [
+          -119.8092,
+          35.3509
+        ],
+        [
+          -119.8094,
+          35.2637
+        ],
+        [
+          -119.6666,
+          35.2626
+        ],
+        [
+          -119.6673,
+          35.175
+        ],
+        [
+          -119.5538,
+          35.1801
+        ],
+        [
+          -119.5618,
+          35.0878
+        ],
+        [
+          -119.4726,
+          35.0767
+        ],
+        [
+          -119.4725,
+          34.9014
+        ],
+        [
+          -119.2764,
+          34.8725
+        ],
+        [
+          -119.2426,
+          34.8576
+        ],
+        [
+          -119.2425,
+          34.8143
+        ],
+        [
+          -118.8804,
+          34.7887
+        ],
+        [
+          -118.6335,
+          34.2702
+        ],
+        [
+          -118.7591,
+          34.3333
+        ],
+        [
+          -118.8161,
+          34.2923
+        ],
+        [
+          -118.9097,
+          34.3078
+        ],
+        [
+          -118.9075,
+          34.2699
+        ],
+        [
+          -119.0112,
+          34.277
+        ],
+        [
+          -118.9578,
+          34.2005
+        ],
+        [
+          -119.0014,
+          34.17
+        ],
+        [
+          -118.9912,
+          34.1487
+        ],
+        [
+          -118.884,
+          34.1622
+        ],
+        [
+          -118.9036,
+          34.1244
+        ],
+        [
+          -118.8565,
+          34.1268
+        ],
+        [
+          -118.941,
+          34.0748
+        ],
+        [
+          -118.9517,
+          33.9929
+        ],
+        [
+          -119.218,
+          34.0625
+        ],
+        [
+          -119.3345,
+          34.2365
+        ],
+        [
+          -119.5848,
+          34.3617
+        ],
+        [
+          -119.7161,
+          34.3361
+        ],
+        [
+          -120.1473,
+          34.4229
+        ],
+        [
+          -120.4881,
+          34.3983
+        ],
+        [
+          -120.5594,
+          34.4885
+        ],
+        [
+          -120.6561,
+          34.5086
+        ],
+        [
+          -120.708,
+          34.5549
+        ],
+        [
+          -120.6647,
+          34.6963
+        ],
+        [
+          -120.7021,
+          34.7483
+        ],
+        [
+          -120.6733,
+          34.8386
+        ],
+        [
+          -120.7343,
+          34.9048
+        ]
+      ],
+      [
+        [
+          -119.1172,
+          33.5056
+        ],
+        [
+          -119.0009,
+          33.5359
+        ],
+        [
+          -118.9638,
+          33.4668
+        ],
+        [
+          -118.9887,
+          33.4234
+        ],
+        [
+          -119.0719,
+          33.4138
+        ],
+        [
+          -119.1172,
+          33.5056
+        ]
+      ],
+      [
+        [
+          -119.6361,
+          33.2807
+        ],
+        [
+          -119.5992,
+          33.3233
+        ],
+        [
+          -119.5191,
+          33.3337
+        ],
+        [
+          -119.3797,
+          33.2676
+        ],
+        [
+          -119.3607,
+          33.2215
+        ],
+        [
+          -119.3945,
+          33.1808
+        ],
+        [
+          -119.512,
+          33.1678
+        ],
+        [
+          -119.6053,
+          33.2069
+        ],
+        [
+          -119.6361,
+          33.2807
+        ]
+      ],
+      [
+        [
+          -120.5823,
+          34.1075
+        ],
+        [
+          -120.5381,
+          34.1503
+        ],
+        [
+          -120.4717,
+          34.1341
+        ],
+        [
+          -120.4188,
+          34.1606
+        ],
+        [
+          -120.3552,
+          34.145
+        ],
+        [
+          -120.2528,
+          34.058
+        ],
+        [
+          -120.0452,
+          34.0906
+        ],
+        [
+          -119.9916,
+          34.0649
+        ],
+        [
+          -119.9288,
+          34.1299
+        ],
+        [
+          -119.751,
+          34.1126
+        ],
+        [
+          -119.6549,
+          34.0712
+        ],
+        [
+          -119.5574,
+          34.1086
+        ],
+        [
+          -119.4678,
+          34.0629
+        ],
+        [
+          -119.3425,
+          34.069
+        ],
+        [
+          -119.2931,
+          34.0202
+        ],
+        [
+          -119.3116,
+          33.98
+        ],
+        [
+          -119.3772,
+          33.9544
+        ],
+        [
+          -119.4923,
+          33.9832
+        ],
+        [
+          -119.7075,
+          33.9104
+        ],
+        [
+          -119.8344,
+          33.9008
+        ],
+        [
+          -119.9048,
+          33.9397
+        ],
+        [
+          -119.9392,
+          33.8986
+        ],
+        [
+          -120.1173,
+          33.8416
+        ],
+        [
+          -120.2211,
+          33.8842
+        ],
+        [
+          -120.299,
+          33.9685
+        ],
+        [
+          -120.4882,
+          33.9843
+        ],
+        [
+          -120.5823,
+          34.1075
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06021",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/5/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen SD 21 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": []
+}

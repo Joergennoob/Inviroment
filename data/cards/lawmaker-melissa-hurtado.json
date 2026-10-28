@@ -1,0 +1,463 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-melissa-hurtado",
+  "type": "lawmaker",
+  "name": "Melissa Hurtado",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Melissa Hurtado er demokrat. Hun er senator for et område med deler av Fresno, Kern, Kings og Tulare. Hun ble valgt i 2018 og tatt i ed i desember 2018.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Hun stemte nei da senatet vedtok loven om avstand mellom oljebrønner og hus.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "Stemmeliste sb1137",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Hun stemte ja til å varsle skoler når det sprøytes i nærheten, og sto som den som la saken fram i senatet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "title": "Stemmeliste ab1864",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260117220802/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Oljeselskapet California Resources ga 2 500 dollar til valgkampen hennes ni dager før nei-stemmen om oljebrønner. Phillips 66 ga 5 900 dollar i mars 2026, etterpå.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS LCCM_CD, uttrekk 28. oktober 2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Gaven er en rad i tabellen, koblet til giveren via regnskapsforsiden."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Nei til avstandsloven."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-pesticides",
+      "text": "Ja til varsling ved skoler."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-1137",
+      "text": "Nei-stemmen."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-crc",
+      "text": "Gaven før olje-stemmen."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -120.3151,
+          35.9072
+        ],
+        [
+          -119.9589,
+          36.1814
+        ],
+        [
+          -119.9592,
+          36.401
+        ],
+        [
+          -119.6664,
+          36.4189
+        ],
+        [
+          -119.5569,
+          36.5021
+        ],
+        [
+          -119.6106,
+          36.6053
+        ],
+        [
+          -119.5211,
+          36.5902
+        ],
+        [
+          -119.5208,
+          36.6193
+        ],
+        [
+          -119.4842,
+          36.6188
+        ],
+        [
+          -119.4848,
+          36.5606
+        ],
+        [
+          -119.2641,
+          36.5871
+        ],
+        [
+          -119.2143,
+          36.5443
+        ],
+        [
+          -119.2465,
+          36.5128
+        ],
+        [
+          -119.2051,
+          36.4858
+        ],
+        [
+          -119.2059,
+          36.4419
+        ],
+        [
+          -119.0851,
+          36.4282
+        ],
+        [
+          -119.0805,
+          36.3945
+        ],
+        [
+          -119.0458,
+          36.3888
+        ],
+        [
+          -119.2172,
+          36.2768
+        ],
+        [
+          -119.2248,
+          36.3272
+        ],
+        [
+          -119.3231,
+          36.3419
+        ],
+        [
+          -119.303,
+          36.3681
+        ],
+        [
+          -119.4444,
+          36.3853
+        ],
+        [
+          -119.4751,
+          36.3709
+        ],
+        [
+          -119.4746,
+          36.269
+        ],
+        [
+          -119.4212,
+          36.2688
+        ],
+        [
+          -119.4211,
+          36.2035
+        ],
+        [
+          -119.3553,
+          36.2402
+        ],
+        [
+          -119.3474,
+          36.2079
+        ],
+        [
+          -119.1268,
+          36.1963
+        ],
+        [
+          -119.1273,
+          36.2607
+        ],
+        [
+          -119.0807,
+          36.2537
+        ],
+        [
+          -119.0636,
+          36.2865
+        ],
+        [
+          -119.0242,
+          36.2689
+        ],
+        [
+          -119.0335,
+          36.239
+        ],
+        [
+          -118.9924,
+          36.239
+        ],
+        [
+          -119.0103,
+          36.1967
+        ],
+        [
+          -119.0464,
+          36.1999
+        ],
+        [
+          -119.0449,
+          36.1236
+        ],
+        [
+          -118.9371,
+          36.0509
+        ],
+        [
+          -118.9996,
+          36.0295
+        ],
+        [
+          -119.0002,
+          35.9714
+        ],
+        [
+          -118.9643,
+          35.9498
+        ],
+        [
+          -119.0002,
+          35.9207
+        ],
+        [
+          -119.0001,
+          35.8593
+        ],
+        [
+          -118.9623,
+          35.8379
+        ],
+        [
+          -118.9944,
+          35.8272
+        ],
+        [
+          -118.9807,
+          35.7907
+        ],
+        [
+          -119.0534,
+          35.7908
+        ],
+        [
+          -119.0876,
+          35.6025
+        ],
+        [
+          -119.036,
+          35.602
+        ],
+        [
+          -119.0238,
+          35.532
+        ],
+        [
+          -118.9584,
+          35.478
+        ],
+        [
+          -118.9588,
+          35.4252
+        ],
+        [
+          -118.9141,
+          35.4125
+        ],
+        [
+          -118.9497,
+          35.3832
+        ],
+        [
+          -118.8439,
+          35.3744
+        ],
+        [
+          -118.8432,
+          35.3382
+        ],
+        [
+          -118.7527,
+          35.2924
+        ],
+        [
+          -118.7526,
+          35.2094
+        ],
+        [
+          -118.8063,
+          35.2092
+        ],
+        [
+          -118.8421,
+          35.1655
+        ],
+        [
+          -118.95,
+          35.2087
+        ],
+        [
+          -118.9962,
+          35.1466
+        ],
+        [
+          -119.0031,
+          35.2596
+        ],
+        [
+          -119.0922,
+          35.2961
+        ],
+        [
+          -119.0583,
+          35.3631
+        ],
+        [
+          -119.0029,
+          35.3684
+        ],
+        [
+          -118.9986,
+          35.406
+        ],
+        [
+          -119.0766,
+          35.4995
+        ],
+        [
+          -119.2427,
+          35.4997
+        ],
+        [
+          -119.2435,
+          35.4416
+        ],
+        [
+          -119.9932,
+          35.4395
+        ],
+        [
+          -120.0868,
+          35.5264
+        ],
+        [
+          -120.0862,
+          35.6144
+        ],
+        [
+          -120.194,
+          35.6144
+        ],
+        [
+          -120.1944,
+          35.7894
+        ],
+        [
+          -120.2593,
+          35.8451
+        ],
+        [
+          -120.2489,
+          35.8838
+        ],
+        [
+          -120.3151,
+          35.9072
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06016",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/5/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen SD 16 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Vi fant ingen melding der hun forklarer nei-stemmen om olje."
+  ]
+}

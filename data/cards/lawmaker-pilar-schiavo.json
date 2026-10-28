@@ -1,0 +1,203 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-pilar-schiavo",
+  "type": "lawmaker",
+  "name": "Pilar Schiavo",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Pilar Schiavo er demokrat. Hun sitter i forsamlingen for et område i Los Angeles som dekker Porter Ranch og Aliso Canyon. Håndboken sier at hun har sittet siden desember 2022.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I desember 2024 sa hun at gasslageret bør stenges. Sitatet står på senator Stern sin side.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://sd27.senate.ca.gov/news/sen-stern-asm-schiavo-look-expedite-closure-aliso-canyon-discounts-energy-upgrades-san",
+          "title": "Stern og Schiavo om Aliso Canyon",
+          "publisher": "Kontoret til Henry Stern",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Siden er lest 2026-10-28."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "På den endelige avstemningen om lager av drivstoff stemte hun ikke.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "title": "Stemmeliste abx2",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260308020621/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Hun stemte ja til å varsle skoler når det sprøytes i nærheten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "title": "Stemmeliste ab1864",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260117220802/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-aliso-canyon",
+      "text": "Hun vil stenge lageret."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-henry-stern",
+      "text": "De uttalte seg sammen."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -118.7419,
+          34.5058
+        ],
+        [
+          -118.6677,
+          34.5396
+        ],
+        [
+          -118.6581,
+          34.5874
+        ],
+        [
+          -118.6183,
+          34.544
+        ],
+        [
+          -118.5637,
+          34.5645
+        ],
+        [
+          -118.5885,
+          34.5037
+        ],
+        [
+          -118.33,
+          34.467
+        ],
+        [
+          -118.3248,
+          34.3792
+        ],
+        [
+          -118.1897,
+          34.3807
+        ],
+        [
+          -118.188,
+          34.2936
+        ],
+        [
+          -118.3674,
+          34.2804
+        ],
+        [
+          -118.4094,
+          34.289
+        ],
+        [
+          -118.4052,
+          34.3298
+        ],
+        [
+          -118.5038,
+          34.3373
+        ],
+        [
+          -118.4676,
+          34.2905
+        ],
+        [
+          -118.4731,
+          34.2214
+        ],
+        [
+          -118.6325,
+          34.2419
+        ],
+        [
+          -118.7419,
+          34.5058
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06040",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/6/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen AD 40 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": []
+}

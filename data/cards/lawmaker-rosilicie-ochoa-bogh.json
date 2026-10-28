@@ -1,0 +1,526 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-rosilicie-ochoa-bogh",
+  "type": "lawmaker",
+  "name": "Rosilicie Ochoa Bogh",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Rosilicie Ochoa Bogh er republikaner. Hun er senator for deler av Riverside og San Bernardino. Håndboken sier at hun har sittet siden desember 2020.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Hun stemte nei til loven om avstand mellom oljebrønner og hus.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "Stemmeliste sb1137",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "California Resources ga 4 900 dollar til en valgkampkomité i hennes navn 22. august 2022, ni dager før.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS LCCM_CD, uttrekk 28. oktober 2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Gaven er en rad i tabellen, koblet til giveren via regnskapsforsiden."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Hun stemte nei til loven om lager av drivstoff.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "title": "Stemmeliste abx2",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260308020621/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Nei til avstandsloven."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-south-coast-air",
+      "text": "Distriktet ligger i luftbassenget i sør."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-crc",
+      "text": "Gaven før nei-stemmen."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.6675,
+          34.8225
+        ],
+        [
+          -117.6322,
+          34.8223
+        ],
+        [
+          -117.6343,
+          35.7973
+        ],
+        [
+          -115.6484,
+          35.8092
+        ],
+        [
+          -114.9476,
+          35.2548
+        ],
+        [
+          -114.9844,
+          34.9187
+        ],
+        [
+          -115.0737,
+          34.9256
+        ],
+        [
+          -115.051,
+          34.83
+        ],
+        [
+          -114.9663,
+          34.8434
+        ],
+        [
+          -114.9893,
+          34.8372
+        ],
+        [
+          -115.0017,
+          34.6914
+        ],
+        [
+          -115.1803,
+          34.6692
+        ],
+        [
+          -115.1178,
+          34.6001
+        ],
+        [
+          -115.1599,
+          34.5443
+        ],
+        [
+          -115.0475,
+          34.4947
+        ],
+        [
+          -115.0884,
+          34.418
+        ],
+        [
+          -115.0667,
+          34.4115
+        ],
+        [
+          -115.1018,
+          34.2598
+        ],
+        [
+          -115.166,
+          34.2766
+        ],
+        [
+          -115.1058,
+          34.2427
+        ],
+        [
+          -115.1458,
+          34.1209
+        ],
+        [
+          -115.0923,
+          34.0798
+        ],
+        [
+          -115.2328,
+          34.0358
+        ],
+        [
+          -115.2558,
+          33.8385
+        ],
+        [
+          -115.2847,
+          33.8094
+        ],
+        [
+          -115.3966,
+          33.7726
+        ],
+        [
+          -115.4522,
+          33.7023
+        ],
+        [
+          -115.5808,
+          33.674
+        ],
+        [
+          -115.8868,
+          33.6655
+        ],
+        [
+          -116.0782,
+          33.7007
+        ],
+        [
+          -116.0782,
+          33.7298
+        ],
+        [
+          -116.1542,
+          33.7149
+        ],
+        [
+          -116.2138,
+          33.8226
+        ],
+        [
+          -116.2,
+          33.8614
+        ],
+        [
+          -116.2621,
+          33.893
+        ],
+        [
+          -116.3269,
+          33.8162
+        ],
+        [
+          -116.2652,
+          33.7443
+        ],
+        [
+          -116.2687,
+          33.6854
+        ],
+        [
+          -116.2339,
+          33.671
+        ],
+        [
+          -116.2503,
+          33.5837
+        ],
+        [
+          -116.2849,
+          33.584
+        ],
+        [
+          -116.2681,
+          33.6127
+        ],
+        [
+          -116.3215,
+          33.6126
+        ],
+        [
+          -116.3215,
+          33.6707
+        ],
+        [
+          -116.4254,
+          33.6705
+        ],
+        [
+          -116.4255,
+          33.7141
+        ],
+        [
+          -116.4603,
+          33.7141
+        ],
+        [
+          -116.4428,
+          33.6416
+        ],
+        [
+          -116.4775,
+          33.6124
+        ],
+        [
+          -116.5122,
+          33.6849
+        ],
+        [
+          -116.6144,
+          33.6847
+        ],
+        [
+          -116.6143,
+          33.7722
+        ],
+        [
+          -116.7361,
+          33.7764
+        ],
+        [
+          -116.7713,
+          33.7092
+        ],
+        [
+          -116.848,
+          33.7409
+        ],
+        [
+          -116.9221,
+          33.7306
+        ],
+        [
+          -116.9845,
+          33.6712
+        ],
+        [
+          -117.0029,
+          33.7063
+        ],
+        [
+          -117.0499,
+          33.6986
+        ],
+        [
+          -117.0393,
+          33.7439
+        ],
+        [
+          -117.0677,
+          33.7583
+        ],
+        [
+          -116.933,
+          33.7535
+        ],
+        [
+          -116.9194,
+          33.8021
+        ],
+        [
+          -116.9589,
+          33.7895
+        ],
+        [
+          -116.946,
+          33.8166
+        ],
+        [
+          -117.0102,
+          33.8369
+        ],
+        [
+          -117.0594,
+          33.8383
+        ],
+        [
+          -117.0598,
+          33.815
+        ],
+        [
+          -117.2044,
+          33.8446
+        ],
+        [
+          -117.1746,
+          33.8925
+        ],
+        [
+          -117.0883,
+          33.9043
+        ],
+        [
+          -117.1476,
+          33.9611
+        ],
+        [
+          -117.2178,
+          33.9613
+        ],
+        [
+          -117.2827,
+          34.0184
+        ],
+        [
+          -117.34,
+          34.0194
+        ],
+        [
+          -117.2506,
+          34.0667
+        ],
+        [
+          -117.1388,
+          34.0333
+        ],
+        [
+          -117.1345,
+          34.0991
+        ],
+        [
+          -117.1824,
+          34.099
+        ],
+        [
+          -117.1955,
+          34.1212
+        ],
+        [
+          -117.1651,
+          34.146
+        ],
+        [
+          -117.2622,
+          34.1679
+        ],
+        [
+          -117.2262,
+          34.1935
+        ],
+        [
+          -117.2873,
+          34.2104
+        ],
+        [
+          -117.2973,
+          34.1839
+        ],
+        [
+          -117.3344,
+          34.2301
+        ],
+        [
+          -117.3357,
+          34.2084
+        ],
+        [
+          -117.4094,
+          34.2251
+        ],
+        [
+          -117.4751,
+          34.3118
+        ],
+        [
+          -117.259,
+          34.311
+        ],
+        [
+          -117.2382,
+          34.435
+        ],
+        [
+          -117.2874,
+          34.5335
+        ],
+        [
+          -117.26,
+          34.5906
+        ],
+        [
+          -117.3344,
+          34.5764
+        ],
+        [
+          -117.3541,
+          34.7319
+        ],
+        [
+          -117.6672,
+          34.7343
+        ],
+        [
+          -117.6675,
+          34.8225
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06019",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/5/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen SD 19 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Vi fant ingen melding der hun forklarer nei-stemmen."
+  ]
+}

@@ -1,0 +1,225 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-henry-stern",
+  "type": "lawmaker",
+  "name": "Henry Stern",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Henry Stern er demokrat. Han er senator for et område i Los Angeles og Ventura, der gasslageret Aliso Canyon ligger. Håndboken sier at han har sittet siden desember 2016.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I desember 2024 sa han at gasslageret bør stenges, og at en plan om å bruke det til 2039 er feil.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://sd27.senate.ca.gov/news/sen-stern-asm-schiavo-look-expedite-closure-aliso-canyon-discounts-energy-upgrades-san",
+          "title": "Stern og Schiavo om Aliso Canyon",
+          "publisher": "Kontoret til Henry Stern",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Siden er lest 2026-10-28."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "I 2022 falt et forslag han hadde lagt fram, med 5 ja og 12 nei. Hans eget navn står på nei-listen. Vi har ikke et referat som forklarer hvorfor.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1486",
+          "title": "Stemmeliste sb1486",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250918170037/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1486",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Året etter stemte han ja til et fond etter lekkasjen. Hele senatet stemte ja.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB305",
+          "title": "Stemmeliste sb305",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260118213538/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB305",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-aliso-canyon",
+      "text": "Han vil stenge lageret."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Han stemte ja til avstand fra oljebrønner."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -119.0215,
+          34.2637
+        ],
+        [
+          -118.9072,
+          34.2699
+        ],
+        [
+          -118.9097,
+          34.3078
+        ],
+        [
+          -118.8161,
+          34.2923
+        ],
+        [
+          -118.7591,
+          34.3333
+        ],
+        [
+          -118.6388,
+          34.267
+        ],
+        [
+          -118.5083,
+          34.3339
+        ],
+        [
+          -118.4678,
+          34.2912
+        ],
+        [
+          -118.4729,
+          34.2356
+        ],
+        [
+          -118.6051,
+          34.2354
+        ],
+        [
+          -118.6146,
+          34.1937
+        ],
+        [
+          -118.44,
+          34.1794
+        ],
+        [
+          -118.4096,
+          34.22
+        ],
+        [
+          -118.3432,
+          34.1382
+        ],
+        [
+          -118.5534,
+          34.126
+        ],
+        [
+          -118.6682,
+          34.1768
+        ],
+        [
+          -118.7889,
+          34.1682
+        ],
+        [
+          -118.8805,
+          34.1187
+        ],
+        [
+          -118.9036,
+          34.1244
+        ],
+        [
+          -118.884,
+          34.1622
+        ],
+        [
+          -118.9913,
+          34.1488
+        ],
+        [
+          -118.965,
+          34.2395
+        ],
+        [
+          -119.0215,
+          34.2637
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06027",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/5/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen SD 27 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvorfor han stemte nei til sitt eget forslag i 2022."
+  ]
+}

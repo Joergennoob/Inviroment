@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-amy-shuklian",
+  "type": "lawmaker",
+  "name": "Amy Shuklian",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Amy Shuklian er fylkesstyrer i Tulare og leder for luftstyret i San Joaquin-dalen.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+          "title": "Referat 19. februar 2026, møteleder",
+          "publisher": "San Joaquin Valley APCD",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF lest 28. oktober 2026."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "19. februar 2026 åpnet hun møtet klokken 9.06.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+          "title": "Referat, call to order",
+          "publisher": "San Joaquin Valley APCD",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF lest 28. oktober 2026."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Hun var blant dem som stemte ja til rutinepakken. Ingen stemte nei.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+          "title": "Samtykkeliste",
+          "publisher": "San Joaquin Valley APCD",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF lest 28. oktober 2026."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Styrets budsjettforslag for 2026-27 fører henne også som leder.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://ww2.valleyair.org/media/dbkb5qwk/2026-27-recommended-budget.pdf",
+          "title": "Anbefalt budsjett 2026-27, styreliste",
+          "publisher": "San Joaquin Valley APCD",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-san-joaquin-air",
+      "text": "Leder luftstyret i dalen."
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "geometry",
+      "searched": "Valgkretskart for fylkesstyrer er ikke lastet ned. Teksten sier hvilket fylke eller distrikt siden selv oppgir.",
+      "result": "not_found",
+      "urls": [
+        "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "En avstemning fra henne om en utslippsregel, ikke bare rutinesaker."
+  ]
+}

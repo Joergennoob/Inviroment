@@ -10,6 +10,8 @@ export default function OverviewPage() {
         <Link href="/">Kart</Link>
         {" · "}
         <Link href="/ord/">Ord og forklaringer</Link>
+        {" · "}
+        <Link href="/lobbyister/">Lobbyister</Link>
       </p>
       <h1>Ti problemer i California</h1>
       <p>

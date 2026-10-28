@@ -25,9 +25,12 @@ type LayerSpec = {
   default: boolean;
 };
 
+export type MapFocus = { lng: number; lat: number; zoom: number; token: string };
+
 type Props = {
   enabled: string[];
   summaries: Record<string, string>;
+  focus?: MapFocus | null;
   onSelect: (cardId: string, placement: Placement) => void;
 };
 
@@ -74,13 +77,15 @@ function wellsCollection(payload: {
   };
 }
 
-export default function MapCanvas({ enabled, summaries, onSelect }: Props) {
+export default function MapCanvas({ enabled, summaries, focus, onSelect }: Props) {
   const node = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<MlMap | null>(null);
   const selectRef = useRef(onSelect);
   const enabledRef = useRef(enabled);
   const summariesRef = useRef(summaries);
+  const focusRef = useRef(focus);
   summariesRef.current = summaries;
+  focusRef.current = focus;
   const loaded = useRef(new Set<string>());
   selectRef.current = onSelect;
   enabledRef.current = enabled;
@@ -265,6 +270,11 @@ export default function MapCanvas({ enabled, summaries, onSelect }: Props) {
           void sync();
         };
         await sync();
+        map.resize();
+        const pendingFocus = focusRef.current;
+        if (pendingFocus) {
+          map.easeTo({ center: [pendingFocus.lng, pendingFocus.lat], zoom: pendingFocus.zoom, duration: 900 });
+        }
       });
     }
 
@@ -280,8 +290,22 @@ export default function MapCanvas({ enabled, summaries, onSelect }: Props) {
 
   useEffect(() => {
     const map = mapRef.current as (MlMap & { __apply?: () => void }) | null;
+    map?.resize();
     map?.__apply?.();
   }, [enabled]);
+
+  useEffect(() => {
+    const onResize = () => mapRef.current?.resize();
+    window.addEventListener("resize", onResize);
+    return () => window.removeEventListener("resize", onResize);
+  }, []);
+
+  useEffect(() => {
+    if (!focus) return;
+    const map = mapRef.current;
+    map?.resize();
+    map?.easeTo({ center: [focus.lng, focus.lat], zoom: focus.zoom, duration: 1000 });
+  }, [focus]);
 
   return <div ref={node} className="map" />;
 }
