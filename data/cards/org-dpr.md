@@ -4,13 +4,13 @@ Type: Organisasjon. Id: `org-dpr`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] Dette er delstatens tilsyn med sprøytemidler. I 2022 ble det brukt om lag 180 millioner pund virksomt stoff.
+- [bekreftet] Dette er Californias tilsyn med sprøytemidler. I 2022 ble det brukt om lag 180 millioner pund av selve giften. Ett pund er omtrent et halvt kilo.
   - [Pesticide Use Annual Report 2022 Data Summary](https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf) (California Department of Pesticide Regulation, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Fresno, Kern og Tulare hadde de høyeste pundtallene i fylkeslisten. At de er de tre høyeste i hele fylkeslisten, er sjekket mot de fylkene som står i PDF-en som ble hentet.
+- [bekreftet] Fresno, Kern og Tulare hadde de høyeste tallene i fylkeslisten. At de er de tre høyeste i hele fylkeslisten, er sjekket mot de fylkene som står i PDF-en som ble hentet.
   - [2022 pesticide pounds by county](https://www.cdpr.ca.gov/wp-content/uploads/2024/12/2022_county_total_pounds_applied_agricultural_applications_and_acres_treated.pdf) (DPR, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250807002358/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/2022_county_total_pounds_applied_agricultural_applications_and_acres_treated.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Pundtallet trekker opp stoffer som brukes i store mengder, som svovel. Det samme jordet kan telles flere ganger. Pund er ikke det samme som hvor giftig stoffet er.
+- [bekreftet] Pundtallet trekker opp stoffer som brukes i store mengder, som svovel. Det samme jordet kan telles flere ganger. Hvor mange pund det er, er ikke det samme som hvor giftig stoffet er.
   - [Pesticide Use Annual Report 2022 Data Summary](https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf) (California Department of Pesticide Regulation, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

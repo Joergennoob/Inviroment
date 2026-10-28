@@ -11237,7 +11237,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Dette er delstatens tilsyn med sprøytemidler. I 2022 ble det brukt om lag 180 millioner pund virksomt stoff.",
+          "text": "Dette er Californias tilsyn med sprøytemidler. I 2022 ble det brukt om lag 180 millioner pund av selve giften. Ett pund er omtrent et halvt kilo.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11253,7 +11253,7 @@
         },
         {
           "id": "s2",
-          "text": "Fresno, Kern og Tulare hadde de høyeste pundtallene i fylkeslisten.",
+          "text": "Fresno, Kern og Tulare hadde de høyeste tallene i fylkeslisten.",
           "status": "confirmed",
           "note": "At de er de tre høyeste i hele fylkeslisten, er sjekket mot de fylkene som står i PDF-en som ble hentet.",
           "sources": [
@@ -11269,7 +11269,7 @@
         },
         {
           "id": "s3",
-          "text": "Pundtallet trekker opp stoffer som brukes i store mengder, som svovel. Det samme jordet kan telles flere ganger. Pund er ikke det samme som hvor giftig stoffet er.",
+          "text": "Pundtallet trekker opp stoffer som brukes i store mengder, som svovel. Det samme jordet kan telles flere ganger. Hvor mange pund det er, er ikke det samme som hvor giftig stoffet er.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11360,7 +11360,7 @@
       "summary": [
         {
           "id": "plain-1",
-          "text": "Dette er delstatens vannetat. De peker ut grunnvannsbasseng som tappes for hardt.",
+          "text": "Dette er Californias vannetat. De peker ut steder der vannet under bakken tappes for hardt. Vannet brukes til drikke og jordbruk.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11376,7 +11376,7 @@
         },
         {
           "id": "plain-2",
-          "text": "De har pekt ut 21 slike basseng. Elleve ligger i San Joaquin-dalen.",
+          "text": "De har pekt ut 21 slike områder. Elleve ligger i jordbruksdalen.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12758,7 +12758,7 @@
         },
         {
           "id": "s2",
-          "text": "I 2018 sto tunge lastebiler for 27 prosent av NOx, en gass som er med på å lage ozon. Raffinering var blant de største faste kildene, etter fyring i bygninger.",
+          "text": "I 2018 kom 27 av 100 deler av en skitten eksosgass, kalt NOx, fra store lastebiler. Gassen er med på å lage ozon. Raffinerier, fabrikker som lager bensin, var blant de største faste kildene, etter fyring i bygninger.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13084,7 +13084,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Dette er luftkontoret for San Joaquin-dalen. De har hovedansvaret for planene som skal få dalen innenfor grensen for ren luft.",
+          "text": "Dette er luftkontoret for jordbruksdalen. De har hovedansvaret for planene som skal få dalen innenfor grensen for ren luft.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13100,7 +13100,7 @@
         },
         {
           "id": "s2",
-          "text": "De vedtok i 2024 en plan som ber om utsettelse til slutten av 2030 for fint svevestøv.",
+          "text": "De vedtok i 2024 en plan som ber om utsettelse til slutten av 2030 for fint støv, de minste partiklene i luften.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13116,7 +13116,7 @@
         },
         {
           "id": "s3",
-          "text": "De tar faste anlegg og støv fra bakken. Delstatens lufttilsyn tar biler og lastebiler.",
+          "text": "De tar fabrikker og støv fra bakken. Delstatens lufttilsyn tar biler og lastebiler.",
           "status": "confirmed",
           "note": "",
           "sources": [

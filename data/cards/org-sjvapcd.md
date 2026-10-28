@@ -4,13 +4,13 @@ Type: Organisasjon. Id: `org-sjvapcd`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] Dette er luftkontoret for San Joaquin-dalen. De har hovedansvaret for planene som skal få dalen innenfor grensen for ren luft.
+- [bekreftet] Dette er luftkontoret for jordbruksdalen. De har hovedansvaret for planene som skal få dalen innenfor grensen for ren luft.
   - [Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area](https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
-- [bekreftet] De vedtok i 2024 en plan som ber om utsettelse til slutten av 2030 for fint svevestøv.
+- [bekreftet] De vedtok i 2024 en plan som ber om utsettelse til slutten av 2030 for fint støv, de minste partiklene i luften.
   - [Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area](https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
-- [bekreftet] De tar faste anlegg og støv fra bakken. Delstatens lufttilsyn tar biler og lastebiler.
+- [bekreftet] De tar fabrikker og støv fra bakken. Delstatens lufttilsyn tar biler og lastebiler.
   - [Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area](https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
 ## Funn

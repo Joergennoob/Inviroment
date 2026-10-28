@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "Dette er delstatens tilsyn med sprøytemidler. I 2022 ble det brukt om lag 180 millioner pund virksomt stoff.",
+      "text": "Dette er Californias tilsyn med sprøytemidler. I 2022 ble det brukt om lag 180 millioner pund av selve giften. Ett pund er omtrent et halvt kilo.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "Fresno, Kern og Tulare hadde de høyeste pundtallene i fylkeslisten.",
+      "text": "Fresno, Kern og Tulare hadde de høyeste tallene i fylkeslisten.",
       "status": "confirmed",
       "note": "At de er de tre høyeste i hele fylkeslisten, er sjekket mot de fylkene som står i PDF-en som ble hentet.",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Pundtallet trekker opp stoffer som brukes i store mengder, som svovel. Det samme jordet kan telles flere ganger. Pund er ikke det samme som hvor giftig stoffet er.",
+      "text": "Pundtallet trekker opp stoffer som brukes i store mengder, som svovel. Det samme jordet kan telles flere ganger. Hvor mange pund det er, er ikke det samme som hvor giftig stoffet er.",
       "status": "confirmed",
       "note": "",
       "sources": [

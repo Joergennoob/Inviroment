@@ -4,10 +4,10 @@ Type: Organisasjon. Id: `org-dwr`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] Dette er delstatens vannetat. De peker ut grunnvannsbasseng som tappes for hardt.
+- [bekreftet] Dette er Californias vannetat. De peker ut steder der vannet under bakken tappes for hardt. Vannet brukes til drikke og jordbruk.
   - [Critically Overdrafted Basins](https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins) (California Department of Water Resources, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] De har pekt ut 21 slike basseng. Elleve ligger i San Joaquin-dalen.
+- [bekreftet] De har pekt ut 21 slike områder. Elleve ligger i jordbruksdalen.
   - [Critically Overdrafted Basins map](https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf) (DWR, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250630230548/https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Hvis tappingen fortsetter, kan bakken synke og saltvann komme inn i brønnene.
