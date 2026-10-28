@@ -1,0 +1,168 @@
+{
+  "id": "org-farm-bureau",
+  "type": "organization",
+  "org_kind": "trade_association",
+  "name": "California Farm Bureau Federation",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "California Farm Bureau står i jordbrukskategorien. De har brukt om lag 1,4 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Den største kampanjestrengen er om lag 117 000 dollar. Vi har ikke lagt sammen alle strengene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Vi har ikke et dokument som sier at organisasjonen står bak et bestemt nitratutslipp eller et bestemt sprøytemiddel. De er med fordi de er en stor jordbruksfiler i de samme fylkene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+          "title": "Pesticide Use Annual Report 2022 Data Summary",
+          "publisher": "California Department of Pesticide Regulation",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Harter-rapporten peker på gjødsel og husdyrgjødsel som regionale nitratkilder, ikke på Farm Bureau som utslipper.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+          "title": "Addressing Nitrate in California's Drinking Water",
+          "publisher": "UC Davis for the State Water Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250115190005/https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "Filer 1146790 har 1 436 711,70 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Den største bidragstrengen i søket er FARM PAC-strengen med 116 700,00 dollar. Søket ga 11 strenger og er ikke summert.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "Kortet knytter ikke organisasjonen til et bestemt nitratutslipp eller et bestemt pesticidprodukt. Den er med fordi den er en stor jordbruksfiler i de samme fylkene som nitraten og pesticidene gjelder.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+          "title": "Pesticide Use Annual Report 2022 Data Summary",
+          "publisher": "California Department of Pesticide Regulation",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-drinking-water",
+      "text": "Jordbruk og nitrat, uten en direkte utslippskobling."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-pesticides",
+      "text": "Lobby og pesticidbruk i samme fylker, uten produktkobling."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "bills_lobbied",
+      "searched": "Form 635 for Farm Bureau er ikke åpnet, så hvilke lovforslag som ble lobbet, er ukjent.",
+      "result": "not_found",
+      "urls": [],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvilke lovforslag om vann, gjødsel eller pesticider fileren oppga i 2025 og 2026."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

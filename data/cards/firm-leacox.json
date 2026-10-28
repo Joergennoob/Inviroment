@@ -1,0 +1,149 @@
+{
+  "id": "firm-leacox",
+  "type": "lobbying_firm",
+  "name": "Leacox & Associates",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "WSPA betalte Leacox & Associates 6 000 dollar i ett kvartal i 2025.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Beløpet er lite ved siden av det WSPA betalte Carpenter Garcia Sievers i samme skjema.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Vi fant ikke andre oppdragsgivere i uttrekket for 2024–2026. Det betyr ikke at de ikke har noen. Vi kan derfor ikke si om de også jobber for en miljøorganisasjon.",
+      "status": "not_found",
+      "note": "Søket er på firmanavn og filer-id 1385058 og 1438830. Fravær i tabellen er ikke det samme som at firmaet ikke har andre klienter.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Fees 6 000,00 og reimbursements 0,00 i uttrekket.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "WSPAs Form 635 for andre kvartal 2025 fører Leacox & Associates, Carmichael, med 6 000,00 dollar this period og 15 100,00 dollar kumulativt.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Beløpet er lite sammenlignet med Carpenter Garcia Sievers i samme skjema.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "I LEMP_CD er det ingen rad for 2024–2026 der Leacox & Associates eller Leacox California Governmental Advocacy står som underfirma. En klientliste ut over WSPA-betalingen er derfor ikke funnet i det uttrekket.",
+      "status": "not_found",
+      "note": "Søket er på firmanavn og filer-id 1385058 og 1438830. Fravær i tabellen er ikke det samme som at firmaet ikke har andre klienter.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "organization",
+      "target_id": "org-wspa",
+      "text": "Oppdragsgiver i det kvartalet."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "other_clients",
+      "searched": "Firmaregisteret er ikke slått opp.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Klientlisten."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

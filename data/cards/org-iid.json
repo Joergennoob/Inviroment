@@ -1,0 +1,149 @@
+{
+  "id": "org-iid",
+  "type": "organization",
+  "org_kind": "water_district",
+  "name": "Imperial Irrigation District",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Imperial Irrigation District er vannverket ved Salton Sea. De flytter inntil om lag 300 000 acre-fot vann i året, og det blotlegger sjøbunn som kan bli til støv. Acre-fot er et amerikansk mål for vannmengde.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+          "title": "Salton Sea Air Quality Mitigation Program",
+          "publisher": "Imperial Irrigation District",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20241125104119/https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "De har brukt om lag 300 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Statens årsrapport om innsjøen er ikke skrevet av vannverket. Den er sendt til vanntilsynet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
+          "title": "2025 Annual Report on the Salton Sea Management Program",
+          "publisher": "California Natural Resources Agency",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525074045/https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "IID skriver at Imperial County er serious nonattainment for PM10. EPA Green Book-siden for PM10 er ikke åpnet.",
+      "status": "indication",
+      "note": "Bekreftende primærkilde ville være EPA Green Book for PM10.",
+      "sources": [
+        {
+          "url": "https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+          "title": "Salton Sea Air Quality Mitigation Program",
+          "publisher": "Imperial Irrigation District",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20241125104119/https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "IID skrev luftprogrammet for Salton Sea fordi overføringen av inntil om lag 300 000 acre-fot i året under QSA blotlegger playa.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+          "title": "Salton Sea Air Quality Mitigation Program",
+          "publisher": "Imperial Irrigation District",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20241125104119/https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Cal-Access-filer 1143378 har 290 134,29 dollar i lobbybetalinger i sesjonen 2025-2026, kategori utilities.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "CNRA leverer Salton Sea-årsrapporten til State Water Board. IID er ikke forfatter av den rapporten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
+          "title": "2025 Annual Report on the Salton Sea Management Program",
+          "publisher": "California Natural Resources Agency",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525074045/https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-salton-sea",
+      "text": "Vannoverføring og støv."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "campaign_contributions",
+      "searched": "ContributorSearch er ikke kjørt for IMPERIAL IRRIGATION.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/ContributorSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvilke saker filer 1143378 oppga i siste kvartal."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

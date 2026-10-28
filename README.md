@@ -1,0 +1,64 @@
+# Miljøkart California
+
+Dette er et kart over ti miljøproblemer i California. Du klikker et sted og ser, med vanlige ord, hva som er galt, omtrent hvor mange som rammes, og hvem som står bak. Under forklaringen ligger de nøyaktige tallene og lenken til det offentlige dokumentet.
+
+«Bekreftet» betyr at setningen står i dokumentet. «Vi vet ikke om miljøet er årsaken» betyr at sykdom og forurensning opptrer på samme sted, men at vi ikke har bevist at det ene skapte det andre.
+
+Tekst til leseren er bokmål. Kode, filnavn og JSON-nøkler er engelsk ASCII.
+
+## Reglene, kort
+
+- Journalisten skal kunne sjekke påstanden uten å stole på oss. Hver påstand har URL, hentedato, arkivlenke der Internet Archive har en, og status `confirmed`, `indication`, `not_found` eller `not_verified`.
+- Primærkilder først: Cal-Access, leginfo, CARB, CalGEM, State Water Board, OEHHA, DPR, DWR, EPA, SEC. Nyheter og organisasjoner brukes ikke som sitert kilde.
+- Tomme søk skrives ned. Et sjekket nullfunn er et funn.
+- Bare gratis kilder. Ingen hemmeligheter. Ingen kontakt med personer. Ingen sensitive personopplysninger.
+- Nøytral ordlyd. Etatens egen kategori siteres, den utvides ikke.
+- Kode er MIT. Kortdata er CC BY 4.0. Se RULES.md, LICENSE, LICENSE-DATA og ATTRIBUTION.md.
+
+## Slik sjekker en journalist en påstand
+
+1. Åpne kortet, i `data/cards/<id>.md` eller i kartet.
+2. Les statusmerket. `Bekreftet` skal hvile på dokumentet lenken peker på.
+3. Åpne kildelenken. Sammenlign setningen med dokumentet, ikke med dette sammendraget.
+4. Hvis siden er endret, åpne arkivlenken.
+5. Mangler arkivlenken, står grunnen i `archive_note`, som regel at Wayback og Save Page Now feilet den dagen.
+6. Plassering har en egen linje, «Kilde for plassering», med etat og post-id. Kartlagene i `public/data/layers` lages med `scripts/build_map_layers.py`. Et tract er ikke hele luftbassenget.
+
+## Kjøre kartet
+
+Krever Node.js 22 og npm.
+
+```bash
+npm install
+npm run build
+```
+
+Bygget skriver et statisk nettsted til `out/`. Det kan legges på Vercel eller en hvilken som helst statisk vert. Det er ikke deployet herfra.
+
+Lokalt, etter bygget:
+
+```bash
+npx --yes serve out
+```
+
+Utvikling: `npm run dev`, deretter http://localhost:3000.
+
+Python 3.12, bare standardbiblioteket, for kortene:
+
+```bash
+python3 scripts/validate_cards.py
+python3 scripts/render_markdown.py
+python3 scripts/build_geojson.py
+python3 scripts/coverage.py
+python3 scripts/render_overview.py
+```
+
+`scripts/archive_sources.py` spør Wayback om kilder som mangler arkiv-URL. `scripts/write_cards.py` regenererer JSON-kortene fra forfatterskriptet og bør ikke kjøres hvis kortene er redigert for hånd etterpå.
+
+GitHub Actions kjører validering, sjekk av genererte filer og `npm ci && npm run build`.
+
+## Innhold
+
+Rangeringen og begrunnelsen: `data/ca/oversikt.md`. Sammenligning av demografi og helse: `data/ca/metoder.md`. Bufferen på 3 200 fot regnes på nytt med `scripts/setback_3200.py`. Fylkes- og tract-snittene regnes med `scripts/area_health.py`. Dekning: `data/coverage.md`. Skjema: `SCHEMA.md`.
+
+Bakgrunnskartet er [OpenFreeMap](https://openfreemap.org/) (stil `liberty`), uten API-nøkkel. OpenStreetMap-attribusjon vises i kartet.

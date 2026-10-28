@@ -1,0 +1,149 @@
+{
+  "id": "org-western-growers",
+  "type": "organization",
+  "org_kind": "trade_association",
+  "name": "Western Growers",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Western Growers står i jordbrukskategorien. De har brukt om lag 1,2 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Vi har ikke kjørt et eget søk på kampanjebidragene deres.",
+      "status": "not_found",
+      "note": "ContributorSearch ble kjørt for Farm Bureau, Chevron, CRC og WSPA, ikke for Western Growers.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Vi har ikke koblet pengene til et bestemt sprøytemiddel eller et bestemt fylke.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+          "title": "Pesticide Use Annual Report 2022 Data Summary",
+          "publisher": "California Department of Pesticide Regulation",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Interessekoden i LobbyIntSearch er AGRICULTURE.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "Filer 1146857 har 1 196 763,69 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Ingen bidragssøk er kjørt for navnet.",
+      "status": "not_found",
+      "note": "ContributorSearch ble kjørt for Farm Bureau, Chevron, CRC og WSPA, ikke for Western Growers.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "Ingen pesticidpund er koblet til organisasjonen.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+          "title": "Pesticide Use Annual Report 2022 Data Summary",
+          "publisher": "California Department of Pesticide Regulation",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-pesticides",
+      "text": "Jordbruksfiler i samme tema, uten produktkobling."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "campaign_contributions",
+      "searched": "ContributorSearch er ikke kjørt for WESTERN GROWERS.",
+      "result": "not_found",
+      "urls": [
+        "https://dbsearch.sos.ca.gov/ContributorSearch.aspx"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hvilke saker Western Growers oppga overfor DPR eller lovgiver."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

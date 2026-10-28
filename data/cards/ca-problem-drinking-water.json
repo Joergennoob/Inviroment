@@ -1,0 +1,793 @@
+{
+  "id": "ca-problem-drinking-water",
+  "type": "problem",
+  "name": "Drikkevannssystemer som ikke oppfyller standard",
+  "rank": 3,
+  "summary": [
+    {
+      "id": "plain-1",
+      "text": "Noen offentlige vannverk leverer vann som bryter reglene for helse. Ved utgangen av 2024 gjaldt det 390 verk og om lag 800 000 mennesker. De vanligste grunnene var arsen, et giftig stoff, et kjemikalie fra industri, og nitrat. Nitrat er et stoff fra gjødsel. Gjødsel er den største kilden til nitrat i vannet under bakken i de hardest rammede jordbruksdalene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+          "title": "Addressing Nitrate in California's Drinking Water (2012)",
+          "publisher": "UC Davis for the State Water Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250115190005/https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Om lag 8 av 10 slike verk ligger i områder staten kaller økonomisk vanskeligstilte, altså steder der folk har lite penger. Halvparten ligger i områder der de fleste innbyggerne ikke er hvite.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "De aller fleste i California, 98 av 100, fikk likevel vann som holdt mål i 2024. Om lag 1,5 millioner mennesker var på verk som staten sier står i fare.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-4",
+      "text": "En nyere liste fra oktober 2026 har 416 verk. Deres eget folketall er om lag 430 000. Det er ikke det samme tallet som 800 000 fra 2024, fordi listen endrer seg.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+          "title": "SAFER drinking water risk assessment public flat file",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260204211536/https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+          "title": "California Drinking Water System Area Boundaries, water service areas",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260512214856/https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+          "title": "2020 Census PL 94-171 California geographic header",
+          "publisher": "US Census Bureau",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-5",
+      "text": "Der verkene som bryter reglene ligger, er det flere uten videregående skole enn hos verk som holder mål. Vi vet ikke om vannet er grunnen.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+          "title": "SAFER drinking water risk assessment public flat file",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260204211536/https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+          "title": "California Drinking Water System Area Boundaries, water service areas",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260512214856/https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+          "title": "PLACES census tract estimates, 2025 release, California",
+          "publisher": "CDC",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        },
+        {
+          "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+          "title": "CalEnviroScreen 4.0 tract centroids",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260722000851/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "UC Davis-rapporten fra 2012, skrevet for State Water Board etter SB X2 1, anslo at om lag 254 000 mennesker i Tulare Lake Basin og Salinas Valley da var i risiko for nitrat i drikkevannet. 220 000 var på offentlige eller state small-systemer, og 34 000 på private brønner.",
+      "status": "confirmed",
+      "note": "Tallet er fra 2012-studien, ikke fra Failing-listen i 2024.",
+      "sources": [
+        {
+          "url": "https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+          "title": "Addressing Nitrate in California's Drinking Water (2012)",
+          "publisher": "UC Davis for the State Water Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250115190005/https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "text": "Samme rapport sier at kunstgjødsel og husdyrgjødsel på dyrket mark er de klart største regionale kildene til nitrat i grunnvannet, og at grenseverdien er 45 milligram per liter som nitrat.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+          "title": "Addressing Nitrate in California's Drinking Water (2012)",
+          "publisher": "UC Davis for the State Water Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250115190005/https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "text": "Census tract 6019001500 har drikkevannsindikator 1 022,76 og persentil 99,64 i CalEnviroScreen 4.0. Det er ikke et navngitt vannverk.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=tract,CIscore,CIscoreP,ACS2019TotalPop,pm,drink,pest&returnGeometry=true&outSR=4326&f=geojson",
+          "title": "CalEnviroScreen 4.0 FeatureServer, utvalgte trakter",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154034/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=tract,CIscore,CIscoreP,ACS2019TotalPop,pm,drink,pest&returnGeometry=true&outSR=4326&f=geojson",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "text": "SB 200 (Monning, kapittel 120, 2019) opprettet Safe and Affordable Drinking Water Fund. Senatet samtykket 8. juli 2019 med 38 mot 1. Forsamlingen vedtok hasteklausulen 5. juli 2019 med 68 mot 0.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200, Chapter 120, Statutes of 2019",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "c5",
+      "text": "State Water Board skriver i sitt lovhistorikknotat at fondet årlig får fem prosent av Greenhouse Gas Reduction Fund, oppad begrenset til 130 millioner dollar, til 30. juni 2030.",
+      "status": "confirmed",
+      "note": "Beløpet er hentet fra styrets sammendrag av loven, ikke gjengitt fra selve lovparagrafen i denne runden.",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/safer/docs/safer_program_legislative_history.pdf",
+          "title": "SAFER Program Legislative History",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260812021807/https://www.waterboards.ca.gov/safer/docs/safer_program_legislative_history.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "text": "I 2025 Needs Assessment, med tall per 31. desember 2024, var 390 offentlige vannsystemer på Failing-listen. De betjente 811 964 mennesker.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Samme rapport sier at om lag 79 prosent av systemene på Failing-listen betjener disadvantaged communities, og 52 prosent betjener samfunn der flertallet er people of color.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "De forurensningene som i 2024 bidro til flest systemer på Failing-listen for primære grenseverdier, var arsen, 1,2,3-triklorpropan og nitrat eller nitrat pluss nitritt. Det var de samme som i 2023.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Rapporten sier også at 98 prosent av befolkningen i 2024 fikk vann fra systemer som oppfylte drikkevannsstandardene, og at 589 systemer var at-risk og betjente 1 490 776 mennesker.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "title": "2025 Drinking Water Needs Assessment",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -119.77617,
+          36.70692
+        ],
+        [
+          -119.76859,
+          36.70679
+        ],
+        [
+          -119.76566,
+          36.70688
+        ],
+        [
+          -119.73675,
+          36.68058
+        ],
+        [
+          -119.73648,
+          36.69965
+        ],
+        [
+          -119.7184,
+          36.70033
+        ],
+        [
+          -119.66397,
+          36.70019
+        ],
+        [
+          -119.66388,
+          36.66348
+        ],
+        [
+          -119.71776,
+          36.66362
+        ],
+        [
+          -119.71826,
+          36.66355
+        ],
+        [
+          -119.71879,
+          36.66318
+        ],
+        [
+          -119.71943,
+          36.6636
+        ],
+        [
+          -119.73673,
+          36.66343
+        ],
+        [
+          -119.77278,
+          36.66336
+        ],
+        [
+          -119.7727,
+          36.70419
+        ],
+        [
+          -119.77284,
+          36.70469
+        ],
+        [
+          -119.77428,
+          36.70608
+        ],
+        [
+          -119.77599,
+          36.70632
+        ],
+        [
+          -119.77617,
+          36.70692
+        ]
+      ]
+    ],
+    "source_name": "OEHHA CalEnviroScreen 4.0",
+    "source_record_id": "6019001500",
+    "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+    "retrieved": "2026-10-28",
+    "note": "Polygonet er census tract 6019001500 fra CalEnviroScreen 4.0. Det viser indikatoren for drikkevannsforurensning, ikke et navngitt vannverk på Failing-listen."
+  },
+  "map_features": [
+    {
+      "layer": "problem",
+      "name": "Census tract 6019001500",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -119.77617,
+              36.70692
+            ],
+            [
+              -119.76859,
+              36.70679
+            ],
+            [
+              -119.76566,
+              36.70688
+            ],
+            [
+              -119.73675,
+              36.68058
+            ],
+            [
+              -119.73648,
+              36.69965
+            ],
+            [
+              -119.7184,
+              36.70033
+            ],
+            [
+              -119.66397,
+              36.70019
+            ],
+            [
+              -119.66388,
+              36.66348
+            ],
+            [
+              -119.71776,
+              36.66362
+            ],
+            [
+              -119.71826,
+              36.66355
+            ],
+            [
+              -119.71879,
+              36.66318
+            ],
+            [
+              -119.71943,
+              36.6636
+            ],
+            [
+              -119.73673,
+              36.66343
+            ],
+            [
+              -119.77278,
+              36.66336
+            ],
+            [
+              -119.7727,
+              36.70419
+            ],
+            [
+              -119.77284,
+              36.70469
+            ],
+            [
+              -119.77428,
+              36.70608
+            ],
+            [
+              -119.77599,
+              36.70632
+            ],
+            [
+              -119.77617,
+              36.70692
+            ]
+          ]
+        ],
+        "source_name": "OEHHA CalEnviroScreen 4.0",
+        "source_record_id": "6019001500",
+        "source_url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+        "retrieved": "2026-10-28",
+        "note": "Polygonet er census tract 6019001500 fra CalEnviroScreen 4.0. Det viser indikatoren for drikkevannsforurensning, ikke et navngitt vannverk på Failing-listen."
+      }
+    }
+  ],
+  "links": [
+    {
+      "rel": "organization",
+      "target_id": "org-swrcb",
+      "text": "State Water Board fører Failing-listen og SAFER."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-200",
+      "text": "SB 200 og drikkevannsfondet."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-bill-monning",
+      "text": "Monning er oppført som forfatter på lovteksten."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-farm-bureau",
+      "text": "California Farm Bureau Federation er en jordbruksorganisasjon med lobbyutgifter og kampanjebidrag i Cal-Access."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-groundwater-overdraft",
+      "text": "Uttak av grunnvann henger sammen med brønner og forurensning, men er et eget vedtak hos DWR."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "named_failing_system_geometry",
+      "searched": "SABL-polygoner er koblet til SAFER-listen. Et punkt for hvert navngitte eksempelverk, som Halcyon, er fortsatt ikke lagt på kartet.",
+      "result": "not_found",
+      "urls": [
+        "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    },
+    {
+      "field": "fertilizer_company_sales",
+      "searched": "Ingen primærkilde er hentet som knytter et navngitt gjødselselskaps salg til nitrat i en navngitt brønn.",
+      "result": "not_found",
+      "urls": [],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Mottakerne av kampanjebidragene fra Farm Bureau-pakkene er ikke åpnet post for post."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "org_kind": null,
+  "schema_version": "1.0.0",
+  "population": {
+    "geography": "State Water Board knytter 811 964 mennesker til failing-systemene per 31.",
+    "vintage": "Folketelling 2010 der EPA er kilden, ellers ACS 2019–2023 eller etatens egen dato.",
+    "comparison": "California ACS 2019–2023 der et tract-tall er sammenlignet. Etatstallet er ikke en rate.",
+    "claims": [
+      {
+        "id": "r2-ca-problem-drinking-water-pop",
+        "text": "State Water Board knytter 811 964 mennesker til failing-systemene per 31. desember 2024. Tract 15 er et eksempel med høy drikkevannsindikator, ikke tjenesteområdet til de 390 systemene.",
+        "status": "confirmed",
+        "note": "Se også de eldre etatstallene i sammendraget.",
+        "sources": [
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001500",
+            "title": "ACSDT5Y2023.B01003 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "https://web.archive.org/web/20261028163509/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001500",
+            "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+          },
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "title": "CalEnviroScreen 4.0 tract 6019001500",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      }
+    ]
+  },
+  "demographics": {
+    "geography": "census tract 15 i Fresno County",
+    "vintage": "ACS 2019–2023",
+    "comparison": "Hele California, samme tabeller",
+    "claims": [
+      {
+        "id": "water-demo",
+        "text": "I census tract 15 i Fresno County (ACS 2019–2023) er folketallet 1 956, medianinntekten 59 375 dollar mot 96 334 i California, fattigdom 20,3 prosent mot 12,0, uten videregående 32,5 prosent mot 15,4, bachelor eller høyere 15,9 prosent mot 36,5, under 5 år 3,8 prosent mot 5,6, 65 år og eldre 10,6 prosent mot 15,3, språklig isolerte husholdninger 6,2 prosent mot 8,3, hispanic 70,6 prosent mot 39,8, ikke-hispanic hvit 15,3 prosent mot 34,6, svart 0,5 prosent mot 5,3, asiatisk 13,3 prosent mot 15,1, uten helseforsikring 6,8 prosent mot 6,9.",
+        "status": "confirmed",
+        "note": "Andeler er regnet fra tabellene som beskrevet i data/ca/metoder.md.",
+        "sources": [
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001500",
+            "title": "ACSDT5Y2023.B01003 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "https://web.archive.org/web/20261028163509/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001500",
+            "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06019001500",
+            "title": "ACSDT5Y2023.B19013 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "https://web.archive.org/web/20261028163520/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06019001500",
+            "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06019001500",
+            "title": "ACSDT5Y2023.B17001 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "https://web.archive.org/web/20261028163528/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06019001500",
+            "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06019001500",
+            "title": "ACSDT5Y2023.B15003 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "https://web.archive.org/web/20261028163535/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06019001500",
+            "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06019001500",
+            "title": "ACSDT5Y2023.B01001 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028163637/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06019001500",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06019001500",
+            "title": "ACSDT5Y2023.C16002 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "https://web.archive.org/web/20261028163722/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06019001500",
+            "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06019001500",
+            "title": "ACSDT5Y2023.B03002 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "https://web.archive.org/web/20261028163726/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06019001500",
+            "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06019001500",
+            "title": "ACSST5Y2023.S2701 for 1400000US06019001500",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "https://web.archive.org/web/20261028163736/https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06019001500",
+            "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+            "title": "ACSDT5Y2023.B01003 for 0400000US06",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r3-dw-tracts",
+        "text": "SAFER-filen med opprettelsesdato 28. oktober 2026 har 416 systemer merket Failing. Summen av filens eget befolkningsfelt er 426 484. 415 av systemene har et vannservicepolygon i SABL. Ett system med 80 personer i filen har ikke polygon. I 2020-blokker som faller i et failing-polygon, bor 357 102 personer. I blokker som bare faller i et system merket Not Failing, bor 37 215 322. 23 628 personer ligger i begge og er telt med failing.",
+        "status": "confirmed",
+        "note": "Behovsvurderingens 811 964 personer er tallet per 31. desember 2024. Filen her er den daglige listen 28. oktober 2026. Systemets eget folketall og blokkfolketallet er to ulike mål. Skriptet er scripts/area_boundaries.py.",
+        "sources": [
+          {
+            "url": "https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+            "title": "SAFER drinking water risk assessment public flat file",
+            "publisher": "State Water Resources Control Board",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260204211536/https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+            "title": "California Drinking Water System Area Boundaries, water service areas",
+            "publisher": "State Water Resources Control Board",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260512214856/https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+            "title": "2020 Census PL 94-171 California geographic header",
+            "publisher": "US Census Bureau",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      }
+    ]
+  },
+  "health_outcomes": {
+    "geography": "CalEnviroScreen 4.0 tract 6019001500",
+    "vintage": "OEHHA 4.0, helseindikatorer fra årene i rapporten",
+    "comparison": "Alle census tracts i California i CalEnviroScreen 4.0. Merkbart betyr persentil 90 eller høyere.",
+    "claims": [
+      {
+        "id": "water-asthma",
+        "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001500 er 101,7 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 93.1. Det er merkbart høyt.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "title": "CalEnviroScreen 4.0 tract 6019001500",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "title": "CalEnviroScreen 4.0 report",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "water-lbw",
+        "text": "Lav fødselsvekt i tract 6019001500 er 4,33 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 34.4. Det er ikke over terskelen på persentil 90.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "title": "CalEnviroScreen 4.0 tract 6019001500",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "title": "CalEnviroScreen 4.0 report",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "water-cvd",
+        "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6019001500 er 15,9 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 71.2. Det er ikke over terskelen på persentil 90.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "title": "CalEnviroScreen 4.0 tract 6019001500",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "title": "CalEnviroScreen 4.0 report",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r4-dw-health",
+        "text": "PLACES, vektet med blokkfolketallet i failing-polygon mot Not Failing-polygon: astma 9,94 mot 9,45 prosent, KOLS 6,47 mot 4,97, koronar hjertesykdom 6,52 mot 5,34, kreft 5,43 mot 6,21, diabetes 13,99 mot 11,45. Høyeste forhold er KOLS, 1,30. CalEnviroScreen der senterpunktet ligger i polygonet: uten videregående 29,4 mot 17,7 prosent, forhold 1,66, og språklig isolasjon 17,1 mot 10,0, forhold 1,71.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger sammenligningsgruppen. Senterpunktmetoden veier 192 693 personer, mindre enn blokktellingen, fordi store tract kan ha senter utenfor polygonet.",
+        "sources": [
+          {
+            "url": "https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+            "title": "SAFER drinking water risk assessment public flat file",
+            "publisher": "State Water Resources Control Board",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260204211536/https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+            "title": "California Drinking Water System Area Boundaries, water service areas",
+            "publisher": "State Water Resources Control Board",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260512214856/https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+            "title": "PLACES census tract estimates, 2025 release, California",
+            "publisher": "CDC",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+            "title": "CalEnviroScreen 4.0 tract centroids",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260722000851/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      }
+    ]
+  }
+}

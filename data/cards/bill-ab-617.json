@@ -1,0 +1,159 @@
+{
+  "id": "bill-ab-617",
+  "type": "bill",
+  "name": "AB 617 (2017), samfunnsovervåking av luft",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Dette er loven som sier at delstaten skal følge ekstra med på lufta i nabolag som allerede har mye forurensning. Cristina Garcia la den fram i 2017.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "I delstatsparlamentet stemte forsamlingen 50 mot 24. Senatet stemte 27 mot 13.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Loven gjelder hele California, ikke bare ett område. Den kan brukes både rundt Los Angeles og i jordbruksdalen.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Votes-siden har navnene. Kortet bruker tellingene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "AB 617, kapittel 136, godkjent 26. juli 2017, forfatter Cristina Garcia. Loven krever utslippsrapportering, en overvåkingsplan og en strategi for samfunn med høy samlet belastning, og gir distriktene hjemmel til å kreve fence-line-måling.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Forsamlingen samtykket 17. juli 2017 med 50 mot 24. Senatet vedtok samme dag med 27 mot 13.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "Loven gjelder både South Coast og San Joaquin Valley fordi den er statewide og peker på samfunn med høy belastning, ikke ett basseng.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-south-coast-air",
+      "text": "Samfunnsovervåking i bassenget."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-san-joaquin-air",
+      "text": "Samfunnsovervåking i dalen."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-cristina-garcia",
+      "text": "Forfatter på lovteksten."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-carb",
+      "text": "CARB skal lage planen og strategien."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-1647",
+      "text": "AB 1647 er den raffinerispesifikke måleloven samme år."
+    }
+  ],
+  "checked_empty": [],
+  "open_questions": [
+    "Hvilke communities CARB har valgt i siste års runde, og om noen av tractene i kartet er blant dem."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "schema_version": "1.0.0"
+}

@@ -1,0 +1,184 @@
+{
+  "id": "org-pbf",
+  "type": "organization",
+  "org_kind": "company",
+  "name": "PBF Energy Western Region og PBF Holding",
+  "summary": [
+    {
+      "id": "plain-1",
+      "text": "PBF er oljeselskapet som kjøpte raffineriet i Torrance i 2016. To av selskapets filer har brukt til sammen om lag 1 million dollar på lobbyvirksomhet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA title V order, Torrance",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Det føderale tilsynet skrev i 2025 at Torrance Refining driver anlegget.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA title V order, Torrance",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Et annet treff på navnet PBF er en frisørorganisasjon. Den har ingenting med raffineriet å gjøre.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "De to PBF-beløpene er ikke summert, fordi det er to filer.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r2-pbf-own",
+      "text": "EPA skriver 7. januar 2025 at Torrance-raffineriet ble kjøpt av PBF Energy i 2016 og drives av Torrance Refining Company, LLC.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA title V order, Torrance",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "text": "PBF Holding Company, filer 1408198, har 593 436,59 dollar i lobbybetalinger i sesjonen 2025-2026. PBF Energy Western Region LLC, filer 1382832, har 492 320,02 dollar. Begge står i oil and gas.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Et søk på PBF ga også Professional Beauty Federation of California. Den raden er ikke energiselskapet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Ingen primærkilde i denne runden sier at en av PBF-filene eier Torrance Refining Company LLC. Anlegget har derfor eget kort.",
+      "status": "not_verified",
+      "note": "En SEC-fil eller et FRS-eierfelt ville bekrefte eierskapet.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "title": "FRS facility TORRANCE REFINING COMPANY LLC",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "geometry": null,
+  "map_features": [],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-refineries",
+      "text": "Lobbytall uten bekreftet anleggskobling."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-torrance-refining",
+      "text": "FRS-anlegget som ofte omtales sammen med PBF, uten at eierskapet er bekreftet her."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "ownership",
+      "searched": "SEC-søk og FRS-eierfelt er ikke hentet for Torrance.",
+      "result": "not_found",
+      "urls": [],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Om PBF Energy Western Region er operatør for registry 110070241046."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "schema_version": "1.0.0"
+}

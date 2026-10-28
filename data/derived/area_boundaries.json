@@ -1,0 +1,1027 @@
+{
+  "retrieved": "2026-10-28",
+  "method": "2020 block internal point in a published polygon. EPA polygons were generalized by about 0.002 degrees, SABL by about 0.0003, basins by about 0.001. EPA says the shapefile is for mapping and 40 CFR part 81 is the legal boundary.",
+  "sources": {
+    "epa_pm25_2012": "https://geopub.epa.gov/ArcGIS/rest/services/icr/icrmap/MapServer/21/query",
+    "epa_ozone_2015": "https://geopub.epa.gov/ArcGIS/rest/services/icr/icrmap/MapServer/16/query",
+    "dwr_cod": "https://gis.water.ca.gov/arcgis/rest/services/Geoscientific/i08_CriticallyOverdraftedBasins/MapServer/0/query",
+    "sabl": "https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0/query",
+    "safer_package": "https://data.ca.gov/api/3/action/package_show?id=safer-failing-and-at-risk-drinking-water-systems",
+    "salton_outline": "https://raw.githubusercontent.com/OpenTopography/Data_Catalog_Spatial_Boundaries/main/OpenTopography_Raster/Salton_Sea.geojson",
+    "places": "https://data.cdc.gov/resource/yjkw-uj5s.csv",
+    "ces": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query",
+    "blocks": "https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip"
+  },
+  "areas": {
+    "PM-2.5.2012.LA-South_Coast": {
+      "block_population_2020": 16361181,
+      "populated_blocks": 117943,
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 9.3,
+            "population": 16360906
+          },
+          "comparison": {
+            "mean": 9.62,
+            "population": 23176830
+          },
+          "ratio": 0.97
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 4.75,
+            "population": 16360906
+          },
+          "comparison": {
+            "mean": 5.29,
+            "population": 23176830
+          },
+          "ratio": 0.9
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 5.19,
+            "population": 16360906
+          },
+          "comparison": {
+            "mean": 5.59,
+            "population": 23176830
+          },
+          "ratio": 0.93
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.77,
+            "population": 16360906
+          },
+          "comparison": {
+            "mean": 6.68,
+            "population": 23176830
+          },
+          "ratio": 0.86
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 11.92,
+            "population": 16360906
+          },
+          "comparison": {
+            "mean": 11.23,
+            "population": 23176830
+          },
+          "ratio": 1.06
+        }
+      },
+      "ces_centroid": {
+        "asthma": {
+          "area": {
+            "mean": 48.39,
+            "population": 16416515
+          },
+          "comparison": {
+            "mean": 54.11,
+            "population": 22866982
+          },
+          "ratio": 0.89
+        },
+        "cvd": {
+          "area": {
+            "mean": 14.09,
+            "population": 16416515
+          },
+          "comparison": {
+            "mean": 13.25,
+            "population": 22866982
+          },
+          "ratio": 1.06
+        },
+        "lbw": {
+          "area": {
+            "mean": 5.1,
+            "population": 16293902
+          },
+          "comparison": {
+            "mean": 4.91,
+            "population": 22501317
+          },
+          "ratio": 1.04
+        },
+        "edu": {
+          "area": {
+            "mean": 20.27,
+            "population": 16342920
+          },
+          "comparison": {
+            "mean": 15.74,
+            "population": 22775505
+          },
+          "ratio": 1.29
+        },
+        "ling": {
+          "area": {
+            "mean": 11.45,
+            "population": 16131943
+          },
+          "comparison": {
+            "mean": 8.43,
+            "population": 22189217
+          },
+          "ratio": 1.36
+        },
+        "pov": {
+          "area": {
+            "mean": 32.56,
+            "population": 16384773
+          },
+          "comparison": {
+            "mean": 30.01,
+            "population": 22773655
+          },
+          "ratio": 1.08
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 46.45,
+            "population": 16416515
+          },
+          "comparison": {
+            "mean": 33.68,
+            "population": 22866982
+          },
+          "ratio": 1.38
+        },
+        "drink": {
+          "area": {
+            "mean": 571.67,
+            "population": 16416506
+          },
+          "comparison": {
+            "mean": 410.95,
+            "population": 22854268
+          },
+          "ratio": 1.39
+        }
+      },
+      "ces_tracts": 3461
+    },
+    "PM-2.5.2012.San_Joaquin_Valley": {
+      "block_population_2020": 4178077,
+      "populated_blocks": 53214,
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 10.1,
+            "population": 4178053
+          },
+          "comparison": {
+            "mean": 9.42,
+            "population": 35359683
+          },
+          "ratio": 1.07
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 6.21,
+            "population": 4178053
+          },
+          "comparison": {
+            "mean": 4.93,
+            "population": 35359683
+          },
+          "ratio": 1.26
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 6.14,
+            "population": 4178053
+          },
+          "comparison": {
+            "mean": 5.34,
+            "population": 35359683
+          },
+          "ratio": 1.15
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.73,
+            "population": 4178053
+          },
+          "comparison": {
+            "mean": 6.37,
+            "population": 35359683
+          },
+          "ratio": 0.9
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 12.88,
+            "population": 4178053
+          },
+          "comparison": {
+            "mean": 11.35,
+            "population": 35359683
+          },
+          "ratio": 1.13
+        }
+      },
+      "ces_centroid": {
+        "asthma": {
+          "area": {
+            "mean": 70.84,
+            "population": 4066868
+          },
+          "comparison": {
+            "mean": 49.51,
+            "population": 35216629
+          },
+          "ratio": 1.43
+        },
+        "cvd": {
+          "area": {
+            "mean": 17.53,
+            "population": 4066868
+          },
+          "comparison": {
+            "mean": 13.15,
+            "population": 35216629
+          },
+          "ratio": 1.33
+        },
+        "lbw": {
+          "area": {
+            "mean": 5.33,
+            "population": 4030232
+          },
+          "comparison": {
+            "mean": 4.95,
+            "population": 34764987
+          },
+          "ratio": 1.08
+        },
+        "edu": {
+          "area": {
+            "mean": 25.95,
+            "population": 4064600
+          },
+          "comparison": {
+            "mean": 16.67,
+            "population": 35053825
+          },
+          "ratio": 1.56
+        },
+        "ling": {
+          "area": {
+            "mean": 11.72,
+            "population": 3934903
+          },
+          "comparison": {
+            "mean": 9.47,
+            "population": 34386257
+          },
+          "ratio": 1.24
+        },
+        "pov": {
+          "area": {
+            "mean": 43.42,
+            "population": 4040541
+          },
+          "comparison": {
+            "mean": 29.66,
+            "population": 35117887
+          },
+          "ratio": 1.46
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 52.95,
+            "population": 4066868
+          },
+          "comparison": {
+            "mean": 37.41,
+            "population": 35216629
+          },
+          "ratio": 1.42
+        },
+        "drink": {
+          "area": {
+            "mean": 709.13,
+            "population": 4060645
+          },
+          "comparison": {
+            "mean": 451.49,
+            "population": 35210129
+          },
+          "ratio": 1.57
+        }
+      },
+      "ces_tracts": 735
+    },
+    "Ozone_8-hr.2015.LA-South_Coast": {
+      "block_population_2020": 16352598,
+      "populated_blocks": 117868,
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 9.3,
+            "population": 16352323
+          },
+          "comparison": {
+            "mean": 9.62,
+            "population": 23185413
+          },
+          "ratio": 0.97
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 4.75,
+            "population": 16352323
+          },
+          "comparison": {
+            "mean": 5.28,
+            "population": 23185413
+          },
+          "ratio": 0.9
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 5.19,
+            "population": 16352323
+          },
+          "comparison": {
+            "mean": 5.59,
+            "population": 23185413
+          },
+          "ratio": 0.93
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.77,
+            "population": 16352323
+          },
+          "comparison": {
+            "mean": 6.68,
+            "population": 23185413
+          },
+          "ratio": 0.86
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 11.92,
+            "population": 16352323
+          },
+          "comparison": {
+            "mean": 11.22,
+            "population": 23185413
+          },
+          "ratio": 1.06
+        }
+      },
+      "ces_centroid": {
+        "asthma": {
+          "area": {
+            "mean": 48.38,
+            "population": 16397152
+          },
+          "comparison": {
+            "mean": 54.11,
+            "population": 22886345
+          },
+          "ratio": 0.89
+        },
+        "cvd": {
+          "area": {
+            "mean": 14.09,
+            "population": 16397152
+          },
+          "comparison": {
+            "mean": 13.25,
+            "population": 22886345
+          },
+          "ratio": 1.06
+        },
+        "lbw": {
+          "area": {
+            "mean": 5.1,
+            "population": 16273364
+          },
+          "comparison": {
+            "mean": 4.91,
+            "population": 22521855
+          },
+          "ratio": 1.04
+        },
+        "edu": {
+          "area": {
+            "mean": 20.28,
+            "population": 16323557
+          },
+          "comparison": {
+            "mean": 15.73,
+            "population": 22794868
+          },
+          "ratio": 1.29
+        },
+        "ling": {
+          "area": {
+            "mean": 11.47,
+            "population": 16111405
+          },
+          "comparison": {
+            "mean": 8.42,
+            "population": 22209755
+          },
+          "ratio": 1.36
+        },
+        "pov": {
+          "area": {
+            "mean": 32.57,
+            "population": 16364235
+          },
+          "comparison": {
+            "mean": 30.0,
+            "population": 22794193
+          },
+          "ratio": 1.09
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 46.49,
+            "population": 16397152
+          },
+          "comparison": {
+            "mean": 33.66,
+            "population": 22886345
+          },
+          "ratio": 1.38
+        },
+        "drink": {
+          "area": {
+            "mean": 571.65,
+            "population": 16397143
+          },
+          "comparison": {
+            "mean": 411.1,
+            "population": 22873631
+          },
+          "ratio": 1.39
+        }
+      },
+      "ces_tracts": 3459
+    },
+    "Ozone_8-hr.2015.San_Joaquin_Valley": {
+      "block_population_2020": 4179920,
+      "populated_blocks": 53225,
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 10.1,
+            "population": 4179896
+          },
+          "comparison": {
+            "mean": 9.42,
+            "population": 35357840
+          },
+          "ratio": 1.07
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 6.2,
+            "population": 4179896
+          },
+          "comparison": {
+            "mean": 4.93,
+            "population": 35357840
+          },
+          "ratio": 1.26
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 6.13,
+            "population": 4179896
+          },
+          "comparison": {
+            "mean": 5.34,
+            "population": 35357840
+          },
+          "ratio": 1.15
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.73,
+            "population": 4179896
+          },
+          "comparison": {
+            "mean": 6.37,
+            "population": 35357840
+          },
+          "ratio": 0.9
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 12.88,
+            "population": 4179896
+          },
+          "comparison": {
+            "mean": 11.35,
+            "population": 35357840
+          },
+          "ratio": 1.13
+        }
+      },
+      "ces_centroid": {
+        "asthma": {
+          "area": {
+            "mean": 70.8,
+            "population": 4070355
+          },
+          "comparison": {
+            "mean": 49.51,
+            "population": 35213142
+          },
+          "ratio": 1.43
+        },
+        "cvd": {
+          "area": {
+            "mean": 17.53,
+            "population": 4070355
+          },
+          "comparison": {
+            "mean": 13.15,
+            "population": 35213142
+          },
+          "ratio": 1.33
+        },
+        "lbw": {
+          "area": {
+            "mean": 5.33,
+            "population": 4033719
+          },
+          "comparison": {
+            "mean": 4.95,
+            "population": 34761500
+          },
+          "ratio": 1.08
+        },
+        "edu": {
+          "area": {
+            "mean": 25.94,
+            "population": 4068087
+          },
+          "comparison": {
+            "mean": 16.67,
+            "population": 35050338
+          },
+          "ratio": 1.56
+        },
+        "ling": {
+          "area": {
+            "mean": 11.71,
+            "population": 3938390
+          },
+          "comparison": {
+            "mean": 9.47,
+            "population": 34382770
+          },
+          "ratio": 1.24
+        },
+        "pov": {
+          "area": {
+            "mean": 43.43,
+            "population": 4044028
+          },
+          "comparison": {
+            "mean": 29.65,
+            "population": 35114400
+          },
+          "ratio": 1.46
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 52.92,
+            "population": 4070355
+          },
+          "comparison": {
+            "mean": 37.41,
+            "population": 35213142
+          },
+          "ratio": 1.41
+        },
+        "drink": {
+          "area": {
+            "mean": 708.97,
+            "population": 4064132
+          },
+          "comparison": {
+            "mean": 451.49,
+            "population": 35206642
+          },
+          "ratio": 1.57
+        }
+      },
+      "ces_tracts": 736
+    },
+    "critically_overdrafted_basins": {
+      "block_population_2020": 4053539,
+      "populated_blocks": 50831,
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 10.05,
+            "population": 4053515
+          },
+          "comparison": {
+            "mean": 9.43,
+            "population": 35484221
+          },
+          "ratio": 1.07
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 6.08,
+            "population": 4053515
+          },
+          "comparison": {
+            "mean": 4.95,
+            "population": 35484221
+          },
+          "ratio": 1.23
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 6.09,
+            "population": 4053515
+          },
+          "comparison": {
+            "mean": 5.35,
+            "population": 35484221
+          },
+          "ratio": 1.14
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.76,
+            "population": 4053515
+          },
+          "comparison": {
+            "mean": 6.36,
+            "population": 35484221
+          },
+          "ratio": 0.91
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 12.9,
+            "population": 4053515
+          },
+          "comparison": {
+            "mean": 11.35,
+            "population": 35484221
+          },
+          "ratio": 1.14
+        }
+      },
+      "ces_centroid": {
+        "asthma": {
+          "area": {
+            "mean": 68.78,
+            "population": 3945321
+          },
+          "comparison": {
+            "mean": 49.82,
+            "population": 35338176
+          },
+          "ratio": 1.38
+        },
+        "cvd": {
+          "area": {
+            "mean": 16.91,
+            "population": 3945321
+          },
+          "comparison": {
+            "mean": 13.23,
+            "population": 35338176
+          },
+          "ratio": 1.28
+        },
+        "lbw": {
+          "area": {
+            "mean": 5.31,
+            "population": 3916053
+          },
+          "comparison": {
+            "mean": 4.96,
+            "population": 34879166
+          },
+          "ratio": 1.07
+        },
+        "edu": {
+          "area": {
+            "mean": 26.35,
+            "population": 3942378
+          },
+          "comparison": {
+            "mean": 16.65,
+            "population": 35176047
+          },
+          "ratio": 1.58
+        },
+        "ling": {
+          "area": {
+            "mean": 12.28,
+            "population": 3805078
+          },
+          "comparison": {
+            "mean": 9.42,
+            "population": 34516082
+          },
+          "ratio": 1.3
+        },
+        "pov": {
+          "area": {
+            "mean": 43.31,
+            "population": 3925217
+          },
+          "comparison": {
+            "mean": 29.71,
+            "population": 35233211
+          },
+          "ratio": 1.46
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 54.92,
+            "population": 3945321
+          },
+          "comparison": {
+            "mean": 37.24,
+            "population": 35338176
+          },
+          "ratio": 1.47
+        },
+        "drink": {
+          "area": {
+            "mean": 662.64,
+            "population": 3945321
+          },
+          "comparison": {
+            "mean": 457.53,
+            "population": 35325453
+          },
+          "ratio": 1.45
+        }
+      },
+      "ces_tracts": 718,
+      "basin_count": 21,
+      "basin_names": [
+        "CUYAMA VALLEY",
+        "SANTA CRUZ MID-COUNTY",
+        "SAN JOAQUIN VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "SANTA CLARA RIVER VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "BORREGO VALLEY",
+        "INDIAN WELLS VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "SALINAS VALLEY",
+        "PLEASANT VALLEY",
+        "SALINAS VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "CORRALITOS",
+        "SAN JOAQUIN VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "SAN JOAQUIN VALLEY",
+        "LOS OSOS VALLEY"
+      ]
+    },
+    "salton_1_mile": {
+      "block_population_2020": 12034,
+      "populated_blocks": 258,
+      "tracts_with_populated_block": 12,
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 10.02,
+            "population": 12034
+          },
+          "comparison": {
+            "mean": 9.49,
+            "population": 39525702
+          },
+          "ratio": 1.06
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 6.79,
+            "population": 12034
+          },
+          "comparison": {
+            "mean": 5.06,
+            "population": 39525702
+          },
+          "ratio": 1.34
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 6.73,
+            "population": 12034
+          },
+          "comparison": {
+            "mean": 5.43,
+            "population": 39525702
+          },
+          "ratio": 1.24
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 3.49,
+            "population": 12034
+          },
+          "comparison": {
+            "mean": 6.3,
+            "population": 39525702
+          },
+          "ratio": 0.55
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 16.35,
+            "population": 12034
+          },
+          "comparison": {
+            "mean": 11.51,
+            "population": 39525702
+          },
+          "ratio": 1.42
+        }
+      },
+      "note": "1 mile from the OpenTopography Salton Sea outline. Not the IID exposed-playa polygon."
+    },
+    "drinking_water": {
+      "safer_retrieved_created_date": "2026-10-28",
+      "safer_failing_systems": 416,
+      "safer_failing_population_field": 426484,
+      "safer_not_failing_systems": 2770,
+      "failing_with_water_service_polygon": 415,
+      "failing_without_water_service_polygon": 1,
+      "safer_population_of_failing_systems_without_polygon": 80,
+      "not_failing_with_water_service_polygon": 2716,
+      "block_population_in_failing_service_area": 357102,
+      "block_population_in_not_failing_service_area_only": 37215322,
+      "block_population_in_both": 23628,
+      "places_failing_vs_not_failing": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 9.94,
+            "population": 357102
+          },
+          "comparison": {
+            "mean": 9.45,
+            "population": 37214841
+          },
+          "ratio": 1.05
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 6.47,
+            "population": 357102
+          },
+          "comparison": {
+            "mean": 4.97,
+            "population": 37214841
+          },
+          "ratio": 1.3
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 6.52,
+            "population": 357102
+          },
+          "comparison": {
+            "mean": 5.34,
+            "population": 37214841
+          },
+          "ratio": 1.22
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.43,
+            "population": 357102
+          },
+          "comparison": {
+            "mean": 6.21,
+            "population": 37214841
+          },
+          "ratio": 0.87
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 13.99,
+            "population": 357102
+          },
+          "comparison": {
+            "mean": 11.45,
+            "population": 37214841
+          },
+          "ratio": 1.22
+        }
+      },
+      "rule": "A block is failing if its internal point is inside at least one failing water-service polygon. It is not-failing only if it is inside a not-failing polygon and no failing polygon. Overlap is counted in failing.",
+      "ces_centroid_failing_vs_not_failing": {
+        "asthma": {
+          "area": {
+            "mean": 55.82,
+            "population": 192693
+          },
+          "comparison": {
+            "mean": 51.93,
+            "population": 34541651
+          },
+          "ratio": 1.07
+        },
+        "cvd": {
+          "area": {
+            "mean": 18.09,
+            "population": 192693
+          },
+          "comparison": {
+            "mean": 13.47,
+            "population": 34541651
+          },
+          "ratio": 1.34
+        },
+        "lbw": {
+          "area": {
+            "mean": 4.96,
+            "population": 184150
+          },
+          "comparison": {
+            "mean": 5.04,
+            "population": 34210256
+          },
+          "ratio": 0.98
+        },
+        "edu": {
+          "area": {
+            "mean": 29.39,
+            "population": 192693
+          },
+          "comparison": {
+            "mean": 17.66,
+            "population": 34394689
+          },
+          "ratio": 1.66
+        },
+        "ling": {
+          "area": {
+            "mean": 17.11,
+            "population": 184150
+          },
+          "comparison": {
+            "mean": 9.98,
+            "population": 33742530
+          },
+          "ratio": 1.71
+        },
+        "pov": {
+          "area": {
+            "mean": 42.71,
+            "population": 184150
+          },
+          "comparison": {
+            "mean": 31.07,
+            "population": 34446845
+          },
+          "ratio": 1.37
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 57.68,
+            "population": 192693
+          },
+          "comparison": {
+            "mean": 39.54,
+            "population": 34541651
+          },
+          "ratio": 1.46
+        },
+        "drink": {
+          "area": {
+            "mean": 636.39,
+            "population": 189721
+          },
+          "comparison": {
+            "mean": 467.55,
+            "population": 34535332
+          },
+          "ratio": 1.36
+        }
+      },
+      "ces_failing_tracts": 39,
+      "ces_not_failing_tracts": 7047
+    }
+  }
+}

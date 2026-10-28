@@ -1,0 +1,1246 @@
+{
+  "retrieved": "2026-10-28",
+  "places": {
+    "url": "https://data.cdc.gov/resource/yjkw-uj5s",
+    "rows": 9070,
+    "weight": "totalpopulation",
+    "measure": "crude prevalence, percent of adults"
+  },
+  "ces": {
+    "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query",
+    "rows": 8035,
+    "weight": "ACS2019TotalPop",
+    "vintage": "CalEnviroScreen 4.0, 2010 tracts, ACS 2015-2019 population"
+  },
+  "groups": {
+    "south_coast_counties": {
+      "note": "PLACES and CES use county FIPS 037, 059, 065, 071. The South Coast air basin is smaller than these four counties.",
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 9.38,
+            "population": 17800562,
+            "tracts": 4068
+          },
+          "rest_of_california": {
+            "mean": 9.58,
+            "population": 21737174,
+            "tracts": 5002
+          },
+          "ratio": 0.98
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 4.89,
+            "population": 17800562,
+            "tracts": 4068
+          },
+          "rest_of_california": {
+            "mean": 5.21,
+            "population": 21737174,
+            "tracts": 5002
+          },
+          "ratio": 0.94
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 5.31,
+            "population": 17800562,
+            "tracts": 4068
+          },
+          "rest_of_california": {
+            "mean": 5.53,
+            "population": 21737174,
+            "tracts": 5002
+          },
+          "ratio": 0.96
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.84,
+            "population": 17800562,
+            "tracts": 4068
+          },
+          "rest_of_california": {
+            "mean": 6.68,
+            "population": 21737174,
+            "tracts": 5002
+          },
+          "ratio": 0.87
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 12.03,
+            "population": 17800562,
+            "tracts": 4068
+          },
+          "rest_of_california": {
+            "mean": 11.09,
+            "population": 21737174,
+            "tracts": 5002
+          },
+          "ratio": 1.08
+        }
+      },
+      "ces": {
+        "asthma": {
+          "area": {
+            "mean": 50.19,
+            "population": 17810084,
+            "tracts": 3729
+          },
+          "rest_of_california": {
+            "mean": 52.99,
+            "population": 21473413,
+            "tracts": 4283
+          },
+          "ratio": 0.95
+        },
+        "cvd": {
+          "area": {
+            "mean": 14.52,
+            "population": 17810084,
+            "tracts": 3729
+          },
+          "rest_of_california": {
+            "mean": 12.84,
+            "population": 21473413,
+            "tracts": 4283
+          },
+          "ratio": 1.13
+        },
+        "lbw": {
+          "area": {
+            "mean": 5.15,
+            "population": 17621652,
+            "tracts": 3642
+          },
+          "rest_of_california": {
+            "mean": 4.86,
+            "population": 21173567,
+            "tracts": 4166
+          },
+          "ratio": 1.06
+        },
+        "edu": {
+          "area": {
+            "mean": 20.26,
+            "population": 17732096,
+            "tracts": 3688
+          },
+          "rest_of_california": {
+            "mean": 15.45,
+            "population": 21386329,
+            "tracts": 4244
+          },
+          "ratio": 1.31
+        },
+        "ling": {
+          "area": {
+            "mean": 11.35,
+            "population": 17418222,
+            "tracts": 3607
+          },
+          "rest_of_california": {
+            "mean": 8.33,
+            "population": 20902938,
+            "tracts": 4108
+          },
+          "ratio": 1.36
+        },
+        "pov": {
+          "area": {
+            "mean": 33.33,
+            "population": 17762064,
+            "tracts": 3703
+          },
+          "rest_of_california": {
+            "mean": 29.2,
+            "population": 21396364,
+            "tracts": 4257
+          },
+          "ratio": 1.14
+        },
+        "housingB": {
+          "area": {
+            "mean": 20.38,
+            "population": 17716534,
+            "tracts": 3673
+          },
+          "rest_of_california": {
+            "mean": 16.49,
+            "population": 21335079,
+            "tracts": 4217
+          },
+          "ratio": 1.24
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 46.56,
+            "population": 17810084,
+            "tracts": 3729
+          },
+          "rest_of_california": {
+            "mean": 32.76,
+            "population": 21473413,
+            "tracts": 4283
+          },
+          "ratio": 1.42
+        },
+        "White_pct": {
+          "area": {
+            "mean": 30.28,
+            "population": 17810084,
+            "tracts": 3729
+          },
+          "rest_of_california": {
+            "mean": 42.9,
+            "population": 21473413,
+            "tracts": 4283
+          },
+          "ratio": 0.71
+        },
+        "African_American_pct": {
+          "area": {
+            "mean": 6.5,
+            "population": 17810084,
+            "tracts": 3729
+          },
+          "rest_of_california": {
+            "mean": 4.71,
+            "population": 21473413,
+            "tracts": 4283
+          },
+          "ratio": 1.38
+        },
+        "Asian_American_pct": {
+          "area": {
+            "mean": 13.74,
+            "population": 17810084,
+            "tracts": 3729
+          },
+          "rest_of_california": {
+            "mean": 15.39,
+            "population": 21473413,
+            "tracts": 4283
+          },
+          "ratio": 0.89
+        },
+        "Children_under10_pct": {
+          "area": {
+            "mean": 12.46,
+            "population": 17810084,
+            "tracts": 3729
+          },
+          "rest_of_california": {
+            "mean": 12.57,
+            "population": 21473413,
+            "tracts": 4283
+          },
+          "ratio": 0.99
+        },
+        "Elderly_65over_pct": {
+          "area": {
+            "mean": 13.33,
+            "population": 17810084,
+            "tracts": 3729
+          },
+          "rest_of_california": {
+            "mean": 14.49,
+            "population": 21473413,
+            "tracts": 4283
+          },
+          "ratio": 0.92
+        },
+        "drink": {
+          "area": {
+            "mean": 557.37,
+            "population": 17809904,
+            "tracts": 3727
+          },
+          "rest_of_california": {
+            "mean": 412.38,
+            "population": 21460870,
+            "tracts": 4279
+          },
+          "ratio": 1.35
+        }
+      }
+    },
+    "san_joaquin_counties": {
+      "note": "County FIPS 077, 099, 047, 039, 019, 107, 031, 029. Eastern Kern is outside the valley air basin and outside some groundwater basins.",
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 10.13,
+            "population": 4313036,
+            "tracts": 977
+          },
+          "rest_of_california": {
+            "mean": 9.41,
+            "population": 35224700,
+            "tracts": 8093
+          },
+          "ratio": 1.08
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 6.25,
+            "population": 4313036,
+            "tracts": 977
+          },
+          "rest_of_california": {
+            "mean": 4.92,
+            "population": 35224700,
+            "tracts": 8093
+          },
+          "ratio": 1.27
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 6.17,
+            "population": 4313036,
+            "tracts": 977
+          },
+          "rest_of_california": {
+            "mean": 5.34,
+            "population": 35224700,
+            "tracts": 8093
+          },
+          "ratio": 1.16
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.8,
+            "population": 4313036,
+            "tracts": 977
+          },
+          "rest_of_california": {
+            "mean": 6.36,
+            "population": 35224700,
+            "tracts": 8093
+          },
+          "ratio": 0.91
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 12.88,
+            "population": 4313036,
+            "tracts": 977
+          },
+          "rest_of_california": {
+            "mean": 11.34,
+            "population": 35224700,
+            "tracts": 8093
+          },
+          "ratio": 1.14
+        }
+      },
+      "ces": {
+        "asthma": {
+          "area": {
+            "mean": 70.76,
+            "population": 4197363,
+            "tracts": 760
+          },
+          "rest_of_california": {
+            "mean": 49.44,
+            "population": 35086134,
+            "tracts": 7252
+          },
+          "ratio": 1.43
+        },
+        "cvd": {
+          "area": {
+            "mean": 17.61,
+            "population": 4197363,
+            "tracts": 760
+          },
+          "rest_of_california": {
+            "mean": 13.12,
+            "population": 35086134,
+            "tracts": 7252
+          },
+          "ratio": 1.34
+        },
+        "lbw": {
+          "area": {
+            "mean": 5.33,
+            "population": 4156499,
+            "tracts": 748
+          },
+          "rest_of_california": {
+            "mean": 4.95,
+            "population": 34638720,
+            "tracts": 7060
+          },
+          "ratio": 1.08
+        },
+        "edu": {
+          "area": {
+            "mean": 25.6,
+            "population": 4195095,
+            "tracts": 759
+          },
+          "rest_of_california": {
+            "mean": 16.67,
+            "population": 34923330,
+            "tracts": 7173
+          },
+          "ratio": 1.54
+        },
+        "ling": {
+          "area": {
+            "mean": 11.45,
+            "population": 4058343,
+            "tracts": 726
+          },
+          "rest_of_california": {
+            "mean": 9.49,
+            "population": 34262817,
+            "tracts": 6989
+          },
+          "ratio": 1.21
+        },
+        "pov": {
+          "area": {
+            "mean": 43.28,
+            "population": 4166808,
+            "tracts": 753
+          },
+          "rest_of_california": {
+            "mean": 29.62,
+            "population": 34991620,
+            "tracts": 7207
+          },
+          "ratio": 1.46
+        },
+        "housingB": {
+          "area": {
+            "mean": 16.71,
+            "population": 4160724,
+            "tracts": 748
+          },
+          "rest_of_california": {
+            "mean": 18.44,
+            "population": 34890889,
+            "tracts": 7142
+          },
+          "ratio": 0.91
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 52.09,
+            "population": 4197363,
+            "tracts": 760
+          },
+          "rest_of_california": {
+            "mean": 37.45,
+            "population": 35086134,
+            "tracts": 7252
+          },
+          "ratio": 1.39
+        },
+        "White_pct": {
+          "area": {
+            "mean": 32.52,
+            "population": 4197363,
+            "tracts": 760
+          },
+          "rest_of_california": {
+            "mean": 37.74,
+            "population": 35086134,
+            "tracts": 7252
+          },
+          "ratio": 0.86
+        },
+        "African_American_pct": {
+          "area": {
+            "mean": 4.35,
+            "population": 4197363,
+            "tracts": 760
+          },
+          "rest_of_california": {
+            "mean": 5.66,
+            "population": 35086134,
+            "tracts": 7252
+          },
+          "ratio": 0.77
+        },
+        "Asian_American_pct": {
+          "area": {
+            "mean": 8.03,
+            "population": 4197363,
+            "tracts": 760
+          },
+          "rest_of_california": {
+            "mean": 15.43,
+            "population": 35086134,
+            "tracts": 7252
+          },
+          "ratio": 0.52
+        },
+        "Children_under10_pct": {
+          "area": {
+            "mean": 15.65,
+            "population": 4197363,
+            "tracts": 760
+          },
+          "rest_of_california": {
+            "mean": 12.15,
+            "population": 35086134,
+            "tracts": 7252
+          },
+          "ratio": 1.29
+        },
+        "Elderly_65over_pct": {
+          "area": {
+            "mean": 11.75,
+            "population": 4197363,
+            "tracts": 760
+          },
+          "rest_of_california": {
+            "mean": 14.23,
+            "population": 35086134,
+            "tracts": 7252
+          },
+          "ratio": 0.83
+        },
+        "drink": {
+          "area": {
+            "mean": 706.31,
+            "population": 4191140,
+            "tracts": 758
+          },
+          "rest_of_california": {
+            "mean": 450.87,
+            "population": 35079634,
+            "tracts": 7248
+          },
+          "ratio": 1.57
+        }
+      }
+    },
+    "pesticide_top_counties": {
+      "note": "Fresno, Kern, Tulare, and Monterey, the four counties with the most pesticide pounds in DPR 2022.",
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 10.16,
+            "population": 2830007,
+            "tracts": 665
+          },
+          "rest_of_california": {
+            "mean": 9.44,
+            "population": 36707729,
+            "tracts": 8405
+          },
+          "ratio": 1.08
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 6.14,
+            "population": 2830007,
+            "tracts": 665
+          },
+          "rest_of_california": {
+            "mean": 4.98,
+            "population": 36707729,
+            "tracts": 8405
+          },
+          "ratio": 1.23
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 6.13,
+            "population": 2830007,
+            "tracts": 665
+          },
+          "rest_of_california": {
+            "mean": 5.37,
+            "population": 36707729,
+            "tracts": 8405
+          },
+          "ratio": 1.14
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.73,
+            "population": 2830007,
+            "tracts": 665
+          },
+          "rest_of_california": {
+            "mean": 6.35,
+            "population": 36707729,
+            "tracts": 8405
+          },
+          "ratio": 0.9
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 12.99,
+            "population": 2830007,
+            "tracts": 665
+          },
+          "rest_of_california": {
+            "mean": 11.4,
+            "population": 36707729,
+            "tracts": 8405
+          },
+          "ratio": 1.14
+        }
+      },
+      "ces": {
+        "asthma": {
+          "area": {
+            "mean": 66.55,
+            "population": 2767470,
+            "tracts": 520
+          },
+          "rest_of_california": {
+            "mean": 50.6,
+            "population": 36516027,
+            "tracts": 7492
+          },
+          "ratio": 1.32
+        },
+        "cvd": {
+          "area": {
+            "mean": 15.67,
+            "population": 2767470,
+            "tracts": 520
+          },
+          "rest_of_california": {
+            "mean": 13.45,
+            "population": 36516027,
+            "tracts": 7492
+          },
+          "ratio": 1.17
+        },
+        "lbw": {
+          "area": {
+            "mean": 5.36,
+            "population": 2717630,
+            "tracts": 503
+          },
+          "rest_of_california": {
+            "mean": 4.96,
+            "population": 36077589,
+            "tracts": 7305
+          },
+          "ratio": 1.08
+        },
+        "edu": {
+          "area": {
+            "mean": 27.51,
+            "population": 2763310,
+            "tracts": 518
+          },
+          "rest_of_california": {
+            "mean": 16.88,
+            "population": 36355115,
+            "tracts": 7414
+          },
+          "ratio": 1.63
+        },
+        "ling": {
+          "area": {
+            "mean": 12.91,
+            "population": 2655895,
+            "tracts": 491
+          },
+          "rest_of_california": {
+            "mean": 9.46,
+            "population": 35665265,
+            "tracts": 7224
+          },
+          "ratio": 1.36
+        },
+        "pov": {
+          "area": {
+            "mean": 45.0,
+            "population": 2738209,
+            "tracts": 513
+          },
+          "rest_of_california": {
+            "mean": 30.03,
+            "population": 36420219,
+            "tracts": 7447
+          },
+          "ratio": 1.5
+        },
+        "housingB": {
+          "area": {
+            "mean": 17.13,
+            "population": 2731277,
+            "tracts": 508
+          },
+          "rest_of_california": {
+            "mean": 18.34,
+            "population": 36320336,
+            "tracts": 7382
+          },
+          "ratio": 0.93
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 55.95,
+            "population": 2767470,
+            "tracts": 520
+          },
+          "rest_of_california": {
+            "mean": 37.74,
+            "population": 36516027,
+            "tracts": 7492
+          },
+          "ratio": 1.48
+        },
+        "White_pct": {
+          "area": {
+            "mean": 30.87,
+            "population": 2767470,
+            "tracts": 520
+          },
+          "rest_of_california": {
+            "mean": 37.66,
+            "population": 36516027,
+            "tracts": 7492
+          },
+          "ratio": 0.82
+        },
+        "African_American_pct": {
+          "area": {
+            "mean": 3.85,
+            "population": 2767470,
+            "tracts": 520
+          },
+          "rest_of_california": {
+            "mean": 5.65,
+            "population": 36516027,
+            "tracts": 7492
+          },
+          "ratio": 0.68
+        },
+        "Asian_American_pct": {
+          "area": {
+            "mean": 6.63,
+            "population": 2767470,
+            "tracts": 520
+          },
+          "rest_of_california": {
+            "mean": 15.25,
+            "population": 36516027,
+            "tracts": 7492
+          },
+          "ratio": 0.43
+        },
+        "Children_under10_pct": {
+          "area": {
+            "mean": 15.88,
+            "population": 2767470,
+            "tracts": 520
+          },
+          "rest_of_california": {
+            "mean": 12.27,
+            "population": 36516027,
+            "tracts": 7492
+          },
+          "ratio": 1.29
+        },
+        "Elderly_65over_pct": {
+          "area": {
+            "mean": 11.61,
+            "population": 2767470,
+            "tracts": 520
+          },
+          "rest_of_california": {
+            "mean": 14.14,
+            "population": 36516027,
+            "tracts": 7492
+          },
+          "ratio": 0.82
+        },
+        "drink": {
+          "area": {
+            "mean": 671.91,
+            "population": 2764219,
+            "tracts": 519
+          },
+          "rest_of_california": {
+            "mean": 463.46,
+            "population": 36506555,
+            "tracts": 7487
+          },
+          "ratio": 1.45
+        }
+      }
+    },
+    "imperial_county": {
+      "note": "Imperial County only. The Salton Sea's northern shore is in Riverside County and is not in this cut.",
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 9.41,
+            "population": 179702,
+            "tracts": 40
+          },
+          "rest_of_california": {
+            "mean": 9.49,
+            "population": 39358034,
+            "tracts": 9030
+          },
+          "ratio": 0.99
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 5.97,
+            "population": 179702,
+            "tracts": 40
+          },
+          "rest_of_california": {
+            "mean": 5.06,
+            "population": 39358034,
+            "tracts": 9030
+          },
+          "ratio": 1.18
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 6.8,
+            "population": 179702,
+            "tracts": 40
+          },
+          "rest_of_california": {
+            "mean": 5.42,
+            "population": 39358034,
+            "tracts": 9030
+          },
+          "ratio": 1.25
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 5.04,
+            "population": 179702,
+            "tracts": 40
+          },
+          "rest_of_california": {
+            "mean": 6.31,
+            "population": 39358034,
+            "tracts": 9030
+          },
+          "ratio": 0.8
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 15.41,
+            "population": 179702,
+            "tracts": 40
+          },
+          "rest_of_california": {
+            "mean": 11.49,
+            "population": 39358034,
+            "tracts": 9030
+          },
+          "ratio": 1.34
+        }
+      },
+      "ces": {
+        "asthma": {
+          "area": {
+            "mean": 86.43,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 51.56,
+            "population": 39102796,
+            "tracts": 7981
+          },
+          "ratio": 1.68
+        },
+        "cvd": {
+          "area": {
+            "mean": 19.18,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 13.58,
+            "population": 39102796,
+            "tracts": 7981
+          },
+          "ratio": 1.41
+        },
+        "lbw": {
+          "area": {
+            "mean": 4.33,
+            "population": 174187,
+            "tracts": 28
+          },
+          "rest_of_california": {
+            "mean": 4.99,
+            "population": 38621032,
+            "tracts": 7780
+          },
+          "ratio": 0.87
+        },
+        "edu": {
+          "area": {
+            "mean": 30.11,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 17.57,
+            "population": 38937724,
+            "tracts": 7901
+          },
+          "ratio": 1.71
+        },
+        "ling": {
+          "area": {
+            "mean": 24.05,
+            "population": 176564,
+            "tracts": 30
+          },
+          "rest_of_california": {
+            "mean": 9.63,
+            "population": 38144596,
+            "tracts": 7685
+          },
+          "ratio": 2.5
+        },
+        "pov": {
+          "area": {
+            "mean": 46.45,
+            "population": 176564,
+            "tracts": 30
+          },
+          "rest_of_california": {
+            "mean": 31.01,
+            "population": 38981864,
+            "tracts": 7930
+          },
+          "ratio": 1.5
+        },
+        "housingB": {
+          "area": {
+            "mean": 17.31,
+            "population": 168693,
+            "tracts": 26
+          },
+          "rest_of_california": {
+            "mean": 18.26,
+            "population": 38882920,
+            "tracts": 7864
+          },
+          "ratio": 0.95
+        },
+        "Hispanic_pct": {
+          "area": {
+            "mean": 84.21,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 38.81,
+            "population": 39102796,
+            "tracts": 7981
+          },
+          "ratio": 2.17
+        },
+        "White_pct": {
+          "area": {
+            "mean": 10.64,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 37.3,
+            "population": 39102796,
+            "tracts": 7981
+          },
+          "ratio": 0.29
+        },
+        "African_American_pct": {
+          "area": {
+            "mean": 2.15,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 5.54,
+            "population": 39102796,
+            "tracts": 7981
+          },
+          "ratio": 0.39
+        },
+        "Asian_American_pct": {
+          "area": {
+            "mean": 1.44,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 14.7,
+            "population": 39102796,
+            "tracts": 7981
+          },
+          "ratio": 0.1
+        },
+        "Children_under10_pct": {
+          "area": {
+            "mean": 15.74,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 12.51,
+            "population": 39102796,
+            "tracts": 7981
+          },
+          "ratio": 1.26
+        },
+        "Elderly_65over_pct": {
+          "area": {
+            "mean": 12.64,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 13.97,
+            "population": 39102796,
+            "tracts": 7981
+          },
+          "ratio": 0.9
+        },
+        "drink": {
+          "area": {
+            "mean": 429.2,
+            "population": 180701,
+            "tracts": 31
+          },
+          "rest_of_california": {
+            "mean": 478.36,
+            "population": 39090073,
+            "tracts": 7975
+          },
+          "ratio": 0.9
+        }
+      }
+    },
+    "oil_gas_3200ft_tracts_2020": {
+      "note": "2020 tracts with at least one populated block whose internal point is within 3,200 feet of an active or idle well. The whole tract is wider than the buffer. CES is not joined, because CES uses 2010 tracts.",
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 9.35,
+            "population": 6422573,
+            "tracts": 1481
+          },
+          "rest_of_california": {
+            "mean": 9.52,
+            "population": 33115163,
+            "tracts": 7589
+          },
+          "ratio": 0.98
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 4.83,
+            "population": 6422573,
+            "tracts": 1481
+          },
+          "rest_of_california": {
+            "mean": 5.11,
+            "population": 33115163,
+            "tracts": 7589
+          },
+          "ratio": 0.95
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 5.27,
+            "population": 6422573,
+            "tracts": 1481
+          },
+          "rest_of_california": {
+            "mean": 5.46,
+            "population": 33115163,
+            "tracts": 7589
+          },
+          "ratio": 0.97
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 6.09,
+            "population": 6422573,
+            "tracts": 1481
+          },
+          "rest_of_california": {
+            "mean": 6.34,
+            "population": 33115163,
+            "tracts": 7589
+          },
+          "ratio": 0.96
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 11.7,
+            "population": 6422573,
+            "tracts": 1481
+          },
+          "rest_of_california": {
+            "mean": 11.48,
+            "population": 33115163,
+            "tracts": 7589
+          },
+          "ratio": 1.02
+        }
+      },
+      "ces": null
+    },
+    "refinery_1_mile_tracts_2020": {
+      "note": "2020 tracts with a populated block within 1 mile of the El Segundo, Torrance, or Wilmington facility point.",
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 8.95,
+            "population": 67611,
+            "tracts": 19
+          },
+          "rest_of_california": {
+            "mean": 9.49,
+            "population": 39470125,
+            "tracts": 9051
+          },
+          "ratio": 0.94
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 4.15,
+            "population": 67611,
+            "tracts": 19
+          },
+          "rest_of_california": {
+            "mean": 5.07,
+            "population": 39470125,
+            "tracts": 9051
+          },
+          "ratio": 0.82
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 4.59,
+            "population": 67611,
+            "tracts": 19
+          },
+          "rest_of_california": {
+            "mean": 5.43,
+            "population": 39470125,
+            "tracts": 9051
+          },
+          "ratio": 0.85
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 6.0,
+            "population": 67611,
+            "tracts": 19
+          },
+          "rest_of_california": {
+            "mean": 6.3,
+            "population": 39470125,
+            "tracts": 9051
+          },
+          "ratio": 0.95
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 10.57,
+            "population": 67611,
+            "tracts": 19
+          },
+          "rest_of_california": {
+            "mean": 11.51,
+            "population": 39470125,
+            "tracts": 9051
+          },
+          "ratio": 0.92
+        }
+      },
+      "ces": null
+    },
+    "aliso_5_mile_tracts_2020": {
+      "note": "2020 tracts with a populated block within 5 miles of the Aliso Canyon FRS point. The radius is our choice.",
+      "places": {
+        "casthma_crudeprev": {
+          "area": {
+            "mean": 8.96,
+            "population": 242127,
+            "tracts": 60
+          },
+          "rest_of_california": {
+            "mean": 9.5,
+            "population": 39295609,
+            "tracts": 9010
+          },
+          "ratio": 0.94
+        },
+        "copd_crudeprev": {
+          "area": {
+            "mean": 4.42,
+            "population": 242127,
+            "tracts": 60
+          },
+          "rest_of_california": {
+            "mean": 5.07,
+            "population": 39295609,
+            "tracts": 9010
+          },
+          "ratio": 0.87
+        },
+        "chd_crudeprev": {
+          "area": {
+            "mean": 4.95,
+            "population": 242127,
+            "tracts": 60
+          },
+          "rest_of_california": {
+            "mean": 5.43,
+            "population": 39295609,
+            "tracts": 9010
+          },
+          "ratio": 0.91
+        },
+        "cancer_crudeprev": {
+          "area": {
+            "mean": 6.86,
+            "population": 242127,
+            "tracts": 60
+          },
+          "rest_of_california": {
+            "mean": 6.3,
+            "population": 39295609,
+            "tracts": 9010
+          },
+          "ratio": 1.09
+        },
+        "diabetes_crudeprev": {
+          "area": {
+            "mean": 10.69,
+            "population": 242127,
+            "tracts": 60
+          },
+          "rest_of_california": {
+            "mean": 11.52,
+            "population": 39295609,
+            "tracts": 9010
+          },
+          "ratio": 0.93
+        }
+      },
+      "ces": null
+    }
+  }
+}

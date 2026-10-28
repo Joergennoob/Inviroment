@@ -1,0 +1,223 @@
+{
+  "id": "lawmaker-fran-pavley",
+  "type": "lawmaker",
+  "name": "Fran Pavley",
+  "summary": [
+    {
+      "id": "plain-1",
+      "text": "Fran Pavley var senator for distrikt 27 da grunnvannslovene ble vedtatt i 2014. Hun la fram to av lovene og stemte ja til den ene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+          "title": "California Legislature handbook 2013-14",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 votes",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250314163210/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Hun var også medforslagsstiller på den tredje loven.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Hun er med her som forfatter i 2014, ikke som sittende senator i 2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Ingen biografi er hentet.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r5-district",
+      "text": "Lovhåndboken for 2013–14 oppgir Fran Pavley som senator for senatdistrikt 27.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+          "title": "California Legislature handbook 2013-14",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "text": "Statussiden for SB 1168 og SB 1319 oppgir Pavley som lead author.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "På AB 1739 står hun som principal coauthor.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "På votes-siden for SB 1168 står hun på ja-listen i samtykkevotoeringen 29. august 2014.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 votes",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250314163210/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Distrikt er ikke slått opp. Hun er med som forfatter i 2014, ikke som sittende senator i 2026.",
+      "status": "not_verified",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-1168",
+      "text": "Forfatter."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-1319",
+      "text": "Forfatter."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-1739",
+      "text": "Principal coauthor."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "district",
+      "searched": "Senatets nåværende medlemsliste er ikke brukt til å gjette et distrikt fra 2014.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/senators"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Offisielt distrikt i 2014."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "geometry": null,
+  "map_features": [],
+  "schema_version": "1.0.0"
+}

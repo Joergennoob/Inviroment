@@ -1,0 +1,175 @@
+{
+  "id": "bill-sb-1319",
+  "type": "bill",
+  "name": "SB 1319 (2013-2014), grunnvann",
+  "summary": [
+    {
+      "id": "plain-1",
+      "text": "Dette er en søsterlov til loven fra 2014 om vann under bakken. Fran Pavley la den fram.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "I delstatsparlamentet stemte senatet 24 mot 10. Forsamlingen stemte 48 mot 26.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Oljeselskapenes felles organisasjon, Chevron og Aera skrev at de jobbet med loven. Skjemaene sier ikke om de var for eller mot.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Senatets tredje lesning 28. mai 2014 var 23 mot 12.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r3-sb1319-lobby",
+      "text": "WSPA lister SB 1319 i vedlegg A for fire kvartaler i 2014, filing 1844606, 1872113, 1911643 og 1931993. Aera lister den i filing 1869215 og 1909234. Chevron lister den i filing 1872856. Ingen av tekstene sier støtte eller motstand.",
+      "status": "confirmed",
+      "note": "Andre filere, blant dem Groundwater Resources Association of California i filing 1906459, lister også loven. Det er ikke tatt med som en full klientliste.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "text": "SB 1319, kapittel 348, godkjent 16. september 2014. Forfatter er Pavley. Loven endrer Water Code avsnitt 10735.2 og 10735.8.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Senatet samtykket 29. august 2014 med 24 mot 10. Forsamlingen vedtok samme dag med 48 mot 26.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Ingen åpnet lobbyfiling oppgir SB 1319.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access lobbying search",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-groundwater-overdraft",
+      "text": "Del av SGMA."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-fran-pavley",
+      "text": "Forfatter."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-wspa",
+      "text": "Oppga SB 1319 i 2014-vedlegg, uten posisjon."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-chevron",
+      "text": "Oppga SB 1319 i juni 2014, uten posisjon."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-crc",
+      "text": "Aera oppga SB 1319 i to kvartaler i 2014."
+    }
+  ],
+  "open_questions": [
+    "Enkeltstemmen til Pavley på den endelige voteringen er ikke åpnet på votes-siden. Historikken gir tellingene."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "geometry": null,
+  "map_features": [],
+  "checked_empty": [],
+  "schema_version": "1.0.0"
+}

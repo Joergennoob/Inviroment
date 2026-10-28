@@ -1,0 +1,173 @@
+{
+  "id": "lawmaker-roger-dickinson",
+  "type": "lawmaker",
+  "name": "Roger Dickinson",
+  "summary": [
+    {
+      "id": "plain-1",
+      "text": "Roger Dickinson satt i underhuset for distrikt 7 da grunnvannslovene ble vedtatt. Han la fram en av de tre lovene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+          "title": "California Legislature handbook 2013-14",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Forsamlingen vedtok loven med 47 mot 28. Hans egen stemme er ikke lest av fra stemmelisten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Den offisielle historikken sier at han la fram en av de andre grunnvannslovene for avstemning i underhuset.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Historikklinjen for SB 1168 sier at tredje lesning i forsamlingen ble lagt frem av Dickinson. Det er en prosedyrelinje.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r5-district",
+      "text": "Lovhåndboken for 2013–14 oppgir Roger Dickinson som representant for forsamlingsdistrikt 7.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+          "title": "California Legislature handbook 2013-14",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "text": "Statussiden for AB 1739 oppgir Dickinson som lead author.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Forsamlingen vedtok loven 29. august 2014 med 47 mot 28. Hans egen stemme er ikke lest av fra en votes-side.",
+      "status": "not_verified",
+      "note": "billVotesClient for AB 1739 er ikke åpnet.",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Distrikt i 2014 er ikke slått opp.",
+      "status": "not_verified",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-1739",
+      "text": "Forfatter."
+    }
+  ],
+  "checked_empty": [
+    {
+      "field": "district",
+      "searched": "assembly.ca.gov er ikke åpnet for 2014-distriktet.",
+      "result": "not_found",
+      "urls": [
+        "https://www.assembly.ca.gov/"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Hans stemme på den endelige voteringen."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "geometry": null,
+  "map_features": [],
+  "schema_version": "1.0.0"
+}

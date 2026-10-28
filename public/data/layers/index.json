@@ -1,0 +1,155 @@
+{
+  "retrieved": "2026-10-28",
+  "layers": [
+    {
+      "id": "pm25",
+      "file": "air.geojson",
+      "filter": "pm25",
+      "title": "For mye fint støv i luften",
+      "problem": "luft",
+      "kind": "fill",
+      "color": "#c45c26",
+      "default": true
+    },
+    {
+      "id": "ozone",
+      "file": "air.geojson",
+      "filter": "ozone",
+      "title": "For mye ozon i luften",
+      "problem": "luft",
+      "kind": "fill",
+      "color": "#d4a017",
+      "default": false
+    },
+    {
+      "id": "basins",
+      "file": "basins.geojson",
+      "filter": "basins",
+      "title": "Vann under bakken som tømmes",
+      "problem": "grunnvann",
+      "kind": "fill",
+      "color": "#3d6b8a",
+      "default": true
+    },
+    {
+      "id": "failing-water",
+      "file": "failing-water.geojson",
+      "filter": "failing-water",
+      "title": "Vannverk som bryter reglene",
+      "problem": "drikkevann",
+      "kind": "fill",
+      "color": "#1d4e89",
+      "default": true
+    },
+    {
+      "id": "pesticide",
+      "file": "pesticide-counties.geojson",
+      "filter": "pesticide",
+      "title": "Sprøytemidler i 2022",
+      "problem": "sprøytemiddel",
+      "kind": "choropleth",
+      "color": "#6b3f69",
+      "default": false
+    },
+    {
+      "id": "valley-fever",
+      "file": "valley-fever-counties.geojson",
+      "filter": "valley-fever",
+      "title": "Dalfeber i 2022",
+      "problem": "dal-luft",
+      "kind": "choropleth",
+      "color": "#8a5a00",
+      "default": false
+    },
+    {
+      "id": "salton-line",
+      "file": "circles.geojson",
+      "filter": "salton-line",
+      "title": "Kanten av innsjøen Salton Sea",
+      "problem": "salton",
+      "kind": "line",
+      "color": "#1a6b7a",
+      "default": true
+    },
+    {
+      "id": "salton-ring",
+      "file": "circles.geojson",
+      "filter": "salton-ring",
+      "title": "Nær innsjøen Salton Sea",
+      "problem": "salton",
+      "kind": "fill",
+      "color": "#7eb8c4",
+      "default": true
+    },
+    {
+      "id": "circles",
+      "file": "circles.geojson",
+      "filter": "circles",
+      "title": "Nærområdet rundt raffinerier og gasslageret",
+      "problem": "raffineri",
+      "kind": "fill",
+      "color": "#9a4318",
+      "default": true
+    },
+    {
+      "id": "oil-zone",
+      "file": "oil-zone.geojson",
+      "filter": "oil-zone",
+      "title": "Omtrent 1 km fra oljebrønner",
+      "problem": "olje",
+      "kind": "fill",
+      "color": "#1f4d3a",
+      "default": false
+    },
+    {
+      "id": "wells",
+      "file": "wells.json",
+      "filter": "wells",
+      "title": "Olje- og gassbrønner",
+      "problem": "olje",
+      "kind": "cluster",
+      "color": "#1f4d3a",
+      "default": false
+    },
+    {
+      "id": "schools",
+      "file": "schools.geojson",
+      "filter": "schools",
+      "title": "Skoler nær oljebrønner",
+      "problem": "olje",
+      "kind": "circle",
+      "color": "#7a1f4d",
+      "default": false
+    },
+    {
+      "id": "pfas",
+      "file": "pfas.geojson",
+      "filter": "pfas",
+      "title": "Steder med evighetskjemikalier",
+      "problem": "pfas",
+      "kind": "circle",
+      "color": "#5c3d8a",
+      "default": false
+    },
+    {
+      "id": "facilities",
+      "file": "facilities.geojson",
+      "filter": "facilities",
+      "title": "Raffinerier og gasslager",
+      "problem": "anlegg",
+      "kind": "circle",
+      "color": "#111111",
+      "default": true
+    },
+    {
+      "id": "districts",
+      "file": "districts.geojson",
+      "filter": "districts",
+      "title": "Politikernes valgkretser",
+      "problem": "lov",
+      "kind": "fill",
+      "color": "#4d5a4e",
+      "default": false
+    }
+  ]
+}
