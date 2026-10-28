@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "CARB er delstatens lufttilsyn. De har ansvar for utslipp fra biler og lastebiler. De lokale luftkontorene tar faste anlegg.",
+      "text": "Dette er Californias lufttilsyn. De har ansvar for utslipp fra biler og lastebiler. De lokale luftkontorene tar fabrikker og andre faste anlegg.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "plain-2",
-      "text": "De regnet ut at gasslekkasjen ved Aliso Canyon var om lag 100 000 tonn metan.",
+      "text": "De regnet ut at gasslekkasjen ved Aliso Canyon var om lag 100 000 tonn metan. Metan er hovedstoffet i naturgass.",
       "status": "confirmed",
       "note": "",
       "sources": [

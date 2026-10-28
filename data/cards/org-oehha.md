@@ -4,13 +4,13 @@ Type: Organisasjon. Id: `org-oehha`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] OEHHA er delstatens kontor for helsefare i miljøet. De lager CalEnviroScreen, et kart som rangerer nabolag etter forurensning og helse.
+- [bekreftet] Dette er Californias miljøhelsekontor. De lager den offisielle oversikten over hvor forurenset og belastet hvert nabolag er. Oversikten heter CalEnviroScreen.
   - [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40) (OEHHA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261019155738/https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Kartdataene ble hentet 28. oktober 2026. Feltet for opphavsrett i metadataene er tomt. Områdene er merket med et nummer for hvert boligområde.
+- [bekreftet] Kartdataene ble hentet 28. oktober 2026. Feltet for opphavsrett er tomt. Områdene er merket med et nummer for hvert nabolag.
   - [CalEnviroScreen 4.0 layer metadata](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0?f=json) (OEHHA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261022150903/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/ArcGIS/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0?f=json. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Kartet siler områder. Det måler ikke at en bestemt person er syk. Vi bruker det til å sammenligne steder, ikke som en diagnose.
+- [bekreftet] Oversikten sammenligner steder. Den måler ikke at en bestemt person er syk. Et høyt tall betyr at nabolaget ligger dårligere an enn de fleste andre.
   - [CalEnviroScreen 4.0](https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40) (OEHHA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261019155738/https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

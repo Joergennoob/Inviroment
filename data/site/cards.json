@@ -10112,7 +10112,7 @@
       "summary": [
         {
           "id": "plain-1",
-          "text": "CalGEM er delstatens tilsyn med olje- og gassbrønner. De fører regnskap over hvor oljen pumpes.",
+          "text": "Dette er Californias oljetilsyn. De fører regnskap over hvor oljen pumpes.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10128,7 +10128,7 @@
         },
         {
           "id": "plain-2",
-          "text": "I 2023 kom det meste av oljen fra Kern fylke, om lag 90 millioner fat. Los Angeles fylke hadde om lag 9 millioner fat.",
+          "text": "I 2023 kom det meste av oljen fra Kern fylke, om lag 90 millioner fat. Ett fat er omtrent 159 liter. Los Angeles fylke hadde om lag 9 millioner fat.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10144,7 +10144,7 @@
         },
         {
           "id": "plain-3",
-          "text": "De beskriver at loven om avstand til boliger ble stanset av et folkeavstemningsforslag og begynte å gjelde igjen i 2024.",
+          "text": "De beskriver at loven om avstand til boliger ble stanset av et forslag om folkeavstemning og begynte å gjelde igjen i 2024.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10240,7 +10240,7 @@
       "summary": [
         {
           "id": "plain-1",
-          "text": "CARB er delstatens lufttilsyn. De har ansvar for utslipp fra biler og lastebiler. De lokale luftkontorene tar faste anlegg.",
+          "text": "Dette er Californias lufttilsyn. De har ansvar for utslipp fra biler og lastebiler. De lokale luftkontorene tar fabrikker og andre faste anlegg.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10256,7 +10256,7 @@
         },
         {
           "id": "plain-2",
-          "text": "De regnet ut at gasslekkasjen ved Aliso Canyon var om lag 100 000 tonn metan.",
+          "text": "De regnet ut at gasslekkasjen ved Aliso Canyon var om lag 100 000 tonn metan. Metan er hovedstoffet i naturgass.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11483,7 +11483,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "EPA er det føderale miljøtilsynet. De sier hvilke områder som ikke klarer grensen for ren luft, og hvor mange som bodde der i 2010.",
+          "text": "Dette er miljøtilsynet i USA. De sier hvilke områder som ikke klarer grensen for ren luft, og hvor mange som bodde der i 2010.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11499,7 +11499,7 @@
         },
         {
           "id": "s2",
-          "text": "De skrev i 2025 at San Joaquin-dalen ikke klarte en eldre ozongrense, og i 2026 at dalen har landets høyeste nivå av fint svevestøv, de minste partiklene i luften.",
+          "text": "De skrev i 2025 at jordbruksdalen ikke klarte en eldre grense for ozon, en gass som irriterer lungene. I 2026 skrev de at dalen har landets høyeste nivå av fint støv, de minste partiklene i luften.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11523,7 +11523,7 @@
         },
         {
           "id": "s3",
-          "text": "De har også anleggsregisteret som gir kartpunkt for raffinerier og gasslageret Aliso Canyon.",
+          "text": "De har også en liste over anlegg som gir et punkt på kartet for raffinerier og gasslageret Aliso Canyon.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12112,7 +12112,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "OEHHA er delstatens kontor for helsefare i miljøet. De lager CalEnviroScreen, et kart som rangerer nabolag etter forurensning og helse.",
+          "text": "Dette er Californias miljøhelsekontor. De lager den offisielle oversikten over hvor forurenset og belastet hvert nabolag er. Oversikten heter CalEnviroScreen.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12128,7 +12128,7 @@
         },
         {
           "id": "s2",
-          "text": "Kartdataene ble hentet 28. oktober 2026. Feltet for opphavsrett i metadataene er tomt. Områdene er merket med et nummer for hvert boligområde.",
+          "text": "Kartdataene ble hentet 28. oktober 2026. Feltet for opphavsrett er tomt. Områdene er merket med et nummer for hvert nabolag.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12144,7 +12144,7 @@
         },
         {
           "id": "s3",
-          "text": "Kartet siler områder. Det måler ikke at en bestemt person er syk. Vi bruker det til å sammenligne steder, ikke som en diagnose.",
+          "text": "Oversikten sammenligner steder. Den måler ikke at en bestemt person er syk. Et høyt tall betyr at nabolaget ligger dårligere an enn de fleste andre.",
           "status": "confirmed",
           "note": "",
           "sources": [
