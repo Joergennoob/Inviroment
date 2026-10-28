@@ -84,38 +84,38 @@ Kort: `ca-problem-salton-sea`.
 
 ### 7. Petroleumsraffinerier og måling ved gjerdet
 
-- Raffinerier lager drivstoff tett på boliger i Los Angeles-området. En lov fra 2017 sier at eieren skal måle luften ved gjerdet, og at naboene skal kunne se tallene.
-- Det føderale tilsynet kaller bruddene ved Chevron-raffineriet i El Segundo et alvorlig brudd.
+- Raffinerier er fabrikker som lager bensin. De ligger tett på boliger i Los Angeles-området. En lov fra 2017 sier at eieren skal måle luften ved gjerdet, og at naboene skal kunne se tallene.
+- Miljøtilsynet i USA kaller bruddene ved Chevron-raffineriet i El Segundo alvorlige.
 - Phillips 66 kunngjorde i 2024 at raffineriet i Wilmington og Carson skulle stanse driften mot slutten av 2025. Selve stansen er beskrevet på selskapets eget kort.
 - Torrance-raffineriet drives av Torrance Refining, et selskap PBF kjøpte i 2016.
-- Innenfor en mil bor noen tusen mennesker ved hvert av de tre anleggene. Sykdomstallene der er ikke høyere enn i resten av California. Vi vet ikke om raffineriet er årsaken.
+- Innenfor en engelsk mil, om lag 1,6 kilometer, bor noen tusen mennesker ved hvert av de tre anleggene. Sykdomstallene der er ikke høyere enn i resten av California. Vi vet ikke om raffineriet er grunnen.
 
 Kort: `ca-problem-refineries`.
 
 ### 8. Aliso Canyon gasslager
 
-- I 2015 og 2016 lekket et stort gasslager over bydelen Porter Ranch i Los Angeles. Lageret eies av gasselskapet SoCalGas. Det er den største metanlekkasjen som er dokumentert i USA.
-- Lekkasjen varte fra oktober 2015 til februar 2016. Utslippet var om lag 100 000 tonn metan, en kraftig klimagass.
-- Mengden tilsvarer omtrent det 190 000 boliger i Los Angeles bruker av gass på ett år. Det er en sammenligning, ikke et tall på hvor mange som ble evakuert.
+- I 2015 og 2016 lekket et stort gasslager over bydelen Porter Ranch i Los Angeles. Lageret eies av gasselskapet SoCalGas. Det er den største lekkasjen av metan som er dokumentert i USA. Metan er hovedstoffet i naturgass, og en gass som varmer opp kloden.
+- Lekkasjen varte fra oktober 2015 til februar 2016. Utslippet var om lag 100 000 tonn metan.
+- Mengden tilsvarer omtrent det 190 000 boliger i Los Angeles bruker av gass på ett år. Det er en sammenligning, ikke et tall på hvor mange som måtte flytte.
 - Myndighetene lar lageret fortsatt holde om lag 69 milliarder kubikkfot gass. Kubikkfot er et amerikansk rommål. Et forslag om å senke taket er ikke vedtatt.
-- Boligområdet nærmest lageret er relativt velstående, og de vanlige sykdomstallene der skiller seg ikke ut. Vi vet ikke om lekkasjen ga varig sykdom. Det er ikke målt i disse tallene.
+- Folk i boligområdet nærmest lageret tjener ganske godt, og de vanlige sykdomstallene der skiller seg ikke ut. Vi vet ikke om lekkasjen ga varig sykdom. Det er ikke målt i disse tallene.
 
 Kort: `ca-problem-aliso-canyon`.
 
 ### 9. PFAS i drikkevannskilder
 
-- PFAS er en gruppe kjemikalier som nesten ikke brytes ned. De er brukt i blant annet brannskum og industri, og kan havne i drikkevann. Delstaten har pålagt testing av brønner.
-- Etaten selv sier om lag 3 600 til 4 000 brønner, ikke ett fast tall. En liste fra oktober 2026 har om lag 11 000 kilder og om lag 4 000 vannverk. Det er en annen liste.
-- Om lag halvparten av kildene, 5 500, har et kartpunkt. Resten har vi ikke koordinat for.
+- Evighetskjemikalier, kalt PFAS, er stoffer som nesten ikke brytes ned. De er brukt i blant annet brannskum og fabrikker, og kan havne i drikkevann. Delstaten har pålagt testing av brønner.
+- Etaten selv sier om lag 3 600 til 4 000 brønner, ikke ett fast tall. En liste fra oktober 2026 har om lag 11 000 steder og om lag 4 000 vannverk. Det er en annen liste.
+- Om lag halvparten av stedene, 5 500, har et punkt på kartet. Resten vet vi ikke hvor ligger.
 - Vi vet ikke hvor mange mennesker som drikker vann over en grense. Det tallet står ikke i dokumentene som er lest.
 
 Kort: `ca-problem-pfas`.
 
 ### 10. Kritisk overtrukket grunnvann
 
-- Noen grunnvannsbasseng tappes raskere enn de fylles. Da kan bakken synke, saltvann komme inn, og brønner gå tørre. Delstatens vannetat har pekt ut 21 slike basseng. Elleve ligger i San Joaquin-dalen.
-- En lov fra 2014 pålegger lokale planer som skal stoppe overtappingen.
-- Om lag 4 millioner mennesker bor innenfor disse bassengene, etter vår telling av folketellingsblokker. Etaten har ikke selv publisert et folketall.
-- Der er andelen voksne uten videregående skole om lag halvannen gang så høy som i resten av California. Vi vet ikke om grunnvannet er årsaken.
+- Noen steder tømmes vannet under bakken raskere enn det fylles. Vannet brukes til drikke og jordbruk. Da kan bakken synke, saltvann komme inn, og brønner gå tørre. Californias vannetat har pekt ut 21 slike områder. Elleve ligger i jordbruksdalen.
+- En lov fra 2014 sier at lokalsamfunnene må lage planer som skal stoppe tømmingen.
+- Om lag 4 millioner mennesker bor i disse områdene, etter vår telling av små ruter fra folketellingen. Etaten har ikke selv gitt ut et folketall.
+- Der er det om lag halvannen gang så mange voksne uten videregående skole som i resten av California. Vi vet ikke om vannet under bakken er grunnen.
 
 Kort: `ca-problem-groundwater-overdraft`.

@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "Raffinerier lager drivstoff tett på boliger i Los Angeles-området. En lov fra 2017 sier at eieren skal måle luften ved gjerdet, og at naboene skal kunne se tallene.",
+      "text": "Raffinerier er fabrikker som lager bensin. De ligger tett på boliger i Los Angeles-området. En lov fra 2017 sier at eieren skal måle luften ved gjerdet, og at naboene skal kunne se tallene.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "plain-2",
-      "text": "Det føderale tilsynet kaller bruddene ved Chevron-raffineriet i El Segundo et alvorlig brudd.",
+      "text": "Miljøtilsynet i USA kaller bruddene ved Chevron-raffineriet i El Segundo alvorlige.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -86,7 +86,7 @@
     },
     {
       "id": "plain-5",
-      "text": "Innenfor en mil bor noen tusen mennesker ved hvert av de tre anleggene. Sykdomstallene der er ikke høyere enn i resten av California. Vi vet ikke om raffineriet er årsaken.",
+      "text": "Innenfor en engelsk mil, om lag 1,6 kilometer, bor noen tusen mennesker ved hvert av de tre anleggene. Sykdomstallene der er ikke høyere enn i resten av California. Vi vet ikke om raffineriet er grunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [
