@@ -117,6 +117,22 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r3-aera-sgma",
+      "text": "Aera Energy LLC oppga i Form 635, filing 1869215 og 1909234, kvartalene som slutter 30. juni og 30. september 2014, lovene SB 1281, SB 1319 og SB 861. Juni-skjemaet har også SB 1132, SB 1017 og AB 2420. SB 1168 og AB 1739 står ikke i de to tekstene. Posisjon står ikke.",
+      "status": "confirmed",
+      "note": "Teksten ligger i LBY_ACTVTY på CVR_LOBBY_DISCLOSURE_CD, filer-id C27739. Aera er senere fusjonert inn i CRC. Dette er 2014-skjemaet, ikke et CRC-skjema.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "geometry": null,

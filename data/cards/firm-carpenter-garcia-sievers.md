@@ -10,8 +10,8 @@ Type: Lobbyfirma. Id: `firm-carpenter-garcia-sievers`. Oppdatert: 2026-10-28.
 - [bekreftet] Adressen i skjemaet er Sacramento CA 95811.
   - [Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30](https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [ikke funnet] Andre oppdragsgivere enn WSPA er ikke hentet. Firmaposten i Cal-Access er ikke åpnet.
-  - [Cal-Access Lobbying Firm search](https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260106185656/https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+- [bekreftet] I SOS-rådata, tabellen LEMP_CD, der firmaet står som underfirma og ikrafttredelse er 2024–2026, er oppdragsgiverne: BD, Booking Holdings, C&C North America dba Cosentino, California Asphalt Pavement Association, Daikin U.S. Corporation, Hyundai Motor Company, Maximus, Medtronic og U.S. Tire Manufacturers Association. Ingen av navnene er en miljø- eller klimaorganisasjon, så påstand om begge sider er ikke tatt med. Listen er oppdragsgivere som selv har ført firmaet. Den er ikke et bevis for at listen er uttømmende. WSPA-betalingen står på WSPAs skjema, ikke nødvendigvis her.
+  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn
 
@@ -28,7 +28,7 @@ Type: Lobbyfirma. Id: `firm-carpenter-garcia-sievers`. Oppdatert: 2026-10-28.
 
 ## Sjekket uten funn
 
-- other_clients: LobbyFirmsSearch er ikke kjørt for CARPENTER GARCIA. Resultat: ikke funnet. URL: https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx. Dato: 2026-10-28.
+- both_sides: LEMP_CD for 2024–2026 er lest. Oppdragsgiverne som er funnet, er ikke miljøorganisasjoner. Begge sider er ikke dokumentert. Resultat: ikke funnet. URL: https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Dato: 2026-10-28.
 
 ## Åpne spørsmål
 

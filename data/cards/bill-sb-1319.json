@@ -68,6 +68,22 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r3-sb1319-lobby",
+      "text": "WSPA lister SB 1319 i vedlegg A for fire kvartaler i 2014, filing 1844606, 1872113, 1911643 og 1931993. Aera lister den i filing 1869215 og 1909234. Chevron lister den i filing 1872856. Ingen av tekstene sier støtte eller motstand.",
+      "status": "confirmed",
+      "note": "Andre filere, blant dem Groundwater Resources Association of California i filing 1906459, lister også loven. Det er ikke tatt med som en full klientliste.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "links": [
@@ -80,6 +96,21 @@
       "rel": "lawmaker",
       "target_id": "lawmaker-fran-pavley",
       "text": "Forfatter."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-wspa",
+      "text": "Oppga SB 1319 i 2014-vedlegg, uten posisjon."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-chevron",
+      "text": "Oppga SB 1319 i juni 2014, uten posisjon."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-crc",
+      "text": "Aera oppga SB 1319 i to kvartaler i 2014."
     }
   ],
   "open_questions": [

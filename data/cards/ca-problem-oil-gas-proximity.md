@@ -44,7 +44,7 @@ Rangering i California-oversikten: 4.
 
 ## Befolkning
 
-Geografi: Health protection zones i CalGEM WellSTAR.. Årgang: Karttjeneste lest 2026-10-28.. Sammenligning: Ingen folketelling innenfor 3 200 fot er publisert i dokumentene som er lest..
+Geografi: Blokker innenfor 3 200 fot fra en aktiv eller idle brønn, pluss CalGEM sin HPZ-telling.. Årgang: Census 2020 og WellSTAR lest 2026-10-28.. Sammenligning: CalGEM har ikke publisert et folketall. Tallet under er vår beregning..
 
 - [bekreftet] CalGEM WellSTAR hadde 74 506 brønner merket Verified HPZ da laget ble telt 28. oktober 2026. Av dem var 12 317 active og 8 987 idle. Tellingen er returnCountOnly på feltet inHPZ. Den er ikke et folketall.
   - [WellSTAR count, inHPZ = Verified HPZ](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
@@ -53,19 +53,25 @@ Geografi: Health protection zones i CalGEM WellSTAR.. Årgang: Karttjeneste lest
   - [Notice to Operators 2025-03](https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251121084048/https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [SB 1137 legislative notification, October 2026](https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Legislative%20Notification%20-%20October%202026.pdf) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
 
+- [bekreftet] Egen beregning: 2 977 829 personer og 1 104 614 boligenheter i Census 2020 ligger i blokker der blokkens indre punkt er innenfor 3 200 fot fra minst én brønn med status Active eller Idle. 694 av 10 400 offentlige skoler i NCES EDGE 2023–24 ligger innenfor samme avstand. CalGEM har ikke publisert et slikt tall. 83 695 brønner etter API-nummer og 31 479 blokker inngår. Avstanden er ekvirektangulær med 69,172 miles per breddegrad. Internt punkt er ikke det samme som at blokkpolygonet skjærer sirkelen. Private skoler mangler, fordi CDE-filen pubschls.txt ga en omdirigeringsløkke. Pluggede brønner er utelatt. Skriptet er scripts/setback_3200.py.
+  - [WellSTAR active or idle well count](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=WellStatus%3D%27Active%27+OR+WellStatus%3D%27Idle%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [2020 Census PL 94-171, California geographic header, summary level 750](https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip) (US Census Bureau, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [NCES EDGE public school locations 2023-24, California](https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PUBLICSCH_2324/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json) (National Center for Education Statistics, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+
 ## Demografi
 
-Geografi: Hele helsesonen.. Årgang: Ikke hentet.. Sammenligning: Ikke laget, fordi sonen ikke har et folketall eller en tract-liste fra CalGEM..
+Geografi: Selve bufferen på 3 200 fot.. Årgang: Census 2020 har ikke disse kjennetegnene på blokk.. Sammenligning: Ikke laget for bufferen..
 
-- [ikke funnet] Demografi for alle som bor innenfor 3 200 fot er ikke regnet. Det krever en kobling mellom brønnlag og census blocks som ikke er gjort.
-  - [WellSTAR wells](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+- [ikke funnet] Inntekt, fattigdom og utdanning er ikke regnet for folk som faktisk bor innenfor 3 200 fot. Blokkfilen har folketall og boligenheter, ikke ACS-kjennetegn. Et tract-snitt ville tatt med folk som bor lenger unna. Det som er regnet, er folketall og boligenheter i blokkene, og PLACES for tractene som inneholder slike blokker.
+  - [WellSTAR active or idle well count](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=WellStatus%3D%27Active%27+OR+WellStatus%3D%27Idle%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [2020 Census PL 94-171, California geographic header, summary level 750](https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip) (US Census Bureau, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Helseutfall
 
-Geografi: Helsesonen som helhet.. Årgang: Ikke hentet fra et samlet uttrekk.. Sammenligning: Ikke sammenlignet med områder utenfor sonen i denne runden..
+Geografi: 2020-tract som har minst én bebodd blokk innenfor 3 200 fot.. Årgang: CDC PLACES, 2025-utgivelse, estimater for 2023.. Sammenligning: Befolkningsvektet rå prevalens mot resten av California. Tracten er videre enn bufferen..
 
-- [ikke funnet] Et samlet helseutfall for sonen, sammenlignet med tract utenfor sonen, er ikke hentet. Lovteksten viser til studier om nærhet. Den er ikke en rate for sonen.
-  - [SB 1137](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+- [bekreftet] De 1 488 tractene har 6 422 573 innbyggere i PLACES. Rå prevalens mot resten av California: nåværende astma 9,35 mot 9,52 prosent, KOLS 4,83 mot 5,11, koronar hjertesykdom 5,27 mot 5,46, kreft unntatt hudkreft 6,09 mot 6,34, diagnostisert diabetes 11,70 mot 11,48. Ingen forhold når 1,5. Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger resten av California, eller minst 10 prosentpoeng der målet er en andel. CalEnviroScreen er ikke koblet på, fordi den bruker 2010-tract.
+  - [PLACES census tract data, GIS friendly format, 2025 release, California](https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1) (CDC, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
 
 ## Lenker til andre kort
 
@@ -82,10 +88,9 @@ Geografi: Helsesonen som helhet.. Årgang: Ikke hentet fra et samlet uttrekk.. S
 ## Sjekket uten funn
 
 - geometry: Ingen CalGEM-brønn med API-nummer og koordinat er hentet. Et folketall innenfor 3 200 fot finnes i et faktaark fra et senator-kontor og i en analyse som ikke er en etatsstatistikk. De er ikke brukt som bekreftet tall. Resultat: ikke funnet. URL: https://www.conservation.ca.gov/calgem/Pages/WellFinder.aspx. Dato: 2026-10-28.
-- population_inside_zone: Lovteksten og CalGEM-årsrapporten er lest. De oppgir ikke hvor mange mennesker som bor innenfor 3 200 fot. Resultat: ikke funnet. URL: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Dato: 2026-10-28.
+- population_inside_zone: CalGEM har fortsatt ikke publisert folketall, boliger eller skoler. Vår blokkberegning ligger på kortet og er ikke etatens tall. Resultat: ikke funnet. URL: https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Dato: 2026-10-28.
 
 ## Åpne spørsmål
 
-- Hvor mange aktive og idle brønner CalGEM selv teller innenfor health protection zones, og hvor mange mennesker som bor der, etter etatens egen metode.
-- Om Aera fortsatt finnes som eget selskap etter fusjonsavtalen CRC beskrev i 10-K for 2023, og hvilket filernavn som i så fall brukes i Cal-Access.
-- Hvem som mottok kampanjebidragene som står på Chevron- og CRC-navnestrengene.
+- CalGEMs egen metode for folk, boliger og skoler i health protection zone, hvis etaten senere publiserer den.
+- Private skoler innenfor 3 200 fot. CDE-filen lot seg ikke laste ned.

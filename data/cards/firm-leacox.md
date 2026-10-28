@@ -10,8 +10,8 @@ Type: Lobbyfirma. Id: `firm-leacox`. Oppdatert: 2026-10-28.
 - [bekreftet] Beløpet er lite sammenlignet med Carpenter Garcia Sievers i samme skjema.
   - [Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30](https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [ikke funnet] Andre klienter er ikke hentet.
-  - [Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30](https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+- [ikke funnet] I LEMP_CD er det ingen rad for 2024–2026 der Leacox & Associates eller Leacox California Governmental Advocacy står som underfirma. En klientliste ut over WSPA-betalingen er derfor ikke funnet i det uttrekket. Søket er på firmanavn og filer-id 1385058 og 1438830. Fravær i tabellen er ikke det samme som at firmaet ikke har andre klienter.
+  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn
 

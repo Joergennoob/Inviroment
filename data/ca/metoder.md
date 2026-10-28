@@ -44,8 +44,38 @@ Indikatorene, slik OEHHA beskriver dem i rapporten:
 
 Persentilen sier at trakten skiller seg fra det typiske California-traktet. Den sier ikke at miljøproblemet er årsaken. Inntekt, røyking og yrke er ikke justert bort. Der en etat eller en studie i CalEnviroScreen-rapporten sier at et stoff kan utløse anfall eller henger sammen med fødselsvekt, er det sitert som det studien sier, ikke som en årsak for akkurat dette trakten.
 
-Kreftregisteret, CDC PLACES og DPR sitt sykdomsregister for sprøytemidler er ikke hentet inn i denne runden. Det står på kortene som sjekket og ikke funnet i denne omgangen, ikke som nullfunn i virkeligheten.
+CDC PLACES, NCI State Cancer Profiles, CDPH sin valley fever-rapport for 2022 og DPR Pesticide Illness Surveillance Program for 2022 er hentet inn. Tallene står på kortene. De er ikke brukt som bevis på at miljøproblemet er årsaken.
 
 ## CalGEM-brønner
 
 Antall brønner i health protection zone er telt 2026-10-28 i CalGEM WellSTAR MapServer, lag 0, feltet `inHPZ`. Spørringen er `returnCountOnly` mot `https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query`. «Verified HPZ» er etatens egen kategori. Tjenesten har ikke folketall, boliger eller skoler.
+
+## Egen beregning innenfor 3 200 fot
+
+CalGEM har ikke publisert folk, boliger eller skoler innenfor 3 200 fot. `scripts/setback_3200.py` regner det selv og skriver `data/derived/setback_3200.json`.
+
+- Brønner: WellSTAR, status Active eller Idle, ett punkt per API-nummer, koordinat i California. Pluggede brønner er utelatt.
+- Folk og boligenheter: Census 2020, PL 94-171, geografisk header `cageo2020.pl`, summary level 750. En blokk teller med når det indre punktet ligger innenfor 3 200 fot. Avstanden er ekvirektangulær, 69,172 miles per breddegrad.
+- Skoler: NCES EDGE, offentlige skoler 2023–24, `STATE='CA'`. CDE-filen `pubschls.txt` ga en omdirigeringsløkke og er ikke brukt. Private skoler er ikke med.
+- Et 2020-tract er merket når minst én bebodd blokk i tracten ligger innenfor avstanden. Tractet er videre enn bufferen og er bare brukt til PLACES-sammenligningen.
+
+Samme skript regner også 1 engelsk mil rundt punktene for El Segundo, Torrance og Wilmington, og 5 engelske mil rundt FRS-punktet for Aliso Canyon. Radiene er valgt her.
+
+## Område mot resten av California
+
+`scripts/area_health.py` skriver `data/derived/area_health.json`.
+
+CDC PLACES, GIS-vennlig tract-fil `yjkw-uj5s`, 2025-utgivelse, er rå prevalens blant voksne for 2023: nåværende astma, KOLS, koronar hjertesykdom, kreft unntatt hudkreft, og diagnostisert diabetes. Vekten er feltet `totalpopulation` fra Census 2020. Filen har ikke aldersjustert prevalens. Et modellestimat fra BRFSS er ikke en telling av diagnoser, og CDC advarer mot å bruke PLACES til å vurdere lokale tiltak.
+
+CalEnviroScreen 4.0 er vektet med `ACS2019TotalPop`. Den brukes bare der området er fylker, fordi 2010-tract ikke er koblet til 2020-tract.
+
+Fylkesutvalg, med forbeholdet på kortet:
+
+- South Coast: Los Angeles, Orange, Riverside og San Bernardino. Luftbassenget er mindre.
+- San Joaquin-luft og grunnvann: San Joaquin, Stanislaus, Merced, Madera, Fresno, Tulare, Kings og hele Kern. Øst-Kern og bassenggrensene er ikke skilt ut.
+- Sprøytemidler: Fresno, Kern, Tulare og Monterey, de fire fylkene med flest pund i DPR 2022.
+- Salton Sea: Imperial County. Nordbredden i Riverside er utenfor.
+- Drikkevann: en tract-liste for failing-systemene er ikke funnet. Snittet er ikke laget.
+- PFAS: ordren er delstatsdekkende. Kilde-listen er telt, men ikke geokodet til tract.
+
+Kreftinsidens er NCI State Cancer Profiles, alle kreftformer, begge kjønn, aldersjustert til 2000 US standard population, 2019–2023, hentet 2026-10-28. Det er NCIs tabell, ikke en eksport fra CAL*Explorer. Valley fever er CDPH sin epidemiologiske rapport for 2022. PISP er DPR sin fylkestabell for 2022. Rater per 100 000 for PISP er vår divisjon med Census 2020-folketall fra PLACES, og året for teller og nevner er ikke det samme.

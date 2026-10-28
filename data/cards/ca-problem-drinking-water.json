@@ -533,6 +533,22 @@
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]
+      },
+      {
+        "id": "r3-dw-tracts",
+        "text": "En tract-liste for de 390 failing-systemene er ikke lastet ned. Derfor er det ikke laget et befolkningsvektet snitt for tract med failing-system mot resten av California. CalEnviroScreen sin drikkevannsindikator er et annet mål og er ikke brukt som den listen.",
+        "status": "not_found",
+        "note": "Behovsvurderingen gir folketall på systemene. Den gir ikke tract-id.",
+        "sources": [
+          {
+            "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+            "title": "2025 Drinking Water Needs Assessment",
+            "publisher": "State Water Resources Control Board",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
       }
     ]
   },

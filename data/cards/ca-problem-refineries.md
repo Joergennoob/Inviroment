@@ -60,10 +60,13 @@ Geografi: Nabolag ved gjerdet.. Årgang: Ikke avgrenset.. Sammenligning: Ikke re
 
 ## Helseutfall
 
-Geografi: Nabolag ved gjerdet.. Årgang: Ikke hentet.. Sammenligning: Ikke sammenlignet..
+Geografi: Blokker innenfor 1 engelsk mil fra tre anleggspunkt, og tractene de ligger i.. Årgang: Census 2020, NCES 2023–24 og CDC PLACES 2025-utgivelse.. Sammenligning: PLACES for tractene mot resten av California. 1 mil er vår radius..
 
-- [ikke funnet] Helseutfall for et avgrenset nabolag ved hvert raffineri er ikke hentet i denne runden.
-  - [EPA title V order, Torrance, 7. januar 2025](https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+- [bekreftet] Egen beregning innenfor 1 engelsk mil: El Segundo 14 156 personer og 6 456 boligenheter, 4 offentlige skoler. Torrance 8 799 personer, 3 011 boligenheter, 4 skoler. Wilmington 6 731 personer, 1 731 boligenheter, 1 skole. De 19 tractene har PLACES-folketall 67 611. Rå prevalens mot resten av California: astma 8,95 mot 9,49, KOLS 4,15 mot 5,07, koronar hjertesykdom 4,59 mot 5,43, kreft 6,00 mot 6,30, diabetes 10,57 mot 11,51. Ingen forhold når 1,5. Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger resten av California, eller minst 10 prosentpoeng der målet er en andel. Anleggstraktene med få beboere er ikke brukt som portrett. Radiusen er valgt her.
+  - [WellSTAR active or idle well count](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=WellStatus%3D%27Active%27+OR+WellStatus%3D%27Idle%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [2020 Census PL 94-171, California geographic header, summary level 750](https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip) (US Census Bureau, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [NCES EDGE public school locations 2023-24, California](https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PUBLICSCH_2324/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json) (National Center for Education Statistics, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [PLACES census tract data, GIS friendly format, 2025 release, California](https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1) (CDC, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
 
 ## Lenker til andre kort
 

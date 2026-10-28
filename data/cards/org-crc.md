@@ -27,6 +27,9 @@ Type: Organisasjon. Id: `org-crc`. Oppdatert: 2026-10-28.
 - [bekreftet] For navnestrenger uten personnavn i parentes, der detaljsiden summerte til samme total som sammendraget, var de største mottakerne i perioden 1. januar 2025–28. oktober 2026 Coalition to Restore California's Middle Class ID 1365275 med 1 500 000 dollar, Yes on 45 ID 1484853 med 500 000 dollar, og Californians for Central Valley Public Safety med 330 000 dollar. Strengen for Los Angeles på 125 000 dollar er utelatt fordi detaljlisten ikke summerte til sammendraget. Mottakerbeløpene er summert bare innenfor navnestrenger der linjene traff sammendragstotalen. Se data/ca/metoder.md er ikke brukt her. Metoden er beskrevet i kortets note.
   - [Cal-Access contributor search, California Resources Corporation](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
+- [bekreftet] Aera Energy LLC oppga i Form 635, filing 1869215 og 1909234, kvartalene som slutter 30. juni og 30. september 2014, lovene SB 1281, SB 1319 og SB 861. Juni-skjemaet har også SB 1132, SB 1017 og AB 2420. SB 1168 og AB 1739 står ikke i de to tekstene. Posisjon står ikke. Teksten ligger i LBY_ACTVTY på CVR_LOBBY_DISCLOSURE_CD, filer-id C27739. Aera er senere fusjonert inn i CRC. Dette er 2014-skjemaet, ikke et CRC-skjema.
+  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 ## Lenker til andre kort
 
 - Produksjon og lobby. (`ca-problem-oil-gas-proximity`)

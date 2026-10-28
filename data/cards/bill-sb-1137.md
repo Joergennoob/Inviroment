@@ -22,15 +22,19 @@ Type: Lovforslag. Id: `bill-sb-1137`. Oppdatert: 2026-10-28.
 - [bekreftet] Navnene på hver ja- og nei-stemme står på votes-siden. Dette kortet gjengir tellingene, ikke hvert navn, for å unngå avskriftsfeil. Siden er kilden.
   - [SB 1137 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
+- [bekreftet] WSPA lister SB 1137 i vedlegg A for filing 3092136, kvartalet som slutter 30. september 2025, og filing 3114837, kvartalet som slutter 31. desember 2025. Filing 3070933 for andre kvartal 2025 lister den ikke. Ingen av tekstene sier støtte eller motstand.
+  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 ## Lenker til andre kort
 
 - Loven er kjernen i olje- og gasskortet. (`ca-problem-oil-gas-proximity`)
 - Hovedforfatter. (`lawmaker-lena-gonzalez`)
 - Etaten som fører sonene. (`org-calgem`)
+- Listet SB 1137 i to kvartaler i 2025, uten posisjon. (`org-wspa`)
 
 ## Sjekket uten funn
 
-- lobby_position: WSPAs vedlegg A er ikke lest, så det er ikke bekreftet at WSPA oppga SB 1137. Loven var fra 2022, mens skjemaet som er lest, er fra 2025. Resultat: ikke funnet. URL: https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933. Dato: 2026-10-28.
+- lobby_position: Vedlegg A er lest. SB 1137 er listet i to kvartaler i 2025. Ordene støtte eller motstand står ikke. Resultat: ikke funnet. URL: https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Dato: 2026-10-28.
 
 ## Åpne spørsmål
 

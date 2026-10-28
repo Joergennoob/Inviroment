@@ -93,6 +93,22 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r3-pfas-rows",
+      "text": "Arbeidsboken List of Sources and Monitoring Frequency, oppdatert 12. oktober 2026, for ordre DW-2025-0002-DDW har 10 701 unike PS-koder og 3 994 vannsystemnavn. 82 rader mangler PS-kode. Det er en annen liste enn anslaget på om lag 3 800 i QAPP.",
+      "status": "confirmed",
+      "note": "Rader uten PS-kode er telt for seg. Systemnavn kan være stavet ulikt og er ikke slått sammen.",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas_ddw_general_order/docs/order-dw-2025-0002-ddw-sources-20261012-update.xlsx",
+          "title": "PFAS General Order DW-2025-0002-DDW sources, October 12, 2026 update",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        }
+      ]
     }
   ],
   "geometry": null,

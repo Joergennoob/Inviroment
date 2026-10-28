@@ -427,6 +427,22 @@
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]
+      },
+      {
+        "id": "r3-sc-ces",
+        "text": "CalEnviroScreen 4.0, vektet med ACS 2015–2019-folketall i de samme fire fylkene: astmabesøk 50,2 mot 53,0 per 10 000, uten videregående 20,3 mot 15,5 prosent, språklig isolasjon 11,4 mot 8,3, fattigdomsindikatoren 33,3 mot 29,2. Ingen av disse når 1,5 ganger resten av delstaten.",
+        "status": "confirmed",
+        "note": "Fattigdomsindikatoren er OEHHA sin, ikke den offisielle fattigdomsandelen.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=1%3D1&returnCountOnly=true&f=json",
+            "title": "CalEnviroScreen 4.0 Results feature service",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
       }
     ]
   },
@@ -503,6 +519,38 @@
             "publisher": "OEHHA",
             "retrieved": "2026-10-28",
             "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r3-sc-places",
+        "text": "For hele Los Angeles, Orange, Riverside og San Bernardino, som er videre enn luftbassenget, er PLACES-prevalensen ikke høyere enn resten av California. Astma 9,38 mot 9,58 prosent, KOLS 4,89 mot 5,21, koronar hjertesykdom 5,31 mot 5,53, kreft 5,84 mot 6,68, diabetes 12,03 mot 11,09. Folketallet i nevneren er 17 800 562.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger resten av California, eller minst 10 prosentpoeng der målet er en andel. Fylkene rekker utenfor South Coast Air Basin.",
+        "sources": [
+          {
+            "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+            "title": "PLACES census tract data, GIS friendly format, 2025 release, California",
+            "publisher": "CDC",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
+      },
+      {
+        "id": "r3-sc-cancer",
+        "text": "NCI State Cancer Profiles, alle kreftformer, aldersjustert per 100 000, 2019–2023: California 413,0. Los Angeles 388,7, Orange 420,2, Riverside 402,4, San Bernardino 405,6. Ingen av fylkene er i nærheten av 1,5 ganger delstaten.",
+        "status": "confirmed",
+        "note": "Tabellen er NCIs sammenstilling av registerdata, laget 28. oktober 2026. Den er ikke en fil eksportert fra CAL*Explorer.",
+        "sources": [
+          {
+            "url": "https://statecancerprofiles.cancer.gov/incidencerates/index.php?age=001&areatype=county&cancer=001&race=00&sex=0&stateFIPS=06&type=incd",
+            "title": "Incidence rate report for California by county, all cancer sites, 2019-2023",
+            "publisher": "National Cancer Institute State Cancer Profiles",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20250723033955/https://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=06&areatype=county&cancer=001&race=00&sex=0&age=001&type=incd",
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]

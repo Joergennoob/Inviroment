@@ -591,16 +591,16 @@
             "title": "ACSDT5Y2023.C16002 for 1400000US06029006201",
             "publisher": "US Census Bureau ACS 2019-2023",
             "retrieved": "2026-10-28",
-            "archive_url": "",
-            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+            "archive_url": "http://web.archive.org/web/20261028164117/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06029006201",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           },
           {
             "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06029006201",
             "title": "ACSDT5Y2023.B03002 for 1400000US06029006201",
             "publisher": "US Census Bureau ACS 2019-2023",
             "retrieved": "2026-10-28",
-            "archive_url": "",
-            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+            "archive_url": "http://web.archive.org/web/20261028164218/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06029006201",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           },
           {
             "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06029006201",
@@ -617,6 +617,30 @@
             "retrieved": "2026-10-28",
             "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r3-gw-counties",
+        "text": "De åtte San Joaquin-fylkene, som er et grovt omriss av overtrekksbassengene og som tar med hele Kern, har samme CalEnviroScreen-snitt som på luftkortet: uten videregående 25,6 mot 16,7 prosent, forhold 1,54, og drikkevannsindikator 706 mot 451, forhold 1,57. PLACES-diabetessnittet er 12,88 mot 11,34 prosent.",
+        "status": "confirmed",
+        "note": "Fylkesgrensen er ikke bassenggrensen. Tallet er det samme uttrekket som på San Joaquin-luftkortet.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=1%3D1&returnCountOnly=true&f=json",
+            "title": "CalEnviroScreen 4.0 Results feature service",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+            "title": "PLACES census tract data, GIS friendly format, 2025 release, California",
+            "publisher": "CDC",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
           }
         ]
       }

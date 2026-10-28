@@ -92,6 +92,22 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r3-sb1137-wspa",
+      "text": "WSPA lister SB 1137 i vedlegg A for filing 3092136, kvartalet som slutter 30. september 2025, og filing 3114837, kvartalet som slutter 31. desember 2025. Filing 3070933 for andre kvartal 2025 lister den ikke. Ingen av tekstene sier støtte eller motstand.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "geometry": null,
@@ -111,15 +127,20 @@
       "rel": "organization",
       "target_id": "org-calgem",
       "text": "Etaten som fører sonene."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-wspa",
+      "text": "Listet SB 1137 i to kvartaler i 2025, uten posisjon."
     }
   ],
   "checked_empty": [
     {
       "field": "lobby_position",
-      "searched": "WSPAs vedlegg A er ikke lest, så det er ikke bekreftet at WSPA oppga SB 1137. Loven var fra 2022, mens skjemaet som er lest, er fra 2025.",
+      "searched": "Vedlegg A er lest. SB 1137 er listet i to kvartaler i 2025. Ordene støtte eller motstand står ikke.",
       "result": "not_found",
       "urls": [
-        "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933"
+        "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip"
       ],
       "retrieved": "2026-10-28"
     }

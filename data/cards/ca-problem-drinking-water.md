@@ -67,6 +67,9 @@ Geografi: census tract 15 i Fresno County. Årgang: ACS 2019–2023. Sammenligni
   - [ACSST5Y2023.S2701 for 1400000US06019001500](https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06019001500) (US Census Bureau ACS 2019-2023, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028163736/https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06019001500. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
   - [ACSDT5Y2023.B01003 for 0400000US06](https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06) (US Census Bureau ACS 2019-2023, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
+- [ikke funnet] En tract-liste for de 390 failing-systemene er ikke lastet ned. Derfor er det ikke laget et befolkningsvektet snitt for tract med failing-system mot resten av California. CalEnviroScreen sin drikkevannsindikator er et annet mål og er ikke brukt som den listen. Behovsvurderingen gir folketall på systemene. Den gir ikke tract-id.
+  - [2025 Drinking Water Needs Assessment](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 ## Helseutfall
 
 Geografi: CalEnviroScreen 4.0 tract 6019001500. Årgang: OEHHA 4.0, helseindikatorer fra årene i rapporten. Sammenligning: Alle census tracts i California i CalEnviroScreen 4.0. Merkbart betyr persentil 90 eller høyere..

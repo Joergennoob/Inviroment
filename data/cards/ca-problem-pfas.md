@@ -24,6 +24,9 @@ Rangering i California-oversikten: 9.
 - [bekreftet] Kvalitetsplanen sier at prøvene skal brukes både til å se geografiske mønstre og til å vurdere renseanlegg, som grunnlag for behandlingsbaserte regler.
   - [PFAS QAPP, General Order DW-2024-0002-DDW, September 2024](https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260515195808/https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
+- [bekreftet] Arbeidsboken List of Sources and Monitoring Frequency, oppdatert 12. oktober 2026, for ordre DW-2025-0002-DDW har 10 701 unike PS-koder og 3 994 vannsystemnavn. 82 rader mangler PS-kode. Det er en annen liste enn anslaget på om lag 3 800 i QAPP. Rader uten PS-kode er telt for seg. Systemnavn kan være stavet ulikt og er ikke slått sammen.
+  - [PFAS General Order DW-2025-0002-DDW sources, October 12, 2026 update](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas_ddw_general_order/docs/order-dw-2025-0002-ddw-sources-20261012-update.xlsx) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+
 ## Befolkning
 
 Geografi: Brønner i disadvantaged communities i General Order DW-2024-0002-DDW.. Årgang: 2024–2025 etatsdokumenter.. Sammenligning: Ikke ett tjenesteområde..

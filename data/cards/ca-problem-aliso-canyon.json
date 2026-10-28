@@ -133,6 +133,22 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r3-aliso-scope",
+      "text": "Assigned Commissioner's Scoping Memo i A.26-01-009, datert 8. juli 2026, setter saken til om lageret skal bli på dagens kapasitet eller settes ned. Søknaden om å øke lageret er holdt utenfor saken. Et vedtak som endrer 68,6 milliarder kubikkfot i D.24-12-076, er ikke funnet.",
+      "status": "confirmed",
+      "note": "Notatet siterer anbefalingen om 58,6 milliarder kubikkfot. Det vedtar ikke kuttet. Tidsplanen har statuskonferanse 28. oktober 2026.",
+      "sources": [
+        {
+          "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M610/K355/610355447.PDF",
+          "title": "Assigned Commissioner's Scoping Memo and Ruling, A.26-01-009, July 8, 2026",
+          "publisher": "California Public Utilities Commission",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        }
+      ]
     }
   ],
   "geometry": {
@@ -411,6 +427,46 @@
             "retrieved": "2026-10-28",
             "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r3-aliso-buffer",
+        "text": "Egen beregning innenfor 5 engelske mil fra FRS-punktet: 182 758 personer og 64 213 boligenheter i 2020, og 36 offentlige skoler. De 60 tractene har PLACES-folketall 242 127. Rå prevalens mot resten av California: astma 8,96 mot 9,50, KOLS 4,42 mot 5,07, koronar hjertesykdom 4,95 mot 5,43, kreft 6,86 mot 6,30, diabetes 10,69 mot 11,52. Kreftforholdet er 1,09. Ingen når 1,5.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger resten av California, eller minst 10 prosentpoeng der målet er en andel. 5 mil er vår radius rundt punktet, ikke et evakueringskart.",
+        "sources": [
+          {
+            "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=WellStatus%3D%27Active%27+OR+WellStatus%3D%27Idle%27&returnCountOnly=true&f=json",
+            "title": "WellSTAR active or idle well count",
+            "publisher": "CalGEM",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+            "title": "2020 Census PL 94-171, California geographic header, summary level 750",
+            "publisher": "US Census Bureau",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PUBLICSCH_2324/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json",
+            "title": "NCES EDGE public school locations 2023-24, California",
+            "publisher": "National Center for Education Statistics",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+            "title": "PLACES census tract data, GIS friendly format, 2025 release, California",
+            "publisher": "CDC",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
           }
         ]
       }

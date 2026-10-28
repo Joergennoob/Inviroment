@@ -37,16 +37,16 @@
     },
     {
       "id": "s3",
-      "text": "Andre klienter er ikke hentet.",
+      "text": "I LEMP_CD er det ingen rad for 2024–2026 der Leacox & Associates eller Leacox California Governmental Advocacy står som underfirma. En klientliste ut over WSPA-betalingen er derfor ikke funnet i det uttrekket.",
       "status": "not_found",
-      "note": "",
+      "note": "Søket er på firmanavn og filer-id 1385058 og 1438830. Fravær i tabellen er ikke det samme som at firmaet ikke har andre klienter.",
       "sources": [
         {
-          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
-          "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
           "publisher": "California Secretary of State",
           "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]

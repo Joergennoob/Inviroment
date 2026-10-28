@@ -57,6 +57,6 @@ GitHub Actions kjører validering, sjekk av genererte filer og `npm ci && npm ru
 
 ## Innhold
 
-Rangeringen og begrunnelsen: `data/ca/oversikt.md`. Sammenligning av demografi og helse: `data/ca/metoder.md`. Dekning: `data/coverage.md`. Skjema: `SCHEMA.md`.
+Rangeringen og begrunnelsen: `data/ca/oversikt.md`. Sammenligning av demografi og helse: `data/ca/metoder.md`. Bufferen på 3 200 fot regnes på nytt med `scripts/setback_3200.py`. Fylkes- og tract-snittene regnes med `scripts/area_health.py`. Dekning: `data/coverage.md`. Skjema: `SCHEMA.md`.
 
 Bakgrunnskartet er [OpenFreeMap](https://openfreemap.org/) (stil `liberty`), uten API-nøkkel. OpenStreetMap-attribusjon vises i kartet.

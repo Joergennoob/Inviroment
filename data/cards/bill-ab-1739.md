@@ -18,11 +18,15 @@ Type: Lovforslag. Id: `bill-ab-1739`. Oppdatert: 2026-10-28.
 - [bekreftet] Forsamlingens tredje lesning 28. mai 2014 var 48 mot 24.
   - [AB 1739 history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
+- [bekreftet] Chevron lister AB 1739 i vedlegg A til filing 1872856, kvartalet som slutter 30. juni 2014, uten posisjon. WSPA og Aera sine 2014-tekster som er lest, lister ikke AB 1739. Groundwater Resources Association, filing 1906459, og Planning and Conservation League, filing 1909151, lister den sammen med de andre SGMA-lovene. Flere byer og vannverk lister også loven. De er ikke tatt inn ett og ett.
+  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 ## Lenker til andre kort
 
 - Del av SGMA. (`ca-problem-groundwater-overdraft`)
 - Forfatter. (`lawmaker-roger-dickinson`)
 - Principal coauthor. (`lawmaker-fran-pavley`)
+- Oppga AB 1739 i juni 2014, uten posisjon. (`org-chevron`)
 
 ## Åpne spørsmål
 

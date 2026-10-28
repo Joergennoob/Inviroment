@@ -560,6 +560,22 @@
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]
+      },
+      {
+        "id": "r3-sjv-ces",
+        "text": "CalEnviroScreen 4.0 for de samme åtte fylkene: andel uten videregående 25,6 mot 16,7 prosent, forhold 1,54. Drikkevannsindikatoren er 706 mot 451, forhold 1,57. Astmabesøk er 70,8 mot 49,4 per 10 000, forhold 1,43, og fattigdomsindikatoren 43,3 mot 29,6, forhold 1,46. De to siste når ikke terskelen på 1,5.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger resten av California, eller minst 10 prosentpoeng der målet er en andel. Drikkevannsindikatoren er ikke listen over failing systems.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=1%3D1&returnCountOnly=true&f=json",
+            "title": "CalEnviroScreen 4.0 Results feature service",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
       }
     ]
   },
@@ -636,6 +652,54 @@
             "publisher": "OEHHA",
             "retrieved": "2026-10-28",
             "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r3-sjv-places",
+        "text": "I de åtte fylkene San Joaquin, Stanislaus, Merced, Madera, Fresno, Tulare, Kings og Kern er PLACES-prevalensen astma 10,13 mot 9,41 prosent i resten av California, KOLS 6,25 mot 4,92, koronar hjertesykdom 6,17 mot 5,34, kreft 5,80 mot 6,36, diabetes 12,88 mot 11,34. Folketallet er 4 313 036. Ingen forhold når 1,5. Hele Kern er med, også øst for dalen.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger resten av California, eller minst 10 prosentpoeng der målet er en andel.",
+        "sources": [
+          {
+            "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+            "title": "PLACES census tract data, GIS friendly format, 2025 release, California",
+            "publisher": "CDC",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
+      },
+      {
+        "id": "r3-sjv-vf",
+        "text": "CDPH sin årsrapport for 2022: California 7 451 tilfeller og 19,1 per 100 000. Kern 2 407 tilfeller og 264,9, Kings 168 og 111,0, Tulare 312 og 65,7, Fresno 448 og 44,3, Madera 51 og 32,4. Kern, Kings, Tulare, San Luis Obispo, Fresno, Madera og Ventura hadde til sammen 50,5 prosent av tilfellene.",
+        "status": "confirmed",
+        "note": "Ratene er CDPH sine. De er ikke en årsakskobling til partikler eller sprøytemidler.",
+        "sources": [
+          {
+            "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/CocciEpiSummary2022.pdf",
+            "title": "Epidemiologic Summary of Valley Fever in California, 2022",
+            "publisher": "California Department of Public Health",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20251101231505/https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/CocciEpiSummary2022.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r3-sjv-cancer",
+        "text": "NCI, alle kreftformer, 2019–2023, per 100 000: California 413,0. Fresno 415,4, Kern 410,9, Madera 410,5, San Joaquin 402,6, Stanislaus 432,8, Merced 396,8, Kings 384,3, Tulare 371,8. Fylkesratene ligger rundt eller under delstaten, ikke 1,5 ganger over.",
+        "status": "confirmed",
+        "note": "Aldersjustert til 2000 US standard population. Kilden er NCI, ikke en CSV fra CAL*Explorer.",
+        "sources": [
+          {
+            "url": "https://statecancerprofiles.cancer.gov/incidencerates/index.php?age=001&areatype=county&cancer=001&race=00&sex=0&stateFIPS=06&type=incd",
+            "title": "Incidence rate report for California by county, all cancer sites, 2019-2023",
+            "publisher": "National Cancer Institute State Cancer Profiles",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20250723033955/https://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=06&areatype=county&cancer=001&race=00&sex=0&age=001&type=incd",
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]

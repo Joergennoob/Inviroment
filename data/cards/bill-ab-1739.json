@@ -68,6 +68,22 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r3-ab1739-lobby",
+      "text": "Chevron lister AB 1739 i vedlegg A til filing 1872856, kvartalet som slutter 30. juni 2014, uten posisjon. WSPA og Aera sine 2014-tekster som er lest, lister ikke AB 1739. Groundwater Resources Association, filing 1906459, og Planning and Conservation League, filing 1909151, lister den sammen med de andre SGMA-lovene.",
+      "status": "confirmed",
+      "note": "Flere byer og vannverk lister også loven. De er ikke tatt inn ett og ett.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "links": [
@@ -85,6 +101,11 @@
       "rel": "lawmaker",
       "target_id": "lawmaker-fran-pavley",
       "text": "Principal coauthor."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-chevron",
+      "text": "Oppga AB 1739 i juni 2014, uten posisjon."
     }
   ],
   "open_questions": [

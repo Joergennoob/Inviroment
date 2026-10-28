@@ -101,6 +101,30 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r3-psx-10k",
+      "text": "I Form 10-K for året som sluttet 31. desember 2025 skriver Phillips 66 at selskapet i fjerde kvartal 2025 begynte å legge Los Angeles-raffineriet i ro og stanset drivstoffproduksjonen. Full idling skulle etter teksten bli ferdig de neste månedene, og driftstillatelsene skulle beholdes. Et etatsdokument som sier at idlingen var ferdig per 28. oktober 2026, er ikke funnet.",
+      "status": "confirmed",
+      "note": "10-K-en er selskapets egen beskrivelse. SCAQMD-planen sier at anlegget var ventet å starte idling før utgangen av 2025, og at tillatelsene skulle beholdes under omreguleringen.",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000006/psx-20251231.htm",
+          "title": "Phillips 66 Form 10-K for the year ended December 31, 2025",
+          "publisher": "US Securities and Exchange Commission",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        },
+        {
+          "url": "https://www.aqmd.gov/docs/default-source/fenceline_monitoring/updated_rule_1180_plans/p66-wilmington-famp_final-revised_2025_12_5.pdf",
+          "title": "Phillips 66 Wilmington fenceline air monitoring plan, revised 2025-12-05",
+          "publisher": "South Coast Air Quality Management District",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        }
+      ]
     }
   ],
   "geometry": {

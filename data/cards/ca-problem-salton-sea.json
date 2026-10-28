@@ -389,6 +389,22 @@
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]
+      },
+      {
+        "id": "r3-salt-ces",
+        "text": "For hele Imperial County, som er videre enn sjøen og playaen, og som utelater nordbredden i Riverside: uten videregående 30,1 mot 17,6 prosent, forhold 1,71. Språklig isolasjon 24,1 mot 9,6, forhold 2,50. Fattigdomsindikatoren 46,5 mot 31,0, forhold 1,50. Andel hispanic 84,2 mot 38,8. Astmabesøk 86,4 mot 51,6 per 10 000, forhold 1,68.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger resten av California, eller minst 10 prosentpoeng der målet er en andel.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=1%3D1&returnCountOnly=true&f=json",
+            "title": "CalEnviroScreen 4.0 Results feature service",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
       }
     ]
   },
@@ -465,6 +481,54 @@
             "publisher": "OEHHA",
             "retrieved": "2026-10-28",
             "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r3-salt-places",
+        "text": "PLACES i Imperial County, 179 702 innbyggere: astma 9,41 mot 9,49 prosent, KOLS 5,97 mot 5,06, koronar hjertesykdom 6,80 mot 5,42, kreft 5,04 mot 6,31, diabetes 15,41 mot 11,49. Høyeste forhold er diabetes, 1,34, under terskelen på 1,5.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger resten av California, eller minst 10 prosentpoeng der målet er en andel.",
+        "sources": [
+          {
+            "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+            "title": "PLACES census tract data, GIS friendly format, 2025 release, California",
+            "publisher": "CDC",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
+      },
+      {
+        "id": "r3-salt-vf-cancer",
+        "text": "Valley fever 2022: Imperial 20 tilfeller og 11,2 per 100 000, mot 19,1 i California. NCI-kreftinsidens 2019–2023: Imperial 363,6 per 100 000, mot 413,0 i California. Begge ligger under delstaten. PISP 2022: Imperial 15 tilfeller i 11 episoder.",
+        "status": "confirmed",
+        "note": "Valley fever-raten er CDPH sin. Kreft er NCI. PISP-tilfellene er DPR sine.",
+        "sources": [
+          {
+            "url": "https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/CocciEpiSummary2022.pdf",
+            "title": "Epidemiologic Summary of Valley Fever in California, 2022",
+            "publisher": "California Department of Public Health",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20251101231505/https://www.cdph.ca.gov/Programs/CID/DCDC/CDPH%20Document%20Library/CocciEpiSummary2022.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://statecancerprofiles.cancer.gov/incidencerates/index.php?age=001&areatype=county&cancer=001&race=00&sex=0&stateFIPS=06&type=incd",
+            "title": "Incidence rate report for California by county, all cancer sites, 2019-2023",
+            "publisher": "National Cancer Institute State Cancer Profiles",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20250723033955/https://statecancerprofiles.cancer.gov/incidencerates/index.php?stateFIPS=06&areatype=county&cancer=001&race=00&sex=0&age=001&type=incd",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://www.cdpr.ca.gov/wp-content/uploads/2025/07/state_and_county_totals_2022.pdf",
+            "title": "Pesticide Illness Surveillance Program, state and county totals, 2022",
+            "publisher": "California Department of Pesticide Regulation",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260114042244/https://www.cdpr.ca.gov/wp-content/uploads/2025/07/state_and_county_totals_2022.pdf",
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]

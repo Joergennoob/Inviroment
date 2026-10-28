@@ -133,6 +133,22 @@
           "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
         }
       ]
+    },
+    {
+      "id": "r3-chev-sgma",
+      "text": "Vedlegg A i Chevron-filing 1872856, kvartalet som slutter 30. juni 2014, lister AB 1739 og SB 1319. SB 1168 står ikke i teksten. Teksten sier ikke om selskapet støttet eller motarbeidet lovene. Samme tekst tar også opp SB 4 og grunnvannsovervåking.",
+      "status": "confirmed",
+      "note": "TEXT_MEMO_CD, FORM_TYPE F635. AB 1739 og SB 1319 i denne sesjonen er SGMA-lovene.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "geometry": {
