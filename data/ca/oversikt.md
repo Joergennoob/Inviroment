@@ -54,29 +54,31 @@ Kort: `ca-problem-drinking-water`.
 
 ### 4. Olje og gass nær sensitive reseptorer
 
-- SB 1137, kapittel 365 av 2022, definerer en health protection zone som området innenfor 3 200 fot fra en sensitive receptor, og lovens funn sier at nærhet til utvinning gir helserisiko, særlig fra luftforurensning, og at belastningen uforholdsmessig treffer Black, indigenous and people of color.
-- Lovteksten sier at studier har vist skade ved avstander under om lag én kilometer, omtrent 3 200 fot. Den inneholder ikke et folketall.
-- CalGEM rapporterer at Kern County produserte 89 661 583 fat olje og kondensat i 2023, og Los Angeles County 8 674 995 fat. Chevron U.S.A. Inc. betalte 20 764 561,84 dollar i vurderinger det året, Aera Energy LLC 17 168 596,04 dollar.
-- CalGEM skriver at loven ble stanset da et referendum kvalifiserte seg i februar 2023, og at den fikk virkning igjen da forslagsstillerne trakk forslaget i juni 2024. Etatssiden sier at loven var fullt iverksatt 28. juni 2024.
+- En lov fra 2022 sier at nye olje- og gassbrønner ikke skal bores nærmere enn om lag 1 kilometer fra boliger, skoler og andre sårbare steder. Etaten som passer på brønnene, har ikke selv telt hvor mange som bor der. Vår egen telling gir om lag 3 millioner mennesker og om lag 1,1 millioner boliger.
+- Om lag 700 offentlige skoler og om lag 200 private skoler ligger innenfor den avstanden.
+- Kern fylke pumpet det aller meste av oljen i California i 2023. Chevron og Aera betalte de største avgiftene til tilsynsetaten.
+- Oljeselskapenes felles organisasjon brukte om lag 19 millioner dollar på å påvirke politikerne i denne toårsperioden.
+- Sykdomstallene for nabolag nær brønner er ikke høyere enn i resten av California. Vi vet ikke om brønnene er årsaken.
 
 Kort: `ca-problem-oil-gas-proximity`.
 
 ### 5. Plantevernmidler i jordbruksfylker
 
-- DPR rapporterer at det i 2022 ble brukt 181 millioner pund aktive stoffer i California, og at 92 millioner acre ble behandlet. Begge tallene var lavere enn i 2021.
-- Fylkestallene for 2022 viser 26 468 541 pund i Fresno, 25 835 076 pund i Kern og 17 537 932 pund i Tulare. Monterey hadde 9 187 117 pund.
-- DPR grupperer blant annet kreftfremkallende stoffer, fumiganter, grunnvannsforurensere og giftige luftforurensere som egne brukskategorier, og publiserer endring fra 2021 til 2022 for hver kategori.
-- Census tract 6019001000 i Fresno County har pesticidindikator 1 321,97 og persentil 90,83 i CalEnviroScreen 4.0, og 4 255 innbyggere i ACS 2015-2019.
-- Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001000 er 139,3 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 98.2. Det er merkbart høyt.
+- I 2022 ble det sprøytet om lag 180 millioner pund virksomt stoff i California. Mest gikk ut i jordbruksfylkene Fresno, Kern og Tulare. De som bor og jobber der, er nærmest sprøytingen.
+- Fresno og Kern hadde hver over 25 millioner pund. Tulare hadde om lag 18 millioner og Monterey om lag 9 millioner.
+- I ett boligområde i Fresno er astmabesøk på legevakt verre enn i 98 av 100 områder i California. Vi vet ikke om sprøytemidlene er årsaken.
+- I de fire fylkene med mest sprøyting er andelen uten videregående skole om lag halvannen gang så høy som i resten av California. Vi vet ikke om sprøytingen er årsaken.
+- Staten registrerte om lag 1 000 sykdomstilfeller som kan henge sammen med sprøytemidler i 2022. Los Angeles hadde flest, og de fleste der kom ikke fra jordbruk.
 
 Kort: `ca-problem-pesticides`.
 
 ### 6. Salton Sea, eksponert playa og støv
 
-- Imperial Irrigation District skriver at overføringen av inntil om lag 300 000 acre-fot i året med spart vann under Quantification Settlement Agreement reduserer avrenning til Salton Sea, blotlegger playa og kan øke støv.
-- Samme dokument sier at Imperial County er klassifisert som serious nonattainment for PM10, blant annet på grunn av vindbåret støv, og at fremtidig blotlagt playa ventes å bli en ny støvkilde.
-- CNRAs årsrapport for Salton Sea Management Program fra mars 2025 er skrevet til State Water Board i samsvar med Order WR 2017-0134.
-- Imperial Irrigation District, filer 1143378, har 290 134,29 dollar i lobbybetalinger i sesjonen 2025-2026 ifølge Cal-Access.
+- Innsjøen Salton Sea krymper fordi vann som før rant dit, brukes andre steder. Tørr sjøbunn kan blåse opp som støv. Vannverket Imperial Irrigation District flytter inntil en stor mengde vann i året, og det er det som blotlegger bunnen.
+- En målerapport sier at om lag 38 000 acre sjøbunn lå bart ved utgangen av 2024. En acre er et amerikansk flatemål. Statens egen årsrapport gir ikke ett samlet tall for den bare bunnen.
+- Innenfor om lag en mil fra strandlinjen bor om lag 12 000 mennesker. Det er mye færre enn hele Imperial fylke, der EPA regnet om lag 150 000 mennesker i 2010.
+- I hele Imperial fylke er astmabesøk på legevakt om lag 1,7 ganger så høye som i resten av California, og flere voksne mangler videregående skole. Vi vet ikke om støvet er årsaken.
+- Dalfeber er ikke vanligere i Imperial enn i California som helhet. I 2022 var raten lavere der enn i delstaten.
 
 Kort: `ca-problem-salton-sea`.
 
