@@ -4,14 +4,14 @@ Type: Lovforslag. Id: `bill-sb-1168`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] Dette er hovedloven fra 2014 om at grunnvann ikke skal tappes for hardt. Fran Pavley la den fram, og hun stemte selv ja.
+- [bekreftet] Dette er hovedloven fra 2014 om at vann under bakken ikke skal tappes for hardt. Fran Pavley la den fram, og hun stemte selv ja.
   - [SB 1168 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [SB 1168 votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250314163210/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Senatet stemte 25 mot 10 da loven ble ferdig. Forsamlingen stemte 47 mot 27.
+- [bekreftet] I delstatsparlamentet stemte senatet 25 mot 10 da loven ble ferdig. Forsamlingen stemte 47 mot 27.
   - [SB 1168 history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Chevron, Aera og oljeorganisasjonen deres skrev ikke denne loven på skjemaene vi leste. En grunnvannsforening og en miljøorganisasjon gjorde det. Ingen skrev om de var for eller mot.
+- [bekreftet] Chevron, Aera og oljeselskapenes felles organisasjon skrev ikke denne loven på skjemaene vi leste. En forening for vann under bakken og en miljøorganisasjon gjorde det. Ingen skrev om de var for eller mot.
   - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

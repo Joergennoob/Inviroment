@@ -7,10 +7,10 @@ Type: Lovforslag. Id: `bill-ab-617`. Oppdatert: 2026-10-28.
 - [bekreftet] Dette er loven som sier at delstaten skal følge ekstra med på lufta i nabolag som allerede har mye forurensning. Cristina Garcia la den fram i 2017.
   - [AB 617, Chapter 136, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Forsamlingen stemte 50 mot 24. Senatet stemte 27 mot 13.
+- [bekreftet] I delstatsparlamentet stemte forsamlingen 50 mot 24. Senatet stemte 27 mot 13.
   - [AB 617 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Loven gjelder hele California, ikke bare ett luftområde. Den kan brukes både rundt Los Angeles og i San Joaquin-dalen.
+- [bekreftet] Loven gjelder hele California, ikke bare ett område. Den kan brukes både rundt Los Angeles og i jordbruksdalen.
   - [AB 617, Chapter 136, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

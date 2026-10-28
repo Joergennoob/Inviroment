@@ -387,7 +387,7 @@
         },
         {
           "id": "s2",
-          "text": "Forsamlingen stemte 50 mot 24. Senatet stemte 27 mot 13.",
+          "text": "I delstatsparlamentet stemte forsamlingen 50 mot 24. Senatet stemte 27 mot 13.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -403,7 +403,7 @@
         },
         {
           "id": "s3",
-          "text": "Loven gjelder hele California, ikke bare ett luftområde. Den kan brukes både rundt Los Angeles og i San Joaquin-dalen.",
+          "text": "Loven gjelder hele California, ikke bare ett område. Den kan brukes både rundt Los Angeles og i jordbruksdalen.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -554,7 +554,7 @@
         },
         {
           "id": "plain-2",
-          "text": "Senatet stemte 25 mot 10. Forsamlingen stemte 46 mot 24.",
+          "text": "I delstatsparlamentet stemte senatet 25 mot 10. Forsamlingen stemte 46 mot 24.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -578,7 +578,7 @@
         },
         {
           "id": "plain-3",
-          "text": "Et folkeavstemningsforslag stanset loven en periode. Den begynte å gjelde igjen da forslaget ble trukket i 2024.",
+          "text": "Et forslag om folkeavstemning stanset loven en periode. Den begynte å gjelde igjen da forslaget ble trukket i 2024.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -594,7 +594,7 @@
         },
         {
           "id": "plain-4",
-          "text": "Oljebransjens organisasjon skrev senere at de jobbet med loven. Skjemaet sier ikke om de var for eller mot.",
+          "text": "Oljeselskapenes felles organisasjon skrev senere at de jobbet med loven. Skjemaet sier ikke om de var for eller mot.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -766,7 +766,7 @@
       "summary": [
         {
           "id": "plain-1",
-          "text": "Dette er hovedloven fra 2014 om at grunnvann ikke skal tappes for hardt. Fran Pavley la den fram, og hun stemte selv ja.",
+          "text": "Dette er hovedloven fra 2014 om at vann under bakken ikke skal tappes for hardt. Fran Pavley la den fram, og hun stemte selv ja.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -790,7 +790,7 @@
         },
         {
           "id": "plain-2",
-          "text": "Senatet stemte 25 mot 10 da loven ble ferdig. Forsamlingen stemte 47 mot 27.",
+          "text": "I delstatsparlamentet stemte senatet 25 mot 10 da loven ble ferdig. Forsamlingen stemte 47 mot 27.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -806,7 +806,7 @@
         },
         {
           "id": "plain-3",
-          "text": "Chevron, Aera og oljeorganisasjonen deres skrev ikke denne loven på skjemaene vi leste. En grunnvannsforening og en miljøorganisasjon gjorde det. Ingen skrev om de var for eller mot.",
+          "text": "Chevron, Aera og oljeselskapenes felles organisasjon skrev ikke denne loven på skjemaene vi leste. En forening for vann under bakken og en miljøorganisasjon gjorde det. Ingen skrev om de var for eller mot.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -960,7 +960,7 @@
       "summary": [
         {
           "id": "plain-1",
-          "text": "Dette er en søsterlov til grunnvannsloven fra 2014. Fran Pavley la den fram.",
+          "text": "Dette er en søsterlov til loven fra 2014 om vann under bakken. Fran Pavley la den fram.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -976,7 +976,7 @@
         },
         {
           "id": "plain-2",
-          "text": "Senatet stemte 24 mot 10. Forsamlingen stemte 48 mot 26.",
+          "text": "I delstatsparlamentet stemte senatet 24 mot 10. Forsamlingen stemte 48 mot 26.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -992,7 +992,7 @@
         },
         {
           "id": "plain-3",
-          "text": "Oljeorganisasjonen WSPA, Chevron og Aera skrev at de jobbet med loven. Skjemaene sier ikke om de var for eller mot.",
+          "text": "Oljeselskapenes felles organisasjon, Chevron og Aera skrev at de jobbet med loven. Skjemaene sier ikke om de var for eller mot.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -1151,7 +1151,7 @@
         },
         {
           "id": "s2",
-          "text": "Senatet stemte 38 mot 1. Forsamlingen stemte 68 mot 0. Nesten alle var enige.",
+          "text": "I delstatsparlamentet stemte senatet 38 mot 1. Forsamlingen stemte 68 mot 0. Nesten alle var enige.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -1167,7 +1167,7 @@
         },
         {
           "id": "s3",
-          "text": "Fondet får inntil om lag 130 millioner dollar i året fra klimakvoten, fram til midten av 2030.",
+          "text": "Fondet får inntil om lag 130 millioner dollar i året fra pengene bedrifter betaler for å slippe ut klimagass, fram til midten av 2030.",
           "status": "confirmed",
           "note": "",
           "sources": [
