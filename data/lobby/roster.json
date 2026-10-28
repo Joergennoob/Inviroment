@@ -1,7 +1,8 @@
 {
   "retrieved": "2026-10-28",
   "both_sides_count": 0,
-  "both_sides_note": "Merket «Jobber for begge sider» er ikke satt. Det krever at samme firma i sesjon 2025 er registrert både for en olje-, gass- eller sprøytemiddelklient og for en miljø- eller ren-energi-klient. Klientnavnene er lest. Ingen av dem er en miljøorganisasjon. CLEAN ENERGY, filer 1254491, står på samme firma som Chevron og ARCO. MONARCH BIO ENERGY, LLC, filer 1463713, står på samme firma som Sempra. Registreringen sier ikke at de to er miljøorganisasjoner, så de er ikke merket.",
+  "both_sides_note": "Vi lette etter firmaer som jobber både for olje eller sprøytemidler og for en miljøgruppe. Vi fant ingen.",
+  "both_sides_journalist": "Merket krever at samme firma i sesjon 2025 er registrert både for en olje-, gass- eller sprøytemiddelklient og for en miljø- eller ren-energi-klient. CLEAN ENERGY, filer 1254491, står sammen med Chevron. MONARCH BIO ENERGY, LLC, filer 1463713, står sammen med Sempra. Navnet alene sier ikke at de er miljøorganisasjoner.",
   "registration_source": {
     "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
     "title": "CAL-ACCESS rådata, FILER_LINKS_CD sesjon 2025",
@@ -62,7 +63,7 @@
         "ca-problem-refineries"
       ],
       "session_lobby_usd": 19279518.27,
-      "session_text": "Cal-Access, filer 1146815, kategori oil and gas, viser 19 279 518,27 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.",
+      "session_text": "I sesjonen 2025–2026 har Chevron brukt om lag 19 millioner dollar på lobbyvirksomhet i California.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -87,7 +88,7 @@
         "ca-problem-san-joaquin-air"
       ],
       "session_lobby_usd": 19031326.51,
-      "session_text": "Cal-Access-filer 1147195 har 19 031 326,51 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.",
+      "session_text": "Western States Petroleum Association er oljebransjens organisasjon. I sesjonen 2025–2026 har de brukt om lag 19 millioner dollar på lobbyvirksomhet.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -99,7 +100,8 @@
         }
       ],
       "activity": {
-        "text": "Skjemaet for april–juni 2025 nevner blant annet CalGEM og «SETBACK RULE», CARB og «AB 617 IMPLEMENTATION», og en rekke lovnummer (AB 626, 751, 839, 881, 914, 1207, 1243, 1448 og SB 34, 57, 222, 282, 237, 285, 318, 348, 542, 613, 614, 643, 684, 767, 840). Posisjon står ikke. Sakene er ikke fordelt på det enkelte firmaet.",
+        "text": "Våren 2025 skrev oljebransjens forening at de jobbet med regelen om avstand mellom oljebrønner og hus, og med loven om lokal luft. Skjemaet sier ikke om de var for eller mot, og ikke hvilket firma som tok hvilken sak.",
+        "journalist": "Form 635, filing 3070933, april–juni 2025. Teksten nevner CalGEM SETBACK RULE, CARB AB 617 IMPLEMENTATION, og lovnumrene AB 626, 751, 839, 881, 914, 1207, 1243, 1448 og SB 34, 57, 222, 282, 237, 285, 318, 348, 542, 613, 614, 643, 684, 767, 840.",
         "sources": [
           {
             "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
@@ -121,7 +123,7 @@
         "ca-problem-oil-gas-proximity"
       ],
       "session_lobby_usd": 744330.97,
-      "session_text": "Cal-Access-filer 1146650, California Independent Petroleum Association (CIPA), har 744 330,97 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "session_text": "Dette er en forening for uavhengige oljeselskaper. De har brukt om lag 700 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -143,7 +145,7 @@
         "ca-problem-oil-gas-proximity"
       ],
       "session_lobby_usd": 1524830.24,
-      "session_text": "Cal-Access-filer 1374043 har 1 524 830,24 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "session_text": "I sesjonen 2025–2026 har de brukt om lag 1,5 millioner dollar på lobbyvirksomhet.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -229,7 +231,7 @@
         "ca-problem-oil-gas-proximity"
       ],
       "session_lobby_usd": 183000.0,
-      "session_text": "Cal-Access-filer 1420515, Berry Corporation, har 183 000,00 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "session_text": "Berry Corporation er et oljeselskap. De har brukt om lag 180 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -267,7 +269,7 @@
         "ca-problem-oil-gas-proximity"
       ],
       "session_lobby_usd": 1321231.64,
-      "session_text": "Cal-Access-filer 1244770 har 1 321 231,64 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "session_text": "Marathon Petroleum har brukt om lag 1,3 millioner dollar på lobbyvirksomhet i California i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -402,7 +404,7 @@
         "ca-problem-refineries"
       ],
       "session_lobby_usd": 593436.59,
-      "session_text": "PBF Holding Company, filer 1408198, har 593 436,59 dollar i lobbybetalinger i sesjonen 2025-2026. PBF Energy Western Region LLC, filer 1382832, har 492 320,02 dollar. Begge står i oil and gas.",
+      "session_text": "PBF er oljeselskapet som kjøpte raffineriet i Torrance i 2016. To av selskapets filer har brukt til sammen om lag 1 million dollar på lobbyvirksomhet.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -424,7 +426,7 @@
         "ca-problem-refineries"
       ],
       "session_lobby_usd": 492320.02,
-      "session_text": "PBF Holding Company, filer 1408198, har 593 436,59 dollar i lobbybetalinger i sesjonen 2025-2026. PBF Energy Western Region LLC, filer 1382832, har 492 320,02 dollar. Begge står i oil and gas.",
+      "session_text": "PBF er oljeselskapet som kjøpte raffineriet i Torrance i 2016. To av selskapets filer har brukt til sammen om lag 1 million dollar på lobbyvirksomhet.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -446,7 +448,7 @@
         "ca-problem-refineries"
       ],
       "session_lobby_usd": 1982009.15,
-      "session_text": "Cal-Access-filer 1348342, Phillips 66, har 1 982 009,15 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "session_text": "Phillips 66 har raffineriet i Wilmington og Carson, sør i Los Angeles. De har brukt om lag 2 millioner dollar på lobbyvirksomhet i denne toårsperioden.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -476,7 +478,7 @@
         "ca-problem-aliso-canyon"
       ],
       "session_lobby_usd": 3347511.14,
-      "session_text": "Cal-Access-filer 1146926 dekker Sempra og tilknyttede selskaper, inkludert San Diego Gas & Electric og Southern California Gas Company, med 3 347 511,14 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "session_text": "Sempra og de tilknyttede selskapene SoCalGas og SDG&E har brukt om lag 3,3 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -498,7 +500,7 @@
         "ca-problem-refineries"
       ],
       "session_lobby_usd": 508895.85,
-      "session_text": "Valero Services, Inc, filer 1237027, har 508 895,85 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "session_text": "Valero Services har brukt om lag en halv million dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -535,7 +537,7 @@
         "ca-problem-salton-sea"
       ],
       "session_lobby_usd": 290134.29,
-      "session_text": "Cal-Access-filer 1143378 har 290 134,29 dollar i lobbybetalinger i sesjonen 2025-2026, kategori utilities.",
+      "session_text": "De har brukt om lag 300 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -558,7 +560,7 @@
         "ca-problem-groundwater-overdraft"
       ],
       "session_lobby_usd": 1436711.7,
-      "session_text": "Filer 1146790 har 1 436 711,70 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+      "session_text": "California Farm Bureau står i jordbrukskategorien. De har brukt om lag 1,4 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -581,7 +583,7 @@
         "ca-problem-groundwater-overdraft"
       ],
       "session_lobby_usd": 1196763.69,
-      "session_text": "Filer 1146857 har 1 196 763,69 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+      "session_text": "Western Growers står i jordbrukskategorien. De har brukt om lag 1,2 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -603,7 +605,7 @@
         "ca-problem-pesticides"
       ],
       "session_lobby_usd": 141149.88,
-      "session_text": "Filer 1146862 har 141 149,88 dollar i lobbybetalinger i sesjonen 2025-2026. Interessekoden i søket er manufacturing/industrial.",
+      "session_text": "Corteva står i industrikategorien hos valgmyndigheten. De har brukt om lag 140 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "sources": [
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -913,7 +915,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1147235",
@@ -1005,7 +1007,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1277078",
@@ -1067,7 +1069,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1147635",
@@ -1131,7 +1133,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1275439",
@@ -1195,7 +1197,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+      "bills_note": "Vi vet at oljebransjens forening jobbet med avstandsregelen og med loven om lokal luft. Vi vet ikke om det var dette firmaet som gjorde den jobben."
     },
     {
       "filer_id": "1276988",
@@ -1248,7 +1250,7 @@
           ]
         }
       ],
-      "fee_text": "37 500 dollar i andre kvartal 2025, betalt av Western States Petroleum Association. Kumulativt 75 000 dollar.",
+      "fee_text": "Oljebransjens forening betalte firmaet 37 500 dollar våren 2025. Til da i året var summen 75 000 dollar.",
       "fee_sources": [
         {
           "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
@@ -1260,7 +1262,7 @@
         }
       ],
       "both_sides": false,
-      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+      "bills_note": "Vi vet at oljebransjens forening jobbet med avstandsregelen og med loven om lokal luft. Vi vet ikke om det var dette firmaet som gjorde den jobben."
     },
     {
       "filer_id": "1147304",
@@ -1300,7 +1302,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1401529",
@@ -1364,7 +1366,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1231516",
@@ -1434,7 +1436,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+      "bills_note": "Vi vet at oljebransjens forening jobbet med avstandsregelen og med loven om lokal luft. Vi vet ikke om det var dette firmaet som gjorde den jobben."
     },
     {
       "filer_id": "1147285",
@@ -1488,7 +1490,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1147680",
@@ -1524,7 +1526,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1403038",
@@ -1554,7 +1556,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1147279",
@@ -1597,7 +1599,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+      "bills_note": "Vi vet at oljebransjens forening jobbet med avstandsregelen og med loven om lokal luft. Vi vet ikke om det var dette firmaet som gjorde den jobben."
     },
     {
       "filer_id": "1252620",
@@ -1646,7 +1648,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     },
     {
       "filer_id": "1385058",
@@ -1677,7 +1679,7 @@
           ]
         }
       ],
-      "fee_text": "6 000 dollar i andre kvartal 2025, betalt av Western States Petroleum Association. Kumulativt 15 100 dollar.",
+      "fee_text": "Oljebransjens forening betalte firmaet 6 000 dollar våren 2025. Til da i året var summen 15 100 dollar.",
       "fee_sources": [
         {
           "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
@@ -1689,7 +1691,7 @@
         }
       ],
       "both_sides": false,
-      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+      "bills_note": "Vi vet at oljebransjens forening jobbet med avstandsregelen og med loven om lokal luft. Vi vet ikke om det var dette firmaet som gjorde den jobben."
     },
     {
       "filer_id": "1481088",
@@ -1729,7 +1731,7 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+      "bills_note": "Vi vet at oljebransjens forening jobbet med avstandsregelen og med loven om lokal luft. Vi vet ikke om det var dette firmaet som gjorde den jobben."
     },
     {
       "filer_id": "1404921",
@@ -1757,21 +1759,21 @@
       "fee_text": "",
       "fee_sources": [],
       "both_sides": false,
-      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+      "bills_note": "Vi har ikke lest hvilke lover dette firmaet jobbet med."
     }
   ],
   "unmatched_payments": [
     {
       "payee": "Pillsbury Winthrop Shaw Pittman LLP",
-      "text": "58 570,50 dollar i honorar og 760,41 dollar i utlegg i andre kvartal 2025, fra Western States Petroleum Association.",
+      "text": "Oljebransjens forening betalte 58 570 dollar i honorar og 760 dollar i utlegg våren 2025.",
       "card_id": "firm-pillsbury",
-      "note": "Navnet på betalingen er ikke det samme som siste navnestreng for filer 1147279 (Pillsbury Madison & Sutro LLP). De er ikke slått sammen."
+      "note": "Navnet på betalingen er Pillsbury Winthrop. Registeret har et eldre navn, Pillsbury Madison and Sutro, på samme nummer. Vi har ikke slått dem sammen."
     },
     {
       "payee": "Carpenter Garcia Sievers LLC",
-      "text": "90 000 dollar i honorar i andre kvartal 2025, fra Western States Petroleum Association.",
+      "text": "Oljebransjens forening betalte 90 000 dollar våren 2025.",
       "card_id": "firm-carpenter-garcia-sievers",
-      "note": "Registreringen i samme sesjon har Carpenter Hawkins LLC, filer 1275439, for WSPA. Navnene er ikke slått sammen."
+      "note": "Registeret har også et firma som heter Carpenter Hawkins for samme oppdragsgiver. Navnene er ikke like, så vi har ikke slått dem sammen."
     }
   ]
 }

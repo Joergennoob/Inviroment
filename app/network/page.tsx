@@ -31,7 +31,7 @@ export default function NetworkPage() {
       </p>
       <h1>Nettverk</h1>
       <p className="note">
-        {edgesFile.edges.length} kanter. Den lesbare listen over firma og personer ligger på Lobbyister. Her er råkantene, med status.
+        Den enkle listen ligger på Lobbyister. Her er de samme koblingene, én og én, for den som vil sjekke kilden.
       </p>
       <div className="filters">
         {kinds.map((item) => (

@@ -40,8 +40,8 @@ FIRM_CARD = {
 
 # Quarterly fees where the payee name on Form 635 matches the registration name.
 MATCHED_FEES = {
-    "1276988": "37 500 dollar i andre kvartal 2025, betalt av Western States Petroleum Association. Kumulativt 75 000 dollar.",
-    "1385058": "6 000 dollar i andre kvartal 2025, betalt av Western States Petroleum Association. Kumulativt 15 100 dollar.",
+    "1276988": "Oljebransjens forening betalte firmaet 37 500 dollar våren 2025. Til da i året var summen 75 000 dollar.",
+    "1385058": "Oljebransjens forening betalte firmaet 6 000 dollar våren 2025. Til da i året var summen 15 100 dollar.",
 }
 
 POLITICIAN_CARD = {
@@ -79,7 +79,8 @@ FEE_SOURCE = {
     "archive_note": "Beløpene er lest i PDF-en.",
 }
 ACTIVITY = {
-    "text": "Skjemaet for april–juni 2025 nevner blant annet CalGEM og «SETBACK RULE», CARB og «AB 617 IMPLEMENTATION», og en rekke lovnummer (AB 626, 751, 839, 881, 914, 1207, 1243, 1448 og SB 34, 57, 222, 282, 237, 285, 318, 348, 542, 613, 614, 643, 684, 767, 840). Posisjon står ikke. Sakene er ikke fordelt på det enkelte firmaet.",
+    "text": "Våren 2025 skrev oljebransjens forening at de jobbet med regelen om avstand mellom oljebrønner og hus, og med loven om lokal luft. Skjemaet sier ikke om de var for eller mot, og ikke hvilket firma som tok hvilken sak.",
+    "journalist": "Form 635, filing 3070933, april–juni 2025. Teksten nevner CalGEM SETBACK RULE, CARB AB 617 IMPLEMENTATION, og lovnumrene AB 626, 751, 839, 881, 914, 1207, 1243, 1448 og SB 34, 57, 222, 282, 237, 285, 318, 348, 542, 613, 614, 643, 684, 767, 840.",
     "sources": [FEE_SOURCE],
 }
 
@@ -95,8 +96,11 @@ SEARCH_SOURCE = {
 
 def lobby_claim_text(card_id: str) -> str:
     card = json.loads((ROOT / "data" / "cards" / f"{card_id}.json").read_text(encoding="utf-8"))
-    for claim in card["summary"] + card["claims"]:
-        if "lobbybetaling" in claim["text"].lower() or "lobbybetalinger" in claim["text"].lower():
+    for claim in card["summary"]:
+        if "lobby" in claim["text"].lower():
+            return claim["text"]
+    for claim in card["claims"]:
+        if "lobby" in claim["text"].lower():
             return claim["text"]
     return ""
 
@@ -163,22 +167,20 @@ def main() -> None:
             "fee_sources": [FEE_SOURCE] if firm["id"] in MATCHED_FEES else [],
             "both_sides": False,
             "bills_note": (
-                "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+                "Vi vet at oljebransjens forening jobbet med avstandsregelen og med loven om lokal luft. Vi vet ikke om det var dette firmaet som gjorde den jobben."
                 if "1147195" in firm["targets"]
-                else "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+                else "Vi har ikke lest hvilke lover dette firmaet jobbet med."
             ),
         })
 
     roster = {
         "retrieved": "2026-10-28",
         "both_sides_count": 0,
-        "both_sides_note": (
-            "Merket «Jobber for begge sider» er ikke satt. Det krever at samme firma i sesjon 2025 er registrert "
-            "både for en olje-, gass- eller sprøytemiddelklient og for en miljø- eller ren-energi-klient. "
-            "Klientnavnene er lest. Ingen av dem er en miljøorganisasjon. "
-            "CLEAN ENERGY, filer 1254491, står på samme firma som Chevron og ARCO. "
-            "MONARCH BIO ENERGY, LLC, filer 1463713, står på samme firma som Sempra. "
-            "Registreringen sier ikke at de to er miljøorganisasjoner, så de er ikke merket."
+        "both_sides_note": "Vi lette etter firmaer som jobber både for olje eller sprøytemidler og for en miljøgruppe. Vi fant ingen.",
+        "both_sides_journalist": (
+            "Merket krever at samme firma i sesjon 2025 er registrert både for en olje-, gass- eller sprøytemiddelklient "
+            "og for en miljø- eller ren-energi-klient. CLEAN ENERGY, filer 1254491, står sammen med Chevron. "
+            "MONARCH BIO ENERGY, LLC, filer 1463713, står sammen med Sempra. Navnet alene sier ikke at de er miljøorganisasjoner."
         ),
         "registration_source": LOBBY_SOURCE,
         "problems": [{"id": pid, "title": title} for pid, title in PROBLEMS],
@@ -191,15 +193,15 @@ def main() -> None:
         "unmatched_payments": [
             {
                 "payee": "Pillsbury Winthrop Shaw Pittman LLP",
-                "text": "58 570,50 dollar i honorar og 760,41 dollar i utlegg i andre kvartal 2025, fra Western States Petroleum Association.",
+                "text": "Oljebransjens forening betalte 58 570 dollar i honorar og 760 dollar i utlegg våren 2025.",
                 "card_id": "firm-pillsbury",
-                "note": "Navnet på betalingen er ikke det samme som siste navnestreng for filer 1147279 (Pillsbury Madison & Sutro LLP). De er ikke slått sammen.",
+                "note": "Navnet på betalingen er Pillsbury Winthrop. Registeret har et eldre navn, Pillsbury Madison and Sutro, på samme nummer. Vi har ikke slått dem sammen.",
             },
             {
                 "payee": "Carpenter Garcia Sievers LLC",
-                "text": "90 000 dollar i honorar i andre kvartal 2025, fra Western States Petroleum Association.",
+                "text": "Oljebransjens forening betalte 90 000 dollar våren 2025.",
                 "card_id": "firm-carpenter-garcia-sievers",
-                "note": "Registreringen i samme sesjon har Carpenter Hawkins LLC, filer 1275439, for WSPA. Navnene er ikke slått sammen.",
+                "note": "Registeret har også et firma som heter Carpenter Hawkins for samme oppdragsgiver. Navnene er ikke like, så vi har ikke slått dem sammen.",
             },
         ],
     }

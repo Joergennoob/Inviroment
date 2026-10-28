@@ -14,8 +14,8 @@ export default function LobbyPage() {
       </p>
       <h1>Lobbyister</h1>
       <p>
-        Firma og interne lobbyister som i 2025 er registrert for selskapene bak de ti problemene. Listen viser hvem som
-        jobber der, hvilke klienter registreringen nevner, og penger der et skjema er lest.
+        Her ser du folk som jobber for selskapene og prøver å påvirke lovene i California. Du kan filtrere på problem.
+        Grønt merke for «jobber for begge sider» brukes bare når registeret viser både et forurensende selskap og en miljøgruppe. Det merket er ikke i bruk nå.
       </p>
       <LobbyView roster={roster} />
     </div>

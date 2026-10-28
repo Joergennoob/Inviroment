@@ -40,7 +40,7 @@ type Employer = {
   session_lobby_usd: number;
   session_text: string;
   sources: Source[];
-  activity: { text: string; sources: Source[] } | null;
+  activity: { text: string; journalist?: string; sources: Source[] } | null;
   contributions: { date: string; amount: string; recipient: string; politician_card: string; filing_id: string }[];
 };
 
@@ -48,6 +48,7 @@ type Roster = {
   retrieved: string;
   both_sides_count: number;
   both_sides_note: string;
+  both_sides_journalist: string;
   registration_source: Source;
   problems: { id: string; title: string }[];
   employers: Employer[];
@@ -113,9 +114,16 @@ export default function LobbyView({
       ) : (
         <>
           <p className="note">
-            Registreringer i sesjonen 2025–2026. Et bidrag eller et honorar er det skjemaet fører. Det sier ikke at pengene endret en stemme.
+            Dette er folk som jobber for selskapene og prøver å påvirke lovene. Listen er fra 2025 og 2026. At et selskap har gitt penger, betyr ikke at en politiker stemte på en bestemt måte.
           </p>
           <p className="note">{roster.both_sides_note}</p>
+          <details className="help">
+            <summary>For journalister</summary>
+            <p>{roster.both_sides_journalist}</p>
+            <p>
+              Registreringen ligger i statens rådatafil, tabellen som kobler firma og klient. Sesjonsbeløpet er det selskapet selv har oppgitt at de har brukt på påvirkning, ikke én persons lønn.
+            </p>
+          </details>
         </>
       )}
       {compact ? null : (
@@ -136,9 +144,9 @@ export default function LobbyView({
         </div>
       )}
 
-      <h3>{compact ? "Største lobbybudsjett på dette problemet" : "Hvem som betaler mest"}</h3>
+      <h3>{compact ? "Hvem som bruker mest penger på å påvirke" : "Hvem som bruker mest penger"}</h3>
       {spenders.length === 0 ? (
-        <p>Ingen oppdragsgiver i dette uttrekket er koblet til problemet. PFAS og drikkevann har ikke en egen lobbyfil i listen.</p>
+        <p>Vi har ikke tall for akkurat dette problemet i listen. Det betyr ikke at ingen prøver å påvirke. Vi har bare ikke lest et skjema som handler om det.</p>
       ) : null}
       <ul className="plain">
         {spenders.map((employer) => {
@@ -150,7 +158,7 @@ export default function LobbyView({
               {employer.session_text}
               {hired.length > 0 ? (
                 <div>
-                  Firma registrert for dem:{" "}
+                  Firma som er registrert for å jobbe for dem:{" "}
                   {hired.map((firm, index) => (
                     <span key={firm.filer_id}>
                       {index > 0 ? ", " : ""}
@@ -160,7 +168,7 @@ export default function LobbyView({
                   .
                 </div>
               ) : (
-                <div>Ingen eksternt firma i dette uttrekket. Se interne lobbyister under.</div>
+                <div>Vi fant ikke et eget firma utenfor selskapet. Se de ansatte lenger nede på lobbylisten.</div>
               )}
             </li>
           );
@@ -182,11 +190,11 @@ export default function LobbyView({
                 {firm.both_sides ? <span className="badge indication"> Jobber for begge sider</span> : null}
               </h3>
               <p>
-                <strong>Lobbyister. </strong>
+                <strong>Folk som jobber der. </strong>
                 {firm.lobbyists.map((person) => person.name).join(", ")}.
               </p>
               <p>
-                <strong>Klienter i sesjon 2025. </strong>
+                <strong>Hvem de jobber for. </strong>
                 {firm.clients.map((client, index) => (
                   <span key={client.filer_id}>
                     {index > 0 ? ", " : ""}
@@ -196,13 +204,13 @@ export default function LobbyView({
                 .
               </p>
               <p>
-                <strong>Saker. </strong>
+                <strong>Hvilke lover. </strong>
                 {firm.bills_note}
               </p>
               <p>
                 <strong>Penger. </strong>
                 {firm.fee_text ||
-                  "Kvartalsbeløpet til dette firmanavnet er ikke hentet ut. Sesjonsbeløpet står på klienten over, og er ikke firmaets andel."}
+                  "Vi har ikke lest hvor mye akkurat dette firmaet fikk betalt. Beløpet over er det selskapet brukte totalt, ikke firmaets del."}
               </p>
               {firm.fee_sources.length > 0 ? (
                 <ul className="sources">
@@ -214,7 +222,7 @@ export default function LobbyView({
             </section>
           ))}
 
-          <h2>Interne lobbyister</h2>
+          <h2>Ansatte som påvirker for sitt eget selskap</h2>
           {roster.inhouse
             .filter((group) => {
               const employer = roster.employers.find((item) => item.filer_id === group.filer_id);
@@ -228,12 +236,24 @@ export default function LobbyView({
                     <CardLink id={group.card_id} name={employer?.name || group.filer_id} />
                   </h3>
                   <p>{group.people.map((person) => person.name).join(", ")}.</p>
-                  {employer?.activity ? <p>{employer.activity.text}</p> : <p>Ingen lovliste er lest for denne oppdragsgiveren.</p>}
+                  {employer?.activity ? (
+                    <>
+                      <p>{employer.activity.text}</p>
+                      {employer.activity.journalist ? (
+                        <details className="help">
+                          <summary>For journalister</summary>
+                          <p>{employer.activity.journalist}</p>
+                        </details>
+                      ) : null}
+                    </>
+                  ) : (
+                    <p>Vi har ikke lest en liste over lover for dette selskapet.</p>
+                  )}
                   {employer && employer.contributions.length > 0 ? (
                     <p>
-                      Bidrag ført på skjema 635:{" "}
-                      {employer.contributions.map((row) => `${row.date} ${row.amount} dollar til ${row.recipient}`).join("; ")}.
-                      Kort for mottakeren er ikke skrevet ennå, så navnet er ikke lenket.
+                      Selskapet har oppgitt disse gavene til politikeres valgkamp:{" "}
+                      {employer.contributions.map((row) => `${row.date}, ${row.amount} dollar, til ${row.recipient}`).join("; ")}.
+                      Vi har ikke laget kort for mottakerne ennå, så navnene er ikke lenker.
                     </p>
                   ) : null}
                 </section>
@@ -242,7 +262,7 @@ export default function LobbyView({
 
           {problem === "" || problem === "ca-problem-oil-gas-proximity" || problem === "ca-problem-refineries" ? (
             <>
-              <h2>Betalinger med et annet firmanavn</h2>
+              <h2>Betalinger der navnet ikke matcher registeret</h2>
               <ul className="plain">
                 {roster.unmatched_payments.map((row) => (
                   <li key={row.payee}>
