@@ -5,8 +5,32 @@
   "rank": 8,
   "summary": [
     {
-      "id": "s1",
-      "text": "CARB anslo at lekkasjen ved SoCalGas sitt Aliso Canyon-lager slapp ut 99 650 tonn metan, med usikkerhet 9 300 tonn. For full klimakompensasjon brukes øvre grense, 109 000 tonn.",
+      "id": "plain-1",
+      "text": "I 2015 og 2016 lekket et stort gasslager over bydelen Porter Ranch i Los Angeles. Lageret eies av gasselskapet SoCalGas. Det er den største metanlekkasjen som er dokumentert i USA.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
+          "publisher": "California Air Resources Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "title": "FRS facility SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Lekkasjen varte fra oktober 2015 til februar 2016. Utslippet var om lag 100 000 tonn metan, en kraftig klimagass.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -21,24 +45,8 @@
       ]
     },
     {
-      "id": "s2",
-      "text": "Lekkasjen ble rapportert 23. oktober 2015 og kontrollert 11. februar 2016. CARB kaller den den største dokumenterte metanlekkasjen i USA i rapporten, med henvisning til Conley med flere i Science.",
-      "status": "confirmed",
-      "note": "",
-      "sources": [
-        {
-          "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
-          "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
-          "publisher": "California Air Resources Board",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-        }
-      ]
-    },
-    {
-      "id": "s3",
-      "text": "CARB skriver i nyhetsmeldingen at 109 000 tonn omtrent tilsvarer et års gassbruk i 190 000 boliger i Los Angeles. Det er en sammenligning, ikke et folketall for Porter Ranch.",
+      "id": "plain-3",
+      "text": "Mengden tilsvarer omtrent det 190 000 boliger i Los Angeles bruker av gass på ett år. Det er en sammenligning, ikke et tall på hvor mange som ble evakuert.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -53,18 +61,138 @@
       ]
     },
     {
-      "id": "s4",
-      "text": "FRS-post 110001158238 heter SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON, Porter Ranch, 12801 Tampa Ave, og har koordinatene 34,307569 nord og 118,551235 vest.",
+      "id": "plain-4",
+      "text": "Myndighetene lar lageret fortsatt holde om lag 69 milliarder kubikkfot gass. Kubikkfot er et amerikansk rommål. Et forslag om å senke taket er ikke vedtatt.",
       "status": "confirmed",
       "note": "",
       "sources": [
         {
-          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
-          "title": "FRS facility SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON",
-          "publisher": "US EPA",
+          "url": "https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M569/K577/569577353.PDF",
+          "title": "Order denying rehearing of D.24-12-076",
+          "publisher": "CPUC",
           "retrieved": "2026-10-28",
-          "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        },
+        {
+          "url": "https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/natural-gas/aliso-canyon/2025_aliso_canyon_biennial_assessment.pdf",
+          "title": "2025 Aliso Canyon biennial assessment",
+          "publisher": "CPUC Energy Division",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251119104804/https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/natural-gas/aliso-canyon/2025_aliso_canyon_biennial_assessment.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M595/K083/595083702.PDF",
+          "title": "SoCalGas application on the 2025 assessment",
+          "publisher": "CPUC docket",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260120220653/https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M595/K083/595083702.PDF",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M610/K355/610355447.PDF",
+          "title": "Assigned Commissioner's Scoping Memo and Ruling, A.26-01-009, July 8, 2026",
+          "publisher": "California Public Utilities Commission",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        }
+      ]
+    },
+    {
+      "id": "plain-5",
+      "text": "Boligområdet nærmest lageret er relativt velstående, og de vanlige sykdomstallene der skiller seg ikke ut. Vi vet ikke om lekkasjen ga varig sykdom. Det er ikke målt i disse tallene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037920303",
+          "title": "ACSDT5Y2023.B01003 for 1400000US06037920303",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028163002/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037920303",
           "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06037920303",
+          "title": "ACSDT5Y2023.B19013 for 1400000US06037920303",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028163017/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06037920303",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06037920303",
+          "title": "ACSDT5Y2023.B17001 for 1400000US06037920303",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028163026/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06037920303",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06037920303",
+          "title": "ACSDT5Y2023.B15003 for 1400000US06037920303",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028163034/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06037920303",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06037920303",
+          "title": "ACSDT5Y2023.B01001 for 1400000US06037920303",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261028163140/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06037920303",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06037920303",
+          "title": "ACSDT5Y2023.C16002 for 1400000US06037920303",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028163218/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06037920303",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06037920303",
+          "title": "ACSDT5Y2023.B03002 for 1400000US06037920303",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028163225/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06037920303",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06037920303",
+          "title": "ACSST5Y2023.S2701 for 1400000US06037920303",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261028163330/https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06037920303",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+          "title": "ACSDT5Y2023.B01003 for 0400000US06",
+          "publisher": "US Census Bureau ACS 2019-2023",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037920303&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+          "title": "CalEnviroScreen 4.0 tract 6037920303",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261028163518/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037920303&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+          "title": "CalEnviroScreen 4.0 report",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
     }
@@ -147,6 +275,70 @@
           "retrieved": "2026-10-28",
           "archive_url": "",
           "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "text": "CARB anslo at lekkasjen ved SoCalGas sitt Aliso Canyon-lager slapp ut 99 650 tonn metan, med usikkerhet 9 300 tonn. For full klimakompensasjon brukes øvre grense, 109 000 tonn.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
+          "publisher": "California Air Resources Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Lekkasjen ble rapportert 23. oktober 2015 og kontrollert 11. februar 2016. CARB kaller den den største dokumenterte metanlekkasjen i USA i rapporten, med henvisning til Conley med flere i Science.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
+          "publisher": "California Air Resources Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "CARB skriver i nyhetsmeldingen at 109 000 tonn omtrent tilsvarer et års gassbruk i 190 000 boliger i Los Angeles. Det er en sammenligning, ikke et folketall for Porter Ranch.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://ww2.arb.ca.gov/news/aliso-canyon-leak-emitted-109000-metric-tons-methane",
+          "title": "Aliso Canyon leak emitted 109,000 metric tons of methane",
+          "publisher": "California Air Resources Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261016014955/https://ww2.arb.ca.gov/news/aliso-canyon-leak-emitted-109000-metric-tons-methane",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "FRS-post 110001158238 heter SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON, Porter Ranch, 12801 Tampa Ave, og har koordinatene 34,307569 nord og 118,551235 vest.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "title": "FRS facility SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
         }
       ]
     }

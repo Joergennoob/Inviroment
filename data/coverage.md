@@ -10,10 +10,10 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `ca-problem-oil-gas-proximity` | problem | sjekket | sjekket | mangler | sjekket | sjekket | 19/28 | 1 |
 | `ca-problem-pesticides` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 15/16 | 2 |
 | `ca-problem-salton-sea` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 19/24 | 2 |
-| `ca-problem-refineries` | problem | sjekket | sjekket | mangler | mangler | sjekket | 13/13 | 2 |
-| `ca-problem-aliso-canyon` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 8/10 | 2 |
-| `ca-problem-pfas` | problem | sjekket | sjekket | sjekket | sjekket | sjekket | 6/9 | 3 |
-| `ca-problem-groundwater-overdraft` | problem | sjekket | sjekket | mangler | mangler | sjekket | 9/9 | 2 |
+| `ca-problem-refineries` | problem | sjekket | sjekket | mangler | mangler | sjekket | 20/23 | 2 |
+| `ca-problem-aliso-canyon` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 25/29 | 2 |
+| `ca-problem-pfas` | problem | sjekket | sjekket | sjekket | sjekket | sjekket | 12/18 | 3 |
+| `ca-problem-groundwater-overdraft` | problem | sjekket | sjekket | mangler | mangler | sjekket | 18/20 | 2 |
 | `bill-ab-1647` | bill | sjekket | mangler | mangler | mangler | mangler | 5/5 | 1 |
 | `bill-ab-1739` | bill | sjekket | sjekket | mangler | mangler | mangler | 5/5 | 1 |
 | `bill-ab-617` | bill | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |

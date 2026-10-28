@@ -84,37 +84,38 @@ Kort: `ca-problem-salton-sea`.
 
 ### 7. Petroleumsraffinerier og måling ved gjerdet
 
-- AB 1647 (Muratsuchi, kapittel 589, 2017) krever samfunnsmåling nær raffinerier og at eieren driver et fence-line-system. Data skal gjøres offentlige så raskt som mulig. Eieren betaler, med et unntak når distriktet også bruker stasjonen til andre kilder.
-- South Coast AQMD målte i 2015 VOC, NOx og SO2 ved seks raffinerier i bassenget. Rapporten sier at de hadde en samlet rapportert kapasitet på over 900 000 fat per dag, med henvisning til California Energy Commission 2016. Raffineriene er kalt A til F i sammendraget.
-- EPA ECHO viser CHEVRON EL SEGUNDO REFINERY, registry 110002899908, med status Significant Violation, 12 kvartaler med noncompliance, samlede formelle bøter på 1 078 634 dollar, siste bot 24. november 2021 og siste inspeksjon 6. april 2026.
-- Cal-Access viser lobbybetalinger i sesjonen 2025-2026 for Phillips 66 på 1 982 009,15 dollar, Marathon Petroleum Corporation and its subsidiaries på 1 321 231,64 dollar, PBF Holding Company på 593 436,59 dollar, Valero Services Inc på 508 895,85 dollar og PBF Energy Western Region LLC på 492 320,02 dollar.
+- Raffinerier lager drivstoff tett på boliger i Los Angeles-området. En lov fra 2017 sier at eieren skal måle luften ved gjerdet, og at naboene skal kunne se tallene.
+- Det føderale tilsynet kaller bruddene ved Chevron-raffineriet i El Segundo et alvorlig brudd.
+- Phillips 66 kunngjorde i 2024 at raffineriet i Wilmington og Carson skulle stanse driften mot slutten av 2025. Selve stansen er beskrevet på selskapets eget kort.
+- Torrance-raffineriet drives av Torrance Refining, et selskap PBF kjøpte i 2016.
+- Innenfor en mil bor noen tusen mennesker ved hvert av de tre anleggene. Sykdomstallene der er ikke høyere enn i resten av California. Vi vet ikke om raffineriet er årsaken.
 
 Kort: `ca-problem-refineries`.
 
 ### 8. Aliso Canyon gasslager
 
-- CARB anslo at lekkasjen ved SoCalGas sitt Aliso Canyon-lager slapp ut 99 650 tonn metan, med usikkerhet 9 300 tonn. For full klimakompensasjon brukes øvre grense, 109 000 tonn.
-- Lekkasjen ble rapportert 23. oktober 2015 og kontrollert 11. februar 2016. CARB kaller den den største dokumenterte metanlekkasjen i USA i rapporten, med henvisning til Conley med flere i Science.
-- CARB skriver i nyhetsmeldingen at 109 000 tonn omtrent tilsvarer et års gassbruk i 190 000 boliger i Los Angeles. Det er en sammenligning, ikke et folketall for Porter Ranch.
-- FRS-post 110001158238 heter SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON, Porter Ranch, 12801 Tampa Ave, og har koordinatene 34,307569 nord og 118,551235 vest.
+- I 2015 og 2016 lekket et stort gasslager over bydelen Porter Ranch i Los Angeles. Lageret eies av gasselskapet SoCalGas. Det er den største metanlekkasjen som er dokumentert i USA.
+- Lekkasjen varte fra oktober 2015 til februar 2016. Utslippet var om lag 100 000 tonn metan, en kraftig klimagass.
+- Mengden tilsvarer omtrent det 190 000 boliger i Los Angeles bruker av gass på ett år. Det er en sammenligning, ikke et tall på hvor mange som ble evakuert.
+- Myndighetene lar lageret fortsatt holde om lag 69 milliarder kubikkfot gass. Kubikkfot er et amerikansk rommål. Et forslag om å senke taket er ikke vedtatt.
+- Boligområdet nærmest lageret er relativt velstående, og de vanlige sykdomstallene der skiller seg ikke ut. Vi vet ikke om lekkasjen ga varig sykdom. Det er ikke målt i disse tallene.
 
 Kort: `ca-problem-aliso-canyon`.
 
 ### 9. PFAS i drikkevannskilder
 
-- State Water Board skriver at de tester om lag 3 600 drikkevannsbrønner i disadvantaged communities, uten kostnad for vannverkene, fra 2024 til 2026, etter bevilgning i AB 178 i 2022.
-- Kvalitetsplanen for General Order DW-2024-0002-DDW, september 2024, sier at styret skal ta prøver av om lag 3 800 brønner som forsyner disadvantaged og severely disadvantaged communities.
-- Et foreløpig lysbilde datert mars 2025 sier at 1 730 brønner og 337 vannsystemer var prøvetatt per 28. februar 2025. For 1 307 brønner med Method 533, prøver til og med 18. desember 2024, var det 76 PFOA-funn over CCRDL, høyeste 50 ng/L, og 84 PFOS-funn, høyeste 350 ng/L.
-- Problemet står lavt i rangeringen fordi kartleggingen ikke er ferdig og fordi det ikke finnes et etatstall i de leste dokumentene for hvor mange mennesker som får levert vann over en grenseverdi.
+- PFAS er en gruppe kjemikalier som nesten ikke brytes ned. De er brukt i blant annet brannskum og industri, og kan havne i drikkevann. Delstaten har pålagt testing av brønner.
+- Etaten selv sier om lag 3 600 til 4 000 brønner, ikke ett fast tall. En liste fra oktober 2026 har om lag 11 000 kilder og om lag 4 000 vannverk. Det er en annen liste.
+- Om lag halvparten av kildene, 5 500, har et kartpunkt. Resten har vi ikke koordinat for.
+- Vi vet ikke hvor mange mennesker som drikker vann over en grense. Det tallet står ikke i dokumentene som er lest.
 
 Kort: `ca-problem-pfas`.
 
 ### 10. Kritisk overtrukket grunnvann
 
-- DWR skriver at SGMA pålegger etaten å peke ut basseng i critical overdraft, definert som at fortsatt bruk sannsynligvis gir betydelige negative miljø-, samfunns- eller økonomiske virkninger. Overdraft er når uttaket over tid er større enn tilførselen.
-- DWRs kart fra januar 2020, basert på Bulletin 118-grenser publisert 11. februar 2019, lister 21 basseng og delbasseng. Elleve av dem ligger i San Joaquin Valley, fra Eastern San Joaquin 5-022.01 til Kern County 5-022.14.
-- DWR skriver at virkninger kan være saltvannsinntrenging, setninger, utarming av grunnvann og vedvarende senkning av grunnvannsnivået.
-- Census tract 6029006201 i Kern County har drikkevannsindikator 1 022,63 og persentil 99,63, og pesticidindikator 4 226,06. Det er en illustrasjon i fylket, ikke bassengets grense.
-- Lav fødselsvekt i tract 6029006201 er 7,77 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 95.4. Det er merkbart høyt.
+- Noen grunnvannsbasseng tappes raskere enn de fylles. Da kan bakken synke, saltvann komme inn, og brønner gå tørre. Delstatens vannetat har pekt ut 21 slike basseng. Elleve ligger i San Joaquin-dalen.
+- En lov fra 2014 pålegger lokale planer som skal stoppe overtappingen.
+- Om lag 4 millioner mennesker bor innenfor disse bassengene, etter vår telling av folketellingsblokker. Etaten har ikke selv publisert et folketall.
+- Der er andelen voksne uten videregående skole om lag halvannen gang så høy som i resten av California. Vi vet ikke om grunnvannet er årsaken.
 
 Kort: `ca-problem-groundwater-overdraft`.
