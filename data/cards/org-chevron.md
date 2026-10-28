@@ -4,17 +4,17 @@ Type: Organisasjon. Id: `org-chevron`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] CalGEM fører Chevron U.S.A. Inc. med 20 764 561,84 dollar i mottatte vurderingsbetalinger for 2023, det høyeste beløpet i vedlegg D.
+- [bekreftet] Chevron betalte det høyeste oljegebyret til delstaten i 2023, om lag 21 millioner dollar.
   - [Annual Report of the State Oil and Gas Supervisor 2023](https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Cal-Access, filer 1146815, kategori oil and gas, viser 19 279 518,27 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.
+- [bekreftet] I sesjonen 2025–2026 har Chevron brukt om lag 19 millioner dollar på lobbyvirksomhet i California.
   - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Cal-Access employer 1146815](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1146815&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260703125222/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1146815&session=2025&view=activity. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] ContributorSearch med navn som inneholder CHEVRON, California, 1. januar 2025 til 28. oktober 2026, ga 23 navnestrenger. Den største er «CHEVRON, SAN RAMON, CA 94583» med 5 473 000,00 dollar. «CHEVRON USA, INC., SAN RAMON, CA 94583» har 523 600,00 dollar. En rad heter «DUBLIN CHEVRON» og er et annet navn med et lite beløp. Radene er ikke summert.
+- [bekreftet] Selskapet har også gitt flere millioner dollar i kampanjebidrag. Den største mottakeren er valgkampkomiteen Coalition to Restore California's Middle Class, med om lag 3,8 millioner dollar.
   - [Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] EPA ECHO: anlegget i El Segundo har Significant Violation, bøter på 1 078 634 dollar og inspeksjon 6. april 2026. FRS-koordinatene er 33,916216, -118,41873.
+- [bekreftet] Raffineriet i El Segundo har brudd som det føderale tilsynet kaller alvorlige. Bøtene er om lag 1,1 millioner dollar.
   - [ECHO facility info, registry 110002899908](https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
   - [FRS facility CHEVRON EL SEGUNDO REFINERY](https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028154154/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
@@ -31,6 +31,20 @@ Type: Organisasjon. Id: `org-chevron`. Oppdatert: 2026-10-28.
 
 - [bekreftet] Vedlegg A i Chevron-filing 1872856, kvartalet som slutter 30. juni 2014, lister AB 1739 og SB 1319. SB 1168 står ikke i teksten. Teksten sier ikke om selskapet støttet eller motarbeidet lovene. Samme tekst tar også opp SB 4 og grunnvannsovervåking. TEXT_MEMO_CD, FORM_TYPE F635. AB 1739 og SB 1319 i denne sesjonen er SGMA-lovene.
   - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] CalGEM fører Chevron U.S.A. Inc. med 20 764 561,84 dollar i mottatte vurderingsbetalinger for 2023, det høyeste beløpet i vedlegg D.
+  - [Annual Report of the State Oil and Gas Supervisor 2023](https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Cal-Access, filer 1146815, kategori oil and gas, viser 19 279 518,27 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.
+  - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [Cal-Access employer 1146815](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1146815&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260703125222/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1146815&session=2025&view=activity. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] ContributorSearch med navn som inneholder CHEVRON, California, 1. januar 2025 til 28. oktober 2026, ga 23 navnestrenger. Den største er «CHEVRON, SAN RAMON, CA 94583» med 5 473 000,00 dollar. «CHEVRON USA, INC., SAN RAMON, CA 94583» har 523 600,00 dollar. En rad heter «DUBLIN CHEVRON» og er et annet navn med et lite beløp. Radene er ikke summert.
+  - [Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] EPA ECHO: anlegget i El Segundo har Significant Violation, bøter på 1 078 634 dollar og inspeksjon 6. april 2026. FRS-koordinatene er 33,916216, -118,41873.
+  - [ECHO facility info, registry 110002899908](https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
+  - [FRS facility CHEVRON EL SEGUNDO REFINERY](https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028154154/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
 ## Kilde for plassering
 

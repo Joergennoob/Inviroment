@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "I 10-K for 2023 skriver selskapet at netto produksjon var 86 tusen fat oljeekvivalenter per dag, hvorav San Joaquin-bassenget 64 og Los Angeles-bassenget 19. Det oppgir om lag 9 000 netto opererte brønner og nevner Elk Hills og Wilmington som de to største feltene i tabellen som er lest.",
+      "text": "California Resources pumper mest i San Joaquin-dalen og deretter ved Los Angeles. Selskapet sier at det driver om lag 9 000 brønner. Elk Hills og Wilmington er de to største feltene de nevner.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,23 +22,23 @@
     },
     {
       "id": "s2",
-      "text": "Samme melding sier at selskapet 7. februar 2024 inngikk en fusjonsavtale med Aera Energy LLC, med virkningsdato 1. januar 2024, og at avtalen da var pending.",
+      "text": "I juli 2024 ble Aera, et annet stort oljeselskap, en del av California Resources.",
       "status": "confirmed",
-      "note": "Senere status enn 10-K-en er ikke hentet.",
+      "note": "",
       "sources": [
         {
-          "url": "https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
-          "title": "California Resources Corporation Form 10-K for the year ended December 31, 2023",
+          "url": "https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm",
+          "title": "CRC Form 8-K, 1. juli 2024",
           "publisher": "SEC",
           "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+          "archive_url": "http://web.archive.org/web/20250719061228/https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
     },
     {
       "id": "s3",
-      "text": "Cal-Access-filer 1374043 har 1 524 830,24 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "text": "I sesjonen 2025–2026 har de brukt om lag 1,5 millioner dollar på lobbyvirksomhet.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -54,7 +54,7 @@
     },
     {
       "id": "s4",
-      "text": "ContributorSearch på CALIFORNIA RESOURCES CORPORATION ga 19 navnestrenger. Den største er «CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES, LONG BEACH, CA 90831» med 1 505 900,00 dollar. En San Francisco-streng, 94108, har 841 800,00 dollar. Noen strenger har et personnavn i parentes. Rollen til det navnet er ikke tolket.",
+      "text": "De har gitt om lag 1,5 millioner dollar til valgkampkomiteen Coalition to Restore California's Middle Class, og en halv million dollar til en annen kampanje.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -130,6 +130,70 @@
           "publisher": "California Secretary of State",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "I 10-K for 2023 skriver selskapet at netto produksjon var 86 tusen fat oljeekvivalenter per dag, hvorav San Joaquin-bassenget 64 og Los Angeles-bassenget 19. Det oppgir om lag 9 000 netto opererte brønner og nevner Elk Hills og Wilmington som de to største feltene i tabellen som er lest.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+          "title": "California Resources Corporation Form 10-K for the year ended December 31, 2023",
+          "publisher": "SEC",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Samme melding sier at selskapet 7. februar 2024 inngikk en fusjonsavtale med Aera Energy LLC, med virkningsdato 1. januar 2024, og at avtalen da var pending.",
+      "status": "confirmed",
+      "note": "Senere status enn 10-K-en er ikke hentet.",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+          "title": "California Resources Corporation Form 10-K for the year ended December 31, 2023",
+          "publisher": "SEC",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "Cal-Access-filer 1374043 har 1 524 830,24 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s4",
+      "text": "ContributorSearch på CALIFORNIA RESOURCES CORPORATION ga 19 navnestrenger. Den største er «CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES, LONG BEACH, CA 90831» med 1 505 900,00 dollar. En San Francisco-streng, 94108, har 841 800,00 dollar. Noen strenger har et personnavn i parentes. Rollen til det navnet er ikke tolket.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]

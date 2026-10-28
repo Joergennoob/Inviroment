@@ -4,16 +4,16 @@ Type: Organisasjon. Id: `org-crc`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] I 10-K for 2023 skriver selskapet at netto produksjon var 86 tusen fat oljeekvivalenter per dag, hvorav San Joaquin-bassenget 64 og Los Angeles-bassenget 19. Det oppgir om lag 9 000 netto opererte brønner og nevner Elk Hills og Wilmington som de to største feltene i tabellen som er lest.
+- [bekreftet] California Resources pumper mest i San Joaquin-dalen og deretter ved Los Angeles. Selskapet sier at det driver om lag 9 000 brønner. Elk Hills og Wilmington er de to største feltene de nevner.
   - [California Resources Corporation Form 10-K for the year ended December 31, 2023](https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm) (SEC, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Samme melding sier at selskapet 7. februar 2024 inngikk en fusjonsavtale med Aera Energy LLC, med virkningsdato 1. januar 2024, og at avtalen da var pending. Senere status enn 10-K-en er ikke hentet.
-  - [California Resources Corporation Form 10-K for the year ended December 31, 2023](https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm) (SEC, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+- [bekreftet] I juli 2024 ble Aera, et annet stort oljeselskap, en del av California Resources.
+  - [CRC Form 8-K, 1. juli 2024](https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm) (SEC, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250719061228/https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Cal-Access-filer 1374043 har 1 524 830,24 dollar i lobbybetalinger i sesjonen 2025-2026.
+- [bekreftet] I sesjonen 2025–2026 har de brukt om lag 1,5 millioner dollar på lobbyvirksomhet.
   - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] ContributorSearch på CALIFORNIA RESOURCES CORPORATION ga 19 navnestrenger. Den største er «CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES, LONG BEACH, CA 90831» med 1 505 900,00 dollar. En San Francisco-streng, 94108, har 841 800,00 dollar. Noen strenger har et personnavn i parentes. Rollen til det navnet er ikke tolket.
+- [bekreftet] De har gitt om lag 1,5 millioner dollar til valgkampkomiteen Coalition to Restore California's Middle Class, og en halv million dollar til en annen kampanje.
   - [Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn
@@ -29,6 +29,18 @@ Type: Organisasjon. Id: `org-crc`. Oppdatert: 2026-10-28.
 
 - [bekreftet] Aera Energy LLC oppga i Form 635, filing 1869215 og 1909234, kvartalene som slutter 30. juni og 30. september 2014, lovene SB 1281, SB 1319 og SB 861. Juni-skjemaet har også SB 1132, SB 1017 og AB 2420. SB 1168 og AB 1739 står ikke i de to tekstene. Posisjon står ikke. Teksten ligger i LBY_ACTVTY på CVR_LOBBY_DISCLOSURE_CD, filer-id C27739. Aera er senere fusjonert inn i CRC. Dette er 2014-skjemaet, ikke et CRC-skjema.
   - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] I 10-K for 2023 skriver selskapet at netto produksjon var 86 tusen fat oljeekvivalenter per dag, hvorav San Joaquin-bassenget 64 og Los Angeles-bassenget 19. Det oppgir om lag 9 000 netto opererte brønner og nevner Elk Hills og Wilmington som de to største feltene i tabellen som er lest.
+  - [California Resources Corporation Form 10-K for the year ended December 31, 2023](https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm) (SEC, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Samme melding sier at selskapet 7. februar 2024 inngikk en fusjonsavtale med Aera Energy LLC, med virkningsdato 1. januar 2024, og at avtalen da var pending. Senere status enn 10-K-en er ikke hentet.
+  - [California Resources Corporation Form 10-K for the year ended December 31, 2023](https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm) (SEC, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Cal-Access-filer 1374043 har 1 524 830,24 dollar i lobbybetalinger i sesjonen 2025-2026.
+  - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] ContributorSearch på CALIFORNIA RESOURCES CORPORATION ga 19 navnestrenger. Den største er «CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES, LONG BEACH, CA 90831» med 1 505 900,00 dollar. En San Francisco-streng, 94108, har 841 800,00 dollar. Noen strenger har et personnavn i parentes. Rollen til det navnet er ikke tolket.
+  - [Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Lenker til andre kort
 

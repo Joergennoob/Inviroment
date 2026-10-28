@@ -34,10 +34,10 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `org-berry` | organization | sjekket | sjekket | sjekket | mangler | mangler | 5/5 | 1 |
 | `org-calgem` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
 | `org-carb` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
-| `org-chevron` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 9/10 | 1 |
+| `org-chevron` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 15/16 | 1 |
 | `org-cipa` | organization | sjekket | sjekket | sjekket | mangler | mangler | 4/4 | 1 |
 | `org-corteva` | organization | sjekket | sjekket | mangler | mangler | mangler | 5/5 | 1 |
-| `org-crc` | organization | sjekket | sjekket | mangler | mangler | sjekket | 8/8 | 1 |
+| `org-crc` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 12/12 | 1 |
 | `org-dpr` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
 | `org-dwr` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
 | `org-epa` | organization | sjekket | mangler | mangler | mangler | mangler | 6/6 | 1 |
@@ -46,7 +46,7 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `org-marathon` | organization | sjekket | sjekket | mangler | mangler | sjekket | 4/4 | 1 |
 | `org-oehha` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
 | `org-pbf` | organization | sjekket | sjekket | mangler | mangler | mangler | 6/6 | 1 |
-| `org-phillips66` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 8/10 | 1 |
+| `org-phillips66` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 14/19 | 1 |
 | `org-scaqmd` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
 | `org-sempra` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 5/5 | 1 |
 | `org-sjvapcd` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
@@ -54,4 +54,4 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `org-torrance-refining` | organization | sjekket | mangler | mangler | mangler | sjekket | 5/5 | 1 |
 | `org-valero` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 5/5 | 1 |
 | `org-western-growers` | organization | sjekket | sjekket | sjekket | mangler | mangler | 4/4 | 1 |
-| `org-wspa` | organization | sjekket | sjekket | mangler | mangler | mangler | 10/10 | 1 |
+| `org-wspa` | organization | sjekket | sjekket | sjekket | mangler | mangler | 17/17 | 1 |

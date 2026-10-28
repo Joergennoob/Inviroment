@@ -10253,7 +10253,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "CalGEM fører Chevron U.S.A. Inc. med 20 764 561,84 dollar i mottatte vurderingsbetalinger for 2023, det høyeste beløpet i vedlegg D.",
+          "text": "Chevron betalte det høyeste oljegebyret til delstaten i 2023, om lag 21 millioner dollar.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10269,7 +10269,7 @@
         },
         {
           "id": "s2",
-          "text": "Cal-Access, filer 1146815, kategori oil and gas, viser 19 279 518,27 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.",
+          "text": "I sesjonen 2025–2026 har Chevron brukt om lag 19 millioner dollar på lobbyvirksomhet i California.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10293,7 +10293,7 @@
         },
         {
           "id": "s3",
-          "text": "ContributorSearch med navn som inneholder CHEVRON, California, 1. januar 2025 til 28. oktober 2026, ga 23 navnestrenger. Den største er «CHEVRON, SAN RAMON, CA 94583» med 5 473 000,00 dollar. «CHEVRON USA, INC., SAN RAMON, CA 94583» har 523 600,00 dollar. En rad heter «DUBLIN CHEVRON» og er et annet navn med et lite beløp. Radene er ikke summert.",
+          "text": "Selskapet har også gitt flere millioner dollar i kampanjebidrag. Den største mottakeren er valgkampkomiteen Coalition to Restore California's Middle Class, med om lag 3,8 millioner dollar.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10309,7 +10309,7 @@
         },
         {
           "id": "s4",
-          "text": "EPA ECHO: anlegget i El Segundo har Significant Violation, bøter på 1 078 634 dollar og inspeksjon 6. april 2026. FRS-koordinatene er 33,916216, -118,41873.",
+          "text": "Raffineriet i El Segundo har brudd som det føderale tilsynet kaller alvorlige. Bøtene er om lag 1,1 millioner dollar.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10394,6 +10394,86 @@
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "CalGEM fører Chevron U.S.A. Inc. med 20 764 561,84 dollar i mottatte vurderingsbetalinger for 2023, det høyeste beløpet i vedlegg D.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+              "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+              "publisher": "CalGEM",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Cal-Access, filer 1146815, kategori oil and gas, viser 19 279 518,27 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1146815&session=2025&view=activity",
+              "title": "Cal-Access employer 1146815",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260703125222/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1146815&session=2025&view=activity",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "ContributorSearch med navn som inneholder CHEVRON, California, 1. januar 2025 til 28. oktober 2026, ga 23 navnestrenger. Den største er «CHEVRON, SAN RAMON, CA 94583» med 5 473 000,00 dollar. «CHEVRON USA, INC., SAN RAMON, CA 94583» har 523 600,00 dollar. En rad heter «DUBLIN CHEVRON» og er et annet navn med et lite beløp. Radene er ikke summert.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s4",
+          "text": "EPA ECHO: anlegget i El Segundo har Significant Violation, bøter på 1 078 634 dollar og inspeksjon 6. april 2026. FRS-koordinatene er 33,916216, -118,41873.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+              "title": "ECHO facility info, registry 110002899908",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            },
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+              "title": "FRS facility CHEVRON EL SEGUNDO REFINERY",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154154/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -10694,7 +10774,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "I 10-K for 2023 skriver selskapet at netto produksjon var 86 tusen fat oljeekvivalenter per dag, hvorav San Joaquin-bassenget 64 og Los Angeles-bassenget 19. Det oppgir om lag 9 000 netto opererte brønner og nevner Elk Hills og Wilmington som de to største feltene i tabellen som er lest.",
+          "text": "California Resources pumper mest i San Joaquin-dalen og deretter ved Los Angeles. Selskapet sier at det driver om lag 9 000 brønner. Elk Hills og Wilmington er de to største feltene de nevner.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10710,23 +10790,23 @@
         },
         {
           "id": "s2",
-          "text": "Samme melding sier at selskapet 7. februar 2024 inngikk en fusjonsavtale med Aera Energy LLC, med virkningsdato 1. januar 2024, og at avtalen da var pending.",
+          "text": "I juli 2024 ble Aera, et annet stort oljeselskap, en del av California Resources.",
           "status": "confirmed",
-          "note": "Senere status enn 10-K-en er ikke hentet.",
+          "note": "",
           "sources": [
             {
-              "url": "https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
-              "title": "California Resources Corporation Form 10-K for the year ended December 31, 2023",
+              "url": "https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm",
+              "title": "CRC Form 8-K, 1. juli 2024",
               "publisher": "SEC",
               "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+              "archive_url": "http://web.archive.org/web/20250719061228/https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         },
         {
           "id": "s3",
-          "text": "Cal-Access-filer 1374043 har 1 524 830,24 dollar i lobbybetalinger i sesjonen 2025-2026.",
+          "text": "I sesjonen 2025–2026 har de brukt om lag 1,5 millioner dollar på lobbyvirksomhet.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10742,7 +10822,7 @@
         },
         {
           "id": "s4",
-          "text": "ContributorSearch på CALIFORNIA RESOURCES CORPORATION ga 19 navnestrenger. Den største er «CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES, LONG BEACH, CA 90831» med 1 505 900,00 dollar. En San Francisco-streng, 94108, har 841 800,00 dollar. Noen strenger har et personnavn i parentes. Rollen til det navnet er ikke tolket.",
+          "text": "De har gitt om lag 1,5 millioner dollar til valgkampkomiteen Coalition to Restore California's Middle Class, og en halv million dollar til en annen kampanje.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10818,6 +10898,70 @@
               "publisher": "California Secretary of State",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "I 10-K for 2023 skriver selskapet at netto produksjon var 86 tusen fat oljeekvivalenter per dag, hvorav San Joaquin-bassenget 64 og Los Angeles-bassenget 19. Det oppgir om lag 9 000 netto opererte brønner og nevner Elk Hills og Wilmington som de to største feltene i tabellen som er lest.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+              "title": "California Resources Corporation Form 10-K for the year ended December 31, 2023",
+              "publisher": "SEC",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Samme melding sier at selskapet 7. februar 2024 inngikk en fusjonsavtale med Aera Energy LLC, med virkningsdato 1. januar 2024, og at avtalen da var pending.",
+          "status": "confirmed",
+          "note": "Senere status enn 10-K-en er ikke hentet.",
+          "sources": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+              "title": "California Resources Corporation Form 10-K for the year ended December 31, 2023",
+              "publisher": "SEC",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250421021258/https://www.sec.gov/Archives/edgar/data/1609253/000160925324000043/crc-20231231.htm",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Cal-Access-filer 1374043 har 1 524 830,24 dollar i lobbybetalinger i sesjonen 2025-2026.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s4",
+          "text": "ContributorSearch på CALIFORNIA RESOURCES CORPORATION ga 19 navnestrenger. Den største er «CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES, LONG BEACH, CA 90831» med 1 505 900,00 dollar. En San Francisco-streng, 94108, har 841 800,00 dollar. Noen strenger har et personnavn i parentes. Rollen til det navnet er ikke tolket.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -11708,8 +11852,8 @@
       "name": "Phillips 66",
       "summary": [
         {
-          "id": "s1",
-          "text": "Cal-Access-filer 1348342, Phillips 66, har 1 982 009,15 dollar i lobbybetalinger i sesjonen 2025-2026.",
+          "id": "plain-1",
+          "text": "Phillips 66 har raffineriet i Wilmington og Carson, sør i Los Angeles. De har brukt om lag 2 millioner dollar på lobbyvirksomhet i denne toårsperioden.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11720,31 +11864,7 @@
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        },
-        {
-          "id": "s2",
-          "text": "ConocoPhillips Company and Affiliates, filer 1147122, er en egen rad med 99 134,00 dollar. Den er ikke lagt sammen med Phillips 66.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
-              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
-              "publisher": "California Secretary of State",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        },
-        {
-          "id": "s3",
-          "text": "FRS har PHILLIPS 66 COMPANY WILMINGTON PLANT, registry 110000476235, 1660 W Anaheim Street, koordinater 33,76336 og -118,27645.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
+            },
             {
               "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
               "title": "FRS facility PHILLIPS 66 COMPANY WILMINGTON PLANT",
@@ -11756,18 +11876,82 @@
           ]
         },
         {
-          "id": "s4",
-          "text": "Driftsstatus i 2026 er ikke bekreftet. FRS viser posten. ECHO er ikke slått opp for dette registry-idet.",
-          "status": "not_verified",
-          "note": "ECHO-oppslag på 110000476235 ville bekrefte om anlegget har ny inspeksjon.",
+          "id": "plain-2",
+          "text": "Selskapet skriver at de sluttet å lage drivstoff der i slutten av 2025, og at anlegget er lagt i ro. Lufttilsynet sier det samme, og at lagertanker fortsatt brukes.",
+          "status": "confirmed",
+          "note": "",
           "sources": [
             {
-              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
-              "title": "FRS facility PHILLIPS 66 COMPANY WILMINGTON PLANT",
-              "publisher": "US EPA",
+              "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000006/psx-20251231.htm",
+              "title": "Phillips 66 Form 10-K for the year ended December 31, 2025",
+              "publisher": "US Securities and Exchange Commission",
               "retrieved": "2026-10-28",
-              "archive_url": "https://web.archive.org/web/20261028154209/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
-              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              "archive_url": "http://web.archive.org/web/20260927190956/https://www.sec.gov/Archives/edgar/data/1534701/000153470126000006/psx-20251231.htm",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://www.aqmd.gov/docs/default-source/fenceline_monitoring/updated_rule_1180_plans/p66-wilmington-famp_final-revised_2025_12_5.pdf",
+              "title": "Phillips 66 Wilmington fenceline air monitoring plan, revised 2025-12-05",
+              "publisher": "South Coast Air Quality Management District",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+            },
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000022/psx-20260331.htm",
+              "title": "Phillips 66 Form 10-Q for the quarter ended March 31, 2026",
+              "publisher": "US Securities and Exchange Commission",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261017185325/https://www.sec.gov/Archives/edgar/data/1534701/000153470126000022/psx-20260331.htm",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://www.aqmd.gov/docs/default-source/agendas/governing-board/2026/2026-aug7-009.pdf",
+              "title": "South Coast AQMD governing board item, August 7, 2026, Phillips 66 Wilmington optical tent",
+              "publisher": "South Coast Air Quality Management District",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Vi har ikke et dokument som sier at alle tanker er tømt.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1534701/000153470126000022/psx-20260331.htm",
+              "title": "Phillips 66 Form 10-Q for the quarter ended March 31, 2026",
+              "publisher": "US Securities and Exchange Commission",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261017185325/https://www.sec.gov/Archives/edgar/data/1534701/000153470126000022/psx-20260331.htm",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://www.aqmd.gov/docs/default-source/agendas/governing-board/2026/2026-aug7-009.pdf",
+              "title": "South Coast AQMD governing board item, August 7, 2026, Phillips 66 Wilmington optical tent",
+              "publisher": "South Coast Air Quality Management District",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+            }
+          ]
+        },
+        {
+          "id": "plain-4",
+          "text": "ConocoPhillips er et annet selskap i registrene. De pengene er ikke lagt sammen med Phillips 66.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -11850,6 +12034,70 @@
               "retrieved": "2026-10-28",
               "archive_url": "",
               "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+            }
+          ]
+        },
+        {
+          "id": "s1",
+          "text": "Cal-Access-filer 1348342, Phillips 66, har 1 982 009,15 dollar i lobbybetalinger i sesjonen 2025-2026.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "ConocoPhillips Company and Affiliates, filer 1147122, er en egen rad med 99 134,00 dollar. Den er ikke lagt sammen med Phillips 66.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "FRS har PHILLIPS 66 COMPANY WILMINGTON PLANT, registry 110000476235, 1660 W Anaheim Street, koordinater 33,76336 og -118,27645.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+              "title": "FRS facility PHILLIPS 66 COMPANY WILMINGTON PLANT",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154209/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Driftsstatus i 2026 er ikke bekreftet. FRS viser posten. ECHO er ikke slått opp for dette registry-idet.",
+          "status": "not_verified",
+          "note": "ECHO-oppslag på 110000476235 ville bekrefte om anlegget har ny inspeksjon.",
+          "sources": [
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+              "title": "FRS facility PHILLIPS 66 COMPANY WILMINGTON PLANT",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154209/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -12759,7 +13007,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Cal-Access-filer 1147195 har 19 031 326,51 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.",
+          "text": "Western States Petroleum Association er oljebransjens organisasjon. I sesjonen 2025–2026 har de brukt om lag 19 millioner dollar på lobbyvirksomhet.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12783,7 +13031,7 @@
         },
         {
           "id": "s2",
-          "text": "Wayback-øyeblikksbildet fra 3. juli 2026 viser kvartalstallene 3 471 879,71, 3 032 226,49, 2 375 251,11, 3 525 971,27 og 4 345 731,14 dollar for de fem første kvartalene i sesjonen. Summen av disse fem er lavere enn oktobertotalen. Differansen er ikke forklart med en senere rapport her.",
+          "text": "Et arkiv fra juli 2026 viser fem kvartaler. Summen av dem er lavere enn totalen fra oktober. Vi har ikke en rapport som forklarer forskjellen.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12807,7 +13055,7 @@
         },
         {
           "id": "s3",
-          "text": "Form 635, filing 3070933, for 1. april til 30. juni 2025, har samlet 3 032 226,49 dollar. Det er samme tall som andre kvartal på aktivitetssiden. Rapporten betalte blant annet Carpenter Garcia Sievers LLC 90 000 dollar, Greenberg Traurig LLP 37 500 dollar, Pillsbury Winthrop Shaw Pittman LLP 59 330,91 dollar og Leacox & Associates 6 000 dollar i perioden.",
+          "text": "I ett kvartal betalte de blant annet lobbyfirmaene Carpenter Garcia Sievers, Greenberg Traurig og Pillsbury.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12831,7 +13079,7 @@
         },
         {
           "id": "s4",
-          "text": "ContributorSearch ga 14 navnestrenger. Den største PAC-strengen er «WESTERN STATES PETROLEUM ASSOCIATION CALIFORNIA PAC, SACRAMENTO, CA 95814» med 25 800,00 dollar. Foreningen selv, Sacramento, står med 16 044,92 dollar. Strengene er ikke summert.",
+          "text": "Kampanjebidragene deres er små ved siden av lobbyregningen. Den største kampanjestrengen er om lag 26 000 dollar.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12891,6 +13139,94 @@
               "publisher": "California Secretary of State",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Cal-Access-filer 1147195 har 19 031 326,51 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity",
+              "title": "Cal-Access employer 1147195, Western States Petroleum Association, activity",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025",
+              "archive_note": "Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Wayback-øyeblikksbildet fra 3. juli 2026 viser kvartalstallene 3 471 879,71, 3 032 226,49, 2 375 251,11, 3 525 971,27 og 4 345 731,14 dollar for de fem første kvartalene i sesjonen. Summen av disse fem er lavere enn oktobertotalen. Differansen er ikke forklart med en senere rapport her.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity",
+              "title": "Cal-Access employer 1147195, Western States Petroleum Association, activity",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025",
+              "archive_note": "Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden."
+            },
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Form 635, filing 3070933, for 1. april til 30. juni 2025, har samlet 3 032 226,49 dollar. Det er samme tall som andre kvartal på aktivitetssiden. Rapporten betalte blant annet Carpenter Garcia Sievers LLC 90 000 dollar, Greenberg Traurig LLP 37 500 dollar, Pillsbury Winthrop Shaw Pittman LLP 59 330,91 dollar og Leacox & Associates 6 000 dollar i perioden.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933",
+              "title": "Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity",
+              "title": "Cal-Access employer 1147195, Western States Petroleum Association, activity",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025",
+              "archive_note": "Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden."
+            }
+          ]
+        },
+        {
+          "id": "kept-s4",
+          "text": "ContributorSearch ga 14 navnestrenger. Den største PAC-strengen er «WESTERN STATES PETROLEUM ASSOCIATION CALIFORNIA PAC, SACRAMENTO, CA 95814» med 25 800,00 dollar. Foreningen selv, Sacramento, står med 16 044,92 dollar. Strengene er ikke summert.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
