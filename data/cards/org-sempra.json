@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "Cal-Access-filer 1146926 dekker Sempra og tilknyttede selskaper, inkludert San Diego Gas & Electric og Southern California Gas Company, med 3 347 511,14 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "text": "Sempra og de tilknyttede selskapene SoCalGas og SDG&E har brukt om lag 3,3 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "CARB skriver at Aliso Canyon-lekkasjen var ved Southern California Gas Company sitt lager.",
+      "text": "Gasslekkasjen ved Aliso Canyon var på et lager som tilhører SoCalGas.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "FRS-post 110001158238 er SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON i Porter Ranch.",
+      "text": "Det føderale registeret har et kartpunkt for lageret i Porter Ranch.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -54,7 +54,7 @@
     },
     {
       "id": "s4",
-      "text": "Lobbybeløpet gjelder den samlede fileren. Det er ikke delt mellom SDG&E, SoCalGas og Aliso.",
+      "text": "Lobbybeløpet gjelder hele konsernet. Det er ikke delt opp på Aliso Canyon.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -83,6 +83,70 @@
           "retrieved": "2026-10-28",
           "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
           "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "Cal-Access-filer 1146926 dekker Sempra og tilknyttede selskaper, inkludert San Diego Gas & Electric og Southern California Gas Company, med 3 347 511,14 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "CARB skriver at Aliso Canyon-lekkasjen var ved Southern California Gas Company sitt lager.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
+          "publisher": "California Air Resources Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "FRS-post 110001158238 er SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON i Porter Ranch.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "title": "FRS facility SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s4",
+      "text": "Lobbybeløpet gjelder den samlede fileren. Det er ikke delt mellom SDG&E, SoCalGas og Aliso.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
     }

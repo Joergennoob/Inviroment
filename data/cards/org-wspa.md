@@ -4,6 +4,32 @@ Type: Organisasjon. Id: `org-wspa`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
+- [bekreftet] Western States Petroleum Association er oljebransjens organisasjon. I sesjonen 2025–2026 har de brukt om lag 19 millioner dollar på lobbyvirksomhet.
+  - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [Cal-Access employer 1147195, Western States Petroleum Association, activity](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025. Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden.
+
+- [bekreftet] Et arkiv fra juli 2026 viser fem kvartaler. Summen av dem er lavere enn totalen fra oktober. Vi har ikke en rapport som forklarer forskjellen.
+  - [Cal-Access employer 1147195, Western States Petroleum Association, activity](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025. Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden.
+  - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] I ett kvartal betalte de blant annet lobbyfirmaene Carpenter Garcia Sievers, Greenberg Traurig og Pillsbury.
+  - [Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30](https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [Cal-Access employer 1147195, Western States Petroleum Association, activity](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025. Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden.
+
+- [bekreftet] Kampanjebidragene deres er små ved siden av lobbyregningen. Den største kampanjestrengen er om lag 26 000 dollar.
+  - [Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Funn
+
+- [bekreftet] Vedlegg A i filing 3070933, perioden 1. april til 30. juni 2025, lister blant annet AB 626, 751, 839, 881, 914, 1207, 1243 og 1448, og SB 34, 57, 222, 282, 237, 285, 318, 348, 542, 613, 614, 643, 684, 767 og 840. Teksten nevner CalGEM og setback rule, raffinerilager, cap and trade og CCUS. Den sier ikke om WSPA støttet eller motarbeidet noen sak. SB 1137 står ikke i dette vedlegget. Teksten er feltet TEXT4000 i tabellen TEXT_MEMO_CD for FILING_ID 3070933 og FORM_TYPE F635 i SOS-rådatafilen.
+  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] I vedlegg A for filing 3092136, perioden som slutter 30. september 2025, står SB 1137 sammen med blant annet SB 222, 237, 295, 318, 352, 542, 613, 614, 684, 755 og 840. Filing 3114837, som slutter 31. desember 2025, lister SB 237, 238 og 1137. Heller ikke her står det støtte eller motstand. Samme tabell TEXT_MEMO_CD, FORM_TYPE F635.
+  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Vedlegg A for 2014 lister SB 1319 i filing 1844606, 1872113, 1911643 og 1931993, for kvartalene som slutter 31. mars, 30. juni, 30. september og 31. desember 2014. SB 1168 og AB 1739 står ikke i de tekstene. Posisjon står ikke. SB 1319 i sesjonen 2013–2014 er Pavleys grunnvannslov. Nummersjekken er gjort mot hele TEXT4000, ikke bare utdraget.
+  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 - [bekreftet] Cal-Access-filer 1147195 har 19 031 326,51 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.
   - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Cal-Access employer 1147195, Western States Petroleum Association, activity](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025. Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden.
@@ -18,17 +44,6 @@ Type: Organisasjon. Id: `org-wspa`. Oppdatert: 2026-10-28.
 
 - [bekreftet] ContributorSearch ga 14 navnestrenger. Den største PAC-strengen er «WESTERN STATES PETROLEUM ASSOCIATION CALIFORNIA PAC, SACRAMENTO, CA 95814» med 25 800,00 dollar. Foreningen selv, Sacramento, står med 16 044,92 dollar. Strengene er ikke summert.
   - [Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
-
-## Funn
-
-- [bekreftet] Vedlegg A i filing 3070933, perioden 1. april til 30. juni 2025, lister blant annet AB 626, 751, 839, 881, 914, 1207, 1243 og 1448, og SB 34, 57, 222, 282, 237, 285, 318, 348, 542, 613, 614, 643, 684, 767 og 840. Teksten nevner CalGEM og setback rule, raffinerilager, cap and trade og CCUS. Den sier ikke om WSPA støttet eller motarbeidet noen sak. SB 1137 står ikke i dette vedlegget. Teksten er feltet TEXT4000 i tabellen TEXT_MEMO_CD for FILING_ID 3070933 og FORM_TYPE F635 i SOS-rådatafilen.
-  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
-
-- [bekreftet] I vedlegg A for filing 3092136, perioden som slutter 30. september 2025, står SB 1137 sammen med blant annet SB 222, 237, 295, 318, 352, 542, 613, 614, 684, 755 og 840. Filing 3114837, som slutter 31. desember 2025, lister SB 237, 238 og 1137. Heller ikke her står det støtte eller motstand. Samme tabell TEXT_MEMO_CD, FORM_TYPE F635.
-  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
-
-- [bekreftet] Vedlegg A for 2014 lister SB 1319 i filing 1844606, 1872113, 1911643 og 1931993, for kvartalene som slutter 31. mars, 30. juni, 30. september og 31. desember 2014. SB 1168 og AB 1739 står ikke i de tekstene. Posisjon står ikke. SB 1319 i sesjonen 2013–2014 er Pavleys grunnvannslov. Nummersjekken er gjort mot hele TEXT4000, ikke bare utdraget.
-  - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Lenker til andre kort
 

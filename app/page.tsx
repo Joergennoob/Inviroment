@@ -55,7 +55,13 @@ export default function HomePage() {
       <header className="top">
         <div>
           <h1>Miljøkart California</h1>
-          <p>Ti miljøproblemer, med kilder, status og vei videre til selskap, lov og penger.</p>
+          <p>Ti steder i California der miljøet gjør skade. Klikk i kartet. Til høyre står det hva som er galt, hvem som rammes, og hvem som står bak.</p>
+          <details className="help">
+            <summary>Slik leser du kartet</summary>
+            <p>
+              Fargene er områder, for eksempel luft som ikke klarer en grense, vannverk som bryter reglene, eller grunnvann som tappes for hardt. Prikkene er anlegg, brønner eller skoler. Klikk et felt. Panelet til høyre forklarer det med vanlige ord først. Under det ligger de nøyaktige tallene og lenkene. «Bekreftet» betyr at setningen står i et offentlig dokument. «Vi vet ikke om miljøet er årsaken» betyr at tallene henger sammen, men at vi ikke har bevist hvorfor.
+            </p>
+          </details>
         </div>
         <nav className="nav">
           <Link href="/oversikt/">Rangering</Link>
@@ -78,13 +84,14 @@ export default function HomePage() {
               <strong>
                 {card.rank}. {card.name}
               </strong>
-              <span>{card.summary[0]?.text.slice(0, 110)}…</span>
+              <span>{card.summary[0]?.text}</span>
             </a>
           ))}
         </aside>
         <div className="map-wrap">
           <MapView
             enabled={enabled}
+            summaries={Object.fromEntries(cards.map((card) => [card.id, card.summary[0]?.text ?? ""]))}
             onSelect={(cardId, next) => {
               setSelectedId(cardId);
               setPlacement(next);

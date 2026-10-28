@@ -5,8 +5,8 @@
   "rank": 7,
   "summary": [
     {
-      "id": "s1",
-      "text": "AB 1647 (Muratsuchi, kapittel 589, 2017) krever samfunnsmåling nær raffinerier og at eieren driver et fence-line-system. Data skal gjøres offentlige så raskt som mulig. Eieren betaler, med et unntak når distriktet også bruker stasjonen til andre kilder.",
+      "id": "plain-1",
+      "text": "Raffinerier lager drivstoff tett på boliger i Los Angeles-området. En lov fra 2017 sier at eieren skal måle luften ved gjerdet, og at naboene skal kunne se tallene.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -21,26 +21,10 @@
       ]
     },
     {
-      "id": "s2",
-      "text": "South Coast AQMD målte i 2015 VOC, NOx og SO2 ved seks raffinerier i bassenget. Rapporten sier at de hadde en samlet rapportert kapasitet på over 900 000 fat per dag, med henvisning til California Energy Commission 2016. Raffineriene er kalt A til F i sammendraget.",
+      "id": "plain-2",
+      "text": "Det føderale tilsynet kaller bruddene ved Chevron-raffineriet i El Segundo et alvorlig brudd.",
       "status": "confirmed",
       "note": "",
-      "sources": [
-        {
-          "url": "https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
-          "title": "Emission Measurements from the Refineries in the South Coast Air Basin, 2015 campaign",
-          "publisher": "South Coast AQMD",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20260223115343/https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-        }
-      ]
-    },
-    {
-      "id": "s3",
-      "text": "EPA ECHO viser CHEVRON EL SEGUNDO REFINERY, registry 110002899908, med status Significant Violation, 12 kvartaler med noncompliance, samlede formelle bøter på 1 078 634 dollar, siste bot 24. november 2021 og siste inspeksjon 6. april 2026.",
-      "status": "confirmed",
-      "note": "Statusen er EPAs kategori, ikke en egen rettslig konklusjon i dette kortet.",
       "sources": [
         {
           "url": "https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
@@ -53,18 +37,90 @@
       ]
     },
     {
-      "id": "s4",
-      "text": "Cal-Access viser lobbybetalinger i sesjonen 2025-2026 for Phillips 66 på 1 982 009,15 dollar, Marathon Petroleum Corporation and its subsidiaries på 1 321 231,64 dollar, PBF Holding Company på 593 436,59 dollar, Valero Services Inc på 508 895,85 dollar og PBF Energy Western Region LLC på 492 320,02 dollar.",
+      "id": "plain-3",
+      "text": "Phillips 66 kunngjorde i 2024 at raffineriet i Wilmington og Carson skulle stanse driften mot slutten av 2025. Selve stansen er beskrevet på selskapets eget kort.",
       "status": "confirmed",
       "note": "",
       "sources": [
         {
-          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
-          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
-          "publisher": "California Secretary of State",
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA order on Torrance title V permit",
+          "publisher": "US EPA",
           "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+          "title": "Phillips 66 notice, 16. oktober 2024",
+          "publisher": "Phillips 66",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-4",
+      "text": "Torrance-raffineriet drives av Torrance Refining, et selskap PBF kjøpte i 2016.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA order on Torrance title V permit",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+          "title": "Phillips 66 notice, 16. oktober 2024",
+          "publisher": "Phillips 66",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-5",
+      "text": "Innenfor en mil bor noen tusen mennesker ved hvert av de tre anleggene. Sykdomstallene der er ikke høyere enn i resten av California. Vi vet ikke om raffineriet er årsaken.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=WellStatus%3D%27Active%27+OR+WellStatus%3D%27Idle%27&returnCountOnly=true&f=json",
+          "title": "WellSTAR active or idle well count",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        },
+        {
+          "url": "https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+          "title": "2020 Census PL 94-171, California geographic header, summary level 750",
+          "publisher": "US Census Bureau",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PUBLICSCH_2324/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json",
+          "title": "NCES EDGE public school locations 2023-24, California",
+          "publisher": "National Center for Education Statistics",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        },
+        {
+          "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+          "title": "PLACES census tract data, GIS friendly format, 2025 release, California",
+          "publisher": "CDC",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
         }
       ]
     }
@@ -170,6 +226,70 @@
           "publisher": "Phillips 66",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s1",
+      "text": "AB 1647 (Muratsuchi, kapittel 589, 2017) krever samfunnsmåling nær raffinerier og at eieren driver et fence-line-system. Data skal gjøres offentlige så raskt som mulig. Eieren betaler, med et unntak når distriktet også bruker stasjonen til andre kilder.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "South Coast AQMD målte i 2015 VOC, NOx og SO2 ved seks raffinerier i bassenget. Rapporten sier at de hadde en samlet rapportert kapasitet på over 900 000 fat per dag, med henvisning til California Energy Commission 2016. Raffineriene er kalt A til F i sammendraget.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
+          "title": "Emission Measurements from the Refineries in the South Coast Air Basin, 2015 campaign",
+          "publisher": "South Coast AQMD",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260223115343/https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "EPA ECHO viser CHEVRON EL SEGUNDO REFINERY, registry 110002899908, med status Significant Violation, 12 kvartaler med noncompliance, samlede formelle bøter på 1 078 634 dollar, siste bot 24. november 2021 og siste inspeksjon 6. april 2026.",
+      "status": "confirmed",
+      "note": "Statusen er EPAs kategori, ikke en egen rettslig konklusjon i dette kortet.",
+      "sources": [
+        {
+          "url": "https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+          "title": "ECHO facility info, registry 110002899908",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Cal-Access viser lobbybetalinger i sesjonen 2025-2026 for Phillips 66 på 1 982 009,15 dollar, Marathon Petroleum Corporation and its subsidiaries på 1 321 231,64 dollar, PBF Holding Company på 593 436,59 dollar, Valero Services Inc på 508 895,85 dollar og PBF Energy Western Region LLC på 492 320,02 dollar.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]

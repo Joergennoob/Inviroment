@@ -56,7 +56,10 @@ button, input { font: inherit; }
   border-bottom: 1px solid var(--line);
 }
 .list a strong { display: block; }
-.list a span { color: var(--muted); font-size: 0.85rem; }
+.list a span { color: var(--muted); font-size: 0.85rem; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+.help { margin-top: 0.45rem; font-family: system-ui, sans-serif; font-size: 0.88rem; max-width: 46rem; }
+.help summary { cursor: pointer; color: var(--sea); }
+.help p { margin: 0.35rem 0 0; color: var(--ink); }
 .map-wrap { position: relative; min-height: 0; height: 100%; }
 .map { position: absolute; inset: 0; width: 100%; height: 100%; }
 .basemap-note {

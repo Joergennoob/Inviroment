@@ -4,6 +4,104 @@
   "name": "Cristina Garcia",
   "summary": [
     {
+      "id": "plain-1",
+      "text": "Cristina Garcia satt i underhuset for distrikt 58 i Los Angeles fylke. Hun la fram loven om ekstra luftoppfølging i belastede nabolag.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+          "title": "California Legislature handbook 2013-14",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Forsamlingen vedtok loven med 50 mot 24 i 2017.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Vi har ikke sjekket om hun sitter i forsamlingen i 2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Kortet bruker bare det lovsiden og votes-siden sier. Ingen biografi er lagt til.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r5-district",
+      "text": "Lovhåndboken for 2013–14 oppgir Cristina Garcia som representant for forsamlingsdistrikt 58.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+          "title": "California Legislature handbook 2013-14",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
       "id": "s1",
       "text": "AB 617, kapittel 136 av 2017, har Cristina Garcia som forfatter i lovteksten.",
       "status": "confirmed",
@@ -47,32 +145,6 @@
           "publisher": "California Legislative Counsel",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-        }
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "Kortet bruker bare det lovsiden og votes-siden sier. Ingen biografi er lagt til.",
-      "status": "confirmed",
-      "note": "",
-      "sources": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
-          "title": "AB 617, Chapter 136, Statutes of 2017",
-          "publisher": "California Legislative Counsel",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-        },
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
-          "title": "AB 617 bill votes",
-          "publisher": "California Legislative Counsel",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]

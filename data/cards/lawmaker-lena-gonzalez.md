@@ -4,6 +4,22 @@ Type: Folkevalgt. Id: `lawmaker-lena-gonzalez`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
+- [bekreftet] Lena Gonzalez er senator for distrikt 33, som dekker deler av Los Angeles fylke, blant annet Long Beach. Hun la fram loven om avstand mellom oljebrønner og boliger.
+  - [District 33 Details, Lena A. Gonzalez](https://www.senate.ca.gov/senators/33) (California State Senate, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028154328/https://www.senate.ca.gov/senators/33. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
+  - [Senate District 33](https://sd33.senate.ca.gov/district) (Office of Senator Lena A. Gonzalez, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261012231409/https://sd33.senate.ca.gov/district. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Hun stemte ja da senatet vedtok den loven. Avstemningen var 25 mot 10.
+  - [SB 1137 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Distriktet dekker Southeast Los Angeles, Long Beach og havnen, ifølge hennes egen side.
+  - [Senate District 33](https://sd33.senate.ca.gov/district) (Office of Senator Lena A. Gonzalez, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261012231409/https://sd33.senate.ca.gov/district. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Funn
+
+- [bekreftet] Senatssiden oppgir at hun sitter i Environmental Quality. Komitélisten er lest som verv, ikke som en påstand om hvordan hun stemmer i komiteen.
+  - [District 33 Details, Lena A. Gonzalez](https://www.senate.ca.gov/senators/33) (California State Senate, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028154328/https://www.senate.ca.gov/senators/33. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
+
 - [bekreftet] Senatets distriktsside oppgir Lena A. Gonzalez som senator for distrikt 33, med capitol-kontor i 1021 O Street, Suite 7510, Sacramento.
   - [District 33 Details, Lena A. Gonzalez](https://www.senate.ca.gov/senators/33) (California State Senate, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028154328/https://www.senate.ca.gov/senators/33. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
@@ -15,11 +31,6 @@ Type: Folkevalgt. Id: `lawmaker-lena-gonzalez`. Oppdatert: 2026-10-28.
 
 - [bekreftet] Hun står på ja-siden i senatets samtykkevotering 31. august 2022, 25 mot 10.
   - [SB 1137 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
-
-## Funn
-
-- [bekreftet] Senatssiden oppgir at hun sitter i Environmental Quality. Komitélisten er lest som verv, ikke som en påstand om hvordan hun stemmer i komiteen.
-  - [District 33 Details, Lena A. Gonzalez](https://www.senate.ca.gov/senators/33) (California State Senate, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028154328/https://www.senate.ca.gov/senators/33. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
 ## Lenker til andre kort
 

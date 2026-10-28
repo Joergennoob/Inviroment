@@ -4,6 +4,96 @@
   "name": "SB 1168 (2013-2014), grunnvann",
   "summary": [
     {
+      "id": "plain-1",
+      "text": "Dette er hovedloven fra 2014 om at grunnvann ikke skal tappes for hardt. Fran Pavley la den fram, og hun stemte selv ja.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 votes",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250314163210/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Senatet stemte 25 mot 10 da loven ble ferdig. Forsamlingen stemte 47 mot 27.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Chevron, Aera og oljeorganisasjonen deres skrev ikke denne loven på skjemaene vi leste. En grunnvannsforening og en miljøorganisasjon gjorde det. Ingen skrev om de var for eller mot.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Første senatsvotering 27. mai 2014 var 24 mot 12.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+          "title": "SB 1168 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r3-sb1168-lobby",
+      "text": "SB 1168 står ikke i WSPA-, Chevron- eller Aera-tekstene fra 2014 som er lest. Den står hos andre filere, blant dem Groundwater Resources Association, filing 1906459, og Planning and Conservation League, filing 1909151, uten at teksten sier posisjon.",
+      "status": "confirmed",
+      "note": "Fraværet gjelder de leste vedleggene og aktivitetslinjene, ikke alle mulige vedlegg i sesjonen.",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
       "id": "s1",
       "text": "SB 1168, kapittel 346, godkjent 16. september 2014. Forfatter på statussiden er Pavley. Loven legger til del 2.74 i Water Code.",
       "status": "confirmed",
@@ -63,40 +153,6 @@
           "publisher": "California Secretary of State",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-        }
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "Første senatsvotering 27. mai 2014 var 24 mot 12.",
-      "status": "confirmed",
-      "note": "",
-      "sources": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
-          "title": "SB 1168 history",
-          "publisher": "Legislative Counsel",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-        }
-      ]
-    },
-    {
-      "id": "r3-sb1168-lobby",
-      "text": "SB 1168 står ikke i WSPA-, Chevron- eller Aera-tekstene fra 2014 som er lest. Den står hos andre filere, blant dem Groundwater Resources Association, filing 1906459, og Planning and Conservation League, filing 1909151, uten at teksten sier posisjon.",
-      "status": "confirmed",
-      "note": "Fraværet gjelder de leste vedleggene og aktivitetslinjene, ikke alle mulige vedlegg i sesjonen.",
-      "sources": [
-        {
-          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
-          "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
-          "publisher": "California Secretary of State",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]

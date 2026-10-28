@@ -37,11 +37,11 @@ export default function CardBody({ card, cardsById }: { card: Card; cardsById: M
   return (
     <article>
       <p className="note">Oppdatert {card.updated}</p>
-      <h2>Sammendrag</h2>
+      <h2>I korte trekk</h2>
       {card.summary.map((claim) => (
         <ClaimBlock key={claim.id} claim={claim} />
       ))}
-      <h2>Funn</h2>
+      <h2>Detaljer med kilder</h2>
       {card.claims.map((claim) => (
         <ClaimBlock key={claim.id} claim={claim} />
       ))}

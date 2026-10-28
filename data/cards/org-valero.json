@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "Valero Services, Inc, filer 1237027, har 508 895,85 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "text": "Valero Services har brukt om lag en halv million dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "FRS har BENICIA VALERO REFINERY, registry 110071102220, koordinater 38,074169 og -122,144559.",
+      "text": "Det føderale registeret har et kartpunkt for Valero-raffineriet i Benicia.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Et annet treff med samme navn, registry 110067352821, har breddegrad 32,72, som ikke ligger i Benicia. Det punktet er forkastet.",
+      "text": "Et annet treff med samme navn ligger på feil breddegrad og er ikke brukt.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -68,6 +68,54 @@
           "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         },
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+          "title": "FRS facility BENICIA VALERO REFINERY",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154217/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "Valero Services, Inc, filer 1237027, har 508 895,85 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "FRS har BENICIA VALERO REFINERY, registry 110071102220, koordinater 38,074169 og -122,144559.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+          "title": "FRS facility BENICIA VALERO REFINERY",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154217/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "Et annet treff med samme navn, registry 110067352821, har breddegrad 32,72, som ikke ligger i Benicia. Det punktet er forkastet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
         {
           "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
           "title": "FRS facility BENICIA VALERO REFINERY",

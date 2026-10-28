@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "Cal-Access-filer 1244770 har 1 321 231,64 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "text": "Marathon Petroleum har brukt om lag 1,3 millioner dollar på lobbyvirksomhet i California i sesjonen 2025–2026.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "Et navnesøk på MARATHON ga også Marathon Asset Management LP i finans, med 0 dollar. Den raden er ikke raffineriselskapet.",
+      "text": "Et fond som heter Marathon Asset Management er et annet selskap og er ikke tatt med.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Ingen FRS-post med navnet Marathon Los Angeles ga treff i søket som ble kjørt. Derfor er ikke et anleggspunkt lagt på dette kortet.",
+      "text": "Vi fant ikke et raffineripunkt i California under navnet Marathon i søket som ble kjørt.",
       "status": "not_found",
       "note": "",
       "sources": [
@@ -66,6 +66,54 @@
           "publisher": "California Secretary of State",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "Cal-Access-filer 1244770 har 1 321 231,64 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Et navnesøk på MARATHON ga også Marathon Asset Management LP i finans, med 0 dollar. Den raden er ikke raffineriselskapet.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "Ingen FRS-post med navnet Marathon Los Angeles ga treff i søket som ble kjørt. Derfor er ikke et anleggspunkt lagt på dette kortet.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=MARATHON%20LOS%20ANGELES&state_abbr=CA&output=JSON",
+          "title": "FRS-søk MARATHON LOS ANGELES",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261028154604/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=MARATHON%20LOS%20ANGELES&state_abbr=CA&output=JSON",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]

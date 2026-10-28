@@ -1,6 +1,8 @@
 # Miljøkart California
 
-Åpent, kildebelagt kart over miljøproblemer i amerikanske delstater. Første innhold er California. Inngangen er stedet og skaden. Derfra går kortene til selskap, lobbyutgifter, kampanjebidrag, lovforslag, stemmetall og etater. Hver påstand har status og lenke.
+Dette er et kart over ti miljøproblemer i California. Du klikker et sted og ser, med vanlige ord, hva som er galt, omtrent hvor mange som rammes, og hvem som står bak. Under forklaringen ligger de nøyaktige tallene og lenken til det offentlige dokumentet.
+
+«Bekreftet» betyr at setningen står i dokumentet. «Vi vet ikke om miljøet er årsaken» betyr at sykdom og forurensning opptrer på samme sted, men at vi ikke har bevist at det ene skapte det andre.
 
 Tekst til leseren er bokmål. Kode, filnavn og JSON-nøkler er engelsk ASCII.
 
