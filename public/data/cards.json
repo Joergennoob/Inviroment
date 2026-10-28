@@ -8979,6 +8979,107 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "lawmaker-amy-shuklian",
+      "type": "lawmaker",
+      "name": "Amy Shuklian",
+      "state": "CA",
+      "updated": "2026-10-28",
+      "rank": null,
+      "org_kind": null,
+      "summary": [
+        {
+          "id": "s1",
+          "text": "Amy Shuklian er fylkesstyrer i Tulare og leder for luftstyret i San Joaquin-dalen.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+              "title": "Referat 19. februar 2026, møteleder",
+              "publisher": "San Joaquin Valley APCD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "PDF lest 28. oktober 2026."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "19. februar 2026 åpnet hun møtet klokken 9.06.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+              "title": "Referat, call to order",
+              "publisher": "San Joaquin Valley APCD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "PDF lest 28. oktober 2026."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Hun var blant dem som stemte ja til rutinepakken. Ingen stemte nei.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+              "title": "Samtykkeliste",
+              "publisher": "San Joaquin Valley APCD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "PDF lest 28. oktober 2026."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Styrets budsjettforslag for 2026-27 fører henne også som leder.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://ww2.valleyair.org/media/dbkb5qwk/2026-27-recommended-budget.pdf",
+              "title": "Anbefalt budsjett 2026-27, styreliste",
+              "publisher": "San Joaquin Valley APCD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback er ikke slått opp."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "problem",
+          "target_id": "ca-problem-san-joaquin-air",
+          "text": "Leder luftstyret i dalen."
+        }
+      ],
+      "geometry": null,
+      "map_features": [],
+      "checked_empty": [
+        {
+          "field": "geometry",
+          "searched": "Valgkretskart for fylkesstyrer er ikke lastet ned. Teksten sier hvilket fylke eller distrikt siden selv oppgir.",
+          "result": "not_found",
+          "urls": [
+            "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf"
+          ],
+          "retrieved": "2026-10-28"
+        }
+      ],
+      "open_questions": [
+        "En avstemning fra henne om en utslippsregel, ikke bare rutinesaker."
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "lawmaker-anna-caballero",
       "type": "lawmaker",
       "name": "Anna M. Caballero",
@@ -10580,6 +10681,107 @@
     },
     {
       "schema_version": "1.0.0",
+      "id": "lawmaker-david-couch",
+      "type": "lawmaker",
+      "name": "David Couch",
+      "state": "CA",
+      "updated": "2026-10-28",
+      "rank": null,
+      "org_kind": null,
+      "summary": [
+        {
+          "id": "s1",
+          "text": "David Couch er fylkesstyrer i Kern. Luftstyret i San Joaquin-dalen fører ham slik på møtet 19. februar 2026.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+              "title": "Referat, San Joaquin Valley APCD, 19. februar 2026",
+              "publisher": "San Joaquin Valley APCD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback fant ikke PDF-en. Den er lest 28. oktober 2026."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Han stemte ja til en pakke med rutinesaker: referat, møteplan, budsjettstatus og to laboratorieavtaler uten nye penger.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+              "title": "Samtykkeliste sak 13-20",
+              "publisher": "San Joaquin Valley APCD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "PDF lest 28. oktober 2026."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Ingen på møtet stemte nei til den pakken. Det var ikke en avstemning om en ny utslippsregel.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+              "title": "Referat, votering",
+              "publisher": "San Joaquin Valley APCD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "PDF lest 28. oktober 2026."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Møtet ble ledet av Amy Shuklian fra Tulare. Buddy Mendes fra Fresno stemte også ja. Lloyd Pareira og Liz Wynn var borte.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf",
+              "title": "Oppmøte",
+              "publisher": "San Joaquin Valley APCD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "PDF lest 28. oktober 2026."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "problem",
+          "target_id": "ca-problem-san-joaquin-air",
+          "text": "Sitter i dalens luftstyre."
+        }
+      ],
+      "geometry": null,
+      "map_features": [],
+      "checked_empty": [
+        {
+          "field": "geometry",
+          "searched": "Valgkretskart for fylkesstyrer er ikke lastet ned. Teksten sier hvilket fylke eller distrikt siden selv oppgir.",
+          "result": "not_found",
+          "urls": [
+            "https://www.valleyair.org/media/dcpjbqgg/gb-21926-minutes.pdf"
+          ],
+          "retrieved": "2026-10-28"
+        }
+      ],
+      "open_questions": [
+        "Hvilket nummer Kern-distriktet hans har, og om han har stemt om en konkret utslippsregel."
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
       "id": "lawmaker-eloise-gomez-reyes",
       "type": "lawmaker",
       "name": "Eloise Gómez Reyes",
@@ -12007,6 +12209,128 @@
       ],
       "open_questions": [
         "Hvorfor han stemte nei til sitt eget forslag i 2022."
+      ]
+    },
+    {
+      "schema_version": "1.0.0",
+      "id": "lawmaker-holly-mitchell",
+      "type": "lawmaker",
+      "name": "Holly J. Mitchell",
+      "state": "CA",
+      "updated": "2026-10-28",
+      "rank": null,
+      "org_kind": null,
+      "summary": [
+        {
+          "id": "s1",
+          "text": "Holly J. Mitchell er fylkesstyrer for distrikt 2 i Los Angeles. Fylket sier at distriktet går fra South Bay, med El Segundo, og nordover til deler av Los Angeles by.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/",
+              "title": "Holly J. Mitchell, Second District",
+              "publisher": "Los Angeles County",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback er ikke slått opp."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Hun sitter i luftstyret for Sør-California som representant for Los Angeles fylke.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.aqmd.gov/docs/default-source/agendas/governing-board/2026/2026-sep4-001.pdf",
+              "title": "Referat, South Coast AQMD, 7. august 2026",
+              "publisher": "South Coast AQMD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback fant ikke PDF-en 28. oktober 2026. PDF-en er lest samme dag."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "7. august 2026 stemte hun ja til å be det føderale miljøtilsynet si at luften nå klarer grensene for fint svevestøv, og til å beholde en plan så det varer.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.aqmd.gov/docs/default-source/agendas/governing-board/2026/2026-sep4-001.pdf",
+              "title": "Referat, sak 31, vedtak 26-18",
+              "publisher": "South Coast AQMD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback fant ikke PDF-en. Teksten er lest 28. oktober 2026."
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Kontoret hennes skriver at fylket var først i landet med å fase ut oljeboring i by. Det er kontorets egen setning.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://mitchell.lacounty.gov/wp-content/uploads/2025/03/Supervisor-HollyJ.Mitchell_Bio_2025-1.pdf",
+              "title": "Supervisor Holly J. Mitchell, abridged bio",
+              "publisher": "Office of Supervisor Holly J. Mitchell",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback er ikke slått opp."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "På samme møte stemte også Cacciotti, Lock Dawson, Delgado, McCallon, Nazarian, Nguyen, Olmos, Padilla-Campos, Perez, Rodriguez og Rutland ja. Hagman var borte.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.aqmd.gov/docs/default-source/agendas/governing-board/2026/2026-sep4-001.pdf",
+              "title": "Referat, oppmøte og votering",
+              "publisher": "South Coast AQMD",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "PDF lest 28. oktober 2026."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "problem",
+          "target_id": "ca-problem-south-coast-air",
+          "text": "Ja til planen om svevestøv."
+        },
+        {
+          "rel": "problem",
+          "target_id": "ca-problem-refineries",
+          "text": "Distriktet inkluderer El Segundo."
+        }
+      ],
+      "geometry": null,
+      "map_features": [],
+      "checked_empty": [
+        {
+          "field": "geometry",
+          "searched": "Valgkretskart for fylkesstyrer er ikke lastet ned. Teksten sier hvilket fylke eller distrikt siden selv oppgir.",
+          "result": "not_found",
+          "urls": [
+            "https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/"
+          ],
+          "retrieved": "2026-10-28"
+        }
+      ],
+      "open_questions": [
+        "Hvor grensen for distrikt 2 går meter for meter. Vi har ikke lastet ned fylkets kartfil."
       ]
     },
     {

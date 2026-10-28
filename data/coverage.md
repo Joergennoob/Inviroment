@@ -26,6 +26,7 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `firm-leacox` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 7/7 | 1 |
 | `firm-pillsbury` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 7/7 | 1 |
 | `lawmaker-al-muratsuchi` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 10/10 | 1 |
+| `lawmaker-amy-shuklian` | lawmaker | sjekket | mangler | mangler | mangler | sjekket | 0/4 | 1 |
 | `lawmaker-anna-caballero` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-benjamin-allen` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-bill-monning` | lawmaker | sjekket | mangler | mangler | sjekket | mangler | 10/10 | 1 |
@@ -33,11 +34,13 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `lawmaker-caroline-menjivar` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 0 |
 | `lawmaker-cristina-garcia` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 10/10 | 1 |
 | `lawmaker-damon-connolly` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 0 |
+| `lawmaker-david-couch` | lawmaker | sjekket | mangler | mangler | mangler | sjekket | 0/4 | 1 |
 | `lawmaker-eloise-gomez-reyes` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-esmeralda-soria` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-fran-pavley` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 13/13 | 1 |
 | `lawmaker-heath-flora` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-henry-stern` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 2/5 | 1 |
+| `lawmaker-holly-mitchell` | lawmaker | sjekket | mangler | mangler | mangler | sjekket | 0/5 | 1 |
 | `lawmaker-jasmeet-bains` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
 | `lawmaker-jeff-gonzalez` | lawmaker | sjekket | sjekket | mangler | sjekket | sjekket | 2/5 | 1 |
 | `lawmaker-joaquin-arambula` | lawmaker | sjekket | mangler | mangler | sjekket | sjekket | 3/5 | 1 |
