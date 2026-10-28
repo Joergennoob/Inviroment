@@ -4,6 +4,96 @@
   "name": "Bill Monning",
   "summary": [
     {
+      "id": "plain-1",
+      "text": "Bill Monning var senator for distrikt 17. Han la fram loven som opprettet fondet for trygt drikkevann.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+          "title": "California Legislature handbook 2013-14",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200, Chapter 120, Statutes of 2019",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Senatet vedtok loven med 38 mot 1.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Han er med her som forfatter, ikke som sittende senator i 2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200, Chapter 120, Statutes of 2019",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Ingen personbiografi er hentet.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "title": "SB 200, Chapter 120, Statutes of 2019",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r5-district",
+      "text": "Lovhåndboken for 2013–14 oppgir William W. Monning som senator for senatdistrikt 17.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+          "title": "California Legislature handbook 2013-14",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
       "id": "s1",
       "text": "SB 200, kapittel 120 av 2019, har Monning som forfatter i lovteksten.",
       "status": "confirmed",
@@ -56,24 +146,6 @@
       "text": "Nåværende eller daværende distrikt er ikke slått opp. Han er med som forfatter på lovteksten, ikke som sittende senator i 2026.",
       "status": "not_verified",
       "note": "En historisk senatsside ville bekrefte distriktet.",
-      "sources": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
-          "title": "SB 200, Chapter 120, Statutes of 2019",
-          "publisher": "California Legislative Counsel",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-        }
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "Ingen personbiografi er hentet.",
-      "status": "not_found",
-      "note": "",
       "sources": [
         {
           "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",

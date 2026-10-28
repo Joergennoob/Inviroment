@@ -4,6 +4,24 @@ Type: Folkevalgt. Id: `lawmaker-bill-monning`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
+- [bekreftet] Bill Monning var senator for distrikt 17. Han la fram loven som opprettet fondet for trygt drikkevann.
+  - [California Legislature handbook 2013-14](https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf) (California State Assembly, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [SB 200, Chapter 120, Statutes of 2019](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Senatet vedtok loven med 38 mot 1.
+  - [SB 200 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Han er med her som forfatter, ikke som sittende senator i 2026.
+  - [SB 200, Chapter 120, Statutes of 2019](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Funn
+
+- [ikke funnet] Ingen personbiografi er hentet.
+  - [SB 200, Chapter 120, Statutes of 2019](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Lovhåndboken for 2013–14 oppgir William W. Monning som senator for senatdistrikt 17.
+  - [California Legislature handbook 2013-14](https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf) (California State Assembly, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 - [bekreftet] SB 200, kapittel 120 av 2019, har Monning som forfatter i lovteksten.
   - [SB 200, Chapter 120, Statutes of 2019](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
@@ -14,11 +32,6 @@ Type: Folkevalgt. Id: `lawmaker-bill-monning`. Oppdatert: 2026-10-28.
   - [AB 617 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [ikke verifisert] Nåværende eller daværende distrikt er ikke slått opp. Han er med som forfatter på lovteksten, ikke som sittende senator i 2026. En historisk senatsside ville bekrefte distriktet.
-  - [SB 200, Chapter 120, Statutes of 2019](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
-
-## Funn
-
-- [ikke funnet] Ingen personbiografi er hentet.
   - [SB 200, Chapter 120, Statutes of 2019](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Lenker til andre kort
