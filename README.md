@@ -20,7 +20,7 @@ Tekst til leseren er bokmål. Kode, filnavn og JSON-nøkler er engelsk ASCII.
 3. Åpne kildelenken. Sammenlign setningen med dokumentet, ikke med dette sammendraget.
 4. Hvis siden er endret, åpne arkivlenken.
 5. Mangler arkivlenken, står grunnen i `archive_note`, som regel at Wayback og Save Page Now feilet den dagen.
-6. Plassering har en egen linje, «Kilde for plassering», med etat og post-id. Et tract er ikke hele luftbassenget.
+6. Plassering har en egen linje, «Kilde for plassering», med etat og post-id. Kartlagene i `public/data/layers` lages med `scripts/build_map_layers.py`. Et tract er ikke hele luftbassenget.
 
 ## Kjøre kartet
 

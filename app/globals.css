@@ -70,6 +70,22 @@ button, input { font: inherit; }
   font-family: system-ui, sans-serif;
   font-size: 0.75rem;
 }
+.layers {
+  position: absolute;
+  top: 0.6rem;
+  left: 0.6rem;
+  z-index: 2;
+  width: min(240px, 46vw);
+  max-height: 46%;
+  overflow: auto;
+  background: rgba(255, 253, 248, 0.94);
+  border: 1px solid var(--line);
+  padding: 0.35rem 0.5rem;
+  font-family: system-ui, sans-serif;
+  font-size: 0.78rem;
+}
+.layers legend { font-weight: 700; }
+.layers label { display: flex; gap: 0.35rem; align-items: flex-start; margin: 0.15rem 0; }
 
 .badge {
   display: inline-block;
