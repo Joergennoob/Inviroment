@@ -25,6 +25,7 @@ type LayerSpec = {
 
 type Props = {
   enabled: string[];
+  summaries: Record<string, string>;
   onSelect: (cardId: string, placement: Placement) => void;
 };
 
@@ -71,11 +72,13 @@ function wellsCollection(payload: {
   };
 }
 
-export default function MapCanvas({ enabled, onSelect }: Props) {
+export default function MapCanvas({ enabled, summaries, onSelect }: Props) {
   const node = useRef<HTMLDivElement | null>(null);
   const mapRef = useRef<MlMap | null>(null);
   const selectRef = useRef(onSelect);
   const enabledRef = useRef(enabled);
+  const summariesRef = useRef(summaries);
+  summariesRef.current = summaries;
   const loaded = useRef(new Set<string>());
   selectRef.current = onSelect;
   enabledRef.current = enabled;
@@ -216,10 +219,11 @@ export default function MapCanvas({ enabled, onSelect }: Props) {
               const properties = event.features?.[0]?.properties;
               if (!properties) return;
               const value = properties.value === "" || properties.value == null ? "" : ` Verdi: ${properties.value} ${properties.value_label ?? ""}.`;
+              const plain = summariesRef.current[String(properties.card_id ?? "")] ?? "";
               popup
                 .setLngLat(event.lngLat)
                 .setHTML(
-                  `<strong>${escapeHtml(String(properties.name ?? ""))}</strong><div>${escapeHtml(value)}</div><div><strong>Kilde for plassering.</strong> ${escapeHtml(String(properties.source_note ?? ""))} ${escapeHtml(String(properties.source_name ?? ""))}, post ${escapeHtml(String(properties.source_record_id ?? ""))}. <a href="${escapeHtml(String(properties.source_url ?? ""))}" target="_blank" rel="noreferrer">Kildelenke</a>. Hentet ${escapeHtml(String(properties.source_retrieved ?? ""))}.</div>`,
+                  `<strong>${escapeHtml(String(properties.name ?? ""))}</strong><div>${escapeHtml(plain)}</div><div>${escapeHtml(value)}</div><div><strong>Kilde for plassering.</strong> ${escapeHtml(String(properties.source_note ?? ""))} ${escapeHtml(String(properties.source_name ?? ""))}, post ${escapeHtml(String(properties.source_record_id ?? ""))}. <a href="${escapeHtml(String(properties.source_url ?? ""))}" target="_blank" rel="noreferrer">Kildelenke</a>. Hentet ${escapeHtml(String(properties.source_retrieved ?? ""))}.</div>`,
                 )
                 .addTo(map);
               show(properties);
