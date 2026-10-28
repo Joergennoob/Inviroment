@@ -59,6 +59,8 @@ export default function HomePage() {
         </div>
         <nav className="nav">
           <Link href="/oversikt/">Rangering</Link>
+          <Link href="/lobbyister/">Lobbyister</Link>
+          <Link href="/network/">Nettverk</Link>
           <Link href="/kort/ca-problem-south-coast-air/">Kort</Link>
         </nav>
       </header>

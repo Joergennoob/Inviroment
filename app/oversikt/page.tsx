@@ -7,6 +7,8 @@ export default function OverviewPage() {
     <div className="page">
       <p>
         <Link href="/">Kart</Link>
+        {" · "}
+        <Link href="/lobbyister/">Lobbyister</Link>
       </p>
       <h1>Ti miljøproblemer i California</h1>
       <p>

@@ -1,4 +1,6 @@
 import Link from "next/link";
+import LobbyView from "@/components/LobbyView";
+import roster from "@/data/lobby/roster.json";
 import type { Card, Claim } from "@/lib/types";
 import { STATUS_LABEL } from "@/lib/types";
 
@@ -66,6 +68,7 @@ export default function CardBody({ card, cardsById }: { card: Card; cardsById: M
           <a href={card.geometry.source_url}>Kildelenke</a>. Hentet {card.geometry.retrieved}.
         </div>
       ) : null}
+      {card.type === "problem" ? <LobbyView roster={roster} initialProblem={card.id} compact /> : null}
       {card.links.length > 0 ? (
         <>
           <h2>Videre</h2>
