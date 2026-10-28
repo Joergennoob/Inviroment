@@ -1,56 +1,69 @@
-# Ord og stemmer: olje og gass nær boliger
+# Oljebrønner nær hus: hva de sa, og hvordan de stemte
 
-Tallene er navnelistene på den arkiverte stemmesiden for [SB 1137](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) og [AB 3233](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB3233). Direkte kall til leginfo fikk HTTP 403 den 28. oktober 2026. Listene er lest i Wayback-øyeblikksbildene som står i `data/network/edges.json`.
+Loven fra 2022 sier at nye oljebrønner ikke skal bores tett på hus, skoler og sykehus. Avstanden er omtrent én kilometer.
 
-Bidragene er rader i `LCCM_CD` i Secretary of State sitt uttrekk 28. oktober 2026, koblet til giver via forsiden på lobbyregnskapet. Et beløp er det skjemaet fører. Det er et sammenfall i tid, ikke et bevis på at pengene endret stemmen.
+Å stemme ja betyr at de ville ha loven. Å stemme nei betyr at de ikke ville ha den. «Stemte ikke» betyr at navnet står på listen over folk som ikke sa ja eller nei.
 
-Mai-stemmen på SB 1137 er samtykkekalenderen. August-stemmen er samtykke til den endelige teksten. Denne filen har ikke sammenlignet lovteksten fra 12. mai med teksten fra 31. august. De skal ikke leses som to stemmer på samme setning.
+Penger fra et selskap betyr ikke at stemmen ble kjøpt. Det betyr bare at pengene og stemmen kom i en rekkefølge vi kan se.
 
-## SB 1137, helsesone på 3 200 fot
+## Den endelige avstemningen, 31. august 2022
 
-| Person | 12. mai 2022, samtykke, senatet 35–0 | 30. aug 2022, forsamlingen 46–24 | 31. aug 2022, senatet 25–10 | Uttalelse som er lest | Bidrag fra oljefiler før eller etter |
-| --- | --- | --- | --- | --- | --- |
-| Shannon Grove | ikke stemt | satt ikke i forsamlingen | nei | 16. sep 2022: loven stanser produksjon i tusenvis av brønner | California Resources Corporation, 4 900 dollar, 22. aug 2022, til Grove for Senate 2022. Ni dager før nei-stemmen |
-| Melissa Hurtado | ja | satt i senatet | nei | Ingen pressemelding fra henne om SB 1137 er funnet | California Resources Corporation, 2 500 dollar, 22. aug 2022, til Hurtado for Senate 2022. Ni dager før nei-stemmen. Phillips 66, 5 900 dollar, 30. mars 2026, etter begge stemmene |
-| Anna Caballero | ja |  | ja | Ikke lest | Ingen rad i dette uttrekket |
-| Monique Limón | ja |  | ja | 16. sep 2022, sitert på Gonzalez sin side: stolt av loven som skal verne lokalsamfunn | Ingen rad i dette uttrekket |
-| Lena Gonzalez | ja i august-listen |  | ja | 16. sep 2022: nærhet til brønner treffer lokalsamfunn som allerede er belastet | Ikke søkt som mottaker i dette uttrekket ut over LCCM-filteret, ingen treff |
-| Henry Stern | ja |  | ja | Uttalelsene som er lest, handler om Aliso Canyon, ikke om SB 1137 | Ingen rad i dette uttrekket |
-| Rosilicie Ochoa Bogh | ja |  | nei | Ikke lest | California Resources Corporation, 4 900 dollar, 22. aug 2022, til Ochoa-Bogh for Senate 2024. Ni dager før nei-stemmen |
-| Suzette Valladares |  | nei | satt ikke i senatet | Ikke lest | California Resources Corporation, 3 000 dollar, 22. aug 2022, til Valladares for Assembly 2022. Åtte dager før nei-stemmen |
-| Heath Flora |  | nei |  | Ikke lest | I juli 2022, før nei-stemmen 30. august: Marathon 3 000 dollar 18. juli, California Resources 4 900 dollar 22. juli, Berry 2 000 dollar 30. juli |
-| Tim Grayson |  | ikke stemt |  | Ikke lest | California Resources, 4 900 dollar, 22. aug 2022, åtte dager før han ikke stemte. Marathon har flere rader i 2022 |
-| Lori Wilson |  | ja |  | Ikke lest | Marathon, 2 000 dollar, 31. mars 2022, før ja-stemmen |
-| Al Muratsuchi |  | ja |  | Ikke lest i denne runden | Ingen rad i dette uttrekket |
-| Joaquin Arambula |  | ikke stemt |  | Ikke lest | Ingen rad i dette uttrekket |
-| Mike Gipson |  | ja |  | Ikke lest | Marathon-radene i uttrekket er fra 2024 og 2025, etter denne stemmen |
-| Buffy Wicks |  | ja |  | Ikke lest | Ingen rad i dette uttrekket |
-| Steve Bennett |  | ja |  | Ikke lest | Ingen rad i dette uttrekket |
-| Eloise Gómez Reyes |  | ja |  | Ikke lest | Ingen rad i dette uttrekket |
+Senatet: 25 ja, 10 nei.
 
-Grove stemte nei og skrev samme dag loven ble signert at den stanser produksjon. Ord og stemme peker samme vei. Bidraget fra California Resources kom ni dager før stemmen.
+| Person | Stemme | Det de har sagt | Penger fra oljeselskap |
+| --- | --- | --- | --- |
+| Shannon Grove | nei | Samme dag loven ble signert, 16. september 2022, skrev kontoret hennes at loven ville stanse mange brønner | California Resources ga 4 900 dollar 22. august 2022, ni dager før nei-stemmen |
+| Melissa Hurtado | nei | Vi fant ingen melding fra henne om denne loven | California Resources ga 2 500 dollar 22. august 2022, ni dager før. Phillips 66 ga 5 900 dollar 30. mars 2026, altså etterpå |
+| Anna Caballero | ja | Vi fant ingen melding | Ingen gave i listen vi leste |
+| Monique Limón | ja | 16. september 2022 sa hun, på en side hos Lena Gonzalez, at hun var stolt av loven | Ingen gave i listen vi leste |
+| Lena Gonzalez | ja | Samme dag sa hun at folk som bor nær brønner allerede er sykere, og at loven skal hjelpe | Ingen gave i listen vi leste |
+| Rosilicie Ochoa Bogh | nei | Vi fant ingen melding | California Resources ga 4 900 dollar 22. august 2022 |
+| Henry Stern | ja | Meldingene vi leste handler om gasslageret i Aliso Canyon, ikke om denne loven | Ingen gave i listen vi leste |
 
-Hurtado stemte ja på samtykkekalenderen i mai og nei på den endelige teksten i august. Uten maitteksten er det ikke en dokumentert snuoperasjon. Det er to ulike avstemninger. En pressemelding der hun forsvarer eller angriper helsesonen, er ikke funnet. Pengene fra California Resources kom likevel ni dager før nei-stemmen.
+12. mai 2022 var det en annen avstemning, der mange saker ble tatt samlet fordi man trodde alle var enige. Der stemte Hurtado ja, og Grove stemte ikke. Vi har ikke sammenlignet teksten fra mai med teksten fra august. Derfor sier vi ikke at noen snudde.
 
-Wilson tok imot 2 000 dollar fra Marathon i mars 2022 og stemte ja i august. Penger fra et oljeselskap og en ja-stemme forekommer i samme år. Det er også et sammenfall, ikke en motsetning i seg selv, og ikke et bevis.
+## Forsamlingen, 30. august 2022
 
-## AB 3233, lokalt handlingsrom for olje og gass
+46 ja, 24 nei.
 
-Forsamlingens endelige avstemning 31. august 2024 var 46 ja og 15 nei. Senatets endelige avstemning samme dag var 21 ja og 12 nei. Dagen før falt et forsøk i senatet med 20 ja og 14 nei. En omkamp samme dag ble vedtatt 40–0. Omkampen er ikke en stemme for loven.
-
-| Person | Endelig stemme 31. aug 2024 | Kommentar |
+| Person | Stemme | Penger |
 | --- | --- | --- |
-| Jasmeet Bains | nei i forsamlingen | Hun stemte ja på den endelige AB 1864 samme uke, om varsling når det sprøytes nær skoler. De to lovene er ulike. En pressemelding om AB 3233 er ikke funnet |
-| Melissa Hurtado | nei i senatet | Samme nei-retning som den endelige SB 1137. Hun sto som senatets fremfører av AB 1864 to dager før, og stemte ja der |
-| Shannon Grove | nei i senatet | Samme retning som SB 1137 og hennes pressemelding |
-| Marie Alvarado-Gil | nei i senatet | Valero førte 3 000 dollar 13. februar 2023 til Alvarado Gil for Senate 2022, før denne stemmen og etter at hun var tatt i ed i desember 2022 |
-| Anna Caballero, Monique Limón, Henry Stern, Benjamin Allen, John Laird, Steve Padilla, Caroline Menjivar | ja i senatet | |
-| Rosilicie Ochoa Bogh | nei i senatet | |
-| Heath Flora, Tim Grayson, Lori Wilson, Mike Gipson, Esmeralda Soria | ikke stemt i forsamlingens endelige avstemning | Flora stemte nei på tredje behandling 22. mai 2024, og ikke på den endelige |
-| Al Muratsuchi, Pilar Schiavo, Joaquin Arambula, Damon Connolly, Eloise Gómez Reyes, Buffy Wicks, Josh Lowenthal, Steve Bennett | ja i forsamlingen | |
+| Al Muratsuchi | ja | Ingen gave i listen |
+| Suzette Valladares | nei | California Resources ga 3 000 dollar 22. august 2022 |
+| Heath Flora | nei | I juli 2022, før stemmen: Marathon 3 000, California Resources 4 900, Berry 2 000 |
+| Tim Grayson | stemte ikke | California Resources ga 4 900 dollar 22. august, like før |
+| Lori Wilson | ja | Marathon ga 2 000 dollar 31. mars 2022, før ja-stemmen |
+| Joaquin Arambula | stemte ikke | Ingen gave i listen |
+| Buffy Wicks, Steve Bennett, Mike Gipson, Eloise Gómez Reyes | ja | Ingen gave i listen før denne stemmen |
 
-## Det som ikke er en motsetning
+Wilson fikk penger fra et oljeselskap og stemte likevel ja. Det er også et funn. Det viser at penger og nei-stemme ikke alltid følger hverandre.
 
-Limón og Gonzalez stemte ja og er sitert med støtte til loven. Grove stemte nei og er sitert med motstand. Det er samsvar.
+## Lokal kontroll, 31. august 2024
 
-Tomme ruter betyr at personen ikke satt i det kammeret, eller at uttrekket ikke har en rad. Det er ikke en skjult stemme.
+En annen lov skulle la lokalsamfunn si mer om oljeboring. Senatet: 21 ja, 12 nei. Forsamlingen: 46 ja, 15 nei.
+
+Jasmeet Bains stemte nei. Melissa Hurtado stemte nei. Shannon Grove stemte nei. Marie Alvarado-Gil stemte nei. Bains stemte ja samme uke til å varsle skoler om sprøyting. Det er to ulike lover.
+
+## Det som henger sammen
+
+Grove stemte nei og sa at loven var feil. Ord og stemme peker samme vei.
+
+Limón og Gonzalez stemte ja og sa at loven var riktig. Det henger også sammen.
+
+Hurtado stemte nei til oljeloven og ja til varsling om sprøyting. Vi fant ikke en tekst der hun forklarer olje-stemmen.
+
+<details>
+<summary>For journalister</summary>
+
+Stemmelister: SB 1137, 31. august 2022, senatet 25–10, og 30. august 2022, forsamlingen 46–24. Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137
+
+AB 3233, 31. august 2024. Arkiv: http://web.archive.org/web/20250918105303/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB3233
+
+Gaver står i tabellen LCCM_CD i rådatafilen dbwebexport.zip, koblet til giver via forsiden på lobbyregnskapet. Uttrekk 28. oktober 2026.
+
+Grove-sitat: https://sr12.senate.ca.gov/content/senator-grove-reacts-signing-senate-bill-1137
+
+Limón og Gonzalez: https://sd33.senate.ca.gov/news/senator-gonzalez-and-senator-limons-historic-bill-end-neighborhood-oil-and-gas-drilling-signed
+
+Mai-avstemningen 12. mai 2022 var samtykkekalenderen, 35–0. Teksten er ikke sammenlignet med august.
+</details>
