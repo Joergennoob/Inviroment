@@ -9947,7 +9947,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Cal-Access-filer 1420515, Berry Corporation, har 183 000,00 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+          "text": "Berry Corporation er et oljeselskap. De har brukt om lag 180 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -9963,7 +9963,7 @@
         },
         {
           "id": "s2",
-          "text": "Et navnesøk på BERRY ga også to jordbruksfiler, California Blueberry Commission og California Strawberry Commission. De er ikke Berry Corporation.",
+          "text": "Treff på blåbær- og jordbærkommisjoner med samme søkeord er andre organisasjoner og er ikke tatt med.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -9979,7 +9979,7 @@
         },
         {
           "id": "s3",
-          "text": "Ingen CalGEM-produksjonstall for Berry er skilt ut i årsrapportens topp i den delen som er lest. Selskapet er med her fordi det er en navngitt oil-and-gas-employer, ikke fordi en fatmengde er bekreftet.",
+          "text": "Vi har ikke et tall for hvor mye olje de pumper. De er med fordi de står i oljekategorien, ikke fordi en oljemengde er bekreftet.",
           "status": "not_verified",
           "note": "Primærkilden for fat ville være CalGEM produksjonsrapport per operatør.",
           "sources": [
@@ -10009,6 +10009,62 @@
           "status": "confirmed",
           "note": "",
           "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Cal-Access-filer 1420515, Berry Corporation, har 183 000,00 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Et navnesøk på BERRY ga også to jordbruksfiler, California Blueberry Commission og California Strawberry Commission. De er ikke Berry Corporation.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Ingen CalGEM-produksjonstall for Berry er skilt ut i årsrapportens topp i den delen som er lest. Selskapet er med her fordi det er en navngitt oil-and-gas-employer, ikke fordi en fatmengde er bekreftet.",
+          "status": "not_verified",
+          "note": "Primærkilden for fat ville være CalGEM produksjonsrapport per operatør.",
+          "sources": [
+            {
+              "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+              "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+              "publisher": "CalGEM",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
             {
               "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
               "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
@@ -10779,7 +10835,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Filer 1146862 har 141 149,88 dollar i lobbybetalinger i sesjonen 2025-2026. Interessekoden i søket er manufacturing/industrial.",
+          "text": "Corteva står i industrikategorien hos valgmyndigheten. De har brukt om lag 140 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10795,7 +10851,7 @@
         },
         {
           "id": "s2",
-          "text": "DPR-fylkestallene nevner ikke Corteva. Derfor er selskapet ikke oppgitt som kilde til Fresno- eller Kern-pundene.",
+          "text": "Sprøytemiddelstatistikken nevner ikke Corteva. Vi kan derfor ikke si at de står for pundene i Fresno eller Kern.",
           "status": "not_found",
           "note": "",
           "sources": [
@@ -10819,7 +10875,7 @@
         },
         {
           "id": "s3",
-          "text": "ContributorSearch er ikke kjørt for Corteva.",
+          "text": "Vi har ikke kjørt et eget søk på kampanjebidragene deres.",
           "status": "not_found",
           "note": "",
           "sources": [
@@ -10847,6 +10903,62 @@
               "publisher": "California Secretary of State",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Filer 1146862 har 141 149,88 dollar i lobbybetalinger i sesjonen 2025-2026. Interessekoden i søket er manufacturing/industrial.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "DPR-fylkestallene nevner ikke Corteva. Derfor er selskapet ikke oppgitt som kilde til Fresno- eller Kern-pundene.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+              "title": "Pesticide Use Annual Report 2022 Data Summary",
+              "publisher": "California Department of Pesticide Regulation",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "ContributorSearch er ikke kjørt for Corteva.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -11536,7 +11648,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Filer 1146790 har 1 436 711,70 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+          "text": "California Farm Bureau står i jordbrukskategorien. De har brukt om lag 1,4 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11552,7 +11664,7 @@
         },
         {
           "id": "s2",
-          "text": "Den største bidragstrengen i søket er FARM PAC-strengen med 116 700,00 dollar. Søket ga 11 strenger og er ikke summert.",
+          "text": "Den største kampanjestrengen er om lag 117 000 dollar. Vi har ikke lagt sammen alle strengene.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11568,7 +11680,7 @@
         },
         {
           "id": "s3",
-          "text": "Kortet knytter ikke organisasjonen til et bestemt nitratutslipp eller et bestemt pesticidprodukt. Den er med fordi den er en stor jordbruksfiler i de samme fylkene som nitraten og pesticidene gjelder.",
+          "text": "Vi har ikke et dokument som sier at organisasjonen står bak et bestemt nitratutslipp eller et bestemt sprøytemiddel. De er med fordi de er en stor jordbruksfiler i de samme fylkene.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11604,6 +11716,62 @@
               "publisher": "UC Davis for the State Water Board",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20250115190005/https://groundwaternitrate.ucdavis.edu/files/138958.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Filer 1146790 har 1 436 711,70 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Den største bidragstrengen i søket er FARM PAC-strengen med 116 700,00 dollar. Søket ga 11 strenger og er ikke summert.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Kortet knytter ikke organisasjonen til et bestemt nitratutslipp eller et bestemt pesticidprodukt. Den er med fordi den er en stor jordbruksfiler i de samme fylkene som nitraten og pesticidene gjelder.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+              "title": "Pesticide Use Annual Report 2022 Data Summary",
+              "publisher": "California Department of Pesticide Regulation",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -13570,7 +13738,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Filer 1146857 har 1 196 763,69 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+          "text": "Western Growers står i jordbrukskategorien. De har brukt om lag 1,2 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13586,7 +13754,7 @@
         },
         {
           "id": "s2",
-          "text": "Ingen bidragssøk er kjørt for navnet.",
+          "text": "Vi har ikke kjørt et eget søk på kampanjebidragene deres.",
           "status": "not_found",
           "note": "ContributorSearch ble kjørt for Farm Bureau, Chevron, CRC og WSPA, ikke for Western Growers.",
           "sources": [
@@ -13602,7 +13770,7 @@
         },
         {
           "id": "s3",
-          "text": "Ingen pesticidpund er koblet til organisasjonen.",
+          "text": "Vi har ikke koblet pengene til et bestemt sprøytemiddel eller et bestemt fylke.",
           "status": "not_found",
           "note": "",
           "sources": [
@@ -13630,6 +13798,54 @@
               "publisher": "California Secretary of State",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Filer 1146857 har 1 196 763,69 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Ingen bidragssøk er kjørt for navnet.",
+          "status": "not_found",
+          "note": "ContributorSearch ble kjørt for Farm Bureau, Chevron, CRC og WSPA, ikke for Western Growers.",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "title": "Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Ingen pesticidpund er koblet til organisasjonen.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+              "title": "Pesticide Use Annual Report 2022 Data Summary",
+              "publisher": "California Department of Pesticide Regulation",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]

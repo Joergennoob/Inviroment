@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "Cal-Access-filer 1420515, Berry Corporation, har 183 000,00 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "text": "Berry Corporation er et oljeselskap. De har brukt om lag 180 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "Et navnesøk på BERRY ga også to jordbruksfiler, California Blueberry Commission og California Strawberry Commission. De er ikke Berry Corporation.",
+      "text": "Treff på blåbær- og jordbærkommisjoner med samme søkeord er andre organisasjoner og er ikke tatt med.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Ingen CalGEM-produksjonstall for Berry er skilt ut i årsrapportens topp i den delen som er lest. Selskapet er med her fordi det er en navngitt oil-and-gas-employer, ikke fordi en fatmengde er bekreftet.",
+      "text": "Vi har ikke et tall for hvor mye olje de pumper. De er med fordi de står i oljekategorien, ikke fordi en oljemengde er bekreftet.",
       "status": "not_verified",
       "note": "Primærkilden for fat ville være CalGEM produksjonsrapport per operatør.",
       "sources": [
@@ -68,6 +68,62 @@
       "status": "confirmed",
       "note": "",
       "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "Cal-Access-filer 1420515, Berry Corporation, har 183 000,00 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Et navnesøk på BERRY ga også to jordbruksfiler, California Blueberry Commission og California Strawberry Commission. De er ikke Berry Corporation.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "Ingen CalGEM-produksjonstall for Berry er skilt ut i årsrapportens topp i den delen som er lest. Selskapet er med her fordi det er en navngitt oil-and-gas-employer, ikke fordi en fatmengde er bekreftet.",
+      "status": "not_verified",
+      "note": "Primærkilden for fat ville være CalGEM produksjonsrapport per operatør.",
+      "sources": [
+        {
+          "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
         {
           "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
           "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
