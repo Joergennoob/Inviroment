@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "PFAS er en gruppe kjemikalier som nesten ikke brytes ned. De er brukt i blant annet brannskum og industri, og kan havne i drikkevann. Delstaten har pålagt testing av brønner.",
+      "text": "Evighetskjemikalier, kalt PFAS, er stoffer som nesten ikke brytes ned. De er brukt i blant annet brannskum og fabrikker, og kan havne i drikkevann. Delstaten har pålagt testing av brønner.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -30,7 +30,7 @@
     },
     {
       "id": "plain-2",
-      "text": "Etaten selv sier om lag 3 600 til 4 000 brønner, ikke ett fast tall. En liste fra oktober 2026 har om lag 11 000 kilder og om lag 4 000 vannverk. Det er en annen liste.",
+      "text": "Etaten selv sier om lag 3 600 til 4 000 brønner, ikke ett fast tall. En liste fra oktober 2026 har om lag 11 000 steder og om lag 4 000 vannverk. Det er en annen liste.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -62,7 +62,7 @@
     },
     {
       "id": "plain-3",
-      "text": "Om lag halvparten av kildene, 5 500, har et kartpunkt. Resten har vi ikke koordinat for.",
+      "text": "Om lag halvparten av stedene, 5 500, har et punkt på kartet. Resten vet vi ikke hvor ligger.",
       "status": "confirmed",
       "note": "",
       "sources": [

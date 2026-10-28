@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "OEHHA er delstatens kontor for helsefare i miljøet. De lager CalEnviroScreen, et kart som rangerer nabolag etter forurensning og helse.",
+      "text": "Dette er Californias miljøhelsekontor. De lager den offisielle oversikten over hvor forurenset og belastet hvert nabolag er. Oversikten heter CalEnviroScreen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "Kartdataene ble hentet 28. oktober 2026. Feltet for opphavsrett i metadataene er tomt. Områdene er merket med et nummer for hvert boligområde.",
+      "text": "Kartdataene ble hentet 28. oktober 2026. Feltet for opphavsrett er tomt. Områdene er merket med et nummer for hvert nabolag.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Kartet siler områder. Det måler ikke at en bestemt person er syk. Vi bruker det til å sammenligne steder, ikke som en diagnose.",
+      "text": "Oversikten sammenligner steder. Den måler ikke at en bestemt person er syk. Et høyt tall betyr at nabolaget ligger dårligere an enn de fleste andre.",
       "status": "confirmed",
       "note": "",
       "sources": [

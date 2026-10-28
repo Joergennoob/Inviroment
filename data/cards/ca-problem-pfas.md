@@ -6,16 +6,16 @@ Rangering i California-oversikten: 9.
 
 ## Sammendrag
 
-- [bekreftet] PFAS er en gruppe kjemikalier som nesten ikke brytes ned. De er brukt i blant annet brannskum og industri, og kan havne i drikkevann. Delstaten har pålagt testing av brønner.
+- [bekreftet] Evighetskjemikalier, kalt PFAS, er stoffer som nesten ikke brytes ned. De er brukt i blant annet brannskum og fabrikker, og kan havne i drikkevann. Delstaten har pålagt testing av brønner.
   - [PFAS Drinking Water](https://www.waterboards.ca.gov/pfas/drinking_water.html) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261016194002/https://www.waterboards.ca.gov/pfas/drinking_water.html. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [PFAS QAPP, General Order DW-2024-0002-DDW, September 2024](https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260515195808/https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Etaten selv sier om lag 3 600 til 4 000 brønner, ikke ett fast tall. En liste fra oktober 2026 har om lag 11 000 kilder og om lag 4 000 vannverk. Det er en annen liste.
+- [bekreftet] Etaten selv sier om lag 3 600 til 4 000 brønner, ikke ett fast tall. En liste fra oktober 2026 har om lag 11 000 steder og om lag 4 000 vannverk. Det er en annen liste.
   - [PFAS Drinking Water](https://www.waterboards.ca.gov/pfas/drinking_water.html) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261016194002/https://www.waterboards.ca.gov/pfas/drinking_water.html. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [PFAS QAPP, General Order DW-2024-0002-DDW, September 2024](https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260515195808/https://www.waterboards.ca.gov/water_issues/programs/pfas/docs/CA_QAPP_PFAS_Final_09172024.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [PFAS General Order DW-2025-0002-DDW sources, October 12, 2026 update](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas_ddw_general_order/docs/order-dw-2025-0002-ddw-sources-20261012-update.xlsx) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
 
-- [bekreftet] Om lag halvparten av kildene, 5 500, har et kartpunkt. Resten har vi ikke koordinat for.
+- [bekreftet] Om lag halvparten av stedene, 5 500, har et punkt på kartet. Resten vet vi ikke hvor ligger.
   - [PFAS source list updated October 12, 2026](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas_ddw_general_order/docs/order-dw-2025-0002-ddw-sources-20261012-update.xlsx) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
   - [Urban water source facilities with latitude and longitude](https://data.cnra.ca.gov/dataset/57b20340-2b03-4c22-bc52-b59047451496/resource/9688aeb1-6c77-44aa-9cf7-6b1c1306f399/download/source_name.csv) (California Natural Resources Agency / Department of Water Resources, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
 

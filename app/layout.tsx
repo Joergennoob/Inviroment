@@ -3,7 +3,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "Miljøkart California",
-  description: "Kildebelagte miljøproblemer i California, med kart og kort.",
+  description: "Ti miljøproblemer i California, forklart med vanlige ord, med kilder under.",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

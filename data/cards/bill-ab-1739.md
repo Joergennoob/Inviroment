@@ -4,13 +4,13 @@ Type: Lovforslag. Id: `bill-ab-1739`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] Dette er en av tre lover fra 2014 som skulle stanse at grunnvann tappes for hardt. Roger Dickinson la den fram. Fran Pavley var medforslagsstiller.
+- [bekreftet] Dette er en av tre lover fra 2014 som skulle stanse at vann under bakken tappes for hardt. Roger Dickinson la den fram. Fran Pavley var med og la den fram.
   - [AB 1739 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Forsamlingen stemte 47 mot 28. Senatet stemte 26 mot 11.
+- [bekreftet] I delstatsparlamentet stemte forsamlingen 47 mot 28. Senatet stemte 26 mot 11.
   - [AB 1739 history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Oljeselskapet Chevron skrev i et lobby-skjema at de jobbet med denne loven. Skjemaet sier ikke om de var for eller mot.
+- [bekreftet] Oljeselskapet Chevron skrev i et skjema om betalt påvirkning at de jobbet med denne loven. Skjemaet sier ikke om de var for eller mot.
   - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

@@ -64,16 +64,16 @@ export type AreaBlock = {
 export type Bundle = { cards: Card[] };
 
 export const STATUS_LABEL: Record<Status, string> = {
-  confirmed: "Bekreftet",
-  indication: "Indikasjon",
-  not_found: "Ikke funnet",
-  not_verified: "Ikke verifisert",
+  confirmed: "I dokumentet",
+  indication: "Bare et hint",
+  not_found: "Fant ikke",
+  not_verified: "Ikke ferdig sjekket",
 };
 
 export const TYPE_LABEL: Record<Card["type"], string> = {
-  problem: "Miljøproblem",
-  organization: "Organisasjon",
-  lobbying_firm: "Lobbyfirma",
-  lawmaker: "Folkevalgt",
-  bill: "Lovforslag",
+  problem: "Et problem",
+  organization: "Selskap eller etat",
+  lobbying_firm: "Firma som påvirker politikere",
+  lawmaker: "Politiker",
+  bill: "En lov",
 };

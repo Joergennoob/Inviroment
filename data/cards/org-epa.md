@@ -4,14 +4,14 @@ Type: Organisasjon. Id: `org-epa`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] EPA er det føderale miljøtilsynet. De sier hvilke områder som ikke klarer grensen for ren luft, og hvor mange som bodde der i 2010.
+- [bekreftet] Dette er miljøtilsynet i USA. De sier hvilke områder som ikke klarer grensen for ren luft, og hvor mange som bodde der i 2010.
   - [PM-2.5 Green Book](https://www3.epa.gov/airquality/greenbook/rncl2.html) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] De skrev i 2025 at San Joaquin-dalen ikke klarte en eldre ozongrense, og i 2026 at dalen har landets høyeste nivå av fint svevestøv, de minste partiklene i luften.
+- [bekreftet] De skrev i 2025 at jordbruksdalen ikke klarte en eldre grense for ozon, en gass som irriterer lungene. I 2026 skrev de at dalen har landets høyeste nivå av fint støv, de minste partiklene i luften.
   - [Ozone failure finding](https://www.federalregister.gov/documents/2025/09/25/2025-18636/finding-of-failure-to-attain-the-1997-8-hour-ozone-standards-california-san-joaquin-valley) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260317220649/https://www.federalregister.gov/documents/2025/09/25/2025-18636/finding-of-failure-to-attain-the-1997-8-hour-ozone-standards-california-san-joaquin-valley. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area](https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
-- [bekreftet] De har også anleggsregisteret som gir kartpunkt for raffinerier og gasslageret Aliso Canyon.
+- [bekreftet] De har også en liste over anlegg som gir et punkt på kartet for raffinerier og gasslageret Aliso Canyon.
   - [ECHO facility info, registry 110002899908](https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
   - [FRS facility CHEVRON EL SEGUNDO REFINERY](https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028154154/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 

@@ -21,7 +21,7 @@
     },
     {
       "id": "s2",
-      "text": "Forsamlingen stemte 50 mot 24. Senatet stemte 27 mot 13.",
+      "text": "I delstatsparlamentet stemte forsamlingen 50 mot 24. Senatet stemte 27 mot 13.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "Loven gjelder hele California, ikke bare ett luftområde. Den kan brukes både rundt Los Angeles og i San Joaquin-dalen.",
+      "text": "Loven gjelder hele California, ikke bare ett område. Den kan brukes både rundt Los Angeles og i jordbruksdalen.",
       "status": "confirmed",
       "note": "",
       "sources": [

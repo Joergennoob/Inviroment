@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "CalGEM er delstatens tilsyn med olje- og gassbrønner. De fører regnskap over hvor oljen pumpes.",
+      "text": "Dette er Californias oljetilsyn. De fører regnskap over hvor oljen pumpes.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "plain-2",
-      "text": "I 2023 kom det meste av oljen fra Kern fylke, om lag 90 millioner fat. Los Angeles fylke hadde om lag 9 millioner fat.",
+      "text": "I 2023 kom det meste av oljen fra Kern fylke, om lag 90 millioner fat. Ett fat er omtrent 159 liter. Los Angeles fylke hadde om lag 9 millioner fat.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "plain-3",
-      "text": "De beskriver at loven om avstand til boliger ble stanset av et folkeavstemningsforslag og begynte å gjelde igjen i 2024.",
+      "text": "De beskriver at loven om avstand til boliger ble stanset av et forslag om folkeavstemning og begynte å gjelde igjen i 2024.",
       "status": "confirmed",
       "note": "",
       "sources": [

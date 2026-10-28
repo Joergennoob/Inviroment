@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "Noen offentlige vannverk leverer vann som bryter helsereglene. Ved utgangen av 2024 gjaldt det 390 verk og om lag 800 000 mennesker. De vanligste grunnene var arsen, et industrikjemikalie og nitrat. Gjødsel er den største kilden til nitrat i grunnvannet i de hardest rammede jordbruksdalene.",
+      "text": "Noen offentlige vannverk leverer vann som bryter reglene for helse. Ved utgangen av 2024 gjaldt det 390 verk og om lag 800 000 mennesker. De vanligste grunnene var arsen, et giftig stoff, et kjemikalie fra industri, og nitrat. Nitrat er et stoff fra gjødsel. Gjødsel er den største kilden til nitrat i vannet under bakken i de hardest rammede jordbruksdalene.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -30,7 +30,7 @@
     },
     {
       "id": "plain-2",
-      "text": "Om lag 8 av 10 slike verk ligger i områder staten kaller økonomisk vanskeligstilte. Halvparten ligger i områder der de fleste innbyggerne ikke er hvite.",
+      "text": "Om lag 8 av 10 slike verk ligger i områder staten kaller økonomisk vanskeligstilte, altså steder der folk har lite penger. Halvparten ligger i områder der de fleste innbyggerne ikke er hvite.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -46,7 +46,7 @@
     },
     {
       "id": "plain-3",
-      "text": "De aller fleste i California, 98 prosent, fikk likevel vann som holdt mål i 2024. Om lag 1,5 millioner mennesker var på verk som staten sier står i fare.",
+      "text": "De aller fleste i California, 98 av 100, fikk likevel vann som holdt mål i 2024. Om lag 1,5 millioner mennesker var på verk som staten sier står i fare.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -94,7 +94,7 @@
     },
     {
       "id": "plain-5",
-      "text": "Der verkene som feiler ligger, er det flere uten videregående skole enn hos verk som holder mål. Vi vet ikke om vannet er årsaken.",
+      "text": "Der verkene som bryter reglene ligger, er det flere uten videregående skole enn hos verk som holder mål. Vi vet ikke om vannet er grunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [

@@ -4,13 +4,13 @@ Type: Lovforslag. Id: `bill-sb-1319`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] Dette er en søsterlov til grunnvannsloven fra 2014. Fran Pavley la den fram.
+- [bekreftet] Dette er en søsterlov til loven fra 2014 om vann under bakken. Fran Pavley la den fram.
   - [SB 1319 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Senatet stemte 24 mot 10. Forsamlingen stemte 48 mot 26.
+- [bekreftet] I delstatsparlamentet stemte senatet 24 mot 10. Forsamlingen stemte 48 mot 26.
   - [SB 1319 history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Oljeorganisasjonen WSPA, Chevron og Aera skrev at de jobbet med loven. Skjemaene sier ikke om de var for eller mot.
+- [bekreftet] Oljeselskapenes felles organisasjon, Chevron og Aera skrev at de jobbet med loven. Skjemaene sier ikke om de var for eller mot.
   - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

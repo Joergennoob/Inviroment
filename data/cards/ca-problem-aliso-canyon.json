@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "I 2015 og 2016 lekket et stort gasslager over bydelen Porter Ranch i Los Angeles. Lageret eies av gasselskapet SoCalGas. Det er den største metanlekkasjen som er dokumentert i USA.",
+      "text": "I 2015 og 2016 lekket et stort gasslager over bydelen Porter Ranch i Los Angeles. Lageret eies av gasselskapet SoCalGas. Det er den største lekkasjen av metan som er dokumentert i USA. Metan er hovedstoffet i naturgass, og en gass som varmer opp kloden.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -30,7 +30,7 @@
     },
     {
       "id": "plain-2",
-      "text": "Lekkasjen varte fra oktober 2015 til februar 2016. Utslippet var om lag 100 000 tonn metan, en kraftig klimagass.",
+      "text": "Lekkasjen varte fra oktober 2015 til februar 2016. Utslippet var om lag 100 000 tonn metan.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -46,7 +46,7 @@
     },
     {
       "id": "plain-3",
-      "text": "Mengden tilsvarer omtrent det 190 000 boliger i Los Angeles bruker av gass på ett år. Det er en sammenligning, ikke et tall på hvor mange som ble evakuert.",
+      "text": "Mengden tilsvarer omtrent det 190 000 boliger i Los Angeles bruker av gass på ett år. Det er en sammenligning, ikke et tall på hvor mange som måtte flytte.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -102,7 +102,7 @@
     },
     {
       "id": "plain-5",
-      "text": "Boligområdet nærmest lageret er relativt velstående, og de vanlige sykdomstallene der skiller seg ikke ut. Vi vet ikke om lekkasjen ga varig sykdom. Det er ikke målt i disse tallene.",
+      "text": "Folk i boligområdet nærmest lageret tjener ganske godt, og de vanlige sykdomstallene der skiller seg ikke ut. Vi vet ikke om lekkasjen ga varig sykdom. Det er ikke målt i disse tallene.",
       "status": "confirmed",
       "note": "",
       "sources": [

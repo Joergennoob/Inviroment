@@ -7,10 +7,10 @@ Type: Lovforslag. Id: `bill-sb-200`. Oppdatert: 2026-10-28.
 - [bekreftet] Dette er loven som opprettet et fond for trygt drikkevann. Bill Monning la den fram i 2019.
   - [SB 200, Chapter 120, Statutes of 2019](https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Senatet stemte 38 mot 1. Forsamlingen stemte 68 mot 0. Nesten alle var enige.
+- [bekreftet] I delstatsparlamentet stemte senatet 38 mot 1. Forsamlingen stemte 68 mot 0. Nesten alle var enige.
   - [SB 200 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Fondet får inntil om lag 130 millioner dollar i året fra klimakvoten, fram til midten av 2030.
+- [bekreftet] Fondet får inntil om lag 130 millioner dollar i året fra pengene bedrifter betaler for å slippe ut klimagass, fram til midten av 2030.
   - [SAFER legislative history](https://www.waterboards.ca.gov/safer/docs/safer_program_legislative_history.pdf) (State Water Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260812021807/https://www.waterboards.ca.gov/safer/docs/safer_program_legislative_history.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Listen over vannverk som ikke holder mål, er en del av dette programmet.

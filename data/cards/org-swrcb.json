@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "Dette er delstatens vanntilsyn. De fører listen over vannverk som ikke holder helsereglene.",
+      "text": "Dette er Californias vanntilsyn. De fører listen over vannverk som ikke holder reglene for helse.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "De har også pålagt testing av kjemikaliene PFAS i drikkevannsbrønner.",
+      "text": "De har også pålagt testing av evighetskjemikalier, kalt PFAS, i drikkevannsbrønner. Det er stoffer som nesten ikke forsvinner.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -38,7 +38,7 @@
     },
     {
       "id": "s3",
-      "text": "Rapporten om Salton Sea er sendt til dette styret.",
+      "text": "Rapporten om innsjøen Salton Sea er sendt til dette styret.",
       "status": "confirmed",
       "note": "",
       "sources": [

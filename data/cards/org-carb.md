@@ -4,10 +4,10 @@ Type: Organisasjon. Id: `org-carb`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] CARB er delstatens lufttilsyn. De har ansvar for utslipp fra biler og lastebiler. De lokale luftkontorene tar faste anlegg.
+- [bekreftet] Dette er Californias lufttilsyn. De har ansvar for utslipp fra biler og lastebiler. De lokale luftkontorene tar fabrikker og andre faste anlegg.
   - [Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area](https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
-- [bekreftet] De regnet ut at gasslekkasjen ved Aliso Canyon var om lag 100 000 tonn metan.
+- [bekreftet] De regnet ut at gasslekkasjen ved Aliso Canyon var om lag 100 000 tonn metan. Metan er hovedstoffet i naturgass.
   - [Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016](https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf) (California Air Resources Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] De har også ansvar for en lov om ekstra oppfølging av lufta i nabolag med mye forurensning.

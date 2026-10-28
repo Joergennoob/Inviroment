@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "EPA er det føderale miljøtilsynet. De sier hvilke områder som ikke klarer grensen for ren luft, og hvor mange som bodde der i 2010.",
+      "text": "Dette er miljøtilsynet i USA. De sier hvilke områder som ikke klarer grensen for ren luft, og hvor mange som bodde der i 2010.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "s2",
-      "text": "De skrev i 2025 at San Joaquin-dalen ikke klarte en eldre ozongrense, og i 2026 at dalen har landets høyeste nivå av fint svevestøv, de minste partiklene i luften.",
+      "text": "De skrev i 2025 at jordbruksdalen ikke klarte en eldre grense for ozon, en gass som irriterer lungene. I 2026 skrev de at dalen har landets høyeste nivå av fint støv, de minste partiklene i luften.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -46,7 +46,7 @@
     },
     {
       "id": "s3",
-      "text": "De har også anleggsregisteret som gir kartpunkt for raffinerier og gasslageret Aliso Canyon.",
+      "text": "De har også en liste over anlegg som gir et punkt på kartet for raffinerier og gasslageret Aliso Canyon.",
       "status": "confirmed",
       "note": "",
       "sources": [

@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "I 2022 ble det sprøytet om lag 180 millioner pund virksomt stoff i California. Mest gikk ut i jordbruksfylkene Fresno, Kern og Tulare. De som bor og jobber der, er nærmest sprøytingen.",
+      "text": "I 2022 ble det sprøytet om lag 180 millioner pund av selve giften i sprøytemidlene i California. Ett pund er omtrent et halvt kilo. Mest gikk ut i jordbruksfylkene Fresno, Kern og Tulare. De som bor og jobber der, er nærmest sprøytingen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -46,7 +46,7 @@
     },
     {
       "id": "plain-3",
-      "text": "I ett boligområde i Fresno er astmabesøk på legevakt verre enn i 98 av 100 områder i California. Vi vet ikke om sprøytemidlene er årsaken.",
+      "text": "I ett nabolag i Fresno er legevaktbesøk for astma verre enn i 98 av 100 nabolag i California. Vi vet ikke om sprøytemidlene er grunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -70,7 +70,7 @@
     },
     {
       "id": "plain-4",
-      "text": "I de fire fylkene med mest sprøyting er andelen uten videregående skole om lag halvannen gang så høy som i resten av California. Vi vet ikke om sprøytingen er årsaken.",
+      "text": "I de fire fylkene med mest sprøyting er det om lag halvannen gang så mange uten videregående skole som i resten av California. Vi vet ikke om sprøytingen er grunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -86,7 +86,7 @@
     },
     {
       "id": "plain-5",
-      "text": "Staten registrerte om lag 1 000 sykdomstilfeller som kan henge sammen med sprøytemidler i 2022. Los Angeles hadde flest, og de fleste der kom ikke fra jordbruk.",
+      "text": "Delstaten registrerte om lag 1 000 sykdomstilfeller som kan henge sammen med sprøytemidler i 2022. Los Angeles hadde flest, og de fleste der kom ikke fra jordbruk.",
       "status": "confirmed",
       "note": "",
       "sources": [

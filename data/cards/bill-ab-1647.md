@@ -4,10 +4,10 @@ Type: Lovforslag. Id: `bill-ab-1647`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] Dette er loven som sier at luften skal måles ved gjerdet rundt raffinerier, og at naboene skal kunne se tallene. Den ble vedtatt i 2017. Forfatteren var Al Muratsuchi.
+- [bekreftet] Dette er loven som sier at luften skal måles ved gjerdet rundt raffinerier, fabrikker som lager bensin, og at naboene skal kunne se tallene. Den ble vedtatt i 2017. Al Muratsuchi la den fram.
   - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Forsamlingen stemte 57 mot 19. Senatet stemte 28 mot 11.
+- [bekreftet] I delstatsparlamentet stemte forsamlingen 57 mot 19. Senatet stemte 28 mot 11.
   - [AB 1647 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Eieren av raffineriet skal betale for målingen, med ett unntak hvis målestasjonen også brukes til andre formål.

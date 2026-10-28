@@ -6,10 +6,10 @@ Rangering i California-oversikten: 7.
 
 ## Sammendrag
 
-- [bekreftet] Raffinerier lager drivstoff tett på boliger i Los Angeles-området. En lov fra 2017 sier at eieren skal måle luften ved gjerdet, og at naboene skal kunne se tallene.
+- [bekreftet] Raffinerier er fabrikker som lager bensin. De ligger tett på boliger i Los Angeles-området. En lov fra 2017 sier at eieren skal måle luften ved gjerdet, og at naboene skal kunne se tallene.
   - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Det føderale tilsynet kaller bruddene ved Chevron-raffineriet i El Segundo et alvorlig brudd.
+- [bekreftet] Miljøtilsynet i USA kaller bruddene ved Chevron-raffineriet i El Segundo alvorlige.
   - [ECHO facility info, registry 110002899908](https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
 - [bekreftet] Phillips 66 kunngjorde i 2024 at raffineriet i Wilmington og Carson skulle stanse driften mot slutten av 2025. Selve stansen er beskrevet på selskapets eget kort.
@@ -20,7 +20,7 @@ Rangering i California-oversikten: 7.
   - [EPA order on Torrance title V permit](https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Phillips 66 notice, 16. oktober 2024](https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx) (Phillips 66, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Innenfor en mil bor noen tusen mennesker ved hvert av de tre anleggene. Sykdomstallene der er ikke høyere enn i resten av California. Vi vet ikke om raffineriet er årsaken.
+- [bekreftet] Innenfor en engelsk mil, om lag 1,6 kilometer, bor noen tusen mennesker ved hvert av de tre anleggene. Sykdomstallene der er ikke høyere enn i resten av California. Vi vet ikke om raffineriet er grunnen.
   - [WellSTAR active or idle well count](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=WellStatus%3D%27Active%27+OR+WellStatus%3D%27Idle%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
   - [2020 Census PL 94-171, California geographic header, summary level 750](https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip) (US Census Bureau, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [NCES EDGE public school locations 2023-24, California](https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PUBLICSCH_2324/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json) (National Center for Education Statistics, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.

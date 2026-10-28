@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "Luften rundt Los Angeles er for skitten til å klare den føderale grensen for ren luft. EPA regnet med om lag 16 millioner mennesker i området i 2010. Mye av forurensningen kommer fra biler og tunge lastebiler, og raffinerier er blant de største faste utslippene.",
+      "text": "Luften rundt Los Angeles er for skitten. Den klarer ikke regelen for ren luft som USA har satt. Miljøtilsynet i USA regnet med om lag 16 millioner mennesker der i 2010. Mye av skitten kommer fra biler og store lastebiler. Fabrikker som lager bensin, kalt raffinerier, slipper også ut mye.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -30,7 +30,7 @@
     },
     {
       "id": "plain-2",
-      "text": "Området klarer ikke grensen for fint svevestøv, de minste partiklene i luften. Målingen ligger på 13,2. Det klarer heller ikke grensen for bakkenær ozon, en gass som irriterer lungene.",
+      "text": "Området har for mye fint støv. Det er de minste partiklene i luften, så små at du nesten ikke ser dem. Målingen ligger på 13,2. Området har også for mye ozon, en gass nede ved bakken som irriterer lungene.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -54,7 +54,7 @@
     },
     {
       "id": "plain-3",
-      "text": "I 2018 sto tunge lastebiler for 27 prosent av NOx, en gass som er med på å lage både ozon og støv. Veitrafikk sto for 44 prosent.",
+      "text": "I 2018 kom 27 av 100 deler av en skitten eksosgass fra store lastebiler. Gassen kalles NOx, og den er med på å lage både det fine støvet og ozon. All trafikk på veiene sto for 44 av 100 deler.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -70,7 +70,7 @@
     },
     {
       "id": "plain-4",
-      "text": "I ett boligområde i Los Angeles er andelen barn født med lav vekt høyere enn i 90 av 100 områder i California. Vi vet ikke om luften er årsaken.",
+      "text": "I ett nabolag i Los Angeles blir flere barn født for små enn i 90 av 100 nabolag i California. Vi vet ikke om luften er grunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -94,7 +94,7 @@
     },
     {
       "id": "plain-5",
-      "text": "Når hele luftområdet sammenlignes med resten av California, er ikke astma eller kols, en lungesykdom, høyere. Vi vet ikke om luften er årsaken til sykdom der tallene likevel skiller seg ut.",
+      "text": "Når vi ser på hele området rundt Los Angeles, er ikke astma eller kols vanligere enn i resten av California. Kols er en lungesykdom. Vi vet ikke om luften er grunnen der tallene likevel er annerledes.",
       "status": "confirmed",
       "note": "",
       "sources": [

@@ -8,7 +8,9 @@ export default function LobbyPage() {
       <p>
         <Link href="/">Kart</Link>
         {" · "}
-        <Link href="/oversikt/">Rangering</Link>
+        <Link href="/oversikt/">De ti problemene</Link>
+        {" · "}
+        <Link href="/ord/">Ord og forklaringer</Link>
         {" · "}
         <Link href="/network/">Nettverk</Link>
       </p>

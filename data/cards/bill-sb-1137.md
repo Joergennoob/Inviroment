@@ -8,14 +8,14 @@ Type: Lovforslag. Id: `bill-sb-1137`. Oppdatert: 2026-10-28.
   - [SB 1137, Chapter 365, Statutes of 2022](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Senatet stemte 25 mot 10. Forsamlingen stemte 46 mot 24.
+- [bekreftet] I delstatsparlamentet stemte senatet 25 mot 10. Forsamlingen stemte 46 mot 24.
   - [SB 1137 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920055011/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [SB 1137 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Et folkeavstemningsforslag stanset loven en periode. Den begynte å gjelde igjen da forslaget ble trukket i 2024.
+- [bekreftet] Et forslag om folkeavstemning stanset loven en periode. Den begynte å gjelde igjen da forslaget ble trukket i 2024.
   - [SB 1137 ISOR](https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Oljebransjens organisasjon skrev senere at de jobbet med loven. Skjemaet sier ikke om de var for eller mot.
+- [bekreftet] Oljeselskapenes felles organisasjon skrev senere at de jobbet med loven. Skjemaet sier ikke om de var for eller mot.
   - [CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD](https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

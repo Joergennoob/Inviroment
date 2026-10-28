@@ -4,7 +4,7 @@ Type: Organisasjon. Id: `org-wspa`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
-- [bekreftet] Western States Petroleum Association er oljebransjens organisasjon. I sesjonen 2025–2026 har de brukt om lag 19 millioner dollar på lobbyvirksomhet.
+- [bekreftet] Dette er oljeselskapenes felles organisasjon. I perioden 2025 til 2026 har de brukt om lag 19 millioner dollar på å betale folk for å påvirke politikere.
   - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Cal-Access employer 1147195, Western States Petroleum Association, activity](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025. Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden.
 
@@ -12,11 +12,11 @@ Type: Organisasjon. Id: `org-wspa`. Oppdatert: 2026-10-28.
   - [Cal-Access employer 1147195, Western States Petroleum Association, activity](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025. Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden.
   - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] I ett kvartal betalte de blant annet lobbyfirmaene Carpenter Garcia Sievers, Greenberg Traurig og Pillsbury.
+- [bekreftet] I ett kvartal betalte de blant annet firmaene Carpenter Garcia Sievers, Greenberg Traurig og Pillsbury for å påvirke politikere.
   - [Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30](https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Cal-Access employer 1147195, Western States Petroleum Association, activity](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025. Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden.
 
-- [bekreftet] Kampanjebidragene deres er små ved siden av lobbyregningen. Den største kampanjestrengen er om lag 26 000 dollar.
+- [bekreftet] Pengene de ga til valgkamp, er små ved siden av det de betalte for påvirkning. Den største valgkampstrengen er om lag 26 000 dollar.
   - [Cal-Access Contributor Search, 01/01/2025-10/28/2026, California, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

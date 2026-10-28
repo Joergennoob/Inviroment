@@ -5,9 +5,11 @@ import Link from "next/link";
 import { useMemo, useState } from "react";
 import { useEffect } from "react";
 import CardBody from "@/components/ClaimList";
+import PlaceNote from "@/components/PlaceNote";
 import type { Placement } from "@/components/MapCanvas";
 import { allCards, problems } from "@/lib/cards";
 import { TYPE_LABEL } from "@/lib/types";
+import { LAYER_TITLE, officialName, plainTitle } from "@/lib/words";
 
 const MapView = dynamic(() => import("@/components/MapCanvas"), { ssr: false });
 
@@ -55,19 +57,19 @@ export default function HomePage() {
       <header className="top">
         <div>
           <h1>Miljøkart California</h1>
-          <p>Ti steder i California der miljøet gjør skade. Klikk i kartet. Til høyre står det hva som er galt, hvem som rammes, og hvem som står bak.</p>
+          <p>Ti steder der naturen eller forurensning gjør skade på folk. Klikk i kartet. Til høyre står det, med vanlige ord, hva som er galt, hvem som rammes, og hvem som tjener på det.</p>
           <details className="help">
             <summary>Slik leser du kartet</summary>
             <p>
-              Fargene er områder, for eksempel luft som ikke klarer en grense, vannverk som bryter reglene, eller grunnvann som tappes for hardt. Prikkene er anlegg, brønner eller skoler. Klikk et felt. Panelet til høyre forklarer det med vanlige ord først. Under det ligger de nøyaktige tallene og lenkene. «Bekreftet» betyr at setningen står i et offentlig dokument. «Vi vet ikke om miljøet er årsaken» betyr at tallene henger sammen, men at vi ikke har bevist hvorfor.
+              Fargene er områder. Prikkene er fabrikker, brønner eller skoler. Klikk et felt. Til høyre får du en forklaring først. Under det ligger tallene og lenkene. «I dokumentet» betyr at setningen står i et offentlig papir. «Vi vet ikke om miljøet er årsaken» betyr at sykdom og forurensning er på samme sted, men at vi ikke har bevist hvorfor. Ord som er vanskelige, står i <Link href="/ord/">Ord og forklaringer</Link>.
             </p>
           </details>
         </div>
         <nav className="nav">
-          <Link href="/oversikt/">Rangering</Link>
+          <Link href="/oversikt/">De ti problemene</Link>
+          <Link href="/ord/">Ord og forklaringer</Link>
           <Link href="/lobbyister/">Lobbyister</Link>
           <Link href="/network/">Nettverk</Link>
-          <Link href="/kort/ca-problem-south-coast-air/">Kort</Link>
         </nav>
       </header>
       <div className="workspace">
@@ -82,7 +84,7 @@ export default function HomePage() {
               }}
             >
               <strong>
-                {card.rank}. {card.name}
+                {card.rank}. {plainTitle(card)}
               </strong>
               <span>{card.summary[0]?.text}</span>
             </a>
@@ -98,7 +100,7 @@ export default function HomePage() {
             }}
           />
           <fieldset className="layers">
-            <legend>Lag</legend>
+            <legend>Hva vil du se?</legend>
             {layers.map((layer) => (
               <label key={layer.id}>
                 <input
@@ -110,33 +112,43 @@ export default function HomePage() {
                     )
                   }
                 />
-                {layer.title}
+                {LAYER_TITLE[layer.id] ?? layer.title}
               </label>
             ))}
           </fieldset>
           <div className="basemap-note">
-            Bakgrunnskart: OpenFreeMap (OpenStreetMap). Fri bruk uten nøkkel. Attribusjon ligger også nede til høyre på kartet.
+            Bakgrunnskartet viser veier og byer. Det er gratis (OpenStreetMap). Navnet på kartet står også nede til høyre.
           </div>
         </div>
         <aside className="panel">
           {selected ? (
             <>
-              <p className="note">{TYPE_LABEL[selected.type]}{selected.rank ? ` · rang ${selected.rank}` : ""}</p>
-              <h2 style={{ marginTop: 0 }}>{selected.name}</h2>
+              <p className="note">{TYPE_LABEL[selected.type]}{selected.rank ? ` · nummer ${selected.rank} av 10` : ""}</p>
+              <h2 style={{ marginTop: 0 }}>{plainTitle(selected)}</h2>
+              {officialName(selected) ? (
+                <details className="tech">
+                  <summary>For journalister: tekniske detaljer</summary>
+                  <p>Offisielt navn: {officialName(selected)}</p>
+                </details>
+              ) : null}
               {placement && placement.cardId === selected.id ? (
-                <div className="place">
-                  <strong>Kilde for plassering. </strong>
-                  {placement.name}. {placement.sourceNote} {placement.sourceName}, post {placement.sourceRecordId}.{" "}
-                  <a href={placement.sourceUrl}>Kildelenke</a>. Hentet {placement.sourceRetrieved}.
-                </div>
+                <PlaceNote
+                  featureName={placement.name}
+                  sourceName={placement.sourceName}
+                  recordId={placement.sourceRecordId}
+                  sourceUrl={placement.sourceUrl}
+                  retrieved={placement.sourceRetrieved}
+                  note={placement.sourceNote}
+                  layer={placement.layer}
+                />
               ) : null}
               <CardBody card={selected} cardsById={byId} />
               <p>
-                <Link href={`/kort/${selected.id}/`}>Åpne kortet som egen side</Link>
+                <Link href={`/kort/${selected.id}/`}>Les hele kortet på egen side</Link>
               </p>
             </>
           ) : (
-            <p>Velg et punkt eller et problem.</p>
+            <p>Klikk et sted i kartet, eller velg et problem til venstre.</p>
           )}
         </aside>
       </div>
