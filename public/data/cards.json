@@ -10630,7 +10630,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Cal-Access-filer 1146650, California Independent Petroleum Association (CIPA), har 744 330,97 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+          "text": "Dette er en forening for uavhengige oljeselskaper. De har brukt om lag 700 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -10646,7 +10646,7 @@
         },
         {
           "id": "s2",
-          "text": "Foreningen står i samme uttrekk som Chevron, WSPA og California Resources. Uttrekket ga 40 employer-rader i kategorien, sortert alfabetisk, inkludert rader med 0 dollar.",
+          "text": "De står i samme oljekategori som Chevron og oljeorganisasjonen WSPA.",
           "status": "confirmed",
           "note": "Det er ikke bekreftet at 40 er et absolutt tak i databasen. Listen som kom tilbake, begynner på Berry og slutter på Woodside og inneholder både de største og nullbeløp.",
           "sources": [
@@ -10662,7 +10662,7 @@
         },
         {
           "id": "s3",
-          "text": "Ingen brønn, ingen lovtekst og ingen bidragssum er knyttet til CIPA ut over lobbytallet.",
+          "text": "Vi har ikke koblet foreningen til en bestemt brønn eller en bestemt lovavstemning ut over lobbytallet.",
           "status": "not_found",
           "note": "ContributorSearch er ikke kjørt for CIPA.",
           "sources": [
@@ -10683,6 +10683,54 @@
           "text": "Filer-id i postback fra søket er 1146650, og interessekoden er OIL AND GAS.",
           "status": "confirmed",
           "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Cal-Access-filer 1146650, California Independent Petroleum Association (CIPA), har 744 330,97 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Foreningen står i samme uttrekk som Chevron, WSPA og California Resources. Uttrekket ga 40 employer-rader i kategorien, sortert alfabetisk, inkludert rader med 0 dollar.",
+          "status": "confirmed",
+          "note": "Det er ikke bekreftet at 40 er et absolutt tak i databasen. Listen som kom tilbake, begynner på Berry og slutter på Woodside og inneholder både de største og nullbeløp.",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Ingen brønn, ingen lovtekst og ingen bidragssum er knyttet til CIPA ut over lobbytallet.",
+          "status": "not_found",
+          "note": "ContributorSearch er ikke kjørt for CIPA.",
           "sources": [
             {
               "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
@@ -11600,7 +11648,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "IID skrev luftprogrammet for Salton Sea fordi overføringen av inntil om lag 300 000 acre-fot i året under QSA blotlegger playa.",
+          "text": "Imperial Irrigation District er vannverket ved Salton Sea. De flytter inntil om lag 300 000 acre-fot vann i året, og det blotlegger sjøbunn som kan bli til støv. Acre-fot er et amerikansk mål for vannmengde.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11616,7 +11664,7 @@
         },
         {
           "id": "s2",
-          "text": "Cal-Access-filer 1143378 har 290 134,29 dollar i lobbybetalinger i sesjonen 2025-2026, kategori utilities.",
+          "text": "De har brukt om lag 300 000 dollar på lobbyvirksomhet i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11632,7 +11680,7 @@
         },
         {
           "id": "s3",
-          "text": "CNRA leverer Salton Sea-årsrapporten til State Water Board. IID er ikke forfatter av den rapporten.",
+          "text": "Statens årsrapport om innsjøen er ikke skrevet av vannverket. Den er sendt til vanntilsynet.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11660,6 +11708,54 @@
               "publisher": "Imperial Irrigation District",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20241125104119/https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "IID skrev luftprogrammet for Salton Sea fordi overføringen av inntil om lag 300 000 acre-fot i året under QSA blotlegger playa.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+              "title": "Salton Sea Air Quality Mitigation Program",
+              "publisher": "Imperial Irrigation District",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20241125104119/https://saltonseaprogram.com/documents/Salton_Sea_Air_Quality_Mitigation_Program.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Cal-Access-filer 1143378 har 290 134,29 dollar i lobbybetalinger i sesjonen 2025-2026, kategori utilities.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "CNRA leverer Salton Sea-årsrapporten til State Water Board. IID er ikke forfatter av den rapporten.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
+              "title": "2025 Annual Report on the Salton Sea Management Program",
+              "publisher": "California Natural Resources Agency",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525074045/https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -11848,7 +11944,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "OEHHA publiserer CalEnviroScreen 4.0 med score per census tract og tilbyr nedlasting og en ArcGIS-tjeneste.",
+          "text": "OEHHA er delstatens kontor for helsefare i miljøet. De lager CalEnviroScreen, et kart som rangerer nabolag etter forurensning og helse.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11864,7 +11960,7 @@
         },
         {
           "id": "s2",
-          "text": "Tjenestens metadata har tomt copyrightText-felt. Traktene i kartet er hentet derfra 28. oktober 2026 og er sitert med tract-id.",
+          "text": "Kartdataene ble hentet 28. oktober 2026. Feltet for opphavsrett i metadataene er tomt. Områdene er merket med et nummer for hvert boligområde.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11880,7 +11976,7 @@
         },
         {
           "id": "s3",
-          "text": "Verktøyet er en screening, ikke en måling av at en person er syk. Kortene bruker det som stedsangivelse og indikator, ikke som diagnose.",
+          "text": "Kartet siler områder. Det måler ikke at en bestemt person er syk. Vi bruker det til å sammenligne steder, ikke som en diagnose.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11899,6 +11995,38 @@
         {
           "id": "org-oehha-c1",
           "text": "OEHHA publiserer CalEnviroScreen 4.0 med score per census tract og tilbyr nedlasting og en ArcGIS-tjeneste.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+              "title": "CalEnviroScreen 4.0",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261019155738/https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Tjenestens metadata har tomt copyrightText-felt. Traktene i kartet er hentet derfra 28. oktober 2026 og er sitert med tract-id.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0?f=json",
+              "title": "CalEnviroScreen 4.0 layer metadata",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261022150903/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/ArcGIS/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0?f=json",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Verktøyet er en screening, ikke en måling av at en person er syk. Kortene bruker det som stedsangivelse og indikator, ikke som diagnose.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12579,7 +12707,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Cal-Access-filer 1146926 dekker Sempra og tilknyttede selskaper, inkludert San Diego Gas & Electric og Southern California Gas Company, med 3 347 511,14 dollar i lobbybetalinger i sesjonen 2025-2026.",
+          "text": "Sempra og de tilknyttede selskapene SoCalGas og SDG&E har brukt om lag 3,3 millioner dollar på lobbyvirksomhet i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12595,7 +12723,7 @@
         },
         {
           "id": "s2",
-          "text": "CARB skriver at Aliso Canyon-lekkasjen var ved Southern California Gas Company sitt lager.",
+          "text": "Gasslekkasjen ved Aliso Canyon var på et lager som tilhører SoCalGas.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12611,7 +12739,7 @@
         },
         {
           "id": "s3",
-          "text": "FRS-post 110001158238 er SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON i Porter Ranch.",
+          "text": "Det føderale registeret har et kartpunkt for lageret i Porter Ranch.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12627,7 +12755,7 @@
         },
         {
           "id": "s4",
-          "text": "Lobbybeløpet gjelder den samlede fileren. Det er ikke delt mellom SDG&E, SoCalGas og Aliso.",
+          "text": "Lobbybeløpet gjelder hele konsernet. Det er ikke delt opp på Aliso Canyon.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12656,6 +12784,70 @@
               "retrieved": "2026-10-28",
               "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
               "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Cal-Access-filer 1146926 dekker Sempra og tilknyttede selskaper, inkludert San Diego Gas & Electric og Southern California Gas Company, med 3 347 511,14 dollar i lobbybetalinger i sesjonen 2025-2026.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "CARB skriver at Aliso Canyon-lekkasjen var ved Southern California Gas Company sitt lager.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+              "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
+              "publisher": "California Air Resources Board",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "FRS-post 110001158238 er SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON i Porter Ranch.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+              "title": "FRS facility SOUTHERN CALIFORNIA GAS COMPANY - ALISO CANYON",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154022/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=SOUTHERN%20CALIFORNIA%20GAS%20ALISO&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s4",
+          "text": "Lobbybeløpet gjelder den samlede fileren. Det er ikke delt mellom SDG&E, SoCalGas og Aliso.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
