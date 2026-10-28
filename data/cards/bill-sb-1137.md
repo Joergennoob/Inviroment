@@ -12,7 +12,7 @@ Type: Lovforslag. Id: `bill-sb-1137`. Oppdatert: 2026-10-28.
   - [SB 1137 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Forfattere på statussiden er senatorene Gonzalez og Limón.
-  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError.
+  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] CalGEM beskriver at et referendum stanset loven fra februar 2023 til forslaget ble trukket i juni 2024.
   - [SB 1137 ISOR](https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.

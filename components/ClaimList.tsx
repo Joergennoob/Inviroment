@@ -43,6 +43,22 @@ export default function CardBody({ card, cardsById }: { card: Card; cardsById: M
       {card.claims.map((claim) => (
         <ClaimBlock key={claim.id} claim={claim} />
       ))}
+      {(["population", "demographics", "health_outcomes"] as const).map((key) => {
+        const block = card[key];
+        if (!block) return null;
+        const title = key === "population" ? "Befolkning" : key === "demographics" ? "Demografi" : "Helseutfall";
+        return (
+          <section key={key}>
+            <h2>{title}</h2>
+            <p className="note">
+              {block.geography}. {block.vintage}. Sammenligning: {block.comparison}.
+            </p>
+            {block.claims.map((claim) => (
+              <ClaimBlock key={claim.id} claim={claim} />
+            ))}
+          </section>
+        );
+      })}
       {card.geometry ? (
         <div className="place">
           <strong>Kilde for plassering. </strong>

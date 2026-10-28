@@ -69,6 +69,22 @@
           "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r2-torr-op",
+      "text": "Samme EPA-vedtak sier at selskapet er operatør, og at South Coast AQMD utstedte fornyet title V-tillatelse 30. mai 2024 for facility ID 181667.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA title V order, Torrance",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "geometry": {

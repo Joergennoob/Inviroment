@@ -1,0 +1,101 @@
+{
+  "id": "bill-ab-1739",
+  "type": "bill",
+  "name": "AB 1739 (2013-2014), grunnvann",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "AB 1739, kapittel 347, godkjent 16. september 2014. Forfatter er Dickinson. Pavley står som principal coauthor.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Forsamlingen samtykket i senatets endringer 29. august 2014 med 47 mot 28. Senatet vedtok 27. august 2014 med 26 mot 11.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Ingen åpnet lobbyfiling oppgir AB 1739.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access lobbying search",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Forsamlingens tredje lesning 28. mai 2014 var 48 mot 24.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+          "title": "AB 1739 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-groundwater-overdraft",
+      "text": "Del av SGMA."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-roger-dickinson",
+      "text": "Forfatter."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-fran-pavley",
+      "text": "Principal coauthor."
+    }
+  ],
+  "open_questions": [
+    "Lobbyfiler fra 2014 er ikke åpnet."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "geometry": null,
+  "map_features": [],
+  "checked_empty": [],
+  "schema_version": "1.0.0"
+}

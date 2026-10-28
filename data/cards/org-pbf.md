@@ -19,6 +19,9 @@ Type: Organisasjon. Id: `org-pbf`. Oppdatert: 2026-10-28.
 - [bekreftet] De to PBF-beløpene er ikke summert, fordi det er to filer.
   - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
+- [bekreftet] EPA skriver 7. januar 2025 at Torrance-raffineriet ble kjøpt av PBF Energy i 2016 og drives av Torrance Refining Company, LLC.
+  - [EPA title V order, Torrance](https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 ## Lenker til andre kort
 
 - Lobbytall uten bekreftet anleggskobling. (`ca-problem-refineries`)

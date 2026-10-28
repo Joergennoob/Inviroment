@@ -76,6 +76,22 @@
           "archive_note": "Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden."
         }
       ]
+    },
+    {
+      "id": "r2-firm-clients",
+      "text": "LobbyFirmsDetail for sesjonen 2025–2026 viser firmaets kvartalsvise innbetalinger, ikke navn på oppdragsgivere. Andre klienter enn WSPA, og om noen av dem er miljø- eller klimaorganisasjoner, er derfor ikke dokumentert fra denne siden.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx",
+          "title": "Cal-Access lobbying firm search, session 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260106185656/https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "geometry": null,

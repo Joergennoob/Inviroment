@@ -28,6 +28,7 @@ Tijuana-elva: EPA beskriver urenset avløpsvann over grensen, med i snitt 109 mi
 - South Coast AQMD skriver at bassenget er i extreme nonattainment for 8-timers ozonstandarden fra 2015, og at 2022-planen legger opp til å nå standarden i 2037.
 - I 2018-regnskapet som AQMD bruker i 2025-dokumentet, sto vegtrafikk for 44 prosent av NOx, tunge lastebiler for 27 prosent av all NOx, og stasjonære kilder for 15 prosent.
 - Census tract 6037204920 i Los Angeles County har CalEnviroScreen 4.0-score 82,39 og persentil 99,97, med ACS 2015-2019-befolkning 2 751. Det er ett høyt belastet område, ikke hele bassenget.
+- Lav fødselsvekt i tract 6037204920 er 7,11 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 90.9. Det er merkbart høyt.
 
 Kort: `ca-problem-south-coast-air`.
 
@@ -37,6 +38,7 @@ Kort: `ca-problem-south-coast-air`.
 - EPA skrev i 2026 at dalen har de høyeste årlige PM2.5-nivåene i landet, og at området er over 23 000 square miles i åtte fylker, med om lag fire millioner innbyggere og landets ledende jordbruksregion.
 - EPA fastslo at San Joaquin Valley ikke nådde 1997-ozonstandarden innen fristen 15. juni 2024 for et Extreme-område. Vedtaket trådte i kraft 27. oktober 2025.
 - Census tract 6019001100 har den høyeste CalEnviroScreen 4.0-scoren i uttrekket, 93,18 og persentil 100, med 2 780 innbyggere i ACS 2015-2019 og PM2.5-indikator 13,91.
+- Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001100 er 129,5 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 97.2. Det er merkbart høyt.
 
 Kort: `ca-problem-san-joaquin-air`.
 
@@ -46,6 +48,7 @@ Kort: `ca-problem-san-joaquin-air`.
 - Samme rapport sier at om lag 79 prosent av systemene på Failing-listen betjener disadvantaged communities, og 52 prosent betjener samfunn der flertallet er people of color.
 - De forurensningene som i 2024 bidro til flest systemer på Failing-listen for primære grenseverdier, var arsen, 1,2,3-triklorpropan og nitrat eller nitrat pluss nitritt. Det var de samme som i 2023.
 - Rapporten sier også at 98 prosent av befolkningen i 2024 fikk vann fra systemer som oppfylte drikkevannsstandardene, og at 589 systemer var at-risk og betjente 1 490 776 mennesker.
+- Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001500 er 101,7 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 93.1. Det er merkbart høyt.
 
 Kort: `ca-problem-drinking-water`.
 
@@ -64,6 +67,7 @@ Kort: `ca-problem-oil-gas-proximity`.
 - Fylkestallene for 2022 viser 26 468 541 pund i Fresno, 25 835 076 pund i Kern og 17 537 932 pund i Tulare. Monterey hadde 9 187 117 pund.
 - DPR grupperer blant annet kreftfremkallende stoffer, fumiganter, grunnvannsforurensere og giftige luftforurensere som egne brukskategorier, og publiserer endring fra 2021 til 2022 for hver kategori.
 - Census tract 6019001000 i Fresno County har pesticidindikator 1 321,97 og persentil 90,83 i CalEnviroScreen 4.0, og 4 255 innbyggere i ACS 2015-2019.
+- Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001000 er 139,3 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 98.2. Det er merkbart høyt.
 
 Kort: `ca-problem-pesticides`.
 
@@ -109,5 +113,6 @@ Kort: `ca-problem-pfas`.
 - DWRs kart fra januar 2020, basert på Bulletin 118-grenser publisert 11. februar 2019, lister 21 basseng og delbasseng. Elleve av dem ligger i San Joaquin Valley, fra Eastern San Joaquin 5-022.01 til Kern County 5-022.14.
 - DWR skriver at virkninger kan være saltvannsinntrenging, setninger, utarming av grunnvann og vedvarende senkning av grunnvannsnivået.
 - Census tract 6029006201 i Kern County har drikkevannsindikator 1 022,63 og persentil 99,63, og pesticidindikator 4 226,06. Det er en illustrasjon i fylket, ikke bassengets grense.
+- Lav fødselsvekt i tract 6029006201 er 7,77 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 95.4. Det er merkbart høyt.
 
 Kort: `ca-problem-groundwater-overdraft`.

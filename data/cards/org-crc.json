@@ -85,6 +85,38 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r2-crc-merger",
+      "text": "CRC skrev i skjema 8-K, med tidligste hendelse 28. juni 2024 og innlevert 1. juli 2024, at sammenslåingen med Aera Energy, LLC var fullført 1. juli 2024, og at Aera og Aera Energy Services Company da var heleide datterselskaper. CRC utstedte 21 315 707 aksjer til selgerne.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm",
+          "title": "CRC Form 8-K, 1. juli 2024",
+          "publisher": "SEC",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250719061228/https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r2-crc-recip",
+      "text": "For navnestrenger uten personnavn i parentes, der detaljsiden summerte til samme total som sammendraget, var de største mottakerne i perioden 1. januar 2025–28. oktober 2026 Coalition to Restore California's Middle Class ID 1365275 med 1 500 000 dollar, Yes on 45 ID 1484853 med 500 000 dollar, og Californians for Central Valley Public Safety med 330 000 dollar. Strengen for Los Angeles på 125 000 dollar er utelatt fordi detaljlisten ikke summerte til sammendraget.",
+      "status": "confirmed",
+      "note": "Mottakerbeløpene er summert bare innenfor navnestrenger der linjene traff sammendragstotalen. Se data/ca/metoder.md er ikke brukt her. Metoden er beskrevet i kortets note.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "title": "Cal-Access contributor search, California Resources Corporation",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "geometry": null,

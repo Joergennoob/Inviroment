@@ -11,7 +11,7 @@ Type: Folkevalgt. Id: `lawmaker-lena-gonzalez`. Oppdatert: 2026-10-28.
   - [Senate District 33](https://sd33.senate.ca.gov/district) (Office of Senator Lena A. Gonzalez, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261012231409/https://sd33.senate.ca.gov/district. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Leginfo oppgir henne som lead author på SB 1137, sammen med Limón.
-  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError.
+  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Hun står på ja-siden i senatets samtykkevotering 31. august 2022, 25 mot 10.
   - [SB 1137 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.

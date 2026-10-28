@@ -28,16 +28,10 @@ def available(url: str) -> tuple[str, str]:
     snap = (payload.get("archived_snapshots") or {}).get("closest") or {}
     if snap.get("available") and snap.get("url"):
         return snap["url"], f"Wayback availability {today} fant et øyeblikksbilde."
-    save = "https://web.archive.org/save/" + url
-    save_req = urllib.request.Request(save, headers={"User-Agent": "miljokart-archive-check/1.0"})
-    try:
-        with urllib.request.urlopen(save_req, timeout=50) as response:
-            final = response.geturl()
-        if "web.archive.org/web/" in final:
-            return final, f"Save Page Now {today} opprettet et øyeblikksbilde."
-        return "", f"Save Page Now {today} svarte uten arkiv-URL ({final[:120]})."
-    except Exception as exc:  # noqa: BLE001
-        return "", f"Wayback availability {today} fant ikke et øyeblikksbilde. Save Page Now feilet: {exc.__class__.__name__}."
+    return "", (
+        f"Wayback availability {today} fant ikke et øyeblikksbilde. "
+        "Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+    )
 
 
 def main() -> int:
@@ -45,7 +39,12 @@ def main() -> int:
     for path in card_paths():
         card = json.loads(path.read_text(encoding="utf-8"))
         changed = False
-        for claim in card["summary"] + card["claims"]:
+        claim_lists = [card["summary"], card["claims"]]
+        for block_name in ("population", "demographics", "health_outcomes"):
+            block = card.get(block_name)
+            if block:
+                claim_lists.append(block.get("claims") or [])
+        for claim in [item for group in claim_lists for item in group]:
             for source in claim["sources"]:
                 if source.get("archive_url"):
                     continue

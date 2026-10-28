@@ -19,6 +19,9 @@ Type: Lobbyfirma. Id: `firm-carpenter-garcia-sievers`. Oppdatert: 2026-10-28.
   - [Form 635 filing 3070933, Western States Petroleum Association, 2025-04-01 til 2025-06-30](https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?amendid=0&filingid=3070933) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Cal-Access employer 1147195, Western States Petroleum Association, activity](https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?id=1147195&session=2025&view=activity) (California Secretary of State, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025. Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden.
 
+- [ikke funnet] LobbyFirmsDetail for sesjonen 2025–2026 viser firmaets kvartalsvise innbetalinger, ikke navn på oppdragsgivere. Andre klienter enn WSPA, og om noen av dem er miljø- eller klimaorganisasjoner, er derfor ikke dokumentert fra denne siden.
+  - [Cal-Access lobbying firm search, session 2025-2026](https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260106185656/https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 ## Lenker til andre kort
 
 - Betalingen i andre kvartal 2025. (`org-wspa`)

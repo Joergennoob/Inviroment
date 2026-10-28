@@ -113,8 +113,8 @@
           "title": "SB 1137 status",
           "publisher": "California Legislative Counsel",
           "retrieved": "2026-10-28",
-          "archive_url": "",
-          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError."
+          "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
     },
@@ -179,6 +179,22 @@
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r2-oil-wells",
+      "text": "Av brønnene merket Verified HPZ var 50 491 plugged, 2 546 canceled og 138 new, i tillegg til active og idle. Aera Energy LLC sto fortsatt som operatorName på 57 805 brønner i samme tjeneste, hvorav 1 410 active eller idle i Verified HPZ.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json",
+          "title": "WellSTAR inHPZ query",
+          "publisher": "CalGEM",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
         }
       ]
     }
@@ -260,5 +276,98 @@
   "state": "CA",
   "updated": "2026-10-28",
   "org_kind": null,
-  "schema_version": "1.0.0"
+  "schema_version": "1.0.0",
+  "population": {
+    "geography": "Health protection zones i CalGEM WellSTAR.",
+    "vintage": "Karttjeneste lest 2026-10-28.",
+    "comparison": "Ingen folketelling innenfor 3 200 fot er publisert i dokumentene som er lest.",
+    "claims": [
+      {
+        "id": "r2-oil-wells-pop",
+        "text": "CalGEM WellSTAR hadde 74 506 brønner merket Verified HPZ da laget ble telt 28. oktober 2026. Av dem var 12 317 active og 8 987 idle.",
+        "status": "confirmed",
+        "note": "Tellingen er returnCountOnly på feltet inHPZ. Den er ikke et folketall.",
+        "sources": [
+          {
+            "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json",
+            "title": "WellSTAR count, inHPZ = Verified HPZ",
+            "publisher": "CalGEM",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
+      },
+      {
+        "id": "r2-oil-people",
+        "text": "Et antall mennesker, boliger eller skoler innenfor 3 200 fot er ikke publisert i Notice to Operators 2025-03 eller i lovvarselet fra oktober 2026. Brønnkartet har heller ikke et folketall.",
+        "status": "not_found",
+        "note": "Primærkilden som mangler, er en CalGEM-tabell over sensitive receptors eller en census-kobling mot sonen.",
+        "sources": [
+          {
+            "url": "https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf",
+            "title": "Notice to Operators 2025-03",
+            "publisher": "CalGEM",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20251121084048/https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Legislative%20Notification%20-%20October%202026.pdf",
+            "title": "SB 1137 legislative notification, October 2026",
+            "publisher": "CalGEM",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
+      }
+    ]
+  },
+  "demographics": {
+    "geography": "Hele helsesonen.",
+    "vintage": "Ikke hentet.",
+    "comparison": "Ikke laget, fordi sonen ikke har et folketall eller en tract-liste fra CalGEM.",
+    "claims": [
+      {
+        "id": "r2-oil-demo",
+        "text": "Demografi for alle som bor innenfor 3 200 fot er ikke regnet. Det krever en kobling mellom brønnlag og census blocks som ikke er gjort.",
+        "status": "not_found",
+        "note": "",
+        "sources": [
+          {
+            "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json",
+            "title": "WellSTAR wells",
+            "publisher": "CalGEM",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
+      }
+    ]
+  },
+  "health_outcomes": {
+    "geography": "Helsesonen som helhet.",
+    "vintage": "Ikke hentet fra et samlet uttrekk.",
+    "comparison": "Ikke sammenlignet med områder utenfor sonen i denne runden.",
+    "claims": [
+      {
+        "id": "r2-oil-health",
+        "text": "Et samlet helseutfall for sonen, sammenlignet med tract utenfor sonen, er ikke hentet. Lovteksten viser til studier om nærhet. Den er ikke en rate for sonen.",
+        "status": "not_found",
+        "note": "",
+        "sources": [
+          {
+            "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+            "title": "SB 1137",
+            "publisher": "Legislative Counsel",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      }
+    ]
+  }
 }

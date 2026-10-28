@@ -75,6 +75,30 @@
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r2-ca-problem-south-coast-air-sum",
+      "text": "Lav fødselsvekt i tract 6037204920 er 7,11 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 90.9. Det er merkbart høyt.",
+      "status": "confirmed",
+      "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+      "sources": [
+        {
+          "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+          "title": "CalEnviroScreen 4.0 tract 6037204920",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        },
+        {
+          "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+          "title": "CalEnviroScreen 4.0 report",
+          "publisher": "OEHHA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "claims": [
@@ -287,5 +311,202 @@
   "state": "CA",
   "updated": "2026-10-28",
   "org_kind": null,
-  "schema_version": "1.0.0"
+  "schema_version": "1.0.0",
+  "population": {
+    "geography": "EPA knytter 15 716 242 mennesker (folketelling 2010) til Los Angeles-South Coast Air Basin.",
+    "vintage": "Folketelling 2010 der EPA er kilden, ellers ACS 2019–2023 eller etatens egen dato.",
+    "comparison": "California ACS 2019–2023 der et tract-tall er sammenlignet. Etatstallet er ikke en rate.",
+    "claims": [
+      {
+        "id": "r2-ca-problem-south-coast-air-pop",
+        "text": "EPA knytter 15 716 242 mennesker (folketelling 2010) til Los Angeles-South Coast Air Basin. Tract-tallet er ett boligområde, ikke bassenget.",
+        "status": "confirmed",
+        "note": "Se også de eldre etatstallene i sammendraget.",
+        "sources": [
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037204920",
+            "title": "ACSDT5Y2023.B01003 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "title": "CalEnviroScreen 4.0 tract 6037204920",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      }
+    ]
+  },
+  "demographics": {
+    "geography": "census tract 2049.20 i Los Angeles County",
+    "vintage": "ACS 2019–2023",
+    "comparison": "Hele California, samme tabeller",
+    "claims": [
+      {
+        "id": "air-demo",
+        "text": "I census tract 2049.20 i Los Angeles County (ACS 2019–2023) er folketallet 2 459, medianinntekten 70 500 dollar mot 96 334 i California, fattigdom 15,1 prosent mot 12,0, uten videregående 49,2 prosent mot 15,4, bachelor eller høyere 7,1 prosent mot 36,5, under 5 år 5,4 prosent mot 5,6, 65 år og eldre 16,5 prosent mot 15,3, språklig isolerte husholdninger 17,1 prosent mot 8,3, hispanic 94,8 prosent mot 39,8, ikke-hispanic hvit 2,8 prosent mot 34,6, svart 2,0 prosent mot 5,3, asiatisk 0,0 prosent mot 15,1, uten helseforsikring 10,5 prosent mot 6,9.",
+        "status": "confirmed",
+        "note": "Andeler er regnet fra tabellene som beskrevet i data/ca/metoder.md.",
+        "sources": [
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037204920",
+            "title": "ACSDT5Y2023.B01003 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06037204920",
+            "title": "ACSDT5Y2023.B19013 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06037204920",
+            "title": "ACSDT5Y2023.B17001 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06037204920",
+            "title": "ACSDT5Y2023.B15003 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06037204920",
+            "title": "ACSDT5Y2023.B01001 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06037204920",
+            "title": "ACSDT5Y2023.C16002 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06037204920",
+            "title": "ACSDT5Y2023.B03002 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06037204920",
+            "title": "ACSST5Y2023.S2701 for 1400000US06037204920",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+            "title": "ACSDT5Y2023.B01003 for 0400000US06",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      }
+    ]
+  },
+  "health_outcomes": {
+    "geography": "CalEnviroScreen 4.0 tract 6037204920",
+    "vintage": "OEHHA 4.0, helseindikatorer fra årene i rapporten",
+    "comparison": "Alle census tracts i California i CalEnviroScreen 4.0. Merkbart betyr persentil 90 eller høyere.",
+    "claims": [
+      {
+        "id": "air-asthma",
+        "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6037204920 er 76,1 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 82.8. Det er ikke over terskelen på persentil 90.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "title": "CalEnviroScreen 4.0 tract 6037204920",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "title": "CalEnviroScreen 4.0 report",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "air-lbw",
+        "text": "Lav fødselsvekt i tract 6037204920 er 7,11 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 90.9. Det er merkbart høyt.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "title": "CalEnviroScreen 4.0 tract 6037204920",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "title": "CalEnviroScreen 4.0 report",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "air-cvd",
+        "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6037204920 er 20,9 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 90.2. Det er merkbart høyt.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+        "sources": [
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "title": "CalEnviroScreen 4.0 tract 6037204920",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "title": "CalEnviroScreen 4.0 report",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      }
+    ]
+  }
 }

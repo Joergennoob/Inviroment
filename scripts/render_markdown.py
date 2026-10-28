@@ -72,6 +72,23 @@ def render(card: dict) -> str:
             f"[Post]({geo['source_url']}). Hentet {geo['retrieved']}.",
             "",
         ]
+    for block_name, title in (
+        ("population", "Befolkning"),
+        ("demographics", "Demografi"),
+        ("health_outcomes", "Helseutfall"),
+    ):
+        block = card.get(block_name)
+        if not block:
+            continue
+        lines += [
+            f"## {title}",
+            "",
+            f"Geografi: {block['geography']}. Årgang: {block['vintage']}. Sammenligning: {block['comparison']}.",
+            "",
+        ]
+        for claim in block["claims"]:
+            lines.append(claim_md(claim))
+            lines.append("")
     if card["links"]:
         lines.append("## Lenker til andre kort")
         lines.append("")

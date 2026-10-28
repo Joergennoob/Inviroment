@@ -26,7 +26,7 @@ Rangering i California-oversikten: 4.
   - [SB 1137 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Forfattere på statussiden er Gonzalez og Limón i senatet.
-  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError.
+  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] I Cal-Access, sesjon 2025-2026 og oppdatert 28. oktober 2026 kl. 08:15:07, er de største lobbybetalingene i kategorien oil and gas Chevron U.S.A., Inc. and Affiliates med 19 279 518,27 dollar (filer 1146815) og Western States Petroleum Association med 19 031 326,51 dollar (filer 1147195).
   - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
@@ -38,6 +38,34 @@ Rangering i California-oversikten: 4.
   - [SB 1137, Chapter 365, Statutes of 2022](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [PM-2.5 nonattainment areas, Green Book, data current as of September 30, 2026](https://www3.epa.gov/airquality/greenbook/rncl2.html) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [2025 Drinking Water Needs Assessment](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Av brønnene merket Verified HPZ var 50 491 plugged, 2 546 canceled og 138 new, i tillegg til active og idle. Aera Energy LLC sto fortsatt som operatorName på 57 805 brønner i samme tjeneste, hvorav 1 410 active eller idle i Verified HPZ.
+  - [WellSTAR inHPZ query](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+
+## Befolkning
+
+Geografi: Health protection zones i CalGEM WellSTAR.. Årgang: Karttjeneste lest 2026-10-28.. Sammenligning: Ingen folketelling innenfor 3 200 fot er publisert i dokumentene som er lest..
+
+- [bekreftet] CalGEM WellSTAR hadde 74 506 brønner merket Verified HPZ da laget ble telt 28. oktober 2026. Av dem var 12 317 active og 8 987 idle. Tellingen er returnCountOnly på feltet inHPZ. Den er ikke et folketall.
+  - [WellSTAR count, inHPZ = Verified HPZ](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+
+- [ikke funnet] Et antall mennesker, boliger eller skoler innenfor 3 200 fot er ikke publisert i Notice to Operators 2025-03 eller i lovvarselet fra oktober 2026. Brønnkartet har heller ikke et folketall. Primærkilden som mangler, er en CalGEM-tabell over sensitive receptors eller en census-kobling mot sonen.
+  - [Notice to Operators 2025-03](https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251121084048/https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [SB 1137 legislative notification, October 2026](https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Legislative%20Notification%20-%20October%202026.pdf) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+
+## Demografi
+
+Geografi: Hele helsesonen.. Årgang: Ikke hentet.. Sammenligning: Ikke laget, fordi sonen ikke har et folketall eller en tract-liste fra CalGEM..
+
+- [ikke funnet] Demografi for alle som bor innenfor 3 200 fot er ikke regnet. Det krever en kobling mellom brønnlag og census blocks som ikke er gjort.
+  - [WellSTAR wells](https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+
+## Helseutfall
+
+Geografi: Helsesonen som helhet.. Årgang: Ikke hentet fra et samlet uttrekk.. Sammenligning: Ikke sammenlignet med områder utenfor sonen i denne runden..
+
+- [ikke funnet] Et samlet helseutfall for sonen, sammenlignet med tract utenfor sonen, er ikke hentet. Lovteksten viser til studier om nærhet. Den er ikke en rate for sonen.
+  - [SB 1137](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137) (Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Lenker til andre kort
 

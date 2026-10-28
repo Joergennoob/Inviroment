@@ -47,8 +47,8 @@
           "title": "ECHO facility info, registry 110002899908",
           "publisher": "US EPA",
           "retrieved": "2026-10-28",
-          "archive_url": "",
-          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+          "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
         }
       ]
     },
@@ -146,6 +146,30 @@
           "publisher": "US EPA",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r2-ref-ops",
+      "text": "EPA skriver i et vedtak 7. januar 2025 at Torrance-raffineriet drives av Torrance Refining Company, LLC, at PBF Energy kjøpte det i 2016, og at South Coast AQMD utstedte fornyet title V-tillatelse 30. mai 2024. Phillips 66 kunngjorde 16. oktober 2024 at Los Angeles-raffineriet, med anlegg i Wilmington og Carson, skulle stanse driften i fjerde kvartal 2025.",
+      "status": "confirmed",
+      "note": "Phillips 66-teksten er selskapets kunngjøring om en plan. Et senere etatsdokument som bekrefter at driften faktisk stoppet, er ikke åpnet.",
+      "sources": [
+        {
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA order on Torrance title V permit",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+          "title": "Phillips 66 notice, 16. oktober 2024",
+          "publisher": "Phillips 66",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
@@ -315,5 +339,98 @@
   "state": "CA",
   "updated": "2026-10-28",
   "org_kind": null,
-  "schema_version": "1.0.0"
+  "schema_version": "1.0.0",
+  "population": {
+    "geography": "Census tracts som anleggspunktene faller i.",
+    "vintage": "ACS 2019–2023 og Census geocoder vintage 4.",
+    "comparison": "Ikke et nabolag. 9800-trakter er ofte anleggsareal.",
+    "claims": [
+      {
+        "id": "r2-ref-pop",
+        "text": "Geocoderen legger Chevron El Segundo i tract 9800.30 med 0 innbyggere, Torrance i tract 9800.05 med 0 innbyggere, og Phillips 66 Wilmington i tract 9800.31 med 970 innbyggere. Medianinntekt er ikke publisert for disse tractene (verdi -666666666 i B19013). De er ikke brukt som portrett av nabolagene ved gjerdet.",
+        "status": "confirmed",
+        "note": "",
+        "sources": [
+          {
+            "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-118.41873&y=33.916216&benchmark=4&vintage=4&format=json",
+            "title": "Geocoder El Segundo",
+            "publisher": "US Census Bureau",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037980030",
+            "title": "ACSDT5Y2023.B01003 for 1400000US06037980030",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037980005",
+            "title": "ACSDT5Y2023.B01003 for 1400000US06037980005",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037980031",
+            "title": "ACSDT5Y2023.B01003 for 1400000US06037980031",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
+      }
+    ]
+  },
+  "demographics": {
+    "geography": "Nabolag ved gjerdet.",
+    "vintage": "Ikke avgrenset.",
+    "comparison": "Ikke regnet.",
+    "claims": [
+      {
+        "id": "r2-ref-demo",
+        "text": "Demografi for boliger innenfor en satt avstand fra raffinerigjerdet er ikke regnet. Anleggstractene har ikke et brukbart befolkningsgrunnlag.",
+        "status": "not_found",
+        "note": "",
+        "sources": [
+          {
+            "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037980030",
+            "title": "ACSDT5Y2023.B01003 for 1400000US06037980030",
+            "publisher": "US Census Bureau ACS 2019-2023",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
+      }
+    ]
+  },
+  "health_outcomes": {
+    "geography": "Nabolag ved gjerdet.",
+    "vintage": "Ikke hentet.",
+    "comparison": "Ikke sammenlignet.",
+    "claims": [
+      {
+        "id": "r2-ref-health",
+        "text": "Helseutfall for et avgrenset nabolag ved hvert raffineri er ikke hentet i denne runden.",
+        "status": "not_found",
+        "note": "",
+        "sources": [
+          {
+            "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+            "title": "EPA title V order, Torrance, 7. januar 2025",
+            "publisher": "US EPA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      }
+    ]
+  }
 }

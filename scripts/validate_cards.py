@@ -131,7 +131,17 @@ def main() -> int:
         if not (3 <= len(summary) <= 5):
             fail(errors, rel, "summary must have 3-5 items")
         seen: set[str] = set()
-        for claim in summary + (card.get("claims") or []):
+        extra = []
+        for block_name in ("population", "demographics", "health_outcomes"):
+            block = card.get(block_name)
+            if block:
+                for claim in block.get("claims") or []:
+                    extra.append(claim)
+        if card.get("type") == "problem":
+            for block_name in ("population", "demographics", "health_outcomes"):
+                if not card.get(block_name):
+                    fail(errors, rel, f"problem missing {block_name}")
+        for claim in summary + (card.get("claims") or []) + extra:
             check_claim(errors, rel, claim, seen)
         if card.get("geometry"):
             check_geometry(errors, rel, card["geometry"])

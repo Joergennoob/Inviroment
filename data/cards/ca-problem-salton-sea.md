@@ -30,9 +30,47 @@ Rangering i California-oversikten: 6.
   - [PM-2.5 nonattainment areas, Green Book, data current as of September 30, 2026](https://www3.epa.gov/airquality/greenbook/rncl2.html) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [2025 Drinking Water Needs Assessment](https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf) (State Water Resources Control Board, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
+- [bekreftet] SSMP-årsrapporten for 2025 sier at faktisk blotlagt areal i 2024 var om lag 20 000 acre mindre enn anslaget fra 2018, fordi tilsiget var høyere enn modellene. Den gir ikke ett tall for samlet blotlagt playa. En egen IID-rapport om utslipp sier at eksponert playa økte fra 33 311 acre ved utgangen av 2023 til 37 804 acre ved utgangen av 2024, målt med satellitt og USGS-vannstand. De to tallene er ikke samme mål. 20 000 acre er et avvik fra en prognose. 37 804 acre er IIDs areal mellom strandlinjen i 2002 og strandlinjen i 2024.
+  - [2025 SSMP annual report](https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf) (California Natural Resources Agency, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525074045/https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [Salton Sea Emissions Monitoring Program 2024/2025](https://saltonseaprogram.com/documents/2024_2025_Annual_Report_and_Emissions_Estimates.pdf) (Imperial Irrigation District, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028162548/https://saltonseaprogram.com/documents/2024_2025_Annual_Report_and_Emissions_Estimates.pdf. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
+
 ## Kilde for plassering
 
 Polygonet er census tract 6025012100 i Imperial County fra CalEnviroScreen 4.0. Det er ikke strandlinjen til Salton Sea. Kilde: OEHHA CalEnviroScreen 4.0, post `6025012100`. [Post](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0). Hentet 2026-10-28.
+
+## Befolkning
+
+Geografi: Imperial County i EPA Green Book, pluss census tract 012100 i CalEnviroScreen.. Årgang: Folketelling 2010 for fylket. ACS 2015–2019 i CalEnviroScreen for trakten.. Sammenligning: California-tract i CalEnviroScreen. ACS 2019–2023 for geoid 06025012100 svarte tomt..
+
+- [bekreftet] EPA fører 154 061 mennesker (2010) i Imperial County for PM2.5. CalEnviroScreen-tract 6025012100 har 6 779 innbyggere i ACS 2015–2019. data.census.gov returnerte tomt svar for ACS 2019–2023 på geoid 1400000US06025012100. Et punkt i området treffer 2020-tract 121.02, som er en annen geografi.
+  - [PM-2.5 Green Book](https://www3.epa.gov/airquality/greenbook/rncl2.html) (US EPA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+  - [CalEnviroScreen 4.0 tract 6025012100](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json) (OEHHA, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [Tomt svar for 2010-tract i ACS 2023](https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06025012100) (US Census Bureau, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [Census geocoder, punkt i Imperial](https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-115.50&y=32.68&benchmark=4&vintage=4&format=json) (US Census Bureau, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+
+## Demografi
+
+Geografi: Tract 6025012100, CalEnviroScreen 4.0. Årgang: ACS 2015–2019 via OEHHA. Sammenligning: Persentil mot alle California-tract. ACS 2019–2023-andelene er ikke regnet for denne 2010-geoid-en..
+
+- [bekreftet] I tract 6025012100 er andelen med lav utdanning 43,5 prosent (persentil 92,5), språklig isolasjon 52,8 prosent (persentil 99,6), fattigdom 56,6 prosent (persentil 88,7), boligbyrde 31,8 prosent (persentil 92,9) og hispanic 98,6 prosent. Barn under 10 år er 12,6 prosent og 65 år og eldre 17,8 prosent i CalEnviroScreen-feltene. Dette er OEHHA-indikatorer, ikke de samme ACS 2019–2023-andelene som på de andre kortene.
+  - [CalEnviroScreen 4.0 tract 6025012100](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json) (OEHHA, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [CalEnviroScreen 4.0 report](https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf) (OEHHA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Helseutfall
+
+Geografi: Tract 6025012100. Årgang: CalEnviroScreen 4.0. Sammenligning: Alle California-tract. Persentil 90 er terskelen..
+
+- [bekreftet] Astma, aldersjusterte akuttmottak per 10 000 i tract 6025012100 er 60,3 (besøk). Persentilen er 69.3. Det er ikke over terskelen på persentil 90. Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.
+  - [CalEnviroScreen 4.0 tract 6025012100](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json) (OEHHA, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [CalEnviroScreen 4.0 report](https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf) (OEHHA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Lav fødselsvekt i tract 6025012100 er 4,13 (prosent). Persentilen er 29.7. Det er ikke over terskelen på persentil 90. Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.
+  - [CalEnviroScreen 4.0 tract 6025012100](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json) (OEHHA, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [CalEnviroScreen 4.0 report](https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf) (OEHHA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Hjerteinfarkt, aldersjusterte akuttmottak i tract 6025012100 er 21,1 (besøk). Persentilen er 91.0. Det er merkbart høyt. Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.
+  - [CalEnviroScreen 4.0 tract 6025012100](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json) (OEHHA, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
+  - [CalEnviroScreen 4.0 report](https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf) (OEHHA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Lenker til andre kort
 

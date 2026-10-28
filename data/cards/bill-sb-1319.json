@@ -1,0 +1,96 @@
+{
+  "id": "bill-sb-1319",
+  "type": "bill",
+  "name": "SB 1319 (2013-2014), grunnvann",
+  "summary": [
+    {
+      "id": "s1",
+      "text": "SB 1319, kapittel 348, godkjent 16. september 2014. Forfatter er Pavley. Loven endrer Water Code avsnitt 10735.2 og 10735.8.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 status",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Senatet samtykket 29. august 2014 med 24 mot 10. Forsamlingen vedtok samme dag med 48 mot 26.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Ingen åpnet lobbyfiling oppgir SB 1319.",
+      "status": "not_found",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access lobbying search",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Senatets tredje lesning 28. mai 2014 var 23 mot 12.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "title": "SB 1319 history",
+          "publisher": "Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-groundwater-overdraft",
+      "text": "Del av SGMA."
+    },
+    {
+      "rel": "lawmaker",
+      "target_id": "lawmaker-fran-pavley",
+      "text": "Forfatter."
+    }
+  ],
+  "open_questions": [
+    "Enkeltstemmen til Pavley på den endelige voteringen er ikke åpnet på votes-siden. Historikken gir tellingene."
+  ],
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "geometry": null,
+  "map_features": [],
+  "checked_empty": [],
+  "schema_version": "1.0.0"
+}

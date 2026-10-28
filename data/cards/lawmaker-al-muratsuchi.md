@@ -11,7 +11,7 @@ Type: Folkevalgt. Id: `lawmaker-al-muratsuchi`. Oppdatert: 2026-10-28.
   - [AB 1647 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Han står også som principal coauthor på SB 1137-statussiden, sammen med flere forsamlingsmedlemmer.
-  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError.
+  - [SB 1137 status](https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [ikke verifisert] Distrikt i 2026 er ikke slått opp på assembly.ca.gov.
   - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.

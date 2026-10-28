@@ -131,6 +131,107 @@
       "schema_version": "1.0.0"
     },
     {
+      "id": "bill-ab-1739",
+      "type": "bill",
+      "name": "AB 1739 (2013-2014), grunnvann",
+      "summary": [
+        {
+          "id": "s1",
+          "text": "AB 1739, kapittel 347, godkjent 16. september 2014. Forfatter er Dickinson. Pavley står som principal coauthor.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Forsamlingen samtykket i senatets endringer 29. august 2014 med 47 mot 28. Senatet vedtok 27. august 2014 med 26 mot 11.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Ingen åpnet lobbyfiling oppgir AB 1739.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access lobbying search",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Forsamlingens tredje lesning 28. mai 2014 var 48 mot 24.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "problem",
+          "target_id": "ca-problem-groundwater-overdraft",
+          "text": "Del av SGMA."
+        },
+        {
+          "rel": "lawmaker",
+          "target_id": "lawmaker-roger-dickinson",
+          "text": "Forfatter."
+        },
+        {
+          "rel": "lawmaker",
+          "target_id": "lawmaker-fran-pavley",
+          "text": "Principal coauthor."
+        }
+      ],
+      "open_questions": [
+        "Lobbyfiler fra 2014 er ikke åpnet."
+      ],
+      "state": "CA",
+      "updated": "2026-10-28",
+      "rank": null,
+      "org_kind": null,
+      "geometry": null,
+      "map_features": [],
+      "checked_empty": [],
+      "schema_version": "1.0.0"
+    },
+    {
       "id": "bill-ab-617",
       "type": "bill",
       "name": "AB 617 (2017), samfunnsovervåking av luft",
@@ -297,8 +398,8 @@
               "title": "SB 1137 status",
               "publisher": "California Legislative Counsel",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError."
+              "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         },
@@ -374,6 +475,224 @@
       "updated": "2026-10-28",
       "rank": null,
       "org_kind": null,
+      "schema_version": "1.0.0"
+    },
+    {
+      "id": "bill-sb-1168",
+      "type": "bill",
+      "name": "SB 1168 (2013-2014), grunnvann",
+      "summary": [
+        {
+          "id": "s1",
+          "text": "SB 1168, kapittel 346, godkjent 16. september 2014. Forfatter på statussiden er Pavley. Loven legger til del 2.74 i Water Code.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Senatet samtykket i forsamlingens endringer 29. august 2014 med 25 mot 10. Forsamlingen vedtok lovforslaget samme dag med 47 mot 27.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Pavley står på ja-listen i senatets samtykkevotering.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 votes",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250314163210/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Ingen Cal-Access-filing som er lest, sier at en navngitt lobbyvirksomhet oppga SB 1168. Loven er fra 2014. Skjemaene som er åpnet, er fra 2025.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access lobbying search",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Første senatsvotering 27. mai 2014 var 24 mot 12.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "problem",
+          "target_id": "ca-problem-groundwater-overdraft",
+          "text": "SGMA-rammen."
+        },
+        {
+          "rel": "lawmaker",
+          "target_id": "lawmaker-fran-pavley",
+          "text": "Forfatter."
+        },
+        {
+          "rel": "bill",
+          "target_id": "bill-ab-1739",
+          "text": "Vedtatt samme dag."
+        },
+        {
+          "rel": "bill",
+          "target_id": "bill-sb-1319",
+          "text": "Vedtatt samme dag."
+        }
+      ],
+      "open_questions": [
+        "Hvem som lobbet på SB 1168 i 2014. Det krever sesjonen 2013–2014 i Cal-Access, som ikke er åpnet."
+      ],
+      "state": "CA",
+      "updated": "2026-10-28",
+      "rank": null,
+      "org_kind": null,
+      "geometry": null,
+      "map_features": [],
+      "checked_empty": [],
+      "schema_version": "1.0.0"
+    },
+    {
+      "id": "bill-sb-1319",
+      "type": "bill",
+      "name": "SB 1319 (2013-2014), grunnvann",
+      "summary": [
+        {
+          "id": "s1",
+          "text": "SB 1319, kapittel 348, godkjent 16. september 2014. Forfatter er Pavley. Loven endrer Water Code avsnitt 10735.2 og 10735.8.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+              "title": "SB 1319 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Senatet samtykket 29. august 2014 med 24 mot 10. Forsamlingen vedtok samme dag med 48 mot 26.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+              "title": "SB 1319 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Ingen åpnet lobbyfiling oppgir SB 1319.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access lobbying search",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Senatets tredje lesning 28. mai 2014 var 23 mot 12.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+              "title": "SB 1319 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "problem",
+          "target_id": "ca-problem-groundwater-overdraft",
+          "text": "Del av SGMA."
+        },
+        {
+          "rel": "lawmaker",
+          "target_id": "lawmaker-fran-pavley",
+          "text": "Forfatter."
+        }
+      ],
+      "open_questions": [
+        "Enkeltstemmen til Pavley på den endelige voteringen er ikke åpnet på votes-siden. Historikken gir tellingene."
+      ],
+      "state": "CA",
+      "updated": "2026-10-28",
+      "rank": null,
+      "org_kind": null,
+      "geometry": null,
+      "map_features": [],
+      "checked_empty": [],
       "schema_version": "1.0.0"
     },
     {
@@ -604,6 +923,38 @@
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
+        },
+        {
+          "id": "r2-aliso-cpuc",
+          "text": "CPUC-vedtak D.24-12-076 setter største arbeidsvolum for gass i Aliso Canyon til 68,6 milliarder kubikkfot og lar anlegget fortsette, med vurdering annethvert år. Et vedtak som avslår gjenopptakelse, gjentar dette nivået. Energidivisjonens vurdering i 2025 anbefaler et kutt på 10 milliarder kubikkfot til 58,6. Den anbefalingen er ikke et nytt vedtak. SoCalGas har bedt kommisjonen avslå kuttet i sak A.26-01-009.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M569/K577/569577353.PDF",
+              "title": "Order denying rehearing of D.24-12-076",
+              "publisher": "CPUC",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+            },
+            {
+              "url": "https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/natural-gas/aliso-canyon/2025_aliso_canyon_biennial_assessment.pdf",
+              "title": "2025 Aliso Canyon biennial assessment",
+              "publisher": "CPUC Energy Division",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251119104804/https://www.cpuc.ca.gov/-/media/cpuc-website/divisions/energy-division/documents/natural-gas/aliso-canyon/2025_aliso_canyon_biennial_assessment.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M595/K083/595083702.PDF",
+              "title": "SoCalGas application on the 2025 assessment",
+              "publisher": "CPUC docket",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260120220653/https://docs.cpuc.ca.gov/PublishedDocs/Efile/G000/M595/K083/595083702.PDF",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
         }
       ],
       "geometry": {
@@ -689,7 +1040,204 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "Census tract 9203.03 rundt FRS-punktet for Aliso Canyon.",
+        "vintage": "ACS 2019–2023. Geocoder vintage 4.",
+        "comparison": "California ACS 2019–2023.",
+        "claims": [
+          {
+            "id": "r2-aliso-pop",
+            "text": "Tract 9203.03 har 1 564 innbyggere. Det er trakten punktet faller i, ikke et opptellingsområde for evakuerte.",
+            "status": "confirmed",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037920303",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163002/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037920303",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-118.55124&y=34.30757&benchmark=4&vintage=4&format=json",
+                "title": "Census geocoder for Aliso Canyon FRS point",
+                "publisher": "US Census Bureau",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163011/https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-118.55124&y=34.30757&benchmark=4&vintage=4&format=json",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "Tract 9203.03",
+        "vintage": "ACS 2019–2023",
+        "comparison": "California",
+        "claims": [
+          {
+            "id": "aliso-demo",
+            "text": "Census tract 9203.03, som geocoderen knytter til Aliso Canyon-punktet, hadde 1 564 innbyggere i ACS 2019–2023. Medianinntekten var 138 750 dollar mot 96 334 i California. Fattigdom var 6,5 prosent mot 12,0. Uten videregående var 4,7 prosent mot 15,4, og bachelor eller høyere 64,6 prosent mot 36,5. Under 5 år var 5,3 prosent mot 5,6, og 65 år og eldre 14,6 prosent mot 15,3. Språklig isolasjon var 7,5 prosent mot 8,3. Hispanic var 5,8 prosent mot 39,8, og ikke-hispanic hvit 52,2 prosent mot 34,6. Uten helseforsikring var 1,1 prosent mot 6,9.",
+            "status": "confirmed",
+            "note": "Andeler er regnet fra tabellene som beskrevet i data/ca/metoder.md.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037920303",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163002/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037920303",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06037920303",
+                "title": "ACSDT5Y2023.B19013 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163017/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06037920303",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06037920303",
+                "title": "ACSDT5Y2023.B17001 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163026/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06037920303",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06037920303",
+                "title": "ACSDT5Y2023.B15003 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163034/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06037920303",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06037920303",
+                "title": "ACSDT5Y2023.B01001 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163140/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06037920303",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06037920303",
+                "title": "ACSDT5Y2023.C16002 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163218/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06037920303",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06037920303",
+                "title": "ACSDT5Y2023.B03002 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163225/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06037920303",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06037920303",
+                "title": "ACSST5Y2023.S2701 for 1400000US06037920303",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163330/https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06037920303",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "title": "ACSDT5Y2023.B01003 for 0400000US06",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "Tract 6037920303 i CalEnviroScreen 4.0",
+        "vintage": "OEHHA 4.0",
+        "comparison": "Alle California-tract",
+        "claims": [
+          {
+            "id": "aliso-asthma",
+            "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6037920303 er 31,7 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 28.3. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037920303&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6037920303",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163518/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037920303&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "aliso-lbw",
+            "text": "Lav fødselsvekt i tract 6037920303 er 3,36 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 13.9. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037920303&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6037920303",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163518/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037920303&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "aliso-cvd",
+            "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6037920303 er 9,9 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 29.3. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037920303&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6037920303",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163518/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037920303&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-drinking-water",
@@ -757,6 +1305,30 @@
               "publisher": "State Water Resources Control Board",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-ca-problem-drinking-water-sum",
+          "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001500 er 101,7 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 93.1. Det er merkbart høyt.",
+          "status": "confirmed",
+          "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+          "sources": [
+            {
+              "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "title": "CalEnviroScreen 4.0 tract 6019001500",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+              "title": "CalEnviroScreen 4.0 report",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -1086,7 +1658,204 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "State Water Board knytter 811 964 mennesker til failing-systemene per 31.",
+        "vintage": "Folketelling 2010 der EPA er kilden, ellers ACS 2019–2023 eller etatens egen dato.",
+        "comparison": "California ACS 2019–2023 der et tract-tall er sammenlignet. Etatstallet er ikke en rate.",
+        "claims": [
+          {
+            "id": "r2-ca-problem-drinking-water-pop",
+            "text": "State Water Board knytter 811 964 mennesker til failing-systemene per 31. desember 2024. Tract 15 er et eksempel med høy drikkevannsindikator, ikke tjenesteområdet til de 390 systemene.",
+            "status": "confirmed",
+            "note": "Se også de eldre etatstallene i sammendraget.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001500",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163509/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001500",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001500",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "census tract 15 i Fresno County",
+        "vintage": "ACS 2019–2023",
+        "comparison": "Hele California, samme tabeller",
+        "claims": [
+          {
+            "id": "water-demo",
+            "text": "I census tract 15 i Fresno County (ACS 2019–2023) er folketallet 1 956, medianinntekten 59 375 dollar mot 96 334 i California, fattigdom 20,3 prosent mot 12,0, uten videregående 32,5 prosent mot 15,4, bachelor eller høyere 15,9 prosent mot 36,5, under 5 år 3,8 prosent mot 5,6, 65 år og eldre 10,6 prosent mot 15,3, språklig isolerte husholdninger 6,2 prosent mot 8,3, hispanic 70,6 prosent mot 39,8, ikke-hispanic hvit 15,3 prosent mot 34,6, svart 0,5 prosent mot 5,3, asiatisk 13,3 prosent mot 15,1, uten helseforsikring 6,8 prosent mot 6,9.",
+            "status": "confirmed",
+            "note": "Andeler er regnet fra tabellene som beskrevet i data/ca/metoder.md.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001500",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163509/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001500",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06019001500",
+                "title": "ACSDT5Y2023.B19013 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163520/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06019001500",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06019001500",
+                "title": "ACSDT5Y2023.B17001 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163528/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06019001500",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06019001500",
+                "title": "ACSDT5Y2023.B15003 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163535/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06019001500",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06019001500",
+                "title": "ACSDT5Y2023.B01001 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163637/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06019001500",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06019001500",
+                "title": "ACSDT5Y2023.C16002 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163722/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06019001500",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06019001500",
+                "title": "ACSDT5Y2023.B03002 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163726/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06019001500",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06019001500",
+                "title": "ACSST5Y2023.S2701 for 1400000US06019001500",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163736/https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06019001500",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "title": "ACSDT5Y2023.B01003 for 0400000US06",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "CalEnviroScreen 4.0 tract 6019001500",
+        "vintage": "OEHHA 4.0, helseindikatorer fra årene i rapporten",
+        "comparison": "Alle census tracts i California i CalEnviroScreen 4.0. Merkbart betyr persentil 90 eller høyere.",
+        "claims": [
+          {
+            "id": "water-asthma",
+            "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001500 er 101,7 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 93.1. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001500",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "water-lbw",
+            "text": "Lav fødselsvekt i tract 6019001500 er 4,33 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 34.4. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001500",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "water-cvd",
+            "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6019001500 er 15,9 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 71.2. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001500",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162425/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001500&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-groundwater-overdraft",
@@ -1155,6 +1924,30 @@
               "retrieved": "2026-10-28",
               "archive_url": "https://web.archive.org/web/20261028154034/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=tract,CIscore,CIscoreP,ACS2019TotalPop,pm,drink,pest&returnGeometry=true&outSR=4326&f=geojson",
               "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-ca-problem-groundwater-overdraft-sum",
+          "text": "Lav fødselsvekt i tract 6029006201 er 7,77 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 95.4. Det er merkbart høyt.",
+          "status": "confirmed",
+          "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+          "sources": [
+            {
+              "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "title": "CalEnviroScreen 4.0 tract 6029006201",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028162427/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            },
+            {
+              "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+              "title": "CalEnviroScreen 4.0 report",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -1511,6 +2304,26 @@
           "rel": "problem",
           "target_id": "ca-problem-oil-gas-proximity",
           "text": "Kern er også det største oljefylket i CalGEM-rapporten."
+        },
+        {
+          "rel": "bill",
+          "target_id": "bill-sb-1168",
+          "text": "SB 1168, en av de tre SGMA-lovene."
+        },
+        {
+          "rel": "bill",
+          "target_id": "bill-ab-1739",
+          "text": "AB 1739."
+        },
+        {
+          "rel": "bill",
+          "target_id": "bill-sb-1319",
+          "text": "SB 1319."
+        },
+        {
+          "rel": "lawmaker",
+          "target_id": "lawmaker-fran-pavley",
+          "text": "Pavley er forfatter på to av lovene."
         }
       ],
       "checked_empty": [
@@ -1549,7 +2362,204 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "DWR oppgir ikke et folketall for de kritisk overtrukne bassengene i dokumentene som er lest.",
+        "vintage": "Folketelling 2010 der EPA er kilden, ellers ACS 2019–2023 eller etatens egen dato.",
+        "comparison": "California ACS 2019–2023 der et tract-tall er sammenlignet. Etatstallet er ikke en rate.",
+        "claims": [
+          {
+            "id": "r2-ca-problem-groundwater-overdraft-pop",
+            "text": "DWR oppgir ikke et folketall for de kritisk overtrukne bassengene i dokumentene som er lest. Tract 62.01 ligger i Kern County, som har delbasseng 5-022.14, men trakten er ikke vist å ligge inni bassenget.",
+            "status": "confirmed",
+            "note": "Se også de eldre etatstallene i sammendraget.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06029006201",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163747/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06029006201",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6029006201",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162427/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "census tract 62.01 i Kern County",
+        "vintage": "ACS 2019–2023",
+        "comparison": "Hele California, samme tabeller",
+        "claims": [
+          {
+            "id": "overdraft-demo",
+            "text": "I census tract 62.01 i Kern County (ACS 2019–2023) er folketallet 2 447, medianinntekten 51 723 dollar mot 96 334 i California, fattigdom 30,2 prosent mot 12,0, uten videregående 42,3 prosent mot 15,4, bachelor eller høyere 4,8 prosent mot 36,5, under 5 år 7,5 prosent mot 5,6, 65 år og eldre 9,9 prosent mot 15,3, språklig isolerte husholdninger 9,0 prosent mot 8,3, hispanic 82,9 prosent mot 39,8, ikke-hispanic hvit 14,1 prosent mot 34,6, svart 0,0 prosent mot 5,3, asiatisk 1,4 prosent mot 15,1, uten helseforsikring 13,2 prosent mot 6,9.",
+            "status": "confirmed",
+            "note": "Andeler er regnet fra tabellene som beskrevet i data/ca/metoder.md.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06029006201",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163747/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06029006201",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06029006201",
+                "title": "ACSDT5Y2023.B19013 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028163834/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06029006201",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06029006201",
+                "title": "ACSDT5Y2023.B17001 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163945/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06029006201",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06029006201",
+                "title": "ACSDT5Y2023.B15003 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028164010/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06029006201",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06029006201",
+                "title": "ACSDT5Y2023.B01001 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028164017/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06029006201",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06029006201",
+                "title": "ACSDT5Y2023.C16002 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06029006201",
+                "title": "ACSDT5Y2023.B03002 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06029006201",
+                "title": "ACSST5Y2023.S2701 for 1400000US06029006201",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "https://web.archive.org/web/20261028164207/https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06029006201",
+                "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "title": "ACSDT5Y2023.B01003 for 0400000US06",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "CalEnviroScreen 4.0 tract 6029006201",
+        "vintage": "OEHHA 4.0, helseindikatorer fra årene i rapporten",
+        "comparison": "Alle census tracts i California i CalEnviroScreen 4.0. Merkbart betyr persentil 90 eller høyere.",
+        "claims": [
+          {
+            "id": "overdraft-asthma",
+            "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6029006201 er 77,5 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 83.6. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6029006201",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162427/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "overdraft-lbw",
+            "text": "Lav fødselsvekt i tract 6029006201 er 7,77 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 95.4. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6029006201",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162427/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "overdraft-cvd",
+            "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6029006201 er 21,7 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 92.9. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6029006201",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162427/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6029006201&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-oil-gas-proximity",
@@ -1666,8 +2676,8 @@
               "title": "SB 1137 status",
               "publisher": "California Legislative Counsel",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError."
+              "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         },
@@ -1732,6 +2742,22 @@
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-oil-wells",
+          "text": "Av brønnene merket Verified HPZ var 50 491 plugged, 2 546 canceled og 138 new, i tillegg til active og idle. Aera Energy LLC sto fortsatt som operatorName på 57 805 brønner i samme tjeneste, hvorav 1 410 active eller idle i Verified HPZ.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json",
+              "title": "WellSTAR inHPZ query",
+              "publisher": "CalGEM",
+              "retrieved": "2026-10-28",
+              "archive_url": "",
+              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
             }
           ]
         }
@@ -1813,7 +2839,100 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "Health protection zones i CalGEM WellSTAR.",
+        "vintage": "Karttjeneste lest 2026-10-28.",
+        "comparison": "Ingen folketelling innenfor 3 200 fot er publisert i dokumentene som er lest.",
+        "claims": [
+          {
+            "id": "r2-oil-wells-pop",
+            "text": "CalGEM WellSTAR hadde 74 506 brønner merket Verified HPZ da laget ble telt 28. oktober 2026. Av dem var 12 317 active og 8 987 idle.",
+            "status": "confirmed",
+            "note": "Tellingen er returnCountOnly på feltet inHPZ. Den er ikke et folketall.",
+            "sources": [
+              {
+                "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json",
+                "title": "WellSTAR count, inHPZ = Verified HPZ",
+                "publisher": "CalGEM",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              }
+            ]
+          },
+          {
+            "id": "r2-oil-people",
+            "text": "Et antall mennesker, boliger eller skoler innenfor 3 200 fot er ikke publisert i Notice to Operators 2025-03 eller i lovvarselet fra oktober 2026. Brønnkartet har heller ikke et folketall.",
+            "status": "not_found",
+            "note": "Primærkilden som mangler, er en CalGEM-tabell over sensitive receptors eller en census-kobling mot sonen.",
+            "sources": [
+              {
+                "url": "https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf",
+                "title": "Notice to Operators 2025-03",
+                "publisher": "CalGEM",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20251121084048/https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Legislative%20Notification%20-%20October%202026.pdf",
+                "title": "SB 1137 legislative notification, October 2026",
+                "publisher": "CalGEM",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "Hele helsesonen.",
+        "vintage": "Ikke hentet.",
+        "comparison": "Ikke laget, fordi sonen ikke har et folketall eller en tract-liste fra CalGEM.",
+        "claims": [
+          {
+            "id": "r2-oil-demo",
+            "text": "Demografi for alle som bor innenfor 3 200 fot er ikke regnet. Det krever en kobling mellom brønnlag og census blocks som ikke er gjort.",
+            "status": "not_found",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=inHPZ%3D%27Verified+HPZ%27&returnCountOnly=true&f=json",
+                "title": "WellSTAR wells",
+                "publisher": "CalGEM",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "Helsesonen som helhet.",
+        "vintage": "Ikke hentet fra et samlet uttrekk.",
+        "comparison": "Ikke sammenlignet med områder utenfor sonen i denne runden.",
+        "claims": [
+          {
+            "id": "r2-oil-health",
+            "text": "Et samlet helseutfall for sonen, sammenlignet med tract utenfor sonen, er ikke hentet. Lovteksten viser til studier om nærhet. Den er ikke en rate for sonen.",
+            "status": "not_found",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+                "title": "SB 1137",
+                "publisher": "Legislative Counsel",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-pesticides",
@@ -1882,6 +3001,30 @@
               "retrieved": "2026-10-28",
               "archive_url": "https://web.archive.org/web/20261028154034/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=tract,CIscore,CIscoreP,ACS2019TotalPop,pm,drink,pest&returnGeometry=true&outSR=4326&f=geojson",
               "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-ca-problem-pesticides-sum",
+          "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001000 er 139,3 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 98.2. Det er merkbart høyt.",
+          "status": "confirmed",
+          "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+          "sources": [
+            {
+              "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "title": "CalEnviroScreen 4.0 tract 6019001000",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028162444/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            },
+            {
+              "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+              "title": "CalEnviroScreen 4.0 report",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -2072,7 +3215,204 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "DPR publiserer pund per fylke, ikke et folketall for eksponerte.",
+        "vintage": "Folketelling 2010 der EPA er kilden, ellers ACS 2019–2023 eller etatens egen dato.",
+        "comparison": "California ACS 2019–2023 der et tract-tall er sammenlignet. Etatstallet er ikke en rate.",
+        "claims": [
+          {
+            "id": "r2-ca-problem-pesticides-pop",
+            "text": "DPR publiserer pund per fylke, ikke et folketall for eksponerte. Tract 10 er et eksempel med høy pesticidindikator i Fresno.",
+            "status": "confirmed",
+            "note": "Se også de eldre etatstallene i sammendraget.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001000",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001000",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162444/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "census tract 10 i Fresno County",
+        "vintage": "ACS 2019–2023",
+        "comparison": "Hele California, samme tabeller",
+        "claims": [
+          {
+            "id": "pesticides-demo",
+            "text": "I census tract 10 i Fresno County (ACS 2019–2023) er folketallet 4 714, medianinntekten 29 581 dollar mot 96 334 i California, fattigdom 44,5 prosent mot 12,0, uten videregående 49,0 prosent mot 15,4, bachelor eller høyere 6,4 prosent mot 36,5, under 5 år 8,3 prosent mot 5,6, 65 år og eldre 10,3 prosent mot 15,3, språklig isolerte husholdninger 12,4 prosent mot 8,3, hispanic 64,0 prosent mot 39,8, ikke-hispanic hvit 2,9 prosent mot 34,6, svart 16,1 prosent mot 5,3, asiatisk 12,9 prosent mot 15,1, uten helseforsikring 5,0 prosent mot 6,9.",
+            "status": "confirmed",
+            "note": "Andeler er regnet fra tabellene som beskrevet i data/ca/metoder.md.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001000",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06019001000",
+                "title": "ACSDT5Y2023.B19013 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06019001000",
+                "title": "ACSDT5Y2023.B17001 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06019001000",
+                "title": "ACSDT5Y2023.B15003 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06019001000",
+                "title": "ACSDT5Y2023.B01001 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06019001000",
+                "title": "ACSDT5Y2023.C16002 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06019001000",
+                "title": "ACSDT5Y2023.B03002 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06019001000",
+                "title": "ACSST5Y2023.S2701 for 1400000US06019001000",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "title": "ACSDT5Y2023.B01003 for 0400000US06",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "CalEnviroScreen 4.0 tract 6019001000",
+        "vintage": "OEHHA 4.0, helseindikatorer fra årene i rapporten",
+        "comparison": "Alle census tracts i California i CalEnviroScreen 4.0. Merkbart betyr persentil 90 eller høyere.",
+        "claims": [
+          {
+            "id": "pesticides-asthma",
+            "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001000 er 139,3 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 98.2. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001000",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162444/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "pesticides-lbw",
+            "text": "Lav fødselsvekt i tract 6019001000 er 8,76 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 98.4. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001000",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162444/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "pesticides-cvd",
+            "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6019001000 er 22,7 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 94.6. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001000",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162444/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-pfas",
@@ -2226,7 +3566,92 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "Brønner i disadvantaged communities i General Order DW-2024-0002-DDW.",
+        "vintage": "2024–2025 etatsdokumenter.",
+        "comparison": "Ikke ett tjenesteområde.",
+        "claims": [
+          {
+            "id": "r2-pfas-pop",
+            "text": "Dokumentene bruker avrundede planleggingsanslag, ikke én ferdig telling. Pressemeldingen 1. april 2024 sier nearly 4 000 brønner og at 1 190 vannsystemer fikk varsel. Kvalitetsplanen fra september 2024 og juni 2025 sier approximately 3 800 brønner. Programsiden sier about 3 600. Junidokumentet skriver at tallet kan endres etter at pålegget er sendt, fordi systemer kan legges til eller tas ut. Derfor er 3 600 og 3 800 ikke to konkurrerende fasit-tall.",
+            "status": "confirmed",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://www.waterboards.ca.gov/press_room/press_releases/2024/pr20240401-final-pfas-testing.html",
+                "title": "PFAS testing press release, 1. april 2024",
+                "publisher": "State Water Board",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://www.waterboards.ca.gov/pfas/drinking_water.html",
+                "title": "PFAS drinking water page",
+                "publisher": "State Water Board",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261016194002/https://www.waterboards.ca.gov/pfas/drinking_water.html",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://pfas.owp.csus.edu/pdfs/QAPP_06.30.2025.pdf",
+                "title": "PFAS QAPP, juni 2025",
+                "publisher": "State Water Board",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "De om lag 3 600–3 800 brønnene.",
+        "vintage": "Ikke ett tract.",
+        "comparison": "Ikke regnet.",
+        "claims": [
+          {
+            "id": "r2-pfas-demo",
+            "text": "Det er ikke laget et befolkningsvektet demografisk snitt for brønnene på pålegget. Exhibit A med kildelisten er ikke telt rad for rad.",
+            "status": "not_found",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas_ddw_general_order/",
+                "title": "PFAS general order page",
+                "publisher": "State Water Board",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260912085108/https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas_ddw_general_order/",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "Området som dekkes av pålegget.",
+        "vintage": "Ikke hentet.",
+        "comparison": "Ikke sammenlignet.",
+        "claims": [
+          {
+            "id": "r2-pfas-health",
+            "text": "Et helseutfall for folk som får vann fra brønnene med PFAS-funn, sammenlignet med systemer uten funn, er ikke hentet.",
+            "status": "not_found",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://www.waterboards.ca.gov/pfas/drinking_water.html",
+                "title": "PFAS drinking water",
+                "publisher": "State Water Board",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261016194002/https://www.waterboards.ca.gov/pfas/drinking_water.html",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-refineries",
@@ -2277,8 +3702,8 @@
               "title": "ECHO facility info, registry 110002899908",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+              "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         },
@@ -2376,6 +3801,30 @@
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-ref-ops",
+          "text": "EPA skriver i et vedtak 7. januar 2025 at Torrance-raffineriet drives av Torrance Refining Company, LLC, at PBF Energy kjøpte det i 2016, og at South Coast AQMD utstedte fornyet title V-tillatelse 30. mai 2024. Phillips 66 kunngjorde 16. oktober 2024 at Los Angeles-raffineriet, med anlegg i Wilmington og Carson, skulle stanse driften i fjerde kvartal 2025.",
+          "status": "confirmed",
+          "note": "Phillips 66-teksten er selskapets kunngjøring om en plan. Et senere etatsdokument som bekrefter at driften faktisk stoppet, er ikke åpnet.",
+          "sources": [
+            {
+              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "title": "EPA order on Torrance title V permit",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+              "title": "Phillips 66 notice, 16. oktober 2024",
+              "publisher": "Phillips 66",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -2545,7 +3994,100 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "Census tracts som anleggspunktene faller i.",
+        "vintage": "ACS 2019–2023 og Census geocoder vintage 4.",
+        "comparison": "Ikke et nabolag. 9800-trakter er ofte anleggsareal.",
+        "claims": [
+          {
+            "id": "r2-ref-pop",
+            "text": "Geocoderen legger Chevron El Segundo i tract 9800.30 med 0 innbyggere, Torrance i tract 9800.05 med 0 innbyggere, og Phillips 66 Wilmington i tract 9800.31 med 970 innbyggere. Medianinntekt er ikke publisert for disse tractene (verdi -666666666 i B19013). De er ikke brukt som portrett av nabolagene ved gjerdet.",
+            "status": "confirmed",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-118.41873&y=33.916216&benchmark=4&vintage=4&format=json",
+                "title": "Geocoder El Segundo",
+                "publisher": "US Census Bureau",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037980030",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06037980030",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037980005",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06037980005",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037980031",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06037980031",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "Nabolag ved gjerdet.",
+        "vintage": "Ikke avgrenset.",
+        "comparison": "Ikke regnet.",
+        "claims": [
+          {
+            "id": "r2-ref-demo",
+            "text": "Demografi for boliger innenfor en satt avstand fra raffinerigjerdet er ikke regnet. Anleggstractene har ikke et brukbart befolkningsgrunnlag.",
+            "status": "not_found",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037980030",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06037980030",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "Nabolag ved gjerdet.",
+        "vintage": "Ikke hentet.",
+        "comparison": "Ikke sammenlignet.",
+        "claims": [
+          {
+            "id": "r2-ref-health",
+            "text": "Helseutfall for et avgrenset nabolag ved hvert raffineri er ikke hentet i denne runden.",
+            "status": "not_found",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+                "title": "EPA title V order, Torrance, 7. januar 2025",
+                "publisher": "US EPA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-salton-sea",
@@ -2672,6 +4214,30 @@
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-salton-playa",
+          "text": "SSMP-årsrapporten for 2025 sier at faktisk blotlagt areal i 2024 var om lag 20 000 acre mindre enn anslaget fra 2018, fordi tilsiget var høyere enn modellene. Den gir ikke ett tall for samlet blotlagt playa. En egen IID-rapport om utslipp sier at eksponert playa økte fra 33 311 acre ved utgangen av 2023 til 37 804 acre ved utgangen av 2024, målt med satellitt og USGS-vannstand.",
+          "status": "confirmed",
+          "note": "De to tallene er ikke samme mål. 20 000 acre er et avvik fra en prognose. 37 804 acre er IIDs areal mellom strandlinjen i 2002 og strandlinjen i 2024.",
+          "sources": [
+            {
+              "url": "https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
+              "title": "2025 SSMP annual report",
+              "publisher": "California Natural Resources Agency",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525074045/https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://saltonseaprogram.com/documents/2024_2025_Annual_Report_and_Emissions_Estimates.pdf",
+              "title": "Salton Sea Emissions Monitoring Program 2024/2025",
+              "publisher": "Imperial Irrigation District",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028162548/https://saltonseaprogram.com/documents/2024_2025_Annual_Report_and_Emissions_Estimates.pdf",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -2838,7 +4404,164 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "Imperial County i EPA Green Book, pluss census tract 012100 i CalEnviroScreen.",
+        "vintage": "Folketelling 2010 for fylket. ACS 2015–2019 i CalEnviroScreen for trakten.",
+        "comparison": "California-tract i CalEnviroScreen. ACS 2019–2023 for geoid 06025012100 svarte tomt.",
+        "claims": [
+          {
+            "id": "r2-salton-pop",
+            "text": "EPA fører 154 061 mennesker (2010) i Imperial County for PM2.5. CalEnviroScreen-tract 6025012100 har 6 779 innbyggere i ACS 2015–2019. data.census.gov returnerte tomt svar for ACS 2019–2023 på geoid 1400000US06025012100. Et punkt i området treffer 2020-tract 121.02, som er en annen geografi.",
+            "status": "confirmed",
+            "note": "",
+            "sources": [
+              {
+                "url": "https://www3.epa.gov/airquality/greenbook/rncl2.html",
+                "title": "PM-2.5 Green Book",
+                "publisher": "US EPA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6025012100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06025012100",
+                "title": "Tomt svar for 2010-tract i ACS 2023",
+                "publisher": "US Census Bureau",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://geocoding.geo.census.gov/geocoder/geographies/coordinates?x=-115.50&y=32.68&benchmark=4&vintage=4&format=json",
+                "title": "Census geocoder, punkt i Imperial",
+                "publisher": "US Census Bureau",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "Tract 6025012100, CalEnviroScreen 4.0",
+        "vintage": "ACS 2015–2019 via OEHHA",
+        "comparison": "Persentil mot alle California-tract. ACS 2019–2023-andelene er ikke regnet for denne 2010-geoid-en.",
+        "claims": [
+          {
+            "id": "r2-salton-demo",
+            "text": "I tract 6025012100 er andelen med lav utdanning 43,5 prosent (persentil 92,5), språklig isolasjon 52,8 prosent (persentil 99,6), fattigdom 56,6 prosent (persentil 88,7), boligbyrde 31,8 prosent (persentil 92,9) og hispanic 98,6 prosent. Barn under 10 år er 12,6 prosent og 65 år og eldre 17,8 prosent i CalEnviroScreen-feltene.",
+            "status": "confirmed",
+            "note": "Dette er OEHHA-indikatorer, ikke de samme ACS 2019–2023-andelene som på de andre kortene.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6025012100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "Tract 6025012100",
+        "vintage": "CalEnviroScreen 4.0",
+        "comparison": "Alle California-tract. Persentil 90 er terskelen.",
+        "claims": [
+          {
+            "id": "salton-asthma",
+            "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6025012100 er 60,3 (besøk). Persentilen er 69.3. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6025012100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "salton-lbw",
+            "text": "Lav fødselsvekt i tract 6025012100 er 4,13 (prosent). Persentilen er 29.7. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6025012100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "salton-cvd",
+            "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6025012100 er 21,1 (besøk). Persentilen er 91.0. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6025012100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6025012100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-san-joaquin-air",
@@ -2873,8 +4596,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         },
@@ -2917,6 +4640,30 @@
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
+        },
+        {
+          "id": "r2-ca-problem-san-joaquin-air-sum",
+          "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001100 er 129,5 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 97.2. Det er merkbart høyt.",
+          "status": "confirmed",
+          "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+          "sources": [
+            {
+              "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "title": "CalEnviroScreen 4.0 tract 6019001100",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028162619/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            },
+            {
+              "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+              "title": "CalEnviroScreen 4.0 report",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
         }
       ],
       "claims": [
@@ -2931,8 +4678,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         },
@@ -2947,8 +4694,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         },
@@ -2987,8 +4734,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -3262,7 +5009,204 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "EPA knytter 3 842 165 mennesker (folketelling 2010) til San Joaquin Valley-området for PM2.",
+        "vintage": "Folketelling 2010 der EPA er kilden, ellers ACS 2019–2023 eller etatens egen dato.",
+        "comparison": "California ACS 2019–2023 der et tract-tall er sammenlignet. Etatstallet er ikke en rate.",
+        "claims": [
+          {
+            "id": "r2-ca-problem-san-joaquin-air-pop",
+            "text": "EPA knytter 3 842 165 mennesker (folketelling 2010) til San Joaquin Valley-området for PM2.5. Tract-tallet er ett boligområde i Fresno.",
+            "status": "confirmed",
+            "note": "Se også de eldre etatstallene i sammendraget.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001100",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162619/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "census tract 11 i Fresno County",
+        "vintage": "ACS 2019–2023",
+        "comparison": "Hele California, samme tabeller",
+        "claims": [
+          {
+            "id": "air-demo",
+            "text": "I census tract 11 i Fresno County (ACS 2019–2023) er folketallet 3 200, medianinntekten 32 647 dollar mot 96 334 i California, fattigdom 41,5 prosent mot 12,0, uten videregående 50,7 prosent mot 15,4, bachelor eller høyere 4,2 prosent mot 36,5, under 5 år 8,1 prosent mot 5,6, 65 år og eldre 9,3 prosent mot 15,3, språklig isolerte husholdninger 19,1 prosent mot 8,3, hispanic 80,7 prosent mot 39,8, ikke-hispanic hvit 2,1 prosent mot 34,6, svart 13,7 prosent mot 5,3, asiatisk 0,1 prosent mot 15,1, uten helseforsikring 9,3 prosent mot 6,9.",
+            "status": "confirmed",
+            "note": "Andeler er regnet fra tabellene som beskrevet i data/ca/metoder.md.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06019001100",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06019001100",
+                "title": "ACSDT5Y2023.B19013 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06019001100",
+                "title": "ACSDT5Y2023.B17001 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06019001100",
+                "title": "ACSDT5Y2023.B15003 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06019001100",
+                "title": "ACSDT5Y2023.B01001 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06019001100",
+                "title": "ACSDT5Y2023.C16002 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06019001100",
+                "title": "ACSDT5Y2023.B03002 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06019001100",
+                "title": "ACSST5Y2023.S2701 for 1400000US06019001100",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "title": "ACSDT5Y2023.B01003 for 0400000US06",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "CalEnviroScreen 4.0 tract 6019001100",
+        "vintage": "OEHHA 4.0, helseindikatorer fra årene i rapporten",
+        "comparison": "Alle census tracts i California i CalEnviroScreen 4.0. Merkbart betyr persentil 90 eller høyere.",
+        "claims": [
+          {
+            "id": "air-asthma",
+            "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001100 er 129,5 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 97.2. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162619/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "air-lbw",
+            "text": "Lav fødselsvekt i tract 6019001100 er 7,80 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 95.6. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162619/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "air-cvd",
+            "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6019001100 er 21,5 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 92.2. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6019001100",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162619/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001100&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "ca-problem-south-coast-air",
@@ -3338,6 +5282,30 @@
               "publisher": "OEHHA",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20261019155738/https://oehha.ca.gov/calenviroscreen/report/calenviroscreen-40",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-ca-problem-south-coast-air-sum",
+          "text": "Lav fødselsvekt i tract 6037204920 er 7,11 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 90.9. Det er merkbart høyt.",
+          "status": "confirmed",
+          "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+          "sources": [
+            {
+              "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "title": "CalEnviroScreen 4.0 tract 6037204920",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            },
+            {
+              "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+              "title": "CalEnviroScreen 4.0 report",
+              "publisher": "OEHHA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -3553,7 +5521,204 @@
       "state": "CA",
       "updated": "2026-10-28",
       "org_kind": null,
-      "schema_version": "1.0.0"
+      "schema_version": "1.0.0",
+      "population": {
+        "geography": "EPA knytter 15 716 242 mennesker (folketelling 2010) til Los Angeles-South Coast Air Basin.",
+        "vintage": "Folketelling 2010 der EPA er kilden, ellers ACS 2019–2023 eller etatens egen dato.",
+        "comparison": "California ACS 2019–2023 der et tract-tall er sammenlignet. Etatstallet er ikke en rate.",
+        "claims": [
+          {
+            "id": "r2-ca-problem-south-coast-air-pop",
+            "text": "EPA knytter 15 716 242 mennesker (folketelling 2010) til Los Angeles-South Coast Air Basin. Tract-tallet er ett boligområde, ikke bassenget.",
+            "status": "confirmed",
+            "note": "Se også de eldre etatstallene i sammendraget.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037204920",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6037204920",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "demographics": {
+        "geography": "census tract 2049.20 i Los Angeles County",
+        "vintage": "ACS 2019–2023",
+        "comparison": "Hele California, samme tabeller",
+        "claims": [
+          {
+            "id": "air-demo",
+            "text": "I census tract 2049.20 i Los Angeles County (ACS 2019–2023) er folketallet 2 459, medianinntekten 70 500 dollar mot 96 334 i California, fattigdom 15,1 prosent mot 12,0, uten videregående 49,2 prosent mot 15,4, bachelor eller høyere 7,1 prosent mot 36,5, under 5 år 5,4 prosent mot 5,6, 65 år og eldre 16,5 prosent mot 15,3, språklig isolerte husholdninger 17,1 prosent mot 8,3, hispanic 94,8 prosent mot 39,8, ikke-hispanic hvit 2,8 prosent mot 34,6, svart 2,0 prosent mot 5,3, asiatisk 0,0 prosent mot 15,1, uten helseforsikring 10,5 prosent mot 6,9.",
+            "status": "confirmed",
+            "note": "Andeler er regnet fra tabellene som beskrevet i data/ca/metoder.md.",
+            "sources": [
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=1400000US06037204920",
+                "title": "ACSDT5Y2023.B01003 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B19013&g=1400000US06037204920",
+                "title": "ACSDT5Y2023.B19013 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B17001&g=1400000US06037204920",
+                "title": "ACSDT5Y2023.B17001 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B15003&g=1400000US06037204920",
+                "title": "ACSDT5Y2023.B15003 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01001&g=1400000US06037204920",
+                "title": "ACSDT5Y2023.B01001 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.C16002&g=1400000US06037204920",
+                "title": "ACSDT5Y2023.C16002 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B03002&g=1400000US06037204920",
+                "title": "ACSDT5Y2023.B03002 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSST5Y2023.S2701&g=1400000US06037204920",
+                "title": "ACSST5Y2023.S2701 for 1400000US06037204920",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "",
+                "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+              },
+              {
+                "url": "https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "title": "ACSDT5Y2023.B01003 for 0400000US06",
+                "publisher": "US Census Bureau ACS 2019-2023",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028163432/https://data.census.gov/api/access/data/table?id=ACSDT5Y2023.B01003&g=0400000US06",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      },
+      "health_outcomes": {
+        "geography": "CalEnviroScreen 4.0 tract 6037204920",
+        "vintage": "OEHHA 4.0, helseindikatorer fra årene i rapporten",
+        "comparison": "Alle census tracts i California i CalEnviroScreen 4.0. Merkbart betyr persentil 90 eller høyere.",
+        "claims": [
+          {
+            "id": "air-asthma",
+            "text": "Astma, aldersjusterte akuttmottak per 10 000 i tract 6037204920 er 76,1 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 82.8. Det er ikke over terskelen på persentil 90.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6037204920",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "air-lbw",
+            "text": "Lav fødselsvekt i tract 6037204920 er 7,11 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 90.9. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6037204920",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          },
+          {
+            "id": "air-cvd",
+            "text": "Hjerteinfarkt, aldersjusterte akuttmottak i tract 6037204920 er 20,9 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 90.2. Det er merkbart høyt.",
+            "status": "confirmed",
+            "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt eller røyking. CalEnviroScreen-persentilen er mot alle tract i California.",
+            "sources": [
+              {
+                "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "title": "CalEnviroScreen 4.0 tract 6037204920",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20261028162639/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6037204920&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              },
+              {
+                "url": "https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "title": "CalEnviroScreen 4.0 report",
+                "publisher": "OEHHA",
+                "retrieved": "2026-10-28",
+                "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+                "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+              }
+            ]
+          }
+        ]
+      }
     },
     {
       "id": "firm-carpenter-garcia-sievers",
@@ -3631,6 +5796,22 @@
               "retrieved": "2026-10-28",
               "archive_url": "https://web.archive.org/web/20260703125215/https://cal-access.sos.ca.gov/Lobbying/Employers/Detail.aspx?view=activity&id=1147195&session=2025",
               "archive_note": "Wayback-øyeblikksbilde 2026-07-03 av aktivitetssiden."
+            }
+          ]
+        },
+        {
+          "id": "r2-firm-clients",
+          "text": "LobbyFirmsDetail for sesjonen 2025–2026 viser firmaets kvartalsvise innbetalinger, ikke navn på oppdragsgivere. Andre klienter enn WSPA, og om noen av dem er miljø- eller klimaorganisasjoner, er derfor ikke dokumentert fra denne siden.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx",
+              "title": "Cal-Access lobbying firm search, session 2025-2026",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260106185656/https://dbsearch.sos.ca.gov/LobbyFirmsSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -4015,8 +6196,8 @@
               "title": "SB 1137 status",
               "publisher": "California Legislative Counsel",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError."
+              "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         },
@@ -4331,6 +6512,141 @@
       "schema_version": "1.0.0"
     },
     {
+      "id": "lawmaker-fran-pavley",
+      "type": "lawmaker",
+      "name": "Fran Pavley",
+      "summary": [
+        {
+          "id": "s1",
+          "text": "Statussiden for SB 1168 og SB 1319 oppgir Pavley som lead author.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+              "title": "SB 1319 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "På AB 1739 står hun som principal coauthor.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "På votes-siden for SB 1168 står hun på ja-listen i samtykkevotoeringen 29. august 2014.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 votes",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250314163210/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s4",
+          "text": "Distrikt er ikke slått opp. Hun er med som forfatter i 2014, ikke som sittende senator i 2026.",
+          "status": "not_verified",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Ingen biografi er hentet.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "bill",
+          "target_id": "bill-sb-1168",
+          "text": "Forfatter."
+        },
+        {
+          "rel": "bill",
+          "target_id": "bill-sb-1319",
+          "text": "Forfatter."
+        },
+        {
+          "rel": "bill",
+          "target_id": "bill-ab-1739",
+          "text": "Principal coauthor."
+        }
+      ],
+      "checked_empty": [
+        {
+          "field": "district",
+          "searched": "Senatets nåværende medlemsliste er ikke brukt til å gjette et distrikt fra 2014.",
+          "result": "not_found",
+          "urls": [
+            "https://www.senate.ca.gov/senators"
+          ],
+          "retrieved": "2026-10-28"
+        }
+      ],
+      "open_questions": [
+        "Offisielt distrikt i 2014."
+      ],
+      "state": "CA",
+      "updated": "2026-10-28",
+      "rank": null,
+      "org_kind": null,
+      "geometry": null,
+      "map_features": [],
+      "schema_version": "1.0.0"
+    },
+    {
       "id": "lawmaker-lena-gonzalez",
       "type": "lawmaker",
       "name": "Lena A. Gonzalez",
@@ -4378,8 +6694,8 @@
               "title": "SB 1137 status",
               "publisher": "California Legislative Counsel",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: HTTPError."
+              "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         },
@@ -4450,6 +6766,107 @@
       "updated": "2026-10-28",
       "rank": null,
       "org_kind": null,
+      "schema_version": "1.0.0"
+    },
+    {
+      "id": "lawmaker-roger-dickinson",
+      "type": "lawmaker",
+      "name": "Roger Dickinson",
+      "summary": [
+        {
+          "id": "s1",
+          "text": "Statussiden for AB 1739 oppgir Dickinson som lead author.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s2",
+          "text": "Forsamlingen vedtok loven 29. august 2014 med 47 mot 28. Hans egen stemme er ikke lest av fra en votes-side.",
+          "status": "not_verified",
+          "note": "billVotesClient for AB 1739 er ikke åpnet.",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "s3",
+          "text": "Distrikt i 2014 er ikke slått opp.",
+          "status": "not_verified",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Historikklinjen for SB 1168 sier at tredje lesning i forsamlingen ble lagt frem av Dickinson. Det er en prosedyrelinje.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "links": [
+        {
+          "rel": "bill",
+          "target_id": "bill-ab-1739",
+          "text": "Forfatter."
+        }
+      ],
+      "checked_empty": [
+        {
+          "field": "district",
+          "searched": "assembly.ca.gov er ikke åpnet for 2014-distriktet.",
+          "result": "not_found",
+          "urls": [
+            "https://www.assembly.ca.gov/"
+          ],
+          "retrieved": "2026-10-28"
+        }
+      ],
+      "open_questions": [
+        "Hans stemme på den endelige voteringen."
+      ],
+      "state": "CA",
+      "updated": "2026-10-28",
+      "rank": null,
+      "org_kind": null,
+      "geometry": null,
+      "map_features": [],
       "schema_version": "1.0.0"
     },
     {
@@ -4674,8 +7091,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         },
@@ -4724,8 +7141,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -4831,8 +7248,8 @@
               "title": "ECHO facility info, registry 110002899908",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+              "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             },
             {
               "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
@@ -4857,8 +7274,40 @@
               "title": "ECHO facility info, registry 110002899908",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-chev-recip",
+          "text": "For selskapsstrenger i San Ramon der detaljsiden traff sammendragstotalen, unntatt en streng på 400 000 dollar som ikke traff, er summen 6 777 900 dollar. Største mottaker er Coalition to Restore California's Middle Class ID 1365275 med 3 784 000 dollar. Deretter Becerra for Governor 2026 ID 1490885 med 500 000 dollar, to varianter av Keeping Californians Working med 350 000 og 300 000 dollar, Legislative Action PAC ID 1481714 med 325 000 dollar og Committee for Industrial Safety ID 990741 med 325 000 dollar. Dublin Chevron, La Cienega Chevron, Yuba City Chevron og Murrieta er holdt utenfor.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "title": "Cal-Access contributor detail for Chevron name strings",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-chev-fec",
+          "text": "FEC schedule A for toårsperioden 2026, søk på bidragsyternavn CHEVRON, ga 326 treff. De største på første side sortert etter beløp var 2 000 000 dollar fra Chevron Corporation til SLF PAC 26. februar 2026, og to innbetalinger på 750 000 dollar til samme komité 23. juni og 20. august 2025. Samme søk med navnet CALIFORNIA RESOURCES ga 0 treff.",
+          "status": "confirmed",
+          "note": "URL-en krever en gratis FEC-nøkkel. DEMO_KEY virket 2026-10-28. Tallet 326 er pagineringens count, ikke en sum av dollar.",
+          "sources": [
+            {
+              "url": "https://api.open.fec.gov/v1/schedules/schedule_a/?contributor_name=CHEVRON&two_year_transaction_period=2026&per_page=20&sort=-contribution_receipt_amount",
+              "title": "FEC schedule A, contributor_name CHEVRON, cycle 2026",
+              "publisher": "FEC",
+              "retrieved": "2026-10-28",
               "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
             }
           ]
         }
@@ -5238,6 +7687,38 @@
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
+        },
+        {
+          "id": "r2-crc-merger",
+          "text": "CRC skrev i skjema 8-K, med tidligste hendelse 28. juni 2024 og innlevert 1. juli 2024, at sammenslåingen med Aera Energy, LLC var fullført 1. juli 2024, og at Aera og Aera Energy Services Company da var heleide datterselskaper. CRC utstedte 21 315 707 aksjer til selgerne.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm",
+              "title": "CRC Form 8-K, 1. juli 2024",
+              "publisher": "SEC",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250719061228/https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-crc-recip",
+          "text": "For navnestrenger uten personnavn i parentes, der detaljsiden summerte til samme total som sammendraget, var de største mottakerne i perioden 1. januar 2025–28. oktober 2026 Coalition to Restore California's Middle Class ID 1365275 med 1 500 000 dollar, Yes on 45 ID 1484853 med 500 000 dollar, og Californians for Central Valley Public Safety med 330 000 dollar. Strengen for Los Angeles på 125 000 dollar er utelatt fordi detaljlisten ikke summerte til sammendraget.",
+          "status": "confirmed",
+          "note": "Mottakerbeløpene er summert bare innenfor navnestrenger der linjene traff sammendragstotalen. Se data/ca/metoder.md er ikke brukt her. Metoden er beskrevet i kortets note.",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "title": "Cal-Access contributor search, California Resources Corporation",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
         }
       ],
       "geometry": null,
@@ -5418,8 +7899,8 @@
               "title": "i08 CriticallyOverdraftedBasins",
               "publisher": "data.ca.gov",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+              "archive_url": "http://web.archive.org/web/20250214075746/https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -5501,8 +7982,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         },
@@ -5517,8 +7998,8 @@
               "title": "ECHO facility info, registry 110002899908",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+              "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             },
             {
               "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
@@ -5839,8 +8320,8 @@
               "title": "FRS-søk MARATHON LOS ANGELES",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "http://web.archive.org/web/20261028154604/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=MARATHON%20LOS%20ANGELES&state_abbr=CA&output=JSON",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -6069,6 +8550,22 @@
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
+        },
+        {
+          "id": "r2-pbf-own",
+          "text": "EPA skriver 7. januar 2025 at Torrance-raffineriet ble kjøpt av PBF Energy i 2016 og drives av Torrance Refining Company, LLC.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "title": "EPA title V order, Torrance",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
         }
       ],
       "geometry": null,
@@ -6187,6 +8684,22 @@
               "retrieved": "2026-10-28",
               "archive_url": "https://web.archive.org/web/20261028154209/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON",
               "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-psx-close",
+          "text": "Phillips 66 kunngjorde 16. oktober 2024 at Los Angeles-raffineriet, med tomter i Wilmington og Carson, skulle stanse driften i fjerde kvartal 2025. Om stansen var gjennomført per 28. oktober 2026, er ikke bekreftet i et etatsdokument i denne runden.",
+          "status": "confirmed",
+          "note": "Bekreftet er kunngjøringen. Faktisk stans er åpen.",
+          "sources": [
+            {
+              "url": "https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+              "title": "Phillips 66 notice of plan to cease operations",
+              "publisher": "Phillips 66",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -6510,8 +9023,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         },
@@ -6526,8 +9039,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         },
@@ -6542,8 +9055,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -6560,8 +9073,8 @@
               "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
               "publisher": "US EPA",
               "retrieved": "2026-10-28",
-              "archive_url": "",
-              "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -6774,6 +9287,22 @@
               "retrieved": "2026-10-28",
               "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
               "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-torr-op",
+          "text": "Samme EPA-vedtak sier at selskapet er operatør, og at South Coast AQMD utstedte fornyet title V-tillatelse 30. mai 2024 for facility ID 181667.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "title": "EPA title V order, Torrance",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }

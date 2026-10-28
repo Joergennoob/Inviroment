@@ -21,6 +21,12 @@ Type: Organisasjon. Id: `org-crc`. Oppdatert: 2026-10-28.
 - [bekreftet] CalGEM fører California Resources Elk Hills, LLC med 8 032 105,72 dollar i vurderingsbetalinger i 2023, og California Resources Production Corporation med 4 094 062,91 dollar.
   - [Annual Report of the State Oil and Gas Supervisor 2023](https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
+- [bekreftet] CRC skrev i skjema 8-K, med tidligste hendelse 28. juni 2024 og innlevert 1. juli 2024, at sammenslåingen med Aera Energy, LLC var fullført 1. juli 2024, og at Aera og Aera Energy Services Company da var heleide datterselskaper. CRC utstedte 21 315 707 aksjer til selgerne.
+  - [CRC Form 8-K, 1. juli 2024](https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm) (SEC, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250719061228/https://www.sec.gov/Archives/edgar/data/1609253/000119312524173343/d845209d8k.htm. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] For navnestrenger uten personnavn i parentes, der detaljsiden summerte til samme total som sammendraget, var de største mottakerne i perioden 1. januar 2025–28. oktober 2026 Coalition to Restore California's Middle Class ID 1365275 med 1 500 000 dollar, Yes on 45 ID 1484853 med 500 000 dollar, og Californians for Central Valley Public Safety med 330 000 dollar. Strengen for Los Angeles på 125 000 dollar er utelatt fordi detaljlisten ikke summerte til sammendraget. Mottakerbeløpene er summert bare innenfor navnestrenger der linjene traff sammendragstotalen. Se data/ca/metoder.md er ikke brukt her. Metoden er beskrevet i kortets note.
+  - [Cal-Access contributor search, California Resources Corporation](https://dbsearch.sos.ca.gov/ContributorSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250808161221/https://dbsearch.sos.ca.gov/ContributorSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 ## Lenker til andre kort
 
 - Produksjon og lobby. (`ca-problem-oil-gas-proximity`)

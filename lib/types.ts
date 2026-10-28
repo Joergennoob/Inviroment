@@ -49,6 +49,16 @@ export type Card = {
     retrieved: string;
   }[];
   open_questions: string[];
+  population?: AreaBlock;
+  demographics?: AreaBlock;
+  health_outcomes?: AreaBlock;
+};
+
+export type AreaBlock = {
+  geography: string;
+  vintage: string;
+  comparison: string;
+  claims: Claim[];
 };
 
 export type Bundle = { cards: Card[] };

@@ -21,6 +21,9 @@ Type: Organisasjon. Id: `org-phillips66`. Oppdatert: 2026-10-28.
 - [bekreftet] Et annet FRS-treff i samme søk er en marine terminal, registry 110000607371. Den er ikke brukt som hovedpunkt.
   - [FRS facility PHILLIPS 66 COMPANY WILMINGTON PLANT](https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON) (US EPA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028154209/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
 
+- [bekreftet] Phillips 66 kunngjorde 16. oktober 2024 at Los Angeles-raffineriet, med tomter i Wilmington og Carson, skulle stanse driften i fjerde kvartal 2025. Om stansen var gjennomført per 28. oktober 2026, er ikke bekreftet i et etatsdokument i denne runden. Bekreftet er kunngjøringen. Faktisk stans er åpen.
+  - [Phillips 66 notice of plan to cease operations](https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx) (Phillips 66, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 ## Kilde for plassering
 
 Punktet er Latitude83/Longitude83 for PHILLIPS 66 COMPANY WILMINGTON PLANT, registry id 110000476235, 1660 W Anaheim Street. Kilde: US EPA FRS, post `110000476235`. [Post](https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=PHILLIPS%2066%20WILMINGTON&state_abbr=CA&output=JSON). Hentet 2026-10-28.

@@ -11,7 +11,7 @@ Type: Organisasjon. Id: `org-dwr`. Oppdatert: 2026-10-28.
   - [Critically Overdrafted Basins map](https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf) (DWR, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250630230548/https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [ikke funnet] Polygonet for bassengene er ikke lastet inn i kartet.
-  - [i08 CriticallyOverdraftedBasins](https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins) (data.ca.gov, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError.
+  - [i08 CriticallyOverdraftedBasins](https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins) (data.ca.gov, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250214075746/https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn
 

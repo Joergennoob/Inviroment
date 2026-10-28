@@ -47,8 +47,8 @@
           "title": "FRS-søk MARATHON LOS ANGELES",
           "publisher": "US EPA",
           "retrieved": "2026-10-28",
-          "archive_url": "",
-          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+          "archive_url": "http://web.archive.org/web/20261028154604/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=MARATHON%20LOS%20ANGELES&state_abbr=CA&output=JSON",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
     }

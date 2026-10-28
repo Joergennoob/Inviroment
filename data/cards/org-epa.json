@@ -39,8 +39,8 @@
           "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
           "publisher": "US EPA",
           "retrieved": "2026-10-28",
-          "archive_url": "",
-          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: TimeoutError."
+          "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
         }
       ]
     },
@@ -55,8 +55,8 @@
           "title": "ECHO facility info, registry 110002899908",
           "publisher": "US EPA",
           "retrieved": "2026-10-28",
-          "archive_url": "",
-          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now feilet: URLError."
+          "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
         },
         {
           "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",

@@ -95,7 +95,10 @@
         }
       }
     },
-    "open_questions": { "type": "array", "items": { "type": "string" } }
+    "open_questions": { "type": "array", "items": { "type": "string" } },
+    "population": { "$ref": "#/$defs/sourcedBlock" },
+    "demographics": { "$ref": "#/$defs/sourcedBlock" },
+    "health_outcomes": { "$ref": "#/$defs/sourcedBlock" }
   },
   "$defs": {
     "source": {
@@ -151,6 +154,17 @@
     },
     "geometryOrNull": {
       "anyOf": [{ "type": "null" }, { "$ref": "#/$defs/geometry" }]
+    },
+    "sourcedBlock": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["geography", "vintage", "comparison", "claims"],
+      "properties": {
+        "geography": { "type": "string" },
+        "vintage": { "type": "string" },
+        "comparison": { "type": "string" },
+        "claims": { "type": "array", "items": { "$ref": "#/$defs/claim" } }
+      }
     }
   }
 }

@@ -85,6 +85,22 @@
           "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
         }
       ]
+    },
+    {
+      "id": "r2-psx-close",
+      "text": "Phillips 66 kunngjorde 16. oktober 2024 at Los Angeles-raffineriet, med tomter i Wilmington og Carson, skulle stanse driften i fjerde kvartal 2025. Om stansen var gjennomført per 28. oktober 2026, er ikke bekreftet i et etatsdokument i denne runden.",
+      "status": "confirmed",
+      "note": "Bekreftet er kunngjøringen. Faktisk stans er åpen.",
+      "sources": [
+        {
+          "url": "https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+          "title": "Phillips 66 notice of plan to cease operations",
+          "publisher": "Phillips 66",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261021105533/https://investor.phillips66.com/financial-information/news-releases/news-release-details/2024/Phillips-66-provides-notice-of-its-plan-to-cease-operations-at-Los-Angeles-area-refinery/default.aspx",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
     }
   ],
   "geometry": {
