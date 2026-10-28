@@ -61,6 +61,19 @@ CalGEM har ikke publisert folk, boliger eller skoler innenfor 3 200 fot. `script
 
 Samme skript regner også 1 engelsk mil rundt punktene for El Segundo, Torrance og Wilmington, og 5 engelske mil rundt FRS-punktet for Aliso Canyon. Radiene er valgt her.
 
+## Publiserte polygoner
+
+`scripts/area_boundaries.py` skriver `data/derived/area_boundaries.json`. Der en etat har publisert et polygon, er det polygonet brukt i stedet for hele fylker.
+
+- South Coast og San Joaquin Valley: EPA Green Book, PM2.5 årsstandard 2012, kartlag 21. Ozon 2015, kartlag 16, er telt for seg. EPA skriver at kartfilen er til kartbruk, og at den juridiske grensen står i 40 CFR part 81. Polygonene er generalisert med om lag 0,002 grader.
+- Kritisk overtrekk: DWR `i08_CriticallyOverdraftedBasins`, 21 polygoner, generalisert med om lag 0,001 grader.
+- Salton Sea: blokker innenfor 1 engelsk mil fra strandlinjen i OpenTopography sitt havpolygon. Det er ikke IID sitt blotlagte playa-polygon. Et geometriuttak fra USGS NHD tidsavbrøt.
+- Drikkevann: SABL, grensetype Water Service Area, koblet til SAFER-filens `WATER_SYSTEM_NUMBER`. Failing er `CURRENT_FAILING = Failing`. Sammenligningen er `Not Failing`, som også inneholder systemer merket At-Risk. Et blokkpunkt i begge typer polygon telles som failing.
+
+Folketall er Census 2020-blokker med indre punkt i polygonet. PLACES vektes med det blokkfolketallet, og tract-prevalensen gjelder de personene. CalEnviroScreen bruker 2010-tract der senterpunktet ligger i polygonet, vektet med ACS2019TotalPop. Senterpunkt er ikke et kryss mellom tract-polygon og området.
+
+Fylkestallene fra forrige runde står igjen på kortene som et videre omriss. Der begge finnes, er polygontallene grensen som skal leses.
+
 ## Område mot resten av California
 
 `scripts/area_health.py` skriver `data/derived/area_health.json`.

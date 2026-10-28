@@ -643,6 +643,46 @@
             "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
           }
         ]
+      },
+      {
+        "id": "r4-gw-basins",
+        "text": "DWR sitt lag med 21 kritisk overtrukne Bulletin 118-basseng har 4 053 539 personer i blokker fra 2020 der punktet ligger i et basseng. CalEnviroScreen, senterpunkt i bassenget: uten videregående 26,4 mot 16,7 prosent, forhold 1,58. Drikkevannsindikatoren er 663 mot 458, forhold 1,45. PLACES-astma er 10,05 mot 9,43 prosent.",
+        "status": "confirmed",
+        "note": "Navnene som tjenesten returnerer, gjentas for delbasseng: San Joaquin Valley, Salinas Valley, Cuyama Valley, Borrego Valley, Indian Wells Valley, Los Osos Valley, Santa Cruz Mid-County, Pleasant Valley, Corralitos og Santa Clara River Valley. Fylkesomrisset på kortet er et videre anslag.",
+        "sources": [
+          {
+            "url": "https://gis.water.ca.gov/arcgis/rest/services/Geoscientific/i08_CriticallyOverdraftedBasins/MapServer/0",
+            "title": "Bulletin 118 critically overdrafted groundwater basins",
+            "publisher": "California Department of Water Resources",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260204100934/https://gis.water.ca.gov/arcgis/rest/services/Geoscientific/i08_CriticallyOverdraftedBasins/MapServer/0",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+            "title": "2020 Census PL 94-171 California geographic header",
+            "publisher": "US Census Bureau",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+            "title": "CalEnviroScreen 4.0 tract centroids",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260722000851/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+            "title": "PLACES census tract estimates, 2025 release, California",
+            "publisher": "CDC",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          }
+        ]
       }
     ]
   },

@@ -395,7 +395,7 @@
   "checked_empty": [
     {
       "field": "named_failing_system_geometry",
-      "searched": "Needs Assessment nevner enkeltsystemer som Halcyon og Hillcrest, men ingen koordinat fra SDWIS er hentet for dem.",
+      "searched": "SABL-polygoner er koblet til SAFER-listen. Et punkt for hvert navngitte eksempelverk, som Halcyon, er fortsatt ikke lagt på kartet.",
       "result": "not_found",
       "urls": [
         "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf"
@@ -411,7 +411,6 @@
     }
   ],
   "open_questions": [
-    "Hvilke vannverk på dagens Failing-liste som har åpent arsen- eller nitratbrudd, med PWSID og koordinat, er ikke trukket ut av SAFER-dashbordet.",
     "Mottakerne av kampanjebidragene fra Farm Bureau-pakkene er ikke åpnet post for post."
   ],
   "state": "CA",
@@ -536,16 +535,32 @@
       },
       {
         "id": "r3-dw-tracts",
-        "text": "En tract-liste for de 390 failing-systemene er ikke lastet ned. Derfor er det ikke laget et befolkningsvektet snitt for tract med failing-system mot resten av California. CalEnviroScreen sin drikkevannsindikator er et annet mål og er ikke brukt som den listen.",
-        "status": "not_found",
-        "note": "Behovsvurderingen gir folketall på systemene. Den gir ikke tract-id.",
+        "text": "SAFER-filen med opprettelsesdato 28. oktober 2026 har 416 systemer merket Failing. Summen av filens eget befolkningsfelt er 426 484. 415 av systemene har et vannservicepolygon i SABL. Ett system med 80 personer i filen har ikke polygon. I 2020-blokker som faller i et failing-polygon, bor 357 102 personer. I blokker som bare faller i et system merket Not Failing, bor 37 215 322. 23 628 personer ligger i begge og er telt med failing.",
+        "status": "confirmed",
+        "note": "Behovsvurderingens 811 964 personer er tallet per 31. desember 2024. Filen her er den daglige listen 28. oktober 2026. Systemets eget folketall og blokkfolketallet er to ulike mål. Skriptet er scripts/area_boundaries.py.",
         "sources": [
           {
-            "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
-            "title": "2025 Drinking Water Needs Assessment",
+            "url": "https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+            "title": "SAFER drinking water risk assessment public flat file",
             "publisher": "State Water Resources Control Board",
             "retrieved": "2026-10-28",
-            "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+            "archive_url": "http://web.archive.org/web/20260204211536/https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+            "title": "California Drinking Water System Area Boundaries, water service areas",
+            "publisher": "State Water Resources Control Board",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260512214856/https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
+            "title": "2020 Census PL 94-171 California geographic header",
+            "publisher": "US Census Bureau",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]
@@ -625,6 +640,46 @@
             "publisher": "OEHHA",
             "retrieved": "2026-10-28",
             "archive_url": "http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          }
+        ]
+      },
+      {
+        "id": "r4-dw-health",
+        "text": "PLACES, vektet med blokkfolketallet i failing-polygon mot Not Failing-polygon: astma 9,94 mot 9,45 prosent, KOLS 6,47 mot 4,97, koronar hjertesykdom 6,52 mot 5,34, kreft 5,43 mot 6,21, diabetes 13,99 mot 11,45. Høyeste forhold er KOLS, 1,30. CalEnviroScreen der senterpunktet ligger i polygonet: uten videregående 29,4 mot 17,7 prosent, forhold 1,66, og språklig isolasjon 17,1 mot 10,0, forhold 1,71.",
+        "status": "confirmed",
+        "note": "Sammenligningen er korrelasjon. Den justerer ikke for inntekt, røyking eller alder. Terskelen for merkbart er 1,5 ganger sammenligningsgruppen. Senterpunktmetoden veier 192 693 personer, mindre enn blokktellingen, fordi store tract kan ha senter utenfor polygonet.",
+        "sources": [
+          {
+            "url": "https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+            "title": "SAFER drinking water risk assessment public flat file",
+            "publisher": "State Water Resources Control Board",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260204211536/https://data.ca.gov/dataset/safer-failing-and-at-risk-drinking-water-systems",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+            "title": "California Drinking Water System Area Boundaries, water service areas",
+            "publisher": "State Water Resources Control Board",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260512214856/https://gispublic.waterboards.ca.gov/portalserver/rest/services/Drinking_Water/California_Drinking_Water_System_Area_Boundaries/FeatureServer/0",
+            "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+          },
+          {
+            "url": "https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1",
+            "title": "PLACES census tract estimates, 2025 release, California",
+            "publisher": "CDC",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
+            "title": "CalEnviroScreen 4.0 tract centroids",
+            "publisher": "OEHHA",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20260722000851/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0",
             "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
           }
         ]

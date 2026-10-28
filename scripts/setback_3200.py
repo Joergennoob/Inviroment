@@ -10,7 +10,8 @@ Inputs
 - Census 2020 PL 94-171 geographic header for California, summary level 750
   (census block). Population and housing units are on the same record as the
   block internal point.
-- NCES EDGE public school locations, 2023-24, STATE = CA.
+- NCES EDGE public school locations, 2023-24, and private schools from the
+  2021-22 Private School Survey, STATE = CA.
 
 Rule
 - A block counts when its internal point is within 3,200 feet of at least one
@@ -19,7 +20,8 @@ Rule
   greater than zero meets that test. The tract flag is for a later comparison.
   It is wider than the buffer.
 - A school counts when the school point is within 3,200 feet of at least one
-  selected well. Private schools are not in the NCES public-school file.
+  selected well. Public and private schools are counted separately. The
+  private-school file is the 2021-22 PSS, two years older than the public file.
 
 The block internal point is not a polygon intersection. A large block can have
 people who live farther from the well than the internal point, or closer.
@@ -52,6 +54,10 @@ SCHOOLS = (
     "https://nces.ed.gov/opengis/rest/services/K12_School_Locations/"
     "EDGE_GEOCODE_PUBLICSCH_2324/MapServer/0/query"
 )
+PRIVATE_SCHOOLS = (
+    "https://nces.ed.gov/opengis/rest/services/K12_School_Locations/"
+    "EDGE_GEOCODE_PRIVATESCH_2122/MapServer/0/query"
+)
 FACILITIES = {
     "el_segundo": (33.916216, -118.41873, 5280.0),
     "torrance": (33.854967, -118.336907, 5280.0),
@@ -78,6 +84,12 @@ def cell_of(lat: float, lon: float) -> tuple[int, int]:
 
 
 def download_wells() -> list[tuple[float, float]]:
+    CACHE.mkdir(parents=True, exist_ok=True)
+    cached = CACHE / "wells_active_idle.json"
+    if cached.exists() and cached.stat().st_size > 1000:
+        loaded = json.loads(cached.read_text(encoding="utf-8"))
+        print(f"wells cached {len(loaded)}", flush=True)
+        return [(item[0], item[1]) for item in loaded]
     where = "(WellStatus='Active' OR WellStatus='Idle') AND Latitude IS NOT NULL"
     seen: set[str] = set()
     points: list[tuple[float, float]] = []
@@ -117,6 +129,7 @@ def download_wells() -> list[tuple[float, float]]:
         if not payload.get("exceededTransferLimit") or not features:
             break
         time.sleep(0.2)
+    cached.write_text(json.dumps(points), encoding="utf-8")
     return points
 
 
@@ -209,21 +222,21 @@ def scan_blocks(grid: dict[tuple[int, int], list[tuple[float, float]]]) -> dict:
     }
 
 
-def download_schools() -> list[tuple[str, str, float, float]]:
+def download_schools(url: str, id_field: str, label: str) -> list[tuple[str, str, float, float]]:
     schools: list[tuple[str, str, float, float]] = []
     offset = 0
     while True:
         query = urllib.parse.urlencode(
             {
                 "where": "STATE='CA'",
-                "outFields": "NCESSCH,NAME,LAT,LON",
+                "outFields": f"{id_field},NAME,LAT,LON",
                 "returnGeometry": "false",
                 "f": "json",
                 "resultOffset": offset,
                 "resultRecordCount": 2000,
             }
         )
-        payload = json.loads(get(f"{SCHOOLS}?{query}"))
+        payload = json.loads(get(f"{url}?{query}"))
         features = payload.get("features") or []
         for feature in features:
             attr = feature["attributes"]
@@ -231,9 +244,9 @@ def download_schools() -> list[tuple[str, str, float, float]]:
             lon = attr.get("LON")
             if lat is None or lon is None:
                 continue
-            schools.append((str(attr.get("NCESSCH") or ""), str(attr.get("NAME") or ""), float(lat), float(lon)))
+            schools.append((str(attr.get(id_field) or ""), str(attr.get("NAME") or ""), float(lat), float(lon)))
         offset += len(features)
-        print(f"schools {offset}", flush=True)
+        print(f"{label} {offset}", flush=True)
         if not payload.get("exceededTransferLimit") or not features:
             break
     return schools
@@ -243,10 +256,16 @@ def main() -> None:
     wells = download_wells()
     grid = grid_points(wells)
     block_result = scan_blocks(grid)
-    schools = download_schools()
+    schools = download_schools(SCHOOLS, "NCESSCH", "public schools")
+    private = download_schools(PRIVATE_SCHOOLS, "PPIN", "private schools")
     school_hits = [
         {"ncessch": nces, "name": name}
         for nces, name, lat, lon in schools
+        if near(grid, lat, lon, FEET)
+    ]
+    private_hits = [
+        {"ppin": ppin, "name": name}
+        for ppin, name, lat, lon in private
         if near(grid, lat, lon, FEET)
     ]
     facility_schools = {}
@@ -277,7 +296,10 @@ def main() -> None:
             "vintage": "NCES EDGE public schools 2023-24",
             "california_public_schools": len(schools),
             "within_3200_ft": len(school_hits),
-            "private_schools": "not included; CDE pubschls.txt redirected in a loop on 2026-10-28",
+            "private_url": PRIVATE_SCHOOLS,
+            "private_vintage": "NCES EDGE private schools, PSS 2021-22",
+            "california_private_schools": len(private),
+            "private_within_3200_ft": len(private_hits),
         },
         "method": (
             "Block internal point or school point within 3,200 feet of an active or idle well. "
@@ -288,7 +310,10 @@ def main() -> None:
     OUT.parent.mkdir(parents=True, exist_ok=True)
     # School names can be long. Keep the count in the main file and the ids beside it.
     ids_path = OUT.with_name("setback_3200_schools.json")
-    ids_path.write_text(json.dumps(school_hits, ensure_ascii=False), encoding="utf-8")
+    ids_path.write_text(
+        json.dumps({"public": school_hits, "private": private_hits}, ensure_ascii=False),
+        encoding="utf-8",
+    )
     OUT.write_text(json.dumps(result, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(
         json.dumps(
@@ -298,7 +323,8 @@ def main() -> None:
                 "population_2020": block_result["population_2020"],
                 "housing_units_2020": block_result["housing_units_2020"],
                 "tracts": len(block_result["tracts_2020_with_populated_block"]),
-                "schools": len(school_hits),
+                "public_schools": len(school_hits),
+                "private_schools": len(private_hits),
                 "facilities": {
                     name: {
                         "population_2020": item["population_2020"],

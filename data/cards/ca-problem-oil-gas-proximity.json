@@ -269,8 +269,7 @@
     }
   ],
   "open_questions": [
-    "CalGEMs egen metode for folk, boliger og skoler i health protection zone, hvis etaten senere publiserer den.",
-    "Private skoler innenfor 3 200 fot. CDE-filen lot seg ikke laste ned."
+    "CalGEMs egen metode for folk, boliger og skoler i health protection zone, hvis etaten senere publiserer den."
   ],
   "state": "CA",
   "updated": "2026-10-28",
@@ -323,13 +322,13 @@
       },
       {
         "id": "r3-oil-buffer",
-        "text": "Egen beregning: 2 977 829 personer og 1 104 614 boligenheter i Census 2020 ligger i blokker der blokkens indre punkt er innenfor 3 200 fot fra minst én brønn med status Active eller Idle. 694 av 10 400 offentlige skoler i NCES EDGE 2023–24 ligger innenfor samme avstand. CalGEM har ikke publisert et slikt tall.",
+        "text": "Egen beregning: 2 977 829 personer og 1 104 614 boligenheter i Census 2020 ligger i blokker der blokkens indre punkt er innenfor 3 200 fot fra minst én brønn med status Active eller Idle. 694 av 10 400 offentlige skoler i NCES 2023–24 og 193 av 2 452 private skoler i NCES Private School Survey 2021–22 ligger innenfor samme avstand. CalGEM har ikke publisert et slikt tall.",
         "status": "confirmed",
-        "note": "83 695 brønner etter API-nummer og 31 479 blokker inngår. Avstanden er ekvirektangulær med 69,172 miles per breddegrad. Internt punkt er ikke det samme som at blokkpolygonet skjærer sirkelen. Private skoler mangler, fordi CDE-filen pubschls.txt ga en omdirigeringsløkke. Pluggede brønner er utelatt. Skriptet er scripts/setback_3200.py.",
+        "note": "83 695 brønner og 31 479 blokker inngår. Avstanden er ekvirektangulær. Internt punkt er ikke polygonkryss. Pluggede brønner er utelatt. De to skolefilene er ikke samme årgang. Skriptet er scripts/setback_3200.py.",
         "sources": [
           {
             "url": "https://gis.conservation.ca.gov/server/rest/services/WellSTAR/Wells/MapServer/0/query?where=WellStatus%3D%27Active%27+OR+WellStatus%3D%27Idle%27&returnCountOnly=true&f=json",
-            "title": "WellSTAR active or idle well count",
+            "title": "WellSTAR active or idle wells",
             "publisher": "CalGEM",
             "retrieved": "2026-10-28",
             "archive_url": "",
@@ -337,7 +336,7 @@
           },
           {
             "url": "https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
-            "title": "2020 Census PL 94-171, California geographic header, summary level 750",
+            "title": "2020 Census PL 94-171 California geographic header",
             "publisher": "US Census Bureau",
             "retrieved": "2026-10-28",
             "archive_url": "http://web.archive.org/web/20250326061435/https://www2.census.gov/programs-surveys/decennial/2020/data/01-Redistricting_File--PL_94-171/California/ca2020.pl.zip",
@@ -345,7 +344,15 @@
           },
           {
             "url": "https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PUBLICSCH_2324/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json",
-            "title": "NCES EDGE public school locations 2023-24, California",
+            "title": "NCES EDGE public schools 2023-24, California",
+            "publisher": "National Center for Education Statistics",
+            "retrieved": "2026-10-28",
+            "archive_url": "",
+            "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+          },
+          {
+            "url": "https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PRIVATESCH_2122/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json",
+            "title": "NCES EDGE private schools, PSS 2021-22, California",
             "publisher": "National Center for Education Statistics",
             "retrieved": "2026-10-28",
             "archive_url": "",

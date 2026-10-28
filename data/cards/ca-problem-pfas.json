@@ -109,6 +109,30 @@
           "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
         }
       ]
+    },
+    {
+      "id": "r4-pfas-geo",
+      "text": "Arbeidsboken fra 12. oktober 2026 har ikke koordinater eller gateadresse. 5 547 av 10 701 PS-koder treffer en rad i DWR/CNRA-filen source_name.csv, som er SDWIS-anlegg med breddegrad og lengdegrad, når systemnummer og anleggsnummer kobles. 5 154 koder er ikke i den filen. Koblingen er anleggets punkt, ikke en ny adressematching.",
+      "status": "confirmed",
+      "note": "Treffregelen er at PS-koden er systemnummer, anleggsnummer og samme anleggsnummer om igjen. Et helseutfall for naboene til disse punktene er ikke regnet, fordi under halvparten av kildene mangler punkt.",
+      "sources": [
+        {
+          "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/pfas_ddw_general_order/docs/order-dw-2025-0002-ddw-sources-20261012-update.xlsx",
+          "title": "PFAS source list updated October 12, 2026",
+          "publisher": "State Water Resources Control Board",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        },
+        {
+          "url": "https://data.cnra.ca.gov/dataset/57b20340-2b03-4c22-bc52-b59047451496/resource/9688aeb1-6c77-44aa-9cf7-6b1c1306f399/download/source_name.csv",
+          "title": "Urban water source facilities with latitude and longitude",
+          "publisher": "California Natural Resources Agency / Department of Water Resources",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt."
+        }
+      ]
     }
   ],
   "geometry": null,

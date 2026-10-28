@@ -6,13 +6,13 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | `ca-problem-south-coast-air` | problem | sjekket | mangler | sjekket | mangler | sjekket | 10/10 | 2 |
 | `ca-problem-san-joaquin-air` | problem | sjekket | mangler | mangler | mangler | sjekket | 12/12 | 2 |
-| `ca-problem-drinking-water` | problem | sjekket | sjekket | mangler | sjekket | sjekket | 12/12 | 2 |
-| `ca-problem-oil-gas-proximity` | problem | sjekket | sjekket | mangler | sjekket | sjekket | 13/14 | 2 |
+| `ca-problem-drinking-water` | problem | sjekket | sjekket | mangler | sjekket | sjekket | 12/12 | 1 |
+| `ca-problem-oil-gas-proximity` | problem | sjekket | sjekket | mangler | sjekket | sjekket | 13/14 | 1 |
 | `ca-problem-pesticides` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 11/11 | 2 |
 | `ca-problem-salton-sea` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 10/10 | 2 |
 | `ca-problem-refineries` | problem | sjekket | sjekket | mangler | mangler | sjekket | 13/13 | 2 |
 | `ca-problem-aliso-canyon` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 8/10 | 2 |
-| `ca-problem-pfas` | problem | sjekket | sjekket | sjekket | sjekket | sjekket | 6/7 | 3 |
+| `ca-problem-pfas` | problem | sjekket | sjekket | sjekket | sjekket | sjekket | 6/9 | 3 |
 | `ca-problem-groundwater-overdraft` | problem | sjekket | sjekket | mangler | mangler | sjekket | 9/9 | 2 |
 | `bill-ab-1647` | bill | sjekket | mangler | mangler | mangler | mangler | 5/5 | 1 |
 | `bill-ab-1739` | bill | sjekket | sjekket | mangler | mangler | mangler | 5/5 | 1 |
@@ -46,7 +46,7 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `org-marathon` | organization | sjekket | sjekket | mangler | mangler | sjekket | 4/4 | 1 |
 | `org-oehha` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
 | `org-pbf` | organization | sjekket | sjekket | mangler | mangler | mangler | 6/6 | 1 |
-| `org-phillips66` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 6/8 | 1 |
+| `org-phillips66` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 8/10 | 1 |
 | `org-scaqmd` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
 | `org-sempra` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 5/5 | 1 |
 | `org-sjvapcd` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |

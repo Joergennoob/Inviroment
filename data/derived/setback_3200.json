@@ -19,7 +19,10 @@
     "vintage": "NCES EDGE public schools 2023-24",
     "california_public_schools": 10400,
     "within_3200_ft": 694,
-    "private_schools": "not included; CDE pubschls.txt redirected in a loop on 2026-10-28"
+    "private_url": "https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PRIVATESCH_2122/MapServer/0/query",
+    "private_vintage": "NCES EDGE private schools, PSS 2021-22",
+    "california_private_schools": 2452,
+    "private_within_3200_ft": 193
   },
   "method": "Block internal point or school point within 3,200 feet of an active or idle well. Equirectangular distance, 69.172 miles per degree of latitude.",
   "blocks_read": 519723,
