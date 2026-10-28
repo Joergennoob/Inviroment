@@ -1,0 +1,1777 @@
+{
+  "retrieved": "2026-10-28",
+  "both_sides_count": 0,
+  "both_sides_note": "Merket «Jobber for begge sider» er ikke satt. Det krever at samme firma i sesjon 2025 er registrert både for en olje-, gass- eller sprøytemiddelklient og for en miljø- eller ren-energi-klient. Klientnavnene er lest. Ingen av dem er en miljøorganisasjon. CLEAN ENERGY, filer 1254491, står på samme firma som Chevron og ARCO. MONARCH BIO ENERGY, LLC, filer 1463713, står på samme firma som Sempra. Registreringen sier ikke at de to er miljøorganisasjoner, så de er ikke merket.",
+  "registration_source": {
+    "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+    "title": "CAL-ACCESS rådata, FILER_LINKS_CD sesjon 2025",
+    "publisher": "California Secretary of State",
+    "retrieved": "2026-10-28",
+    "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+    "archive_note": "Koblingene er lest i uttrekket datert 28. oktober 2026."
+  },
+  "problems": [
+    {
+      "id": "ca-problem-south-coast-air",
+      "title": "South Coast-luft"
+    },
+    {
+      "id": "ca-problem-san-joaquin-air",
+      "title": "San Joaquin-luft"
+    },
+    {
+      "id": "ca-problem-drinking-water",
+      "title": "Drikkevann"
+    },
+    {
+      "id": "ca-problem-oil-gas-proximity",
+      "title": "Olje nær boliger"
+    },
+    {
+      "id": "ca-problem-pesticides",
+      "title": "Sprøytemidler"
+    },
+    {
+      "id": "ca-problem-salton-sea",
+      "title": "Salton Sea"
+    },
+    {
+      "id": "ca-problem-refineries",
+      "title": "Raffinerier"
+    },
+    {
+      "id": "ca-problem-aliso-canyon",
+      "title": "Aliso Canyon"
+    },
+    {
+      "id": "ca-problem-pfas",
+      "title": "PFAS"
+    },
+    {
+      "id": "ca-problem-groundwater-overdraft",
+      "title": "Grunnvann"
+    }
+  ],
+  "employers": [
+    {
+      "filer_id": "1146815",
+      "name": "CHEVRON CORPORATION AND ITS SUBSIDIARIES",
+      "card_id": "org-chevron",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries"
+      ],
+      "session_lobby_usd": 19279518.27,
+      "session_text": "Cal-Access, filer 1146815, kategori oil and gas, viser 19 279 518,27 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    },
+    {
+      "filer_id": "1147195",
+      "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+      "card_id": "org-wspa",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries",
+        "ca-problem-south-coast-air",
+        "ca-problem-san-joaquin-air"
+      ],
+      "session_lobby_usd": 19031326.51,
+      "session_text": "Cal-Access-filer 1147195 har 19 031 326,51 dollar i lobbybetalinger i sesjonen 2025-2026 per 28. oktober 2026.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": {
+        "text": "Skjemaet for april–juni 2025 nevner blant annet CalGEM og «SETBACK RULE», CARB og «AB 617 IMPLEMENTATION», og en rekke lovnummer (AB 626, 751, 839, 881, 914, 1207, 1243, 1448 og SB 34, 57, 222, 282, 237, 285, 318, 348, 542, 613, 614, 643, 684, 767, 840). Posisjon står ikke. Sakene er ikke fordelt på det enkelte firmaet.",
+        "sources": [
+          {
+            "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+            "title": "Form 635 filing 3070933, Western States Petroleum Association, april–juni 2025",
+            "publisher": "California Secretary of State",
+            "retrieved": "2026-10-28",
+            "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+            "archive_note": "Beløpene er lest i PDF-en."
+          }
+        ]
+      },
+      "contributions": []
+    },
+    {
+      "filer_id": "1146650",
+      "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION (CIPA)",
+      "card_id": "org-cipa",
+      "problems": [
+        "ca-problem-oil-gas-proximity"
+      ],
+      "session_lobby_usd": 744330.97,
+      "session_text": "Cal-Access-filer 1146650, California Independent Petroleum Association (CIPA), har 744 330,97 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    },
+    {
+      "filer_id": "1374043",
+      "name": "CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES",
+      "card_id": "org-crc",
+      "problems": [
+        "ca-problem-oil-gas-proximity"
+      ],
+      "session_lobby_usd": 1524830.24,
+      "session_text": "Cal-Access-filer 1374043 har 1 524 830,24 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": [
+        {
+          "date": "1/8/2026",
+          "amount": "3900",
+          "recipient": "SORIA FOR SENATE 2026",
+          "politician_card": "",
+          "filing_id": "3147751"
+        },
+        {
+          "date": "8/28/2024",
+          "amount": "3000",
+          "recipient": "SUZETTE MARTINEZ VALLADARES FOR SENATE 2024",
+          "politician_card": "",
+          "filing_id": "2981585"
+        },
+        {
+          "date": "8/28/2024",
+          "amount": "5500",
+          "recipient": "SORIA FOR ASSEMBLY 2024",
+          "politician_card": "",
+          "filing_id": "2981585"
+        },
+        {
+          "date": "7/22/2022",
+          "amount": "4900",
+          "recipient": "FLORA FOR ASSEMBLY 2022, HEATH",
+          "politician_card": "",
+          "filing_id": "2747157"
+        },
+        {
+          "date": "8/22/2022",
+          "amount": "4900",
+          "recipient": "OCHOA-BOGH FOR SENATE 2024, ROSILICIE",
+          "politician_card": "",
+          "filing_id": "2747157"
+        },
+        {
+          "date": "8/22/2022",
+          "amount": "4900",
+          "recipient": "GRAYSON FOR ASSEMBLY 2022, TIM",
+          "politician_card": "",
+          "filing_id": "2747157"
+        },
+        {
+          "date": "8/22/2022",
+          "amount": "4900",
+          "recipient": "GROVE FOR SENATE 2022",
+          "politician_card": "",
+          "filing_id": "2747157"
+        },
+        {
+          "date": "8/22/2022",
+          "amount": "2500",
+          "recipient": "HURTADO FOR SENATE 2022",
+          "politician_card": "",
+          "filing_id": "2747157"
+        },
+        {
+          "date": "8/22/2022",
+          "amount": "3000",
+          "recipient": "VALLADARES FOR ASSEMBLY 2022, SUZETTE MARTINEZ",
+          "politician_card": "",
+          "filing_id": "2747157"
+        }
+      ]
+    },
+    {
+      "filer_id": "1420515",
+      "name": "org-berry",
+      "card_id": "org-berry",
+      "problems": [
+        "ca-problem-oil-gas-proximity"
+      ],
+      "session_lobby_usd": 183000.0,
+      "session_text": "Cal-Access-filer 1420515, Berry Corporation, har 183 000,00 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": [
+        {
+          "date": "5/8/2025",
+          "amount": "2000",
+          "recipient": "Alexandra Macedo for Assembly 2026",
+          "politician_card": "",
+          "filing_id": "3064613"
+        },
+        {
+          "date": "7/30/2022",
+          "amount": "2000",
+          "recipient": "Heath Flora for Assembly 2022",
+          "politician_card": "",
+          "filing_id": "2740939"
+        }
+      ]
+    },
+    {
+      "filer_id": "1244770",
+      "name": "org-marathon",
+      "card_id": "org-marathon",
+      "problems": [
+        "ca-problem-refineries",
+        "ca-problem-oil-gas-proximity"
+      ],
+      "session_lobby_usd": 1321231.64,
+      "session_text": "Cal-Access-filer 1244770 har 1 321 231,64 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": [
+        {
+          "date": "3/24/2026",
+          "amount": "4000",
+          "recipient": "JEFF GONZALEZ FORASSEMBLY 2026",
+          "politician_card": "",
+          "filing_id": "3146808"
+        },
+        {
+          "date": "3/18/2025",
+          "amount": "2500",
+          "recipient": "GIPSON FOR BOARD OF EQUALIZATION 2026",
+          "politician_card": "",
+          "filing_id": "3040791"
+        },
+        {
+          "date": "3/26/2025",
+          "amount": "2500",
+          "recipient": "TIM GRAYSON FOR STATE CONTROLLER 2030",
+          "politician_card": "",
+          "filing_id": "3040791"
+        },
+        {
+          "date": "7/17/2024",
+          "amount": "2500",
+          "recipient": "HEATH FLORA FOR ASSEMBLY 2024",
+          "politician_card": "",
+          "filing_id": "2978400"
+        },
+        {
+          "date": "9/26/2024",
+          "amount": "3000",
+          "recipient": "HEATH FLORA FOR ASSEMBLY 2024",
+          "politician_card": "",
+          "filing_id": "2978400"
+        },
+        {
+          "date": "9/26/2024",
+          "amount": "3500",
+          "recipient": "GIPSON FOR ASSEMBLY 2024",
+          "politician_card": "",
+          "filing_id": "2978400"
+        },
+        {
+          "date": "9/30/2024",
+          "amount": "2500",
+          "recipient": "JEFF GONZALEZ FOR ASSEMBLY 2024",
+          "politician_card": "",
+          "filing_id": "2978400"
+        },
+        {
+          "date": "9/30/2024",
+          "amount": "2500",
+          "recipient": "ALEXANDRA MACEDO FOR ASSEMBLY 2024",
+          "politician_card": "",
+          "filing_id": "2978400"
+        },
+        {
+          "date": "2/28/2024",
+          "amount": "5000",
+          "recipient": "SUZETTE MARTINEZ VALLADARES FOR SENATE 2024",
+          "politician_card": "",
+          "filing_id": "2911370"
+        },
+        {
+          "date": "3/4/2024",
+          "amount": "5500",
+          "recipient": "TIM GRAYSON FOR ASSEMBLY 2024",
+          "politician_card": "",
+          "filing_id": "2911370"
+        },
+        {
+          "date": "7/13/2022",
+          "amount": "2500",
+          "recipient": "SORIA FOR ASSEMBLY 2022",
+          "politician_card": "",
+          "filing_id": "2747798"
+        },
+        {
+          "date": "7/13/2022",
+          "amount": "3000",
+          "recipient": "TIM GRAYSON FOR ASSEMBLY 2022",
+          "politician_card": "",
+          "filing_id": "2747798"
+        },
+        {
+          "date": "7/18/2022",
+          "amount": "3000",
+          "recipient": "HEATH FLORA FOR ASSEMBLY 2022",
+          "politician_card": "",
+          "filing_id": "2747798"
+        },
+        {
+          "date": "2/11/2022",
+          "amount": "2400",
+          "recipient": "TIM GRAYSON FOR ASSEMBLY 2022",
+          "politician_card": "",
+          "filing_id": "2677165"
+        },
+        {
+          "date": "2/11/2022",
+          "amount": "100",
+          "recipient": "TIM GRAYSON FOR ASSEMBLY 2022",
+          "politician_card": "",
+          "filing_id": "2677165"
+        },
+        {
+          "date": "3/31/2022",
+          "amount": "2000",
+          "recipient": "LORI WILSON FOR ASSEMBLY 2022",
+          "politician_card": "",
+          "filing_id": "2677165"
+        }
+      ]
+    },
+    {
+      "filer_id": "1408198",
+      "name": "org-pbf",
+      "card_id": "org-pbf",
+      "problems": [
+        "ca-problem-refineries"
+      ],
+      "session_lobby_usd": 593436.59,
+      "session_text": "PBF Holding Company, filer 1408198, har 593 436,59 dollar i lobbybetalinger i sesjonen 2025-2026. PBF Energy Western Region LLC, filer 1382832, har 492 320,02 dollar. Begge står i oil and gas.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    },
+    {
+      "filer_id": "1382832",
+      "name": "PBF ENERGY WESTERN REGION LLC",
+      "card_id": "org-pbf",
+      "problems": [
+        "ca-problem-refineries"
+      ],
+      "session_lobby_usd": 492320.02,
+      "session_text": "PBF Holding Company, filer 1408198, har 593 436,59 dollar i lobbybetalinger i sesjonen 2025-2026. PBF Energy Western Region LLC, filer 1382832, har 492 320,02 dollar. Begge står i oil and gas.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    },
+    {
+      "filer_id": "1348342",
+      "name": "PHILLIPS 66",
+      "card_id": "org-phillips66",
+      "problems": [
+        "ca-problem-refineries"
+      ],
+      "session_lobby_usd": 1982009.15,
+      "session_text": "Cal-Access-filer 1348342, Phillips 66, har 1 982 009,15 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": [
+        {
+          "date": "3/30/2026",
+          "amount": "5900",
+          "recipient": "VALLEY FAMILIES FOR MELISSA HURTADO FOR SENATE 2026",
+          "politician_card": "",
+          "filing_id": "3145689"
+        }
+      ]
+    },
+    {
+      "filer_id": "1146926",
+      "name": "SEMPRA ENERGY,  INC.",
+      "card_id": "org-sempra",
+      "problems": [
+        "ca-problem-aliso-canyon"
+      ],
+      "session_lobby_usd": 3347511.14,
+      "session_text": "Cal-Access-filer 1146926 dekker Sempra og tilknyttede selskaper, inkludert San Diego Gas & Electric og Southern California Gas Company, med 3 347 511,14 dollar i lobbybetalinger i sesjonen 2025-2026.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    },
+    {
+      "filer_id": "1237027",
+      "name": "org-valero",
+      "card_id": "org-valero",
+      "problems": [
+        "ca-problem-refineries"
+      ],
+      "session_lobby_usd": 508895.85,
+      "session_text": "Valero Services, Inc, filer 1237027, har 508 895,85 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": [
+        {
+          "date": "2/13/2023",
+          "amount": "3000",
+          "recipient": "ALVARADO GIL FOR SENATE 2022",
+          "politician_card": "",
+          "filing_id": "2809503"
+        },
+        {
+          "date": "2/21/2023",
+          "amount": "2000",
+          "recipient": "SORIA FOR ASSEMBLY 2024",
+          "politician_card": "",
+          "filing_id": "2809503"
+        }
+      ]
+    },
+    {
+      "filer_id": "1143378",
+      "name": "org-iid",
+      "card_id": "org-iid",
+      "problems": [
+        "ca-problem-salton-sea"
+      ],
+      "session_lobby_usd": 290134.29,
+      "session_text": "Cal-Access-filer 1143378 har 290 134,29 dollar i lobbybetalinger i sesjonen 2025-2026, kategori utilities.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    },
+    {
+      "filer_id": "1146790",
+      "name": "CALIFORNIA FARM BUREAU FEDERATION",
+      "card_id": "org-farm-bureau",
+      "problems": [
+        "ca-problem-pesticides",
+        "ca-problem-groundwater-overdraft"
+      ],
+      "session_lobby_usd": 1436711.7,
+      "session_text": "Filer 1146790 har 1 436 711,70 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    },
+    {
+      "filer_id": "1146857",
+      "name": "WESTERN GROWERS",
+      "card_id": "org-western-growers",
+      "problems": [
+        "ca-problem-pesticides",
+        "ca-problem-groundwater-overdraft"
+      ],
+      "session_lobby_usd": 1196763.69,
+      "session_text": "Filer 1146857 har 1 196 763,69 dollar i lobbybetalinger i sesjonen 2025-2026, kategori agriculture.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    },
+    {
+      "filer_id": "1146862",
+      "name": "org-corteva",
+      "card_id": "org-corteva",
+      "problems": [
+        "ca-problem-pesticides"
+      ],
+      "session_lobby_usd": 141149.88,
+      "session_text": "Filer 1146862 har 141 149,88 dollar i lobbybetalinger i sesjonen 2025-2026. Interessekoden i søket er manufacturing/industrial.",
+      "sources": [
+        {
+          "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+          "archive_note": "Sesjonsbeløpene er de samme som på organisasjonskortene."
+        }
+      ],
+      "activity": null,
+      "contributions": []
+    }
+  ],
+  "inhouse": [
+    {
+      "filer_id": "1146650",
+      "people": [
+        {
+          "id": "1415164",
+          "name": "SEAN WALLENTINE"
+        }
+      ],
+      "card_id": "org-cipa"
+    },
+    {
+      "filer_id": "1146790",
+      "people": [
+        {
+          "id": "1477205",
+          "name": "ISABELLA QUINONEZ"
+        },
+        {
+          "id": "1487512",
+          "name": "ABBY CARLSON"
+        },
+        {
+          "id": "1443341",
+          "name": "PETER J ANSEL"
+        },
+        {
+          "id": "1308365",
+          "name": "C. BRYAN LITTLE"
+        },
+        {
+          "id": "1461679",
+          "name": "CHRISTOPHER REARDON"
+        },
+        {
+          "id": "1460168",
+          "name": "ALEXANDRA  T. BIERING"
+        },
+        {
+          "id": "1492674",
+          "name": "DANIELLA LEGOSTAEV"
+        }
+      ],
+      "card_id": "org-farm-bureau"
+    },
+    {
+      "filer_id": "1146815",
+      "people": [
+        {
+          "id": "1294115",
+          "name": "ERMELINDA RUIZ"
+        },
+        {
+          "id": "1395203",
+          "name": "STEVEN ARITA"
+        }
+      ],
+      "card_id": "org-chevron"
+    },
+    {
+      "filer_id": "1146857",
+      "people": [
+        {
+          "id": "1476198",
+          "name": "MELISSA KOSHLAYCHUK"
+        },
+        {
+          "id": "1346095",
+          "name": "MATTHEW S. ALLEN"
+        },
+        {
+          "id": "1316464",
+          "name": "GAIL KING DELIHANT"
+        }
+      ],
+      "card_id": "org-western-growers"
+    },
+    {
+      "filer_id": "1146926",
+      "people": [
+        {
+          "id": "1404039",
+          "name": "LOURDES  AYON"
+        },
+        {
+          "id": "1364944",
+          "name": "ISRAEL SALAS"
+        },
+        {
+          "id": "1462674",
+          "name": "JOSEPH Z. ZANZE"
+        }
+      ],
+      "card_id": "org-sempra"
+    },
+    {
+      "filer_id": "1147195",
+      "people": [
+        {
+          "id": "1476221",
+          "name": "DANIELA GARCIA-HERNANDEZ"
+        },
+        {
+          "id": "1307147",
+          "name": "PAUL  DEIRO"
+        },
+        {
+          "id": "1428509",
+          "name": "ZACHARY D. LEARY"
+        }
+      ],
+      "card_id": "org-wspa"
+    },
+    {
+      "filer_id": "1348342",
+      "people": [
+        {
+          "id": "1490624",
+          "name": "TIFFANY ROBERTS"
+        }
+      ],
+      "card_id": "org-phillips66"
+    },
+    {
+      "filer_id": "1374043",
+      "people": [
+        {
+          "id": "1490628",
+          "name": "PALOMA ELIZALDE"
+        }
+      ],
+      "card_id": "org-crc"
+    },
+    {
+      "filer_id": "1382832",
+      "people": [
+        {
+          "id": "1495249",
+          "name": "BRANDON MATSON"
+        },
+        {
+          "id": "1492706",
+          "name": "BETSY BRIEN"
+        }
+      ],
+      "card_id": "org-pbf"
+    }
+  ],
+  "firms": [
+    {
+      "filer_id": "1273600",
+      "name": "CALIFORNIA STRATEGIES & ADVOCACY, LLC",
+      "card_id": "",
+      "problems": [
+        "ca-problem-aliso-canyon"
+      ],
+      "lobbyists": [
+        {
+          "id": "1149439",
+          "name": "JAMES D. LITES JR."
+        },
+        {
+          "id": "1232262",
+          "name": "JOHN BENTON"
+        },
+        {
+          "id": "1283112",
+          "name": "THEODORE HARRIS"
+        },
+        {
+          "id": "1303784",
+          "name": "DEVON  FORD"
+        },
+        {
+          "id": "1307041",
+          "name": "RUSTY AREIAS"
+        },
+        {
+          "id": "1342956",
+          "name": "CLAIRE VAN ZUIDEN"
+        },
+        {
+          "id": "1347952",
+          "name": "VICTORIA L. BRADSHAW"
+        },
+        {
+          "id": "1355167",
+          "name": "ANTHONY BRUNELLO"
+        },
+        {
+          "id": "1357079",
+          "name": "LESLIE RODRIGUEZ"
+        },
+        {
+          "id": "1360391",
+          "name": "WINSTON HICKOX"
+        },
+        {
+          "id": "1362014",
+          "name": "STEPHEN LARSON"
+        },
+        {
+          "id": "1366131",
+          "name": "JOANNE KOZBERG"
+        },
+        {
+          "id": "1382188",
+          "name": "MONIQUE RAMOS"
+        },
+        {
+          "id": "1401322",
+          "name": "KRISTIN M. OLSEN"
+        },
+        {
+          "id": "1406894",
+          "name": "CHARLES WATSON"
+        },
+        {
+          "id": "1437228",
+          "name": "LILY MACKAY"
+        },
+        {
+          "id": "1445952",
+          "name": "JESSE CUEVAS"
+        },
+        {
+          "id": "1448764",
+          "name": "MARYBEL BATJER"
+        },
+        {
+          "id": "1456457",
+          "name": "RICARDO MARTINEZ"
+        },
+        {
+          "id": "1456459",
+          "name": "LAUREN WESCHE"
+        },
+        {
+          "id": "1458860",
+          "name": "JONATHAN MUNOZ"
+        },
+        {
+          "id": "1477988",
+          "name": "JIM WOOD"
+        },
+        {
+          "id": "1488793",
+          "name": "ANDREW ARMANASCO"
+        },
+        {
+          "id": "1489466",
+          "name": "DAVID RAMIREZ"
+        },
+        {
+          "id": "1490311",
+          "name": "RICHARD KEIGWIN"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146578",
+          "name": "CALIFORNIA PHARMACISTS ASSOCIATION",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146844",
+          "name": "EDISON INTERNATIONAL & SUBSIDIARIES",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146921",
+          "name": "ASSOCIATION OF CALIFORNIA HOSPITAL DISTRICTS",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146926",
+          "name": "SEMPRA ENERGY,  INC.",
+          "card_id": "org-sempra",
+          "problems": [
+            "ca-problem-aliso-canyon"
+          ]
+        },
+        {
+          "filer_id": "1463713",
+          "name": "MONARCH BIO ENERGY, LLC",
+          "card_id": "",
+          "problems": []
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1147235",
+      "name": "KP PUBLIC AFFAIRS",
+      "card_id": "",
+      "problems": [
+        "ca-problem-groundwater-overdraft",
+        "ca-problem-pesticides"
+      ],
+      "lobbyists": [
+        {
+          "id": "1148307",
+          "name": "JONATHAN M. ROSS"
+        },
+        {
+          "id": "1148845",
+          "name": "EDWARD  MANNING"
+        },
+        {
+          "id": "1148975",
+          "name": "BRIAN  WHITE"
+        },
+        {
+          "id": "1149585",
+          "name": "JEFFREY C. SICKENGER"
+        },
+        {
+          "id": "1334729",
+          "name": "VANESSA CAJINA"
+        },
+        {
+          "id": "1393216",
+          "name": "PATRICK JOYCE"
+        },
+        {
+          "id": "1415161",
+          "name": "JOHN F. DOHERTY"
+        },
+        {
+          "id": "1444385",
+          "name": "BRENDA BASS"
+        },
+        {
+          "id": "1451727",
+          "name": "AMILIA GLIKMAN"
+        },
+        {
+          "id": "1457926",
+          "name": "INDIRA MC DONALD"
+        },
+        {
+          "id": "1466687",
+          "name": "OLIVIA WRIGHT"
+        },
+        {
+          "id": "1483573",
+          "name": "EMMANUEL JESUS AGUAYO"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1143425",
+          "name": "CALIFORNIA ACADEMY OF FAMILY PHYSICIANS",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146228",
+          "name": "CALIFORNIA RESTAURANT ASSOCIATION",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146796",
+          "name": "CALIFORNIA MANUFACTURERS ASSOCIATION",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146857",
+          "name": "WESTERN GROWERS",
+          "card_id": "org-western-growers",
+          "problems": [
+            "ca-problem-pesticides",
+            "ca-problem-groundwater-overdraft"
+          ]
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1277078",
+      "name": "BUCHALTER NEMER FIELDS & YOUNGER A PROFESSIONAL CORPORATION",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries"
+      ],
+      "lobbyists": [
+        {
+          "id": "1323354",
+          "name": "NORA E. SHERIFF"
+        },
+        {
+          "id": "1448793",
+          "name": "SAMIR HAFEZ"
+        },
+        {
+          "id": "1479278",
+          "name": "ANTONIO CARREJO"
+        },
+        {
+          "id": "1483710",
+          "name": "TIM BRANNAN"
+        },
+        {
+          "id": "1485265",
+          "name": "MYRA MCABEE"
+        },
+        {
+          "id": "1490589",
+          "name": "TIMOTHY LEE"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146774",
+          "name": "ARCO (ATLANTIC RICHFIELD COMPANY)",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146815",
+          "name": "CHEVRON CORPORATION AND ITS SUBSIDIARIES",
+          "card_id": "org-chevron",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries"
+          ]
+        },
+        {
+          "filer_id": "1254491",
+          "name": "CLEAN ENERGY",
+          "card_id": "",
+          "problems": []
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1147635",
+      "name": "SLOAT HIGGINS AND ASSOCIATES",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries"
+      ],
+      "lobbyists": [
+        {
+          "id": "1149156",
+          "name": "KEVIN H. SLOAT"
+        },
+        {
+          "id": "1149351",
+          "name": "KELLY J. JENSEN"
+        },
+        {
+          "id": "1231501",
+          "name": "CAROLYN J. VEAL-HUNTER"
+        },
+        {
+          "id": "1375090",
+          "name": "JOHN M. WENGER"
+        },
+        {
+          "id": "1460223",
+          "name": "JACK YANOS"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1143660",
+          "name": "CALIFORNIA TRUCKING ASSOCIATION",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146815",
+          "name": "CHEVRON CORPORATION AND ITS SUBSIDIARIES",
+          "card_id": "org-chevron",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries"
+          ]
+        },
+        {
+          "filer_id": "1146832",
+          "name": "METROPOLITAN WATER DISTRICT OF SOUTHERN CALIFORNIA",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146888",
+          "name": "PACIFIC GAS AND ELECTRIC COMPANY",
+          "card_id": "",
+          "problems": []
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1275439",
+      "name": "CARPENTER HAWKINS LLC",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries",
+        "ca-problem-san-joaquin-air",
+        "ca-problem-south-coast-air"
+      ],
+      "lobbyists": [
+        {
+          "id": "1148748",
+          "name": "MICHAEL L. CARPENTER"
+        },
+        {
+          "id": "1149448",
+          "name": "JEFFREY SIEVERS"
+        },
+        {
+          "id": "1149573",
+          "name": "ELOY  GARCIA"
+        },
+        {
+          "id": "1386032",
+          "name": "BEVERLY YU"
+        },
+        {
+          "id": "1488309",
+          "name": "IRIDA AYRAPETYAN"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1143350",
+          "name": "HEWLETT-PACKARD COMPANY",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1147195",
+          "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+          "card_id": "org-wspa",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries",
+            "ca-problem-south-coast-air",
+            "ca-problem-san-joaquin-air"
+          ]
+        },
+        {
+          "filer_id": "1374043",
+          "name": "CALIFORNIA RESOURCES CORPORATION AND SUBSIDIARIES",
+          "card_id": "org-crc",
+          "problems": [
+            "ca-problem-oil-gas-proximity"
+          ]
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+    },
+    {
+      "filer_id": "1276988",
+      "name": "GREENBERG TRAURIG, LLP",
+      "card_id": "firm-greenberg-traurig",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries",
+        "ca-problem-san-joaquin-air",
+        "ca-problem-south-coast-air"
+      ],
+      "lobbyists": [
+        {
+          "id": "1254233",
+          "name": "ALICE L. KESSLER"
+        },
+        {
+          "id": "1297380",
+          "name": "PATRICK K. SHANNON"
+        },
+        {
+          "id": "1414867",
+          "name": "MAGALY ZAGAL"
+        },
+        {
+          "id": "1446183",
+          "name": "WILLIS WAGNER"
+        },
+        {
+          "id": "1477592",
+          "name": "ROCCO PALLIN"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146097",
+          "name": "CALIFORNIA ALLIANCE FOR PRIDE & EQUALITY (CAPE)",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1147195",
+          "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+          "card_id": "org-wspa",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries",
+            "ca-problem-south-coast-air",
+            "ca-problem-san-joaquin-air"
+          ]
+        }
+      ],
+      "fee_text": "37 500 dollar i andre kvartal 2025, betalt av Western States Petroleum Association. Kumulativt 75 000 dollar.",
+      "fee_sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, april–juni 2025",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Beløpene er lest i PDF-en."
+        }
+      ],
+      "both_sides": false,
+      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+    },
+    {
+      "filer_id": "1147304",
+      "name": "CAPITOL STRATEGIES GROUP, INC.",
+      "card_id": "",
+      "problems": [
+        "ca-problem-aliso-canyon"
+      ],
+      "lobbyists": [
+        {
+          "id": "1147907",
+          "name": "DENNIS L. LOPER"
+        },
+        {
+          "id": "1338163",
+          "name": "MEGHAN E. LOPER"
+        },
+        {
+          "id": "1415323",
+          "name": "DAVID CREAGER"
+        },
+        {
+          "id": "1437024",
+          "name": "NEIL CLARK"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146926",
+          "name": "SEMPRA ENERGY,  INC.",
+          "card_id": "org-sempra",
+          "problems": [
+            "ca-problem-aliso-canyon"
+          ]
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1401529",
+      "name": "CRUZ STRATEGIES, LLC",
+      "card_id": "",
+      "problems": [
+        "ca-problem-aliso-canyon"
+      ],
+      "lobbyists": [
+        {
+          "id": "1149527",
+          "name": "STEVEN CRUZ"
+        },
+        {
+          "id": "1410662",
+          "name": "AUDREY  RATAJCZAK"
+        },
+        {
+          "id": "1425604",
+          "name": "NICHOLAS ROMO"
+        },
+        {
+          "id": "1491479",
+          "name": "AARON BRIENO"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1145482",
+          "name": "STANFORD UNIVERSITY",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146773",
+          "name": "ASSOCIATION OF INDEPENDENT CALIFORNIA COLLEGES & UNIVERSITIES",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146887",
+          "name": "CALIFORNIA BUSINESS PROPERTIES ASSOCIATION",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146926",
+          "name": "SEMPRA ENERGY,  INC.",
+          "card_id": "org-sempra",
+          "problems": [
+            "ca-problem-aliso-canyon"
+          ]
+        },
+        {
+          "filer_id": "1146938",
+          "name": "CALIFORNIA BUILDING INDUSTRY ASSOCIATION",
+          "card_id": "",
+          "problems": []
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1231516",
+      "name": "MC HUGH & ASSOCIATES",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries",
+        "ca-problem-san-joaquin-air",
+        "ca-problem-south-coast-air"
+      ],
+      "lobbyists": [
+        {
+          "id": "1148116",
+          "name": "GAVIN K. MC HUGH"
+        },
+        {
+          "id": "1149121",
+          "name": "SHARI MC HUGH"
+        },
+        {
+          "id": "1274098",
+          "name": "DAWN M. SANDERS-KOEPKE"
+        },
+        {
+          "id": "1399779",
+          "name": "NAOMI PADRON"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146769",
+          "name": "ASSOCIATION OF CALIFORNIA LIFE AND HEALTH INSURANCE COMPANIES",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146788",
+          "name": "CALIFORNIA'S CREDIT UNIONS",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146796",
+          "name": "CALIFORNIA MANUFACTURERS ASSOCIATION",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1147194",
+          "name": "CALIFORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1147195",
+          "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+          "card_id": "org-wspa",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries",
+            "ca-problem-south-coast-air",
+            "ca-problem-san-joaquin-air"
+          ]
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+    },
+    {
+      "filer_id": "1147285",
+      "name": "SACRAMENTO ADVOCATES INC.",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries"
+      ],
+      "lobbyists": [
+        {
+          "id": "1374456",
+          "name": "GARETH ELLIOTT"
+        },
+        {
+          "id": "1386221",
+          "name": "NICHOLAS K. BROKAW"
+        },
+        {
+          "id": "1414986",
+          "name": "GRACIELA CASTILLO-KRINGS"
+        },
+        {
+          "id": "1437940",
+          "name": "PANOREA AVDIS"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146815",
+          "name": "CHEVRON CORPORATION AND ITS SUBSIDIARIES",
+          "card_id": "org-chevron",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries"
+          ]
+        },
+        {
+          "filer_id": "1480545",
+          "name": "ABUNDANCE NETWORK",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1487678",
+          "name": "ROC USA",
+          "card_id": "",
+          "problems": []
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1147680",
+      "name": "ROSS COMMUNICATIONS",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries"
+      ],
+      "lobbyists": [
+        {
+          "id": "1149535",
+          "name": "RICHARD ROSS"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146815",
+          "name": "CHEVRON CORPORATION AND ITS SUBSIDIARIES",
+          "card_id": "org-chevron",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries"
+          ]
+        },
+        {
+          "filer_id": "1297212",
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES LOCAL 3299",
+          "card_id": "",
+          "problems": []
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1403038",
+      "name": "CALIFORNIA POLICY SOLUTIONS",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries"
+      ],
+      "lobbyists": [
+        {
+          "id": "1149181",
+          "name": "MEL  ASSAGAI"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146815",
+          "name": "CHEVRON CORPORATION AND ITS SUBSIDIARIES",
+          "card_id": "org-chevron",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries"
+          ]
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1147279",
+      "name": "PILLSBURY MADISON & SUTRO LLP",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries",
+        "ca-problem-san-joaquin-air",
+        "ca-problem-south-coast-air"
+      ],
+      "lobbyists": [
+        {
+          "id": "1148342",
+          "name": "MARGARET N. ROSEGAY"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146815",
+          "name": "CHEVRON CORPORATION AND ITS SUBSIDIARIES",
+          "card_id": "org-chevron",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries"
+          ]
+        },
+        {
+          "filer_id": "1147195",
+          "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+          "card_id": "org-wspa",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries",
+            "ca-problem-south-coast-air",
+            "ca-problem-san-joaquin-air"
+          ]
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+    },
+    {
+      "filer_id": "1252620",
+      "name": "KESTER/PAHOS",
+      "card_id": "",
+      "problems": [
+        "ca-problem-aliso-canyon",
+        "ca-problem-oil-gas-proximity"
+      ],
+      "lobbyists": [
+        {
+          "id": "1148622",
+          "name": "THEO  PAHOS"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146650",
+          "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION (CIPA)",
+          "card_id": "org-cipa",
+          "problems": [
+            "ca-problem-oil-gas-proximity"
+          ]
+        },
+        {
+          "filer_id": "1146820",
+          "name": "FORD MOTOR COMPANY",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1146926",
+          "name": "SEMPRA ENERGY,  INC.",
+          "card_id": "org-sempra",
+          "problems": [
+            "ca-problem-aliso-canyon"
+          ]
+        },
+        {
+          "filer_id": "1146979",
+          "name": "CENTENE AND ITS AFFILIATE HEALTH NET",
+          "card_id": "",
+          "problems": []
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    },
+    {
+      "filer_id": "1385058",
+      "name": "LEACOX & ASSOCIATES",
+      "card_id": "firm-leacox",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries",
+        "ca-problem-san-joaquin-air",
+        "ca-problem-south-coast-air"
+      ],
+      "lobbyists": [
+        {
+          "id": "1263466",
+          "name": "DANIEL A. LEACOX"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1147195",
+          "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+          "card_id": "org-wspa",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries",
+            "ca-problem-south-coast-air",
+            "ca-problem-san-joaquin-air"
+          ]
+        }
+      ],
+      "fee_text": "6 000 dollar i andre kvartal 2025, betalt av Western States Petroleum Association. Kumulativt 15 100 dollar.",
+      "fee_sources": [
+        {
+          "url": "https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "title": "Form 635 filing 3070933, Western States Petroleum Association, april–juni 2025",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20251002191218/https://cal-access.sos.ca.gov/PDFGen/pdfgen.prg?filingid=3070933&amendid=0",
+          "archive_note": "Beløpene er lest i PDF-en."
+        }
+      ],
+      "both_sides": false,
+      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+    },
+    {
+      "filer_id": "1481088",
+      "name": "SANCHEZ GOVERNMENT AFFAIRS, LLC",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity",
+        "ca-problem-refineries",
+        "ca-problem-san-joaquin-air",
+        "ca-problem-south-coast-air"
+      ],
+      "lobbyists": [
+        {
+          "id": "1356377",
+          "name": "LUIS SANCHEZ"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146934",
+          "name": "CALIFORNIA ASSOCIATION OF HEALTH PLANS",
+          "card_id": "",
+          "problems": []
+        },
+        {
+          "filer_id": "1147195",
+          "name": "WESTERN STATES PETROLEUM ASSOCIATION",
+          "card_id": "org-wspa",
+          "problems": [
+            "ca-problem-oil-gas-proximity",
+            "ca-problem-refineries",
+            "ca-problem-south-coast-air",
+            "ca-problem-san-joaquin-air"
+          ]
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Sakene står på oppdragsgiverens skjema og er ikke fordelt på dette firmaet."
+    },
+    {
+      "filer_id": "1404921",
+      "name": "TRADESMAN ADVISORS, INC.",
+      "card_id": "",
+      "problems": [
+        "ca-problem-oil-gas-proximity"
+      ],
+      "lobbyists": [
+        {
+          "id": "1334533",
+          "name": "JON M. COSTANTINO"
+        }
+      ],
+      "clients": [
+        {
+          "filer_id": "1146650",
+          "name": "CALIFORNIA INDEPENDENT PETROLEUM ASSOCIATION (CIPA)",
+          "card_id": "org-cipa",
+          "problems": [
+            "ca-problem-oil-gas-proximity"
+          ]
+        }
+      ],
+      "fee_text": "",
+      "fee_sources": [],
+      "both_sides": false,
+      "bills_note": "Ingen lovnummer er koblet til dette firmaet i skjemaene som er lest. Vedlegg A på kvartalsskjemaene er ikke åpnet ett og ett."
+    }
+  ],
+  "unmatched_payments": [
+    {
+      "payee": "Pillsbury Winthrop Shaw Pittman LLP",
+      "text": "58 570,50 dollar i honorar og 760,41 dollar i utlegg i andre kvartal 2025, fra Western States Petroleum Association.",
+      "card_id": "firm-pillsbury",
+      "note": "Navnet på betalingen er ikke det samme som siste navnestreng for filer 1147279 (Pillsbury Madison & Sutro LLP). De er ikke slått sammen."
+    },
+    {
+      "payee": "Carpenter Garcia Sievers LLC",
+      "text": "90 000 dollar i honorar i andre kvartal 2025, fra Western States Petroleum Association.",
+      "card_id": "firm-carpenter-garcia-sievers",
+      "note": "Registreringen i samme sesjon har Carpenter Hawkins LLC, filer 1275439, for WSPA. Navnene er ikke slått sammen."
+    }
+  ]
+}
