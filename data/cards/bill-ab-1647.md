@@ -4,6 +4,23 @@ Type: Lovforslag. Id: `bill-ab-1647`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
+- [bekreftet] Dette er loven som sier at luften skal måles ved gjerdet rundt raffinerier, og at naboene skal kunne se tallene. Den ble vedtatt i 2017. Forfatteren var Al Muratsuchi.
+  - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Forsamlingen stemte 57 mot 19. Senatet stemte 28 mot 11.
+  - [AB 1647 bill history](https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Eieren av raffineriet skal betale for målingen, med ett unntak hvis målestasjonen også brukes til andre formål.
+  - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [ikke verifisert] Vi har ikke sjekket om hvert eneste raffineri faktisk har målingen i drift i 2026. Distriktets offentlige dataside for det enkelte anlegg ville bekrefte drift.
+  - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Funn
+
+- [bekreftet] Loven viser til veiledning i overvåkingsplanen etter AB 617, Health and Safety Code 42705.5.
+  - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 - [bekreftet] AB 1647, kapittel 589, godkjent 8. oktober 2017, forfatter Muratsuchi. Loven krever samfunnsmåling nær hvert raffineri og fence-line-måling drevet av eieren, senest 1. januar 2020.
   - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
@@ -14,11 +31,6 @@ Type: Lovforslag. Id: `bill-ab-1647`. Oppdatert: 2026-10-28.
   - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [ikke verifisert] Om hvert raffineri i FRS-uttrekket faktisk har et system i drift i 2026, er ikke sjekket mot distriktenes datasider. Distriktets offentlige dataside for det enkelte anlegg ville bekrefte drift.
-  - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
-
-## Funn
-
-- [bekreftet] Loven viser til veiledning i overvåkingsplanen etter AB 617, Health and Safety Code 42705.5.
   - [AB 1647, Chapter 589, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Lenker til andre kort

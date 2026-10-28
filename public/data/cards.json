@@ -7,7 +7,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "AB 1647, kapittel 589, godkjent 8. oktober 2017, forfatter Muratsuchi. Loven krever samfunnsmåling nær hvert raffineri og fence-line-måling drevet av eieren, senest 1. januar 2020.",
+          "text": "Dette er loven som sier at luften skal måles ved gjerdet rundt raffinerier, og at naboene skal kunne se tallene. Den ble vedtatt i 2017. Forfatteren var Al Muratsuchi.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -23,7 +23,7 @@
         },
         {
           "id": "s2",
-          "text": "Forsamlingen samtykket 13. september 2017 med 57 mot 19. Senatet vedtok 11. september 2017 med 28 mot 11.",
+          "text": "Forsamlingen stemte 57 mot 19. Senatet stemte 28 mot 11.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -39,7 +39,7 @@
         },
         {
           "id": "s3",
-          "text": "Eieren skal betale, med mindre distriktet med vilje bruker stasjonen også til andre kilder. Da skal kostnaden deles.",
+          "text": "Eieren av raffineriet skal betale for målingen, med ett unntak hvis målestasjonen også brukes til andre formål.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -55,7 +55,7 @@
         },
         {
           "id": "s4",
-          "text": "Om hvert raffineri i FRS-uttrekket faktisk har et system i drift i 2026, er ikke sjekket mot distriktenes datasider.",
+          "text": "Vi har ikke sjekket om hvert eneste raffineri faktisk har målingen i drift i 2026.",
           "status": "not_verified",
           "note": "Distriktets offentlige dataside for det enkelte anlegg ville bekrefte drift.",
           "sources": [
@@ -76,6 +76,70 @@
           "text": "Loven viser til veiledning i overvåkingsplanen etter AB 617, Health and Safety Code 42705.5.",
           "status": "confirmed",
           "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+              "title": "AB 1647, Chapter 589, Statutes of 2017",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "AB 1647, kapittel 589, godkjent 8. oktober 2017, forfatter Muratsuchi. Loven krever samfunnsmåling nær hvert raffineri og fence-line-måling drevet av eieren, senest 1. januar 2020.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+              "title": "AB 1647, Chapter 589, Statutes of 2017",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Forsamlingen samtykket 13. september 2017 med 57 mot 19. Senatet vedtok 11. september 2017 med 28 mot 11.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+              "title": "AB 1647 bill history",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Eieren skal betale, med mindre distriktet med vilje bruker stasjonen også til andre kilder. Da skal kostnaden deles.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+              "title": "AB 1647, Chapter 589, Statutes of 2017",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s4",
+          "text": "Om hvert raffineri i FRS-uttrekket faktisk har et system i drift i 2026, er ikke sjekket mot distriktenes datasider.",
+          "status": "not_verified",
+          "note": "Distriktets offentlige dataside for det enkelte anlegg ville bekrefte drift.",
           "sources": [
             {
               "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
@@ -136,6 +200,88 @@
       "name": "AB 1739 (2013-2014), grunnvann",
       "summary": [
         {
+          "id": "plain-1",
+          "text": "Dette er en av tre lover fra 2014 som skulle stanse at grunnvann tappes for hardt. Roger Dickinson la den fram. Fran Pavley var medforslagsstiller.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Forsamlingen stemte 47 mot 28. Senatet stemte 26 mot 11.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Oljeselskapet Chevron skrev i et lobby-skjema at de jobbet med denne loven. Skjemaet sier ikke om de var for eller mot.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Forsamlingens tredje lesning 28. mai 2014 var 48 mot 24.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r3-ab1739-lobby",
+          "text": "Chevron lister AB 1739 i vedlegg A til filing 1872856, kvartalet som slutter 30. juni 2014, uten posisjon. WSPA og Aera sine 2014-tekster som er lest, lister ikke AB 1739. Groundwater Resources Association, filing 1906459, og Planning and Conservation League, filing 1909151, lister den sammen med de andre SGMA-lovene.",
+          "status": "confirmed",
+          "note": "Flere byer og vannverk lister også loven. De er ikke tatt inn ett og ett.",
+          "sources": [
+            {
+              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
           "id": "s1",
           "text": "AB 1739, kapittel 347, godkjent 16. september 2014. Forfatter er Dickinson. Pavley står som principal coauthor.",
           "status": "confirmed",
@@ -184,40 +330,6 @@
           ]
         }
       ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Forsamlingens tredje lesning 28. mai 2014 var 48 mot 24.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
-              "title": "AB 1739 history",
-              "publisher": "Legislative Counsel",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        },
-        {
-          "id": "r3-ab1739-lobby",
-          "text": "Chevron lister AB 1739 i vedlegg A til filing 1872856, kvartalet som slutter 30. juni 2014, uten posisjon. WSPA og Aera sine 2014-tekster som er lest, lister ikke AB 1739. Groundwater Resources Association, filing 1906459, og Planning and Conservation League, filing 1909151, lister den sammen med de andre SGMA-lovene.",
-          "status": "confirmed",
-          "note": "Flere byer og vannverk lister også loven. De er ikke tatt inn ett og ett.",
-          "sources": [
-            {
-              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
-              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
-              "publisher": "California Secretary of State",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
       "links": [
         {
           "rel": "problem",
@@ -259,7 +371,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "AB 617, kapittel 136, godkjent 26. juli 2017, forfatter Cristina Garcia. Loven krever utslippsrapportering, en overvåkingsplan og en strategi for samfunn med høy samlet belastning, og gir distriktene hjemmel til å kreve fence-line-måling.",
+          "text": "Dette er loven som sier at delstaten skal følge ekstra med på lufta i nabolag som allerede har mye forurensning. Cristina Garcia la den fram i 2017.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -275,7 +387,7 @@
         },
         {
           "id": "s2",
-          "text": "Forsamlingen samtykket 17. juli 2017 med 50 mot 24. Senatet vedtok samme dag med 27 mot 13.",
+          "text": "Forsamlingen stemte 50 mot 24. Senatet stemte 27 mot 13.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -291,7 +403,7 @@
         },
         {
           "id": "s3",
-          "text": "Loven gjelder både South Coast og San Joaquin Valley fordi den er statewide og peker på samfunn med høy belastning, ikke ett basseng.",
+          "text": "Loven gjelder hele California, ikke bare ett luftområde. Den kan brukes både rundt Los Angeles og i San Joaquin-dalen.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -319,6 +431,54 @@
               "publisher": "California Legislative Counsel",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "AB 617, kapittel 136, godkjent 26. juli 2017, forfatter Cristina Garcia. Loven krever utslippsrapportering, en overvåkingsplan og en strategi for samfunn med høy samlet belastning, og gir distriktene hjemmel til å kreve fence-line-måling.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+              "title": "AB 617, Chapter 136, Statutes of 2017",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Forsamlingen samtykket 17. juli 2017 med 50 mot 24. Senatet vedtok samme dag med 27 mot 13.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+              "title": "AB 617 bill votes",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Loven gjelder både South Coast og San Joaquin Valley fordi den er statewide og peker på samfunn med høy belastning, ikke ett basseng.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+              "title": "AB 617, Chapter 136, Statutes of 2017",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -368,6 +528,120 @@
       "type": "bill",
       "name": "SB 1137 (2021-2022), health protection zones",
       "summary": [
+        {
+          "id": "plain-1",
+          "text": "Dette er loven som sier at nye oljebrønner ikke skal bores nærmere enn om lag 1 kilometer fra boliger og skoler. Lena Gonzalez og Monique Limón la den fram. Den ble vedtatt i 2022.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+              "title": "SB 1137, Chapter 365, Statutes of 2022",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "title": "SB 1137 status",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Senatet stemte 25 mot 10. Forsamlingen stemte 46 mot 24.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137",
+              "title": "SB 1137 bill history",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250920055011/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+              "title": "SB 1137 bill votes",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Et folkeavstemningsforslag stanset loven en periode. Den begynte å gjelde igjen da forslaget ble trukket i 2024.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+              "title": "SB 1137 ISOR",
+              "publisher": "CalGEM",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-4",
+          "text": "Oljebransjens organisasjon skrev senere at de jobbet med loven. Skjemaet sier ikke om de var for eller mot.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Navnene på hver ja- og nei-stemme står på votes-siden. Dette kortet gjengir tellingene, ikke hvert navn, for å unngå avskriftsfeil. Siden er kilden.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+              "title": "SB 1137 bill votes",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r3-sb1137-wspa",
+          "text": "WSPA lister SB 1137 i vedlegg A for filing 3092136, kvartalet som slutter 30. september 2025, og filing 3114837, kvartalet som slutter 31. desember 2025. Filing 3070933 for andre kvartal 2025 lister den ikke. Ingen av tekstene sier støtte eller motstand.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
         {
           "id": "s1",
           "text": "Loven er kapittel 365 av 2022. Den legger artikkel 4.6 til Public Resources Code og definerer health protection zone som 3 200 fot.",
@@ -436,40 +710,6 @@
               "publisher": "CalGEM",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Navnene på hver ja- og nei-stemme står på votes-siden. Dette kortet gjengir tellingene, ikke hvert navn, for å unngå avskriftsfeil. Siden er kilden.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
-              "title": "SB 1137 bill votes",
-              "publisher": "California Legislative Counsel",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        },
-        {
-          "id": "r3-sb1137-wspa",
-          "text": "WSPA lister SB 1137 i vedlegg A for filing 3092136, kvartalet som slutter 30. september 2025, og filing 3114837, kvartalet som slutter 31. desember 2025. Filing 3070933 for andre kvartal 2025 lister den ikke. Ingen av tekstene sier støtte eller motstand.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
-              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
-              "publisher": "California Secretary of State",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]

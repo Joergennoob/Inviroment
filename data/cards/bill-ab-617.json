@@ -5,7 +5,7 @@
   "summary": [
     {
       "id": "s1",
-      "text": "AB 617, kapittel 136, godkjent 26. juli 2017, forfatter Cristina Garcia. Loven krever utslippsrapportering, en overvåkingsplan og en strategi for samfunn med høy samlet belastning, og gir distriktene hjemmel til å kreve fence-line-måling.",
+      "text": "Dette er loven som sier at delstaten skal følge ekstra med på lufta i nabolag som allerede har mye forurensning. Cristina Garcia la den fram i 2017.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -21,7 +21,7 @@
     },
     {
       "id": "s2",
-      "text": "Forsamlingen samtykket 17. juli 2017 med 50 mot 24. Senatet vedtok samme dag med 27 mot 13.",
+      "text": "Forsamlingen stemte 50 mot 24. Senatet stemte 27 mot 13.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -37,7 +37,7 @@
     },
     {
       "id": "s3",
-      "text": "Loven gjelder både South Coast og San Joaquin Valley fordi den er statewide og peker på samfunn med høy belastning, ikke ett basseng.",
+      "text": "Loven gjelder hele California, ikke bare ett luftområde. Den kan brukes både rundt Los Angeles og i San Joaquin-dalen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -65,6 +65,54 @@
           "publisher": "California Legislative Counsel",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s1",
+      "text": "AB 617, kapittel 136, godkjent 26. juli 2017, forfatter Cristina Garcia. Loven krever utslippsrapportering, en overvåkingsplan og en strategi for samfunn med høy samlet belastning, og gir distriktene hjemmel til å kreve fence-line-måling.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s2",
+      "text": "Forsamlingen samtykket 17. juli 2017 med 50 mot 24. Senatet vedtok samme dag med 27 mot 13.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617 bill votes",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "kept-s3",
+      "text": "Loven gjelder både South Coast og San Joaquin Valley fordi den er statewide og peker på samfunn med høy belastning, ikke ett basseng.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+          "title": "AB 617, Chapter 136, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]

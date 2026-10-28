@@ -4,6 +4,20 @@ Type: Lovforslag. Id: `bill-ab-617`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
+- [bekreftet] Dette er loven som sier at delstaten skal følge ekstra med på lufta i nabolag som allerede har mye forurensning. Cristina Garcia la den fram i 2017.
+  - [AB 617, Chapter 136, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Forsamlingen stemte 50 mot 24. Senatet stemte 27 mot 13.
+  - [AB 617 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Loven gjelder hele California, ikke bare ett luftområde. Den kan brukes både rundt Los Angeles og i San Joaquin-dalen.
+  - [AB 617, Chapter 136, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Funn
+
+- [bekreftet] Votes-siden har navnene. Kortet bruker tellingene.
+  - [AB 617 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
 - [bekreftet] AB 617, kapittel 136, godkjent 26. juli 2017, forfatter Cristina Garcia. Loven krever utslippsrapportering, en overvåkingsplan og en strategi for samfunn med høy samlet belastning, og gir distriktene hjemmel til å kreve fence-line-måling.
   - [AB 617, Chapter 136, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
@@ -12,11 +26,6 @@ Type: Lovforslag. Id: `bill-ab-617`. Oppdatert: 2026-10-28.
 
 - [bekreftet] Loven gjelder både South Coast og San Joaquin Valley fordi den er statewide og peker på samfunn med høy belastning, ikke ett basseng.
   - [AB 617, Chapter 136, Statutes of 2017](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
-
-## Funn
-
-- [bekreftet] Votes-siden har navnene. Kortet bruker tellingene.
-  - [AB 617 bill votes](https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Lenker til andre kort
 
