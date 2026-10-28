@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "Innsjøen Salton Sea krymper fordi vann som før rant dit, brukes andre steder. Tørr sjøbunn kan blåse opp som støv. Vannverket Imperial Irrigation District flytter inntil en stor mengde vann i året, og det er det som blotlegger bunnen.",
+      "text": "Innsjøen Salton Sea krymper fordi vann som før rant dit, brukes andre steder. Tørr sjøbunn kan blåse opp som støv. Vannverket der flytter inntil en stor mengde vann i året, og det er det som legger bunnen bar.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -22,7 +22,7 @@
     },
     {
       "id": "plain-2",
-      "text": "En målerapport sier at om lag 38 000 acre sjøbunn lå bart ved utgangen av 2024. En acre er et amerikansk flatemål. Statens egen årsrapport gir ikke ett samlet tall for den bare bunnen.",
+      "text": "En målerapport sier at om lag 38 000 acre sjøbunn lå bart ved utgangen av 2024. En acre er et amerikansk flatemål. Delstatens egen årsrapport gir ikke ett samlet tall for den bare bunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -46,7 +46,7 @@
     },
     {
       "id": "plain-3",
-      "text": "Innenfor om lag en mil fra strandlinjen bor om lag 12 000 mennesker. Det er mye færre enn hele Imperial fylke, der EPA regnet om lag 150 000 mennesker i 2010.",
+      "text": "Innenfor om lag en engelsk mil, det vil si om lag 1,6 kilometer, fra kanten av innsjøen bor om lag 12 000 mennesker. Det er mye færre enn hele Imperial fylke, der miljøtilsynet i USA regnet om lag 150 000 mennesker i 2010.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -110,7 +110,7 @@
     },
     {
       "id": "plain-4",
-      "text": "I hele Imperial fylke er astmabesøk på legevakt om lag 1,7 ganger så høye som i resten av California, og flere voksne mangler videregående skole. Vi vet ikke om støvet er årsaken.",
+      "text": "I hele Imperial fylke er legevaktbesøk for astma om lag 1,7 ganger så høye som i resten av California, og flere voksne mangler videregående skole. Vi vet ikke om støvet er grunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -126,7 +126,7 @@
     },
     {
       "id": "plain-5",
-      "text": "Dalfeber er ikke vanligere i Imperial enn i California som helhet. I 2022 var raten lavere der enn i delstaten.",
+      "text": "Dalfeber, en sykdom man kan få av sopp i støv, er ikke vanligere i Imperial enn i California som helhet. I 2022 var andelen lavere der enn i delstaten.",
       "status": "confirmed",
       "note": "",
       "sources": [

@@ -6,21 +6,21 @@ Rangering i California-oversikten: 5.
 
 ## Sammendrag
 
-- [bekreftet] I 2022 ble det sprøytet om lag 180 millioner pund virksomt stoff i California. Mest gikk ut i jordbruksfylkene Fresno, Kern og Tulare. De som bor og jobber der, er nærmest sprøytingen.
+- [bekreftet] I 2022 ble det sprøytet om lag 180 millioner pund av selve giften i sprøytemidlene i California. Ett pund er omtrent et halvt kilo. Mest gikk ut i jordbruksfylkene Fresno, Kern og Tulare. De som bor og jobber der, er nærmest sprøytingen.
   - [Pesticide Use Annual Report 2022 Data Summary](https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf) (California Department of Pesticide Regulation, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Total Pounds, Applications, and Acres Treated by County, 2022](https://www.cdpr.ca.gov/wp-content/uploads/2024/12/2022_county_total_pounds_applied_agricultural_applications_and_acres_treated.pdf) (California Department of Pesticide Regulation, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250807002358/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/2022_county_total_pounds_applied_agricultural_applications_and_acres_treated.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 - [bekreftet] Fresno og Kern hadde hver over 25 millioner pund. Tulare hadde om lag 18 millioner og Monterey om lag 9 millioner.
   - [Total Pounds, Applications, and Acres Treated by County, 2022](https://www.cdpr.ca.gov/wp-content/uploads/2024/12/2022_county_total_pounds_applied_agricultural_applications_and_acres_treated.pdf) (California Department of Pesticide Regulation, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250807002358/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/2022_county_total_pounds_applied_agricultural_applications_and_acres_treated.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] I ett boligområde i Fresno er astmabesøk på legevakt verre enn i 98 av 100 områder i California. Vi vet ikke om sprøytemidlene er årsaken.
+- [bekreftet] I ett nabolag i Fresno er legevaktbesøk for astma verre enn i 98 av 100 nabolag i California. Vi vet ikke om sprøytemidlene er grunnen.
   - [CalEnviroScreen 4.0 tract 6019001000](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json) (OEHHA, hentet 2026-10-28). Arkiv: https://web.archive.org/web/20261028162444/https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=tract%3D6019001000&outFields=asthma,asthmaP,lbw,lbwP,cvd,cvdP,edu,ling,pov,housingB,ACS2019TotalPop&f=json. Save Page Now 2026-10-28 opprettet et øyeblikksbilde.
   - [CalEnviroScreen 4.0 report](https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf) (OEHHA, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260926191713/https://oehha.ca.gov/sites/default/files/media/downloads/calenviroscreen/report/calenviroscreen40reportf2021.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] I de fire fylkene med mest sprøyting er andelen uten videregående skole om lag halvannen gang så høy som i resten av California. Vi vet ikke om sprøytingen er årsaken.
+- [bekreftet] I de fire fylkene med mest sprøyting er det om lag halvannen gang så mange uten videregående skole som i resten av California. Vi vet ikke om sprøytingen er grunnen.
   - [CalEnviroScreen 4.0 Results feature service](https://services1.arcgis.com/PCHfdHz4GlDNAhBb/arcgis/rest/services/CalEnviroScreen_4_0_Results_/FeatureServer/0/query?where=1%3D1&returnCountOnly=true&f=json) (OEHHA, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
 
-- [bekreftet] Staten registrerte om lag 1 000 sykdomstilfeller som kan henge sammen med sprøytemidler i 2022. Los Angeles hadde flest, og de fleste der kom ikke fra jordbruk.
+- [bekreftet] Delstaten registrerte om lag 1 000 sykdomstilfeller som kan henge sammen med sprøytemidler i 2022. Los Angeles hadde flest, og de fleste der kom ikke fra jordbruk.
   - [Pesticide Illness Surveillance Program, state and county totals, 2022](https://www.cdpr.ca.gov/wp-content/uploads/2025/07/state_and_county_totals_2022.pdf) (California Department of Pesticide Regulation, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260114042244/https://www.cdpr.ca.gov/wp-content/uploads/2025/07/state_and_county_totals_2022.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Funn

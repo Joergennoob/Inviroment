@@ -54,31 +54,31 @@ Kort: `ca-problem-drinking-water`.
 
 ### 4. Olje og gass nær sensitive reseptorer
 
-- En lov fra 2022 sier at nye olje- og gassbrønner ikke skal bores nærmere enn om lag 1 kilometer fra boliger, skoler og andre sårbare steder. Etaten som passer på brønnene, har ikke selv telt hvor mange som bor der. Vår egen telling gir om lag 3 millioner mennesker og om lag 1,1 millioner boliger.
+- En lov fra 2022 sier at nye olje- og gassbrønner ikke skal bores nærmere enn om lag 1 kilometer fra boliger, skoler og andre steder der folk er ekstra sårbare. Oljetilsynet har ikke selv telt hvor mange som bor der. Vår egen telling gir om lag 3 millioner mennesker og om lag 1,1 millioner boliger.
 - Om lag 700 offentlige skoler og om lag 200 private skoler ligger innenfor den avstanden.
-- Kern fylke pumpet det aller meste av oljen i California i 2023. Chevron og Aera betalte de største avgiftene til tilsynsetaten.
-- Oljeselskapenes felles organisasjon brukte om lag 19 millioner dollar på å påvirke politikerne i denne toårsperioden.
-- Sykdomstallene for nabolag nær brønner er ikke høyere enn i resten av California. Vi vet ikke om brønnene er årsaken.
+- Kern fylke pumpet det aller meste av oljen i California i 2023. Chevron og Aera betalte de største avgiftene til oljetilsynet.
+- Oljeselskapenes felles organisasjon brukte om lag 19 millioner dollar på å betale folk for å påvirke politikerne i denne toårsperioden.
+- Sykdomstallene for nabolag nær brønner er ikke høyere enn i resten av California. Vi vet ikke om brønnene er grunnen.
 
 Kort: `ca-problem-oil-gas-proximity`.
 
 ### 5. Plantevernmidler i jordbruksfylker
 
-- I 2022 ble det sprøytet om lag 180 millioner pund virksomt stoff i California. Mest gikk ut i jordbruksfylkene Fresno, Kern og Tulare. De som bor og jobber der, er nærmest sprøytingen.
+- I 2022 ble det sprøytet om lag 180 millioner pund av selve giften i sprøytemidlene i California. Ett pund er omtrent et halvt kilo. Mest gikk ut i jordbruksfylkene Fresno, Kern og Tulare. De som bor og jobber der, er nærmest sprøytingen.
 - Fresno og Kern hadde hver over 25 millioner pund. Tulare hadde om lag 18 millioner og Monterey om lag 9 millioner.
-- I ett boligområde i Fresno er astmabesøk på legevakt verre enn i 98 av 100 områder i California. Vi vet ikke om sprøytemidlene er årsaken.
-- I de fire fylkene med mest sprøyting er andelen uten videregående skole om lag halvannen gang så høy som i resten av California. Vi vet ikke om sprøytingen er årsaken.
-- Staten registrerte om lag 1 000 sykdomstilfeller som kan henge sammen med sprøytemidler i 2022. Los Angeles hadde flest, og de fleste der kom ikke fra jordbruk.
+- I ett nabolag i Fresno er legevaktbesøk for astma verre enn i 98 av 100 nabolag i California. Vi vet ikke om sprøytemidlene er grunnen.
+- I de fire fylkene med mest sprøyting er det om lag halvannen gang så mange uten videregående skole som i resten av California. Vi vet ikke om sprøytingen er grunnen.
+- Delstaten registrerte om lag 1 000 sykdomstilfeller som kan henge sammen med sprøytemidler i 2022. Los Angeles hadde flest, og de fleste der kom ikke fra jordbruk.
 
 Kort: `ca-problem-pesticides`.
 
 ### 6. Salton Sea, eksponert playa og støv
 
-- Innsjøen Salton Sea krymper fordi vann som før rant dit, brukes andre steder. Tørr sjøbunn kan blåse opp som støv. Vannverket Imperial Irrigation District flytter inntil en stor mengde vann i året, og det er det som blotlegger bunnen.
-- En målerapport sier at om lag 38 000 acre sjøbunn lå bart ved utgangen av 2024. En acre er et amerikansk flatemål. Statens egen årsrapport gir ikke ett samlet tall for den bare bunnen.
-- Innenfor om lag en mil fra strandlinjen bor om lag 12 000 mennesker. Det er mye færre enn hele Imperial fylke, der EPA regnet om lag 150 000 mennesker i 2010.
-- I hele Imperial fylke er astmabesøk på legevakt om lag 1,7 ganger så høye som i resten av California, og flere voksne mangler videregående skole. Vi vet ikke om støvet er årsaken.
-- Dalfeber er ikke vanligere i Imperial enn i California som helhet. I 2022 var raten lavere der enn i delstaten.
+- Innsjøen Salton Sea krymper fordi vann som før rant dit, brukes andre steder. Tørr sjøbunn kan blåse opp som støv. Vannverket der flytter inntil en stor mengde vann i året, og det er det som legger bunnen bar.
+- En målerapport sier at om lag 38 000 acre sjøbunn lå bart ved utgangen av 2024. En acre er et amerikansk flatemål. Delstatens egen årsrapport gir ikke ett samlet tall for den bare bunnen.
+- Innenfor om lag en engelsk mil, det vil si om lag 1,6 kilometer, fra kanten av innsjøen bor om lag 12 000 mennesker. Det er mye færre enn hele Imperial fylke, der miljøtilsynet i USA regnet om lag 150 000 mennesker i 2010.
+- I hele Imperial fylke er legevaktbesøk for astma om lag 1,7 ganger så høye som i resten av California, og flere voksne mangler videregående skole. Vi vet ikke om støvet er grunnen.
+- Dalfeber, en sykdom man kan få av sopp i støv, er ikke vanligere i Imperial enn i California som helhet. I 2022 var andelen lavere der enn i delstaten.
 
 Kort: `ca-problem-salton-sea`.
 

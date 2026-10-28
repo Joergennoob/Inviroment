@@ -6,7 +6,7 @@ Rangering i California-oversikten: 4.
 
 ## Sammendrag
 
-- [bekreftet] En lov fra 2022 sier at nye olje- og gassbrønner ikke skal bores nærmere enn om lag 1 kilometer fra boliger, skoler og andre sårbare steder. Etaten som passer på brønnene, har ikke selv telt hvor mange som bor der. Vår egen telling gir om lag 3 millioner mennesker og om lag 1,1 millioner boliger.
+- [bekreftet] En lov fra 2022 sier at nye olje- og gassbrønner ikke skal bores nærmere enn om lag 1 kilometer fra boliger, skoler og andre steder der folk er ekstra sårbare. Oljetilsynet har ikke selv telt hvor mange som bor der. Vår egen telling gir om lag 3 millioner mennesker og om lag 1,1 millioner boliger.
   - [SB 1137, Chapter 365, Statutes of 2022](https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137) (California Legislative Counsel, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260902083653/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1137. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [Notice to Operators 2025-03](https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20251121084048/https://www.conservation.ca.gov/calgem/Documents/NTO_2025-03_PRC%203285.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
   - [SB 1137 legislative notification, October 2026](https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Legislative%20Notification%20-%20October%202026.pdf) (CalGEM, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
@@ -21,13 +21,13 @@ Rangering i California-oversikten: 4.
   - [NCES EDGE public schools 2023-24, California](https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PUBLICSCH_2324/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json) (National Center for Education Statistics, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
   - [NCES EDGE private schools, PSS 2021-22, California](https://nces.ed.gov/opengis/rest/services/K12_School_Locations/EDGE_GEOCODE_PRIVATESCH_2122/MapServer/0/query?where=STATE%3D%27CA%27&returnCountOnly=true&f=json) (National Center for Education Statistics, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
 
-- [bekreftet] Kern fylke pumpet det aller meste av oljen i California i 2023. Chevron og Aera betalte de største avgiftene til tilsynsetaten.
+- [bekreftet] Kern fylke pumpet det aller meste av oljen i California i 2023. Chevron og Aera betalte de største avgiftene til oljetilsynet.
   - [Annual Report of the State Oil and Gas Supervisor 2023](https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf) (CalGEM, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Oljeselskapenes felles organisasjon brukte om lag 19 millioner dollar på å påvirke politikerne i denne toårsperioden.
+- [bekreftet] Oljeselskapenes felles organisasjon brukte om lag 19 millioner dollar på å betale folk for å påvirke politikerne i denne toårsperioden.
   - [Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07](https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx) (California Secretary of State, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
-- [bekreftet] Sykdomstallene for nabolag nær brønner er ikke høyere enn i resten av California. Vi vet ikke om brønnene er årsaken.
+- [bekreftet] Sykdomstallene for nabolag nær brønner er ikke høyere enn i resten av California. Vi vet ikke om brønnene er grunnen.
   - [PLACES census tract data, GIS friendly format, 2025 release, California](https://data.cdc.gov/resource/yjkw-uj5s.json?stateabbr=CA&$limit=1) (CDC, hentet 2026-10-28). Arkiv: ikke arkivert. Wayback availability 2026-10-28 fant ikke et øyeblikksbilde. Save Page Now ble ikke kjørt på nytt etter at tidligere kall tidsavbrøt.
 
 ## Funn
