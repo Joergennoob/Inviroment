@@ -18,7 +18,17 @@ AB 756 handler om å teste drikkevann for PFAS og si ifra. Senatet 5. juli 2019:
 
 Vi fant ingen melding der Grove forklarer hvorfor hun stemte ja til skum-loven og nei til tekstil-loven. Det kan være at lovene kjentes ulike. Vi har ikke teksten hennes.
 
-AB 2247 fra 2023–24, som vi åpnet, handler om campingvogner, ikke om PFAS. Den er ikke brukt her. Hvis det finnes en annen AB 2247 om PFAS i et annet år, har vi ikke lest den.
+## Sminke, 2022
+
+AB 2771 sier at sminke ikke skal lages eller selges med PFAS som er tilsatt med vilje. Forsamlingen 23. august 2022: 60 ja, 7 nei. Senatet 22. august 2022: 31 ja, 7 nei.
+
+Grove stemte nei i senatet. Flora stemte nei i forsamlingen. Hurtado, Caballero, Limón, Stern, Allen og Laird stemte ja. Muratsuchi, Wilson, Reyes, Wicks og Grayson stemte ja i forsamlingen.
+
+## En bredere forbudslov som ikke kom til avstemning i salen
+
+SB 903 fra 2024 skulle stoppe salg av vanlige varer med tilsatt PFAS, med noen unntak. På stemmesiden vi leste, er det ingen avstemning i senatet eller forsamlingen som helhet. Den kom bare til utvalg. Miljøutvalget sa ja med 4 mot 2. Bevilgningsutvalget la den i en venteliste, 5 mot 0.
+
+AB 2247 fra 2023–24, som vi åpnet først, handler om campingvogner. Den hører ikke hjemme i denne listen.
 
 <details>
 <summary>For journalister</summary>
@@ -28,6 +38,10 @@ SB 1044, senatet 30. august 2020, 39–0. Arkiv: http://web.archive.org/web/2025
 AB 1817, senatet 29. august 2022, 28–8. Nei inkluderer Grove. Arkiv: http://web.archive.org/web/20250525034750/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB1817
 
 AB 756, senatet 5. juli 2019, 21–3. Arkiv: http://web.archive.org/web/20250321182546/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201920200AB756
+
+AB 2771, sminke og PFAS. Senatet 22. august 2022, 31–7. Arkiv: http://web.archive.org/web/20250525035018/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220AB2771
+
+SB 903, ingen sal-avstemning på stemmesiden. Utvalg 3. og 29. april 2024. Arkiv: http://web.archive.org/web/20250208230647/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SB903
 
 AB 2247 (2023–24) tittel: Mobilehome Parks Act. Ikke PFAS. Arkiv: http://web.archive.org/web/20240622140511/https://www.leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB2247
 </details>

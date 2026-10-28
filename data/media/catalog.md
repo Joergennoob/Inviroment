@@ -22,7 +22,15 @@ KVIE-filmen under drikkevann ligger i samme dal, men handler om vann, ikke om lu
 
 ## Olje og gass nær boliger
 
-Ingen beboerfilm eller dokumentar om 3 200-fotssonen er bekreftet med oEmbed i denne runden.
+**The Fight to End Oil Drilling in Los Angeles.** PBS SoCal, Earth Focus. [Video](https://www.youtube.com/watch?v=XWBcCI4J9fI). oEmbed bekreftet tittel og kanal 28. oktober 2026. Filmen handler om brønner inne i Los Angeles, ikke om Arvin eller Kern. En egen film derfra er ikke bekreftet.
+
+## Salton Sea, tillegg
+
+**Breaking Point.** Palomar Films. [Video](https://www.youtube.com/watch?v=LpTLW1ivx-Q). oEmbed bekreftet tittel og kanal. Filmen forteller om en innsjø som trekker seg tilbake, død fisk og støv. Det er filmens historie.
+
+## Grunnvann, tillegg
+
+**As drought-desperate California sinks.** PBS NewsHour, med Reveal og KQED. [Side](https://www.pbssocal.org/shows/newshour/clip/as-drought-desperate-california-sinks-risk-of-flood-rises-1451518771). Siden svarte 200. Den sier at bakken synker når grunnvann pumpes opp, og at flomfaren kan øke. Det er reportasjens påstand.
 
 ## Plantevernmidler
 
