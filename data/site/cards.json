@@ -8592,6 +8592,96 @@
       "name": "Al Muratsuchi",
       "summary": [
         {
+          "id": "plain-1",
+          "text": "Al Muratsuchi sitter i underhuset for distrikt 66 i Los Angeles fylke. Han la fram loven om luftmåling ved raffinerier.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.assembly.ca.gov/assemblymembers/member-seating-chart",
+              "title": "Member seating chart, California State Assembly",
+              "publisher": "California State Assembly",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261022205327/https://www.assembly.ca.gov/assemblymembers/member-seating-chart",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+              "title": "AB 1647, Chapter 589, Statutes of 2017",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Forsamlingen vedtok loven med 57 mot 19 i 2017.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+              "title": "AB 1647 bill history",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Han er også medforslagsstiller på loven om avstand mellom oljebrønner og boliger.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "title": "SB 1137 status",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Votes-siden for AB 1647 med enkeltnavn er ikke åpnet. Historikken gir tellingene. Derfor er det ikke skrevet om han selv stemte ja, bare at han er forfatter og at flertallet vedtok loven.",
+          "status": "not_verified",
+          "note": "billVotesClient for AB 1647 ville vise hans stemme.",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+              "title": "AB 1647 bill history",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r5-district",
+          "text": "Fortegnelsen over medlemmer viser Al Muratsuchi som representant for forsamlingsdistrikt 66 i Los Angeles fylke.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.assembly.ca.gov/assemblymembers/member-seating-chart",
+              "title": "Member seating chart, California State Assembly",
+              "publisher": "California State Assembly",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261022205327/https://www.assembly.ca.gov/assemblymembers/member-seating-chart",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
           "id": "s1",
           "text": "AB 1647, kapittel 589 av 2017, har Muratsuchi som forfatter i lovteksten.",
           "status": "confirmed",
@@ -8651,24 +8741,6 @@
               "publisher": "California Legislative Counsel",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Votes-siden for AB 1647 med enkeltnavn er ikke åpnet. Historikken gir tellingene. Derfor er det ikke skrevet om han selv stemte ja, bare at han er forfatter og at flertallet vedtok loven.",
-          "status": "not_verified",
-          "note": "billVotesClient for AB 1647 ville vise hans stemme.",
-          "sources": [
-            {
-              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
-              "title": "AB 1647 bill history",
-              "publisher": "California Legislative Counsel",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -8955,6 +9027,112 @@
       "name": "Fran Pavley",
       "summary": [
         {
+          "id": "plain-1",
+          "text": "Fran Pavley var senator for distrikt 27 da grunnvannslovene ble vedtatt i 2014. Hun la fram to av lovene og stemte ja til den ene.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+              "title": "California Legislature handbook 2013-14",
+              "publisher": "California State Assembly",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+              "title": "SB 1319 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 votes",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250314163210/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Hun var også medforslagsstiller på den tredje loven.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Hun er med her som forfatter i 2014, ikke som sittende senator i 2026.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Ingen biografi er hentet.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r5-district",
+          "text": "Lovhåndboken for 2013–14 oppgir Fran Pavley som senator for senatdistrikt 27.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+              "title": "California Legislature handbook 2013-14",
+              "publisher": "California State Assembly",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
           "id": "s1",
           "text": "Statussiden for SB 1168 og SB 1319 oppgir Pavley som lead author.",
           "status": "confirmed",
@@ -9027,24 +9205,6 @@
           ]
         }
       ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Ingen biografi er hentet.",
-          "status": "not_found",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
-              "title": "SB 1168 status",
-              "publisher": "Legislative Counsel",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
       "links": [
         {
           "rel": "bill",
@@ -9089,6 +9249,88 @@
       "type": "lawmaker",
       "name": "Lena A. Gonzalez",
       "summary": [
+        {
+          "id": "plain-1",
+          "text": "Lena Gonzalez er senator for distrikt 33, som dekker deler av Los Angeles fylke, blant annet Long Beach. Hun la fram loven om avstand mellom oljebrønner og boliger.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.senate.ca.gov/senators/33",
+              "title": "District 33 Details, Lena A. Gonzalez",
+              "publisher": "California State Senate",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154328/https://www.senate.ca.gov/senators/33",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            },
+            {
+              "url": "https://sd33.senate.ca.gov/district",
+              "title": "Senate District 33",
+              "publisher": "Office of Senator Lena A. Gonzalez",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261012231409/https://sd33.senate.ca.gov/district",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "title": "SB 1137 status",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Hun stemte ja da senatet vedtok den loven. Avstemningen var 25 mot 10.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+              "title": "SB 1137 bill votes",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Distriktet dekker Southeast Los Angeles, Long Beach og havnen, ifølge hennes egen side.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://sd33.senate.ca.gov/district",
+              "title": "Senate District 33",
+              "publisher": "Office of Senator Lena A. Gonzalez",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261012231409/https://sd33.senate.ca.gov/district",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Senatssiden oppgir at hun sitter i Environmental Quality. Komitélisten er lest som verv, ikke som en påstand om hvordan hun stemmer i komiteen.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.senate.ca.gov/senators/33",
+              "title": "District 33 Details, Lena A. Gonzalez",
+              "publisher": "California State Senate",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154328/https://www.senate.ca.gov/senators/33",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
         {
           "id": "s1",
           "text": "Senatets distriktsside oppgir Lena A. Gonzalez som senator for distrikt 33, med capitol-kontor i 1021 O Street, Suite 7510, Sacramento.",
@@ -9154,24 +9396,6 @@
           ]
         }
       ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Senatssiden oppgir at hun sitter i Environmental Quality. Komitélisten er lest som verv, ikke som en påstand om hvordan hun stemmer i komiteen.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://www.senate.ca.gov/senators/33",
-              "title": "District 33 Details, Lena A. Gonzalez",
-              "publisher": "California State Senate",
-              "retrieved": "2026-10-28",
-              "archive_url": "https://web.archive.org/web/20261028154328/https://www.senate.ca.gov/senators/33",
-              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
       "geometry": null,
       "map_features": [],
       "links": [
@@ -9211,6 +9435,96 @@
       "type": "lawmaker",
       "name": "Roger Dickinson",
       "summary": [
+        {
+          "id": "plain-1",
+          "text": "Roger Dickinson satt i underhuset for distrikt 7 da grunnvannslovene ble vedtatt. Han la fram en av de tre lovene.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+              "title": "California Legislature handbook 2013-14",
+              "publisher": "California State Assembly",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Forsamlingen vedtok loven med 47 mot 28. Hans egen stemme er ikke lest av fra stemmelisten.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "title": "AB 1739 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250309132123/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140AB1739",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Den offisielle historikken sier at han la fram en av de andre grunnvannslovene for avstemning i underhuset.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Historikklinjen for SB 1168 sier at tredje lesning i forsamlingen ble lagt frem av Dickinson. Det er en prosedyrelinje.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r5-district",
+          "text": "Lovhåndboken for 2013–14 oppgir Roger Dickinson som representant for forsamlingsdistrikt 7.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%e2%80%9314.pdf",
+              "title": "California Legislature handbook 2013-14",
+              "publisher": "California State Assembly",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251211235843/https://www.assembly.ca.gov/sites/assembly.ca.gov/files/Publications/Legislative%20Handbook%202013%E2%80%9314.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
         {
           "id": "s1",
           "text": "Statussiden for AB 1739 oppgir Dickinson som lead author.",
@@ -9255,24 +9569,6 @@
               "publisher": "Legislative Counsel",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260917214802/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140AB1739",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Historikklinjen for SB 1168 sier at tredje lesning i forsamlingen ble lagt frem av Dickinson. Det er en prosedyrelinje.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
-              "title": "SB 1168 history",
-              "publisher": "Legislative Counsel",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]

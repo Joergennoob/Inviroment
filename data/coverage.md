@@ -25,12 +25,12 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `firm-greenberg-traurig` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 4/4 | 1 |
 | `firm-leacox` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 4/4 | 1 |
 | `firm-pillsbury` | lobbying_firm | sjekket | sjekket | mangler | mangler | mangler | 4/4 | 1 |
-| `lawmaker-al-muratsuchi` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 5/5 | 1 |
+| `lawmaker-al-muratsuchi` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 10/10 | 1 |
 | `lawmaker-bill-monning` | lawmaker | sjekket | mangler | mangler | sjekket | mangler | 5/5 | 1 |
 | `lawmaker-cristina-garcia` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 5/5 | 1 |
-| `lawmaker-fran-pavley` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 6/6 | 1 |
-| `lawmaker-lena-gonzalez` | lawmaker | sjekket | mangler | sjekket | sjekket | mangler | 5/5 | 1 |
-| `lawmaker-roger-dickinson` | lawmaker | sjekket | mangler | mangler | sjekket | mangler | 4/4 | 1 |
+| `lawmaker-fran-pavley` | lawmaker | sjekket | mangler | mangler | mangler | mangler | 13/13 | 1 |
+| `lawmaker-lena-gonzalez` | lawmaker | sjekket | mangler | sjekket | sjekket | mangler | 10/10 | 1 |
+| `lawmaker-roger-dickinson` | lawmaker | sjekket | mangler | mangler | sjekket | mangler | 9/9 | 1 |
 | `org-berry` | organization | sjekket | sjekket | sjekket | mangler | mangler | 5/5 | 1 |
 | `org-calgem` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
 | `org-carb` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |

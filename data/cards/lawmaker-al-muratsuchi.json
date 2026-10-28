@@ -4,6 +4,96 @@
   "name": "Al Muratsuchi",
   "summary": [
     {
+      "id": "plain-1",
+      "text": "Al Muratsuchi sitter i underhuset for distrikt 66 i Los Angeles fylke. Han la fram loven om luftmåling ved raffinerier.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/member-seating-chart",
+          "title": "Member seating chart, California State Assembly",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022205327/https://www.assembly.ca.gov/assemblymembers/member-seating-chart",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        },
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647, Chapter 589, Statutes of 2017",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Forsamlingen vedtok loven med 57 mot 19 i 2017.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Han er også medforslagsstiller på loven om avstand mellom oljebrønner og boliger.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+          "title": "SB 1137 status",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920055105/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Votes-siden for AB 1647 med enkeltnavn er ikke åpnet. Historikken gir tellingene. Derfor er det ikke skrevet om han selv stemte ja, bare at han er forfatter og at flertallet vedtok loven.",
+      "status": "not_verified",
+      "note": "billVotesClient for AB 1647 ville vise hans stemme.",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "title": "AB 1647 bill history",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r5-district",
+      "text": "Fortegnelsen over medlemmer viser Al Muratsuchi som representant for forsamlingsdistrikt 66 i Los Angeles fylke.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.assembly.ca.gov/assemblymembers/member-seating-chart",
+          "title": "Member seating chart, California State Assembly",
+          "publisher": "California State Assembly",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20261022205327/https://www.assembly.ca.gov/assemblymembers/member-seating-chart",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
       "id": "s1",
       "text": "AB 1647, kapittel 589 av 2017, har Muratsuchi som forfatter i lovteksten.",
       "status": "confirmed",
@@ -63,24 +153,6 @@
           "publisher": "California Legislative Counsel",
           "retrieved": "2026-10-28",
           "archive_url": "http://web.archive.org/web/20260710160257/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB1647",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-        }
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "Votes-siden for AB 1647 med enkeltnavn er ikke åpnet. Historikken gir tellingene. Derfor er det ikke skrevet om han selv stemte ja, bare at han er forfatter og at flertallet vedtok loven.",
-      "status": "not_verified",
-      "note": "billVotesClient for AB 1647 ville vise hans stemme.",
-      "sources": [
-        {
-          "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
-          "title": "AB 1647 bill history",
-          "publisher": "California Legislative Counsel",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20250919093419/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201720180AB1647",
           "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
