@@ -2,10 +2,12 @@
 
 import { useEffect, useRef } from "react";
 import type { GeoJSONSource, Map as MlMap } from "maplibre-gl";
+import { explainPlacement } from "@/lib/words";
 
 export type Placement = {
   cardId: string;
   name: string;
+  layer: string;
   sourceName: string;
   sourceRecordId: string;
   sourceUrl: string;
@@ -107,6 +109,7 @@ export default function MapCanvas({ enabled, summaries, onSelect }: Props) {
         const placement: Placement = {
           cardId: String(properties.card_id),
           name: String(properties.name ?? ""),
+          layer: String(properties.layer ?? ""),
           sourceName: String(properties.source_name ?? ""),
           sourceRecordId: String(properties.source_record_id ?? ""),
           sourceUrl: String(properties.source_url ?? ""),
@@ -218,12 +221,19 @@ export default function MapCanvas({ enabled, summaries, onSelect }: Props) {
             map.on("click", spec.id, (event) => {
               const properties = event.features?.[0]?.properties;
               if (!properties) return;
-              const value = properties.value === "" || properties.value == null ? "" : ` Verdi: ${properties.value} ${properties.value_label ?? ""}.`;
-              const plain = summariesRef.current[String(properties.card_id ?? "")] ?? "";
+              const cardLine = (summariesRef.current[String(properties.card_id ?? "")] ?? "").split(/(?<=\.)\s/)[0] ?? "";
+              const explained = explainPlacement({
+                featureName: String(properties.name ?? ""),
+                sourceName: String(properties.source_name ?? ""),
+                recordId: String(properties.source_record_id ?? ""),
+                note: String(properties.source_note ?? ""),
+                layer: spec.id,
+              });
+              const value = properties.value === "" || properties.value == null ? "" : `${properties.value} ${properties.value_label ?? ""}`.trim();
               popup
                 .setLngLat(event.lngLat)
                 .setHTML(
-                  `<strong>${escapeHtml(String(properties.name ?? ""))}</strong><div>${escapeHtml(plain)}</div><div>${escapeHtml(value)}</div><div><strong>Kilde for plassering.</strong> ${escapeHtml(String(properties.source_note ?? ""))} ${escapeHtml(String(properties.source_name ?? ""))}, post ${escapeHtml(String(properties.source_record_id ?? ""))}. <a href="${escapeHtml(String(properties.source_url ?? ""))}" target="_blank" rel="noreferrer">Kildelenke</a>. Hentet ${escapeHtml(String(properties.source_retrieved ?? ""))}.</div>`,
+                  `<strong>${escapeHtml(explained.headline)}</strong>${cardLine ? `<div>${escapeHtml(cardLine)}</div>` : ""}<div><strong>Hvorfor ligger dette her?</strong> ${escapeHtml(explained.plain)}</div><details><summary>For journalister: tekniske detaljer</summary><div>${escapeHtml(String(properties.name ?? ""))}. ${escapeHtml(String(properties.source_note ?? ""))} ${escapeHtml(String(properties.source_name ?? ""))}, post ${escapeHtml(String(properties.source_record_id ?? ""))}.${value ? ` Verdi: ${escapeHtml(value)}.` : ""} <a href="${escapeHtml(String(properties.source_url ?? ""))}" target="_blank" rel="noreferrer">Kildelenke</a>. Hentet ${escapeHtml(String(properties.source_retrieved ?? ""))}.</div></details>`,
                 )
                 .addTo(map);
               show(properties);
