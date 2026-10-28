@@ -4,9 +4,9 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 
 | Kort | Type | Primærpåstand | Lobby | Kampanjebidrag | Stemmer | Plassering | Arkiv | Åpne spørsmål |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| `ca-problem-south-coast-air` | problem | sjekket | mangler | sjekket | mangler | sjekket | 10/10 | 2 |
-| `ca-problem-san-joaquin-air` | problem | sjekket | mangler | mangler | mangler | sjekket | 12/12 | 2 |
-| `ca-problem-drinking-water` | problem | sjekket | sjekket | mangler | sjekket | sjekket | 12/12 | 1 |
+| `ca-problem-south-coast-air` | problem | sjekket | mangler | sjekket | mangler | sjekket | 18/19 | 2 |
+| `ca-problem-san-joaquin-air` | problem | sjekket | mangler | mangler | mangler | sjekket | 24/25 | 2 |
+| `ca-problem-drinking-water` | problem | sjekket | sjekket | mangler | sjekket | sjekket | 20/21 | 1 |
 | `ca-problem-oil-gas-proximity` | problem | sjekket | sjekket | mangler | sjekket | sjekket | 13/14 | 1 |
 | `ca-problem-pesticides` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 11/11 | 2 |
 | `ca-problem-salton-sea` | problem | sjekket | sjekket | sjekket | mangler | sjekket | 10/10 | 2 |

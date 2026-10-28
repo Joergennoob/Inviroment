@@ -24,31 +24,31 @@ Tijuana-elva: EPA beskriver urenset avløpsvann over grensen, med i snitt 109 mi
 
 ### 1. Ozon og PM2.5 i South Coast Air Basin
 
-- EPA fører Los Angeles-South Coast Air Basin som Serious nonattainment for PM2.5-standarden fra 2012, med 2010-befolkning 15 716 242 i fire fylker og årsdesignverdi 13,2 for 2023-2025.
-- South Coast AQMD skriver at bassenget er i extreme nonattainment for 8-timers ozonstandarden fra 2015, og at 2022-planen legger opp til å nå standarden i 2037.
-- I 2018-regnskapet som AQMD bruker i 2025-dokumentet, sto vegtrafikk for 44 prosent av NOx, tunge lastebiler for 27 prosent av all NOx, og stasjonære kilder for 15 prosent.
-- Census tract 6037204920 i Los Angeles County har CalEnviroScreen 4.0-score 82,39 og persentil 99,97, med ACS 2015-2019-befolkning 2 751. Det er ett høyt belastet område, ikke hele bassenget.
-- Lav fødselsvekt i tract 6037204920 er 7,11 (prosent i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 90.9. Det er merkbart høyt.
+- Luften rundt Los Angeles er for skitten til å klare den føderale grensen for ren luft. EPA regnet med om lag 16 millioner mennesker i området i 2010. Mye av forurensningen kommer fra biler og tunge lastebiler, og raffinerier er blant de største faste utslippene.
+- Området klarer ikke grensen for fint svevestøv, de minste partiklene i luften. Målingen ligger på 13,2. Det klarer heller ikke grensen for bakkenær ozon, en gass som irriterer lungene.
+- I 2018 sto tunge lastebiler for 27 prosent av NOx, en gass som er med på å lage både ozon og støv. Veitrafikk sto for 44 prosent.
+- I ett boligområde i Los Angeles er andelen barn født med lav vekt høyere enn i 90 av 100 områder i California. Vi vet ikke om luften er årsaken.
+- Når hele luftområdet sammenlignes med resten av California, er ikke astma eller kols, en lungesykdom, høyere. Vi vet ikke om luften er årsaken til sykdom der tallene likevel skiller seg ut.
 
 Kort: `ca-problem-south-coast-air`.
 
 ### 2. Ozon og PM2.5 i San Joaquin Valley
 
-- EPA fører San Joaquin Valley som Serious nonattainment for PM2.5-standarden fra 2012, med 2010-befolkning 3 842 165 i åtte fylker og årsdesignverdi 13,7 for 2023-2025. Det er høyere enn South Coast sin 13,2 i samme tabell.
-- EPA skrev i 2026 at dalen har de høyeste årlige PM2.5-nivåene i landet, og at området er over 23 000 square miles i åtte fylker, med om lag fire millioner innbyggere og landets ledende jordbruksregion.
-- EPA fastslo at San Joaquin Valley ikke nådde 1997-ozonstandarden innen fristen 15. juni 2024 for et Extreme-område. Vedtaket trådte i kraft 27. oktober 2025.
-- Census tract 6019001100 har den høyeste CalEnviroScreen 4.0-scoren i uttrekket, 93,18 og persentil 100, med 2 780 innbyggere i ACS 2015-2019 og PM2.5-indikator 13,91.
-- Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001100 er 129,5 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 97.2. Det er merkbart høyt.
+- I den lange jordbruksdalen fra Stockton til Bakersfield er luften den skitneste i USA, målt som fint svevestøv. EPA regnet med om lag 4 millioner mennesker der i 2010. Dalen har bedt om mer tid til å klare grensen, til slutten av 2030.
+- Området klarer ikke grensen for fint svevestøv, og heller ikke en eldre grense for ozon. Støvmålingen er høyere enn i Los Angeles-området.
+- Dalfeber, en sykdom man kan få av sopp i støv, er langt vanligere her. I Kern fylke var raten om lag 14 ganger så høy som i hele California i 2022.
+- I selve luftområdet er andelen voksne uten videregående skole om lag halvannen gang så høy som i resten av California. Vi vet ikke om luften er årsaken.
+- I ett boligområde i Fresno er astmabesøk på legevakt verre enn i 97 av 100 områder i California. For hele dalen er astmatallene høyere, men ikke dobbelt så høye. Vi vet ikke om luften er årsaken.
 
 Kort: `ca-problem-san-joaquin-air`.
 
 ### 3. Drikkevannssystemer som ikke oppfyller standard
 
-- I 2025 Needs Assessment, med tall per 31. desember 2024, var 390 offentlige vannsystemer på Failing-listen. De betjente 811 964 mennesker.
-- Samme rapport sier at om lag 79 prosent av systemene på Failing-listen betjener disadvantaged communities, og 52 prosent betjener samfunn der flertallet er people of color.
-- De forurensningene som i 2024 bidro til flest systemer på Failing-listen for primære grenseverdier, var arsen, 1,2,3-triklorpropan og nitrat eller nitrat pluss nitritt. Det var de samme som i 2023.
-- Rapporten sier også at 98 prosent av befolkningen i 2024 fikk vann fra systemer som oppfylte drikkevannsstandardene, og at 589 systemer var at-risk og betjente 1 490 776 mennesker.
-- Astma, aldersjusterte akuttmottak per 10 000 i tract 6019001500 er 101,7 (besøk i CalEnviroScreen 4.0). Persentilen mot alle California-tract er 93.1. Det er merkbart høyt.
+- Noen offentlige vannverk leverer vann som bryter helsereglene. Ved utgangen av 2024 gjaldt det 390 verk og om lag 800 000 mennesker. De vanligste grunnene var arsen, et industrikjemikalie og nitrat. Gjødsel er den største kilden til nitrat i grunnvannet i de hardest rammede jordbruksdalene.
+- Om lag 8 av 10 slike verk ligger i områder staten kaller økonomisk vanskeligstilte. Halvparten ligger i områder der de fleste innbyggerne ikke er hvite.
+- De aller fleste i California, 98 prosent, fikk likevel vann som holdt mål i 2024. Om lag 1,5 millioner mennesker var på verk som staten sier står i fare.
+- En nyere liste fra oktober 2026 har 416 verk. Deres eget folketall er om lag 430 000. Det er ikke det samme tallet som 800 000 fra 2024, fordi listen endrer seg.
+- Der verkene som feiler ligger, er det flere uten videregående skole enn hos verk som holder mål. Vi vet ikke om vannet er årsaken.
 
 Kort: `ca-problem-drinking-water`.
 
