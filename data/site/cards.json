@@ -765,6 +765,96 @@
       "name": "SB 1168 (2013-2014), grunnvann",
       "summary": [
         {
+          "id": "plain-1",
+          "text": "Dette er hovedloven fra 2014 om at grunnvann ikke skal tappes for hardt. Fran Pavley la den fram, og hun stemte selv ja.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250321055920/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 votes",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250314163210/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Senatet stemte 25 mot 10 da loven ble ferdig. Forsamlingen stemte 47 mot 27.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Chevron, Aera og oljeorganisasjonen deres skrev ikke denne loven på skjemaene vi leste. En grunnvannsforening og en miljøorganisasjon gjorde det. Ingen skrev om de var for eller mot.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Første senatsvotering 27. mai 2014 var 24 mot 12.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "title": "SB 1168 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r3-sb1168-lobby",
+          "text": "SB 1168 står ikke i WSPA-, Chevron- eller Aera-tekstene fra 2014 som er lest. Den står hos andre filere, blant dem Groundwater Resources Association, filing 1906459, og Planning and Conservation League, filing 1909151, uten at teksten sier posisjon.",
+          "status": "confirmed",
+          "note": "Fraværet gjelder de leste vedleggene og aktivitetslinjene, ikke alle mulige vedlegg i sesjonen.",
+          "sources": [
+            {
+              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
           "id": "s1",
           "text": "SB 1168, kapittel 346, godkjent 16. september 2014. Forfatter på statussiden er Pavley. Loven legger til del 2.74 i Water Code.",
           "status": "confirmed",
@@ -829,40 +919,6 @@
           ]
         }
       ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Første senatsvotering 27. mai 2014 var 24 mot 12.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
-              "title": "SB 1168 history",
-              "publisher": "Legislative Counsel",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250315214258/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1168",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        },
-        {
-          "id": "r3-sb1168-lobby",
-          "text": "SB 1168 står ikke i WSPA-, Chevron- eller Aera-tekstene fra 2014 som er lest. Den står hos andre filere, blant dem Groundwater Resources Association, filing 1906459, og Planning and Conservation League, filing 1909151, uten at teksten sier posisjon.",
-          "status": "confirmed",
-          "note": "Fraværet gjelder de leste vedleggene og aktivitetslinjene, ikke alle mulige vedlegg i sesjonen.",
-          "sources": [
-            {
-              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
-              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
-              "publisher": "California Secretary of State",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
       "links": [
         {
           "rel": "problem",
@@ -902,6 +958,88 @@
       "type": "bill",
       "name": "SB 1319 (2013-2014), grunnvann",
       "summary": [
+        {
+          "id": "plain-1",
+          "text": "Dette er en søsterlov til grunnvannsloven fra 2014. Fran Pavley la den fram.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+              "title": "SB 1319 status",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250714111351/https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201320140SB1319",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Senatet stemte 24 mot 10. Forsamlingen stemte 48 mot 26.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+              "title": "SB 1319 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Oljeorganisasjonen WSPA, Chevron og Aera skrev at de jobbet med loven. Skjemaene sier ikke om de var for eller mot.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Senatets tredje lesning 28. mai 2014 var 23 mot 12.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+              "title": "SB 1319 history",
+              "publisher": "Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r3-sb1319-lobby",
+          "text": "WSPA lister SB 1319 i vedlegg A for fire kvartaler i 2014, filing 1844606, 1872113, 1911643 og 1931993. Aera lister den i filing 1869215 og 1909234. Chevron lister den i filing 1872856. Ingen av tekstene sier støtte eller motstand.",
+          "status": "confirmed",
+          "note": "Andre filere, blant dem Groundwater Resources Association of California i filing 1906459, lister også loven. Det er ikke tatt med som en full klientliste.",
+          "sources": [
+            {
+              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
         {
           "id": "s1",
           "text": "SB 1319, kapittel 348, godkjent 16. september 2014. Forfatter er Pavley. Loven endrer Water Code avsnitt 10735.2 og 10735.8.",
@@ -946,40 +1084,6 @@
               "publisher": "California Secretary of State",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Senatets tredje lesning 28. mai 2014 var 23 mot 12.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
-              "title": "SB 1319 history",
-              "publisher": "Legislative Counsel",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250511210628/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201320140SB1319",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        },
-        {
-          "id": "r3-sb1319-lobby",
-          "text": "WSPA lister SB 1319 i vedlegg A for fire kvartaler i 2014, filing 1844606, 1872113, 1911643 og 1931993. Aera lister den i filing 1869215 og 1909234. Chevron lister den i filing 1872856. Ingen av tekstene sier støtte eller motstand.",
-          "status": "confirmed",
-          "note": "Andre filere, blant dem Groundwater Resources Association of California i filing 1906459, lister også loven. Det er ikke tatt med som en full klientliste.",
-          "sources": [
-            {
-              "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
-              "title": "CAL-ACCESS raw data export, tables TEXT_MEMO_CD, CVR_LOBBY_DISCLOSURE_CD and LEMP_CD",
-              "publisher": "California Secretary of State",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -1031,7 +1135,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "SB 200, kapittel 120 av 2019, forfatter Monning, oppretter Safe and Affordable Drinking Water Fund og viser til retten til trygt drikkevann.",
+          "text": "Dette er loven som opprettet et fond for trygt drikkevann. Bill Monning la den fram i 2019.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -1047,7 +1151,7 @@
         },
         {
           "id": "s2",
-          "text": "Senatet samtykket 8. juli 2019 med 38 mot 1, med hasteklausul. Forsamlingen vedtok 5. juli 2019 med 68 mot 0. Guvernøren godkjente 24. juli 2019.",
+          "text": "Senatet stemte 38 mot 1. Forsamlingen stemte 68 mot 0. Nesten alle var enige.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -1063,7 +1167,7 @@
         },
         {
           "id": "s3",
-          "text": "State Water Board skriver at loven setter av fem prosent av klimafondet, maks 130 millioner dollar i året, til 30. juni 2030.",
+          "text": "Fondet får inntil om lag 130 millioner dollar i året fra klimakvoten, fram til midten av 2030.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -1079,7 +1183,7 @@
         },
         {
           "id": "s4",
-          "text": "Needs Assessment er et produkt av dette programmet og teller failing-systemene.",
+          "text": "Listen over vannverk som ikke holder mål, er en del av dette programmet.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -1107,6 +1211,70 @@
               "publisher": "California Legislative Counsel",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "SB 200, kapittel 120 av 2019, forfatter Monning, oppretter Safe and Affordable Drinking Water Fund og viser til retten til trygt drikkevann.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+              "title": "SB 200, Chapter 120, Statutes of 2019",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260618041359/https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=201920200SB200",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Senatet samtykket 8. juli 2019 med 38 mot 1, med hasteklausul. Forsamlingen vedtok 5. juli 2019 med 68 mot 0. Guvernøren godkjente 24. juli 2019.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+              "title": "SB 200 bill history",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260513214152/https://leginfo.legislature.ca.gov/faces/billHistoryClient.xhtml?bill_id=201920200SB200",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "State Water Board skriver at loven setter av fem prosent av klimafondet, maks 130 millioner dollar i året, til 30. juni 2030.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.waterboards.ca.gov/safer/docs/safer_program_legislative_history.pdf",
+              "title": "SAFER legislative history",
+              "publisher": "State Water Board",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260812021807/https://www.waterboards.ca.gov/safer/docs/safer_program_legislative_history.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s4",
+          "text": "Needs Assessment er et produkt av dette programmet og teller failing-systemene.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+              "title": "2025 Drinking Water Needs Assessment",
+              "publisher": "State Water Resources Control Board",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
