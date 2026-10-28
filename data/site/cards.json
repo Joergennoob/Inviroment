@@ -10055,7 +10055,57 @@
       "name": "California Geologic Energy Management Division",
       "summary": [
         {
-          "id": "s1",
+          "id": "plain-1",
+          "text": "CalGEM er delstatens tilsyn med olje- og gassbrønner. De fører regnskap over hvor oljen pumpes.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+              "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+              "publisher": "CalGEM",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "I 2023 kom det meste av oljen fra Kern fylke, om lag 90 millioner fat. Los Angeles fylke hadde om lag 9 millioner fat.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+              "title": "Annual Report of the State Oil and Gas Supervisor 2023",
+              "publisher": "CalGEM",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "De beskriver at loven om avstand til boliger ble stanset av et folkeavstemningsforslag og begynte å gjelde igjen i 2024.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+              "title": "SB 1137 Initial Statement of Reasons",
+              "publisher": "CalGEM",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251120154616/https://www.conservation.ca.gov/calgem/Documents/SB%201137%20Initial%20Statement%20of%20Reasons.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "org-calgem-c1",
           "text": "Årsrapporten for 2023 er avgitt etter Public Resources Code avsnitt 3108 og gir olje og gass per fylke.",
           "status": "confirmed",
           "note": "",
@@ -10103,24 +10153,6 @@
           ]
         }
       ],
-      "claims": [
-        {
-          "id": "org-calgem-c1",
-          "text": "Årsrapporten for 2023 er avgitt etter Public Resources Code avsnitt 3108 og gir olje og gass per fylke.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
-              "title": "Annual Report of the State Oil and Gas Supervisor 2023",
-              "publisher": "CalGEM",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20261022212513/https://www.conservation.ca.gov/calgem/Documents/State%20Oil%20and%20Gas%20Supervisor%20Annual%20Report%202023.pdf",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
       "geometry": null,
       "map_features": [],
       "links": [
@@ -10151,7 +10183,57 @@
       "name": "California Air Resources Board",
       "summary": [
         {
-          "id": "s1",
+          "id": "plain-1",
+          "text": "CARB er delstatens lufttilsyn. De har ansvar for utslipp fra biler og lastebiler. De lokale luftkontorene tar faste anlegg.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+              "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "De regnet ut at gasslekkasjen ved Aliso Canyon var om lag 100 000 tonn metan.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+              "title": "Determination of Total Methane Emissions from the Aliso Canyon Natural Gas Leak Incident, 21. oktober 2016",
+              "publisher": "California Air Resources Board",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250929083350/https://ww2.arb.ca.gov/sites/default/files/2020-07/aliso_canyon_methane_emissions-arb_final.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "De har også ansvar for en lov om ekstra oppfølging av lufta i nabolag med mye forurensning.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+              "title": "AB 617, Chapter 136, Statutes of 2017",
+              "publisher": "California Legislative Counsel",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "org-carb-c1",
           "text": "EPA skriver at CARB vurderer mobile kilder i San Joaquin Valley, og at CARB vedtok 2024 PM2.5-planen 25. juli 2024.",
           "status": "confirmed",
           "note": "",
@@ -10195,24 +10277,6 @@
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260925233740/https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=201720180AB617",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
-      "claims": [
-        {
-          "id": "org-carb-c1",
-          "text": "EPA skriver at CARB vurderer mobile kilder i San Joaquin Valley, og at CARB vedtok 2024 PM2.5-planen 25. juli 2024.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
-              "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
-              "publisher": "US EPA",
-              "retrieved": "2026-10-28",
-              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
-              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -11195,7 +11259,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Green Book, oppdatert 30. september 2026, er kilden til nonattainment-klassene og 2010-befolkningen for South Coast, San Joaquin Valley og Imperial.",
+          "text": "EPA er det føderale miljøtilsynet. De sier hvilke områder som ikke klarer grensen for ren luft, og hvor mange som bodde der i 2010.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11211,7 +11275,7 @@
         },
         {
           "id": "s2",
-          "text": "EPA fastslo i 2025 at San Joaquin Valley ikke nådde 1997-ozonstandarden, og omtalte i 2026 dalens årlige PM2.5 som de høyeste i landet.",
+          "text": "De skrev i 2025 at San Joaquin-dalen ikke klarte en eldre ozongrense, og i 2026 at dalen har landets høyeste nivå av fint svevestøv, de minste partiklene i luften.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11235,7 +11299,7 @@
         },
         {
           "id": "s3",
-          "text": "ECHO og FRS er kildene til anleggsnavn, registry-id, koordinater og compliance-status for raffineriene og Aliso Canyon.",
+          "text": "De har også anleggsregisteret som gir kartpunkt for raffinerier og gasslageret Aliso Canyon.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11272,6 +11336,54 @@
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260516043021/https://www3.epa.gov/airquality/greenbook/rncl2.html",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "EPA fastslo i 2025 at San Joaquin Valley ikke nådde 1997-ozonstandarden, og omtalte i 2026 dalens årlige PM2.5 som de høyeste i landet.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.federalregister.gov/documents/2025/09/25/2025-18636/finding-of-failure-to-attain-the-1997-8-hour-ozone-standards-california-san-joaquin-valley",
+              "title": "Ozone failure finding",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260317220649/https://www.federalregister.gov/documents/2025/09/25/2025-18636/finding-of-failure-to-attain-the-1997-8-hour-ozone-standards-california-san-joaquin-valley",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+              "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "ECHO og FRS er kildene til anleggsnavn, registry-id, koordinater og compliance-status for raffineriene og Aliso Canyon.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+              "title": "ECHO facility info, registry 110002899908",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028162604/https://echodata.epa.gov/echo/echo_rest_services.get_facility_info?p_frs=110002899908&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            },
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+              "title": "FRS facility CHEVRON EL SEGUNDO REFINERY",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154154/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=CHEVRON%20EL%20SEGUNDO%20REFINERY&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
             }
           ]
         }
@@ -12270,7 +12382,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Distriktet skriver at South Coast Air Basin er i extreme nonattainment for 2015-ozonstandarden.",
+          "text": "Dette er luftkontoret for området rundt Los Angeles. De sier at området ikke klarer grensen for ozon, en gass som irriterer lungene.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12286,7 +12398,7 @@
         },
         {
           "id": "s2",
-          "text": "I 2018-regnskapet i samme dokument sto tunge lastebiler for 27 prosent av NOx, og petroleumsraffinering var blant de største stasjonære NOx-kildene etter brensel i bygninger.",
+          "text": "I 2018 sto tunge lastebiler for 27 prosent av NOx, en gass som er med på å lage ozon. Raffinering var blant de største faste kildene, etter fyring i bygninger.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12302,7 +12414,7 @@
         },
         {
           "id": "s3",
-          "text": "Distriktet publiserte 2015-målingene av seks raffinerier. Anleggene er anonymisert som A til F i sammendraget.",
+          "text": "De har målt utslipp ved seks raffinerier, men kalte anleggene A til F i sammendraget. Vi kan derfor ikke si hvilket tall som hører til hvilket selskap.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12330,6 +12442,38 @@
               "publisher": "South Coast AQMD",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20251111112546/https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "I 2018-regnskapet i samme dokument sto tunge lastebiler for 27 prosent av NOx, og petroleumsraffinering var blant de største stasjonære NOx-kildene etter brensel i bygninger.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+              "title": "South Coast Air Basin Contingency Measure SIP Revision for the 2015 8-Hour Ozone NAAQS",
+              "publisher": "South Coast AQMD",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20251111112546/https://www.aqmd.gov/docs/default-source/default-document-library/sc-contingency-measures-finalcb7e02f0c2b66f27bf6fff02004a91a9.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Distriktet publiserte 2015-målingene av seks raffinerier. Anleggene er anonymisert som A til F i sammendraget.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
+              "title": "FluxSense refinery report",
+              "publisher": "South Coast AQMD",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260223115343/https://www.aqmd.gov/docs/default-source/fenceline_monitoring/project_1/fluxsense_scaqmd2015_project1_finalreport(040717).pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
