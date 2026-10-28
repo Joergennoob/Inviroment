@@ -11077,7 +11077,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "DPR publiserer den årlige bruksrapporten. For 2022 er totalsummen 181 millioner pund aktive stoffer.",
+          "text": "Dette er delstatens tilsyn med sprøytemidler. I 2022 ble det brukt om lag 180 millioner pund virksomt stoff.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11093,7 +11093,7 @@
         },
         {
           "id": "s2",
-          "text": "Fylkes-PDF-en gir pund, søknader og behandlede acre. Fresno, Kern og Tulare er de tre høyeste pundtallene som er lest.",
+          "text": "Fresno, Kern og Tulare hadde de høyeste pundtallene i fylkeslisten.",
           "status": "confirmed",
           "note": "At de er de tre høyeste i hele fylkeslisten, er sjekket mot de fylkene som står i PDF-en som ble hentet.",
           "sources": [
@@ -11109,7 +11109,7 @@
         },
         {
           "id": "s3",
-          "text": "Rapporten sier at pounds applied vektlegger midler som brukes i store mengder, som svovel, olje og fumiganter, og at acres treated kan være høyere enn dyrket areal fordi samme åker telles flere ganger.",
+          "text": "Pundtallet trekker opp stoffer som brukes i store mengder, som svovel. Det samme jordet kan telles flere ganger. Pund er ikke det samme som hvor giftig stoffet er.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11128,6 +11128,38 @@
         {
           "id": "org-dpr-c1",
           "text": "DPR publiserer den årlige bruksrapporten. For 2022 er totalsummen 181 millioner pund aktive stoffer.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+              "title": "Pesticide Use Annual Report 2022 Data Summary",
+              "publisher": "California Department of Pesticide Regulation",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250928034349/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/pur_2022_data_summary.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Fylkes-PDF-en gir pund, søknader og behandlede acre. Fresno, Kern og Tulare er de tre høyeste pundtallene som er lest.",
+          "status": "confirmed",
+          "note": "At de er de tre høyeste i hele fylkeslisten, er sjekket mot de fylkene som står i PDF-en som ble hentet.",
+          "sources": [
+            {
+              "url": "https://www.cdpr.ca.gov/wp-content/uploads/2024/12/2022_county_total_pounds_applied_agricultural_applications_and_acres_treated.pdf",
+              "title": "2022 pesticide pounds by county",
+              "publisher": "DPR",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250807002358/https://www.cdpr.ca.gov/wp-content/uploads/2024/12/2022_county_total_pounds_applied_agricultural_applications_and_acres_treated.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Rapporten sier at pounds applied vektlegger midler som brukes i store mengder, som svovel, olje og fumiganter, og at acres treated kan være høyere enn dyrket areal fordi samme åker telles flere ganger.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11167,7 +11199,57 @@
       "name": "Department of Water Resources",
       "summary": [
         {
-          "id": "s1",
+          "id": "plain-1",
+          "text": "Dette er delstatens vannetat. De peker ut grunnvannsbasseng som tappes for hardt.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+              "title": "Critically Overdrafted Basins",
+              "publisher": "California Department of Water Resources",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "De har pekt ut 21 slike basseng. Elleve ligger i San Joaquin-dalen.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf",
+              "title": "Critically Overdrafted Basins map",
+              "publisher": "DWR",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250630230548/https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Hvis tappingen fortsetter, kan bakken synke og saltvann komme inn i brønnene.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins",
+              "title": "i08 CriticallyOverdraftedBasins",
+              "publisher": "data.ca.gov",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250214075746/https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "org-dwr-c1",
           "text": "DWR peker ut kritisk overtrukne grunnvannsbasseng etter SGMA og publiserer definisjonen av critical overdraft.",
           "status": "confirmed",
           "note": "",
@@ -11210,24 +11292,6 @@
               "publisher": "data.ca.gov",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20250214075746/https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
-      "claims": [
-        {
-          "id": "org-dwr-c1",
-          "text": "DWR peker ut kritisk overtrukne grunnvannsbasseng etter SGMA og publiserer definisjonen av critical overdraft.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
-              "title": "Critically Overdrafted Basins",
-              "publisher": "California Department of Water Resources",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -12660,7 +12724,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "EPA skriver at distriktet etter delstatslov har hovedansvaret for å lage planer for å nå standardene i San Joaquin Valley, sammen med CARB.",
+          "text": "Dette er luftkontoret for San Joaquin-dalen. De har hovedansvaret for planene som skal få dalen innenfor grensen for ren luft.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12676,7 +12740,7 @@
         },
         {
           "id": "s2",
-          "text": "Distriktet vedtok 2024-planen for 2012-PM2.5-standarden 20. juni 2024. Planen ber om ny frist 31. desember 2030.",
+          "text": "De vedtok i 2024 en plan som ber om utsettelse til slutten av 2030 for fint svevestøv.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12692,7 +12756,7 @@
         },
         {
           "id": "s3",
-          "text": "EPA skriver at distriktet vurderte stasjonære kilder og arealkilder, mens CARB vurderte mobile kilder.",
+          "text": "De tar faste anlegg og støv fra bakken. Delstatens lufttilsyn tar biler og lastebiler.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12711,6 +12775,38 @@
         {
           "id": "org-sjvapcd-c1",
           "text": "EPA skriver at distriktet etter delstatslov har hovedansvaret for å lage planer for å nå standardene i San Joaquin Valley, sammen med CARB.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+              "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Distriktet vedtok 2024-planen for 2012-PM2.5-standarden 20. juni 2024. Planen ber om ny frist 31. desember 2030.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.federalregister.gov/documents/2026/06/11/2026-11735/attainment-date-extension-for-the-san-joaquin-valley-california-2012-annual-pm25-fine-particulate",
+              "title": "Attainment Date Extension for the San Joaquin Valley 2012 Annual PM2.5 Area",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028134815/https://unblock.federalregister.gov/",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "EPA skriver at distriktet vurderte stasjonære kilder og arealkilder, mens CARB vurderte mobile kilder.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12766,7 +12862,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "2025 Needs Assessment teller 390 failing-systemer og 811 964 mennesker per 31. desember 2024.",
+          "text": "Dette er delstatens vanntilsyn. De fører listen over vannverk som ikke holder helsereglene.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12782,7 +12878,7 @@
         },
         {
           "id": "s2",
-          "text": "Styret gir PFAS-pålegget og skriver at om lag 3 600 brønner i disadvantaged communities testes.",
+          "text": "De har også pålagt testing av kjemikaliene PFAS i drikkevannsbrønner.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12798,7 +12894,7 @@
         },
         {
           "id": "s3",
-          "text": "Salton Sea-årsrapporten er avgitt til styret etter Order WR 2017-0134.",
+          "text": "Rapporten om Salton Sea er sendt til dette styret.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12826,6 +12922,38 @@
               "publisher": "State Water Resources Control Board",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20260502092945/https://waterboards.ca.gov/drinking_water/certlic/drinkingwater/documents/needs/2025needsassessment.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Styret gir PFAS-pålegget og skriver at om lag 3 600 brønner i disadvantaged communities testes.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.waterboards.ca.gov/pfas/drinking_water.html",
+              "title": "PFAS Drinking Water",
+              "publisher": "State Water Resources Control Board",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261016194002/https://www.waterboards.ca.gov/pfas/drinking_water.html",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Salton Sea-årsrapporten er avgitt til styret etter Order WR 2017-0134.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
+              "title": "2025 Annual Report on the Salton Sea Management Program",
+              "publisher": "California Natural Resources Agency",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525074045/https://saltonsea.ca.gov/wp-content/uploads/2025/03/SSMP-2025-Annual-Report_Mar-28.pdf",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]

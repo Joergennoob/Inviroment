@@ -38,8 +38,8 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `org-cipa` | organization | sjekket | sjekket | sjekket | mangler | mangler | 4/4 | 1 |
 | `org-corteva` | organization | sjekket | sjekket | mangler | mangler | mangler | 5/5 | 1 |
 | `org-crc` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 12/12 | 1 |
-| `org-dpr` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
-| `org-dwr` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
+| `org-dpr` | organization | sjekket | mangler | mangler | mangler | mangler | 6/6 | 1 |
+| `org-dwr` | organization | sjekket | mangler | mangler | mangler | mangler | 6/6 | 1 |
 | `org-epa` | organization | sjekket | mangler | mangler | mangler | mangler | 10/10 | 1 |
 | `org-farm-bureau` | organization | sjekket | sjekket | sjekket | mangler | mangler | 5/5 | 1 |
 | `org-iid` | organization | sjekket | sjekket | sjekket | mangler | mangler | 4/4 | 1 |
@@ -49,8 +49,8 @@ Tabellen leser kortene. «Sjekket» betyr at kortet har et funn eller et tomt fe
 | `org-phillips66` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 14/19 | 1 |
 | `org-scaqmd` | organization | sjekket | mangler | mangler | mangler | mangler | 6/6 | 1 |
 | `org-sempra` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 5/5 | 1 |
-| `org-sjvapcd` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
-| `org-swrcb` | organization | sjekket | mangler | mangler | mangler | mangler | 4/4 | 1 |
+| `org-sjvapcd` | organization | sjekket | mangler | mangler | mangler | mangler | 6/6 | 1 |
+| `org-swrcb` | organization | sjekket | mangler | mangler | mangler | mangler | 6/6 | 1 |
 | `org-torrance-refining` | organization | sjekket | mangler | mangler | mangler | sjekket | 8/8 | 1 |
 | `org-valero` | organization | sjekket | sjekket | sjekket | mangler | sjekket | 8/8 | 1 |
 | `org-western-growers` | organization | sjekket | sjekket | sjekket | mangler | mangler | 4/4 | 1 |

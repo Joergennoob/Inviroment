@@ -4,6 +4,17 @@ Type: Organisasjon. Id: `org-dwr`. Oppdatert: 2026-10-28.
 
 ## Sammendrag
 
+- [bekreftet] Dette er delstatens vannetat. De peker ut grunnvannsbasseng som tappes for hardt.
+  - [Critically Overdrafted Basins](https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins) (California Department of Water Resources, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] De har pekt ut 21 slike basseng. Elleve ligger i San Joaquin-dalen.
+  - [Critically Overdrafted Basins map](https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf) (DWR, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250630230548/https://water.ca.gov/-/media/DWR-Website/Web-Pages/Programs/Groundwater-Management/Bulletin-118/Critically-Overdrafted-Basins/Files/COD-Basins.pdf. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+- [bekreftet] Hvis tappingen fortsetter, kan bakken synke og saltvann komme inn i brønnene.
+  - [i08 CriticallyOverdraftedBasins](https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins) (data.ca.gov, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250214075746/https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins. Wayback availability 2026-10-28 fant et øyeblikksbilde.
+
+## Funn
+
 - [bekreftet] DWR peker ut kritisk overtrukne grunnvannsbasseng etter SGMA og publiserer definisjonen av critical overdraft.
   - [Critically Overdrafted Basins](https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins) (California Department of Water Resources, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
@@ -12,11 +23,6 @@ Type: Organisasjon. Id: `org-dwr`. Oppdatert: 2026-10-28.
 
 - [ikke funnet] Polygonet for bassengene er ikke lastet inn i kartet.
   - [i08 CriticallyOverdraftedBasins](https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins) (data.ca.gov, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20250214075746/https://data.ca.gov/dataset/i08-criticallyoverdraftedbasins. Wayback availability 2026-10-28 fant et øyeblikksbilde.
-
-## Funn
-
-- [bekreftet] DWR peker ut kritisk overtrukne grunnvannsbasseng etter SGMA og publiserer definisjonen av critical overdraft.
-  - [Critically Overdrafted Basins](https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins) (California Department of Water Resources, hentet 2026-10-28). Arkiv: http://web.archive.org/web/20260918115628/https://water.ca.gov/programs/groundwater-management/bulletin-118/critically-overdrafted-basins. Wayback availability 2026-10-28 fant et øyeblikksbilde.
 
 ## Lenker til andre kort
 
