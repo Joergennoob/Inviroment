@@ -1,0 +1,556 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-marie-alvarado-gil",
+  "type": "lawmaker",
+  "name": "Marie Alvarado-Gil",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Marie Alvarado-Gil er republikaner. Hun er senator for et stort område med blant annet Stanislaus, Merced og fjellfylkene. Håndboken sier at hun har sittet siden desember 2022. Der står hun som republikaner.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Hun stemte nei til å la lokalsamfunn si mer om oljeboring.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB3233",
+          "title": "Stemmeliste ab3233",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250918105303/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB3233",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Hun stemte nei til loven om lager av drivstoff.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "title": "Stemmeliste abx2",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260308020621/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Valero ga 3 000 dollar til valgkampen hennes 13. februar 2023, før disse stemmene i 2024.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS LCCM_CD, uttrekk 28. oktober 2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Gaven er en rad i tabellen, koblet til giveren via regnskapsforsiden."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-groundwater-overdraft",
+      "text": "Distriktet dekker dal og fjell med grunnvann."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Nei til lokal kontroll."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-valero",
+      "text": "Gaven i 2023."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.4868,
+          37.4757
+        ],
+        [
+          -121.11,
+          37.7421
+        ],
+        [
+          -120.9934,
+          37.7609
+        ],
+        [
+          -120.9206,
+          37.7383
+        ],
+        [
+          -120.9264,
+          38.0774
+        ],
+        [
+          -121.0271,
+          38.3003
+        ],
+        [
+          -121.0274,
+          38.5081
+        ],
+        [
+          -121.119,
+          38.7179
+        ],
+        [
+          -121.1416,
+          38.7119
+        ],
+        [
+          -121.0534,
+          38.8995
+        ],
+        [
+          -120.9386,
+          38.9356
+        ],
+        [
+          -120.9373,
+          38.9637
+        ],
+        [
+          -120.8593,
+          38.952
+        ],
+        [
+          -120.7883,
+          38.9999
+        ],
+        [
+          -120.7688,
+          39.1074
+        ],
+        [
+          -120.6836,
+          39.1377
+        ],
+        [
+          -120.6704,
+          39.095
+        ],
+        [
+          -120.6386,
+          39.101
+        ],
+        [
+          -120.6077,
+          39.1852
+        ],
+        [
+          -120.5028,
+          39.1564
+        ],
+        [
+          -120.4396,
+          39.1772
+        ],
+        [
+          -120.4166,
+          39.2527
+        ],
+        [
+          -120.4539,
+          39.2586
+        ],
+        [
+          -120.4612,
+          39.321
+        ],
+        [
+          -120.3059,
+          39.3359
+        ],
+        [
+          -120.2548,
+          39.374
+        ],
+        [
+          -120.041,
+          39.3704
+        ],
+        [
+          -120.0053,
+          39.4001
+        ],
+        [
+          -120.001,
+          38.9996
+        ],
+        [
+          -117.8759,
+          37.4973
+        ],
+        [
+          -115.6484,
+          35.8092
+        ],
+        [
+          -118.0081,
+          35.7889
+        ],
+        [
+          -117.9833,
+          35.9266
+        ],
+        [
+          -118.0673,
+          36.0934
+        ],
+        [
+          -118.0593,
+          36.1701
+        ],
+        [
+          -118.1276,
+          36.2803
+        ],
+        [
+          -118.1003,
+          36.3461
+        ],
+        [
+          -118.1629,
+          36.3894
+        ],
+        [
+          -118.1412,
+          36.4209
+        ],
+        [
+          -118.2144,
+          36.4343
+        ],
+        [
+          -118.2499,
+          36.4824
+        ],
+        [
+          -118.2388,
+          36.5236
+        ],
+        [
+          -118.2912,
+          36.5593
+        ],
+        [
+          -118.2746,
+          36.5973
+        ],
+        [
+          -118.3661,
+          36.6904
+        ],
+        [
+          -118.336,
+          36.7163
+        ],
+        [
+          -118.3937,
+          36.8297
+        ],
+        [
+          -118.3622,
+          36.844
+        ],
+        [
+          -118.3608,
+          36.8877
+        ],
+        [
+          -118.4371,
+          37.0598
+        ],
+        [
+          -118.6546,
+          37.1418
+        ],
+        [
+          -118.6864,
+          37.2276
+        ],
+        [
+          -118.6653,
+          37.2619
+        ],
+        [
+          -118.716,
+          37.3282
+        ],
+        [
+          -118.7867,
+          37.3434
+        ],
+        [
+          -118.7633,
+          37.4565
+        ],
+        [
+          -118.7971,
+          37.4887
+        ],
+        [
+          -118.856,
+          37.4784
+        ],
+        [
+          -118.947,
+          37.565
+        ],
+        [
+          -119.0224,
+          37.5857
+        ],
+        [
+          -119.2867,
+          37.3749
+        ],
+        [
+          -119.3353,
+          37.3118
+        ],
+        [
+          -119.3221,
+          37.2474
+        ],
+        [
+          -119.3618,
+          37.168
+        ],
+        [
+          -119.4321,
+          37.1626
+        ],
+        [
+          -119.4748,
+          37.11
+        ],
+        [
+          -119.506,
+          37.1503
+        ],
+        [
+          -119.5608,
+          37.1429
+        ],
+        [
+          -119.5686,
+          37.1167
+        ],
+        [
+          -119.5376,
+          37.1051
+        ],
+        [
+          -119.5614,
+          37.0655
+        ],
+        [
+          -119.6049,
+          37.071
+        ],
+        [
+          -119.6211,
+          37.0266
+        ],
+        [
+          -119.6495,
+          37.0435
+        ],
+        [
+          -119.6981,
+          37.0087
+        ],
+        [
+          -119.8139,
+          36.8502
+        ],
+        [
+          -119.8868,
+          36.8591
+        ],
+        [
+          -120.0281,
+          36.8145
+        ],
+        [
+          -120.111,
+          36.8128
+        ],
+        [
+          -120.1149,
+          36.8368
+        ],
+        [
+          -120.1103,
+          36.873
+        ],
+        [
+          -120.056,
+          36.8731
+        ],
+        [
+          -120.0334,
+          36.9348
+        ],
+        [
+          -119.9867,
+          36.9378
+        ],
+        [
+          -120.0009,
+          36.9945
+        ],
+        [
+          -120.0295,
+          36.9849
+        ],
+        [
+          -120.0021,
+          37.0704
+        ],
+        [
+          -120.1203,
+          37.1475
+        ],
+        [
+          -120.0521,
+          37.1831
+        ],
+        [
+          -120.1785,
+          37.2624
+        ],
+        [
+          -120.284,
+          37.4629
+        ],
+        [
+          -120.4495,
+          37.4011
+        ],
+        [
+          -120.6678,
+          37.4039
+        ],
+        [
+          -120.6684,
+          37.3672
+        ],
+        [
+          -120.7285,
+          37.4082
+        ],
+        [
+          -120.8622,
+          37.3576
+        ],
+        [
+          -120.9401,
+          37.3691
+        ],
+        [
+          -121.2268,
+          37.1348
+        ],
+        [
+          -121.2811,
+          37.1836
+        ],
+        [
+          -121.4046,
+          37.156
+        ],
+        [
+          -121.4591,
+          37.2823
+        ],
+        [
+          -121.4058,
+          37.311
+        ],
+        [
+          -121.4091,
+          37.3807
+        ],
+        [
+          -121.4567,
+          37.3955
+        ],
+        [
+          -121.4868,
+          37.4757
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06004",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/5/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen SD 4 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": []
+}

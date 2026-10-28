@@ -1,0 +1,359 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-anna-caballero",
+  "type": "lawmaker",
+  "name": "Anna M. Caballero",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Anna M. Caballero er demokrat. Hun er senator for et område med deler av Fresno, Madera, Merced og Tulare. Håndboken sier at hun har vært i lovgiveren fra desember 2016.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Hun stemte ja til loven om avstand mellom oljebrønner og hus.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "Stemmeliste sb1137",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Hun stemte ja til å varsle skoler når det sprøytes i nærheten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "title": "Stemmeliste ab1864",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260117220802/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Hun stemte ja til drikkevannsfondet i 2019.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201920200SB200",
+          "title": "Stemmeliste sb200",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250529021927/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201920200SB200",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-san-joaquin-air",
+      "text": "Distriktet ligger i dalen."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-drinking-water",
+      "text": "Ja til fondet."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-200",
+      "text": "Ja-stemmen."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-sb-1137",
+      "text": "Ja til avstand fra brønner."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.2486,
+          37.0337
+        ],
+        [
+          -121.2082,
+          37.0613
+        ],
+        [
+          -121.2455,
+          37.0891
+        ],
+        [
+          -121.2268,
+          37.1348
+        ],
+        [
+          -120.9405,
+          37.369
+        ],
+        [
+          -120.8622,
+          37.3576
+        ],
+        [
+          -120.7285,
+          37.4082
+        ],
+        [
+          -120.6684,
+          37.3672
+        ],
+        [
+          -120.6678,
+          37.4039
+        ],
+        [
+          -120.4495,
+          37.4011
+        ],
+        [
+          -120.284,
+          37.4629
+        ],
+        [
+          -120.1785,
+          37.2624
+        ],
+        [
+          -120.0521,
+          37.1831
+        ],
+        [
+          -120.1203,
+          37.1475
+        ],
+        [
+          -120.0021,
+          37.0704
+        ],
+        [
+          -120.0295,
+          36.9849
+        ],
+        [
+          -120.0009,
+          36.9945
+        ],
+        [
+          -119.9867,
+          36.9378
+        ],
+        [
+          -120.056,
+          36.9166
+        ],
+        [
+          -120.056,
+          36.8731
+        ],
+        [
+          -120.1103,
+          36.873
+        ],
+        [
+          -120.1149,
+          36.8143
+        ],
+        [
+          -119.9323,
+          36.8433
+        ],
+        [
+          -119.8069,
+          36.7849
+        ],
+        [
+          -119.7317,
+          36.8085
+        ],
+        [
+          -119.7318,
+          36.7652
+        ],
+        [
+          -119.5561,
+          36.7646
+        ],
+        [
+          -119.5111,
+          36.699
+        ],
+        [
+          -119.2867,
+          36.7304
+        ],
+        [
+          -119.3051,
+          36.5737
+        ],
+        [
+          -119.4848,
+          36.5606
+        ],
+        [
+          -119.4842,
+          36.6188
+        ],
+        [
+          -119.5208,
+          36.6193
+        ],
+        [
+          -119.5211,
+          36.5902
+        ],
+        [
+          -119.6106,
+          36.6053
+        ],
+        [
+          -119.5569,
+          36.5021
+        ],
+        [
+          -119.6664,
+          36.4189
+        ],
+        [
+          -119.9592,
+          36.401
+        ],
+        [
+          -119.9589,
+          36.1814
+        ],
+        [
+          -120.3229,
+          35.9078
+        ],
+        [
+          -120.3604,
+          35.9644
+        ],
+        [
+          -120.4351,
+          35.9698
+        ],
+        [
+          -120.6676,
+          36.1381
+        ],
+        [
+          -120.6269,
+          36.2032
+        ],
+        [
+          -120.6797,
+          36.2467
+        ],
+        [
+          -120.6828,
+          36.2943
+        ],
+        [
+          -120.5966,
+          36.3285
+        ],
+        [
+          -120.5972,
+          36.4882
+        ],
+        [
+          -120.9337,
+          36.7519
+        ],
+        [
+          -121.1415,
+          36.8367
+        ],
+        [
+          -121.1843,
+          36.909
+        ],
+        [
+          -121.2343,
+          36.9261
+        ],
+        [
+          -121.2117,
+          36.9574
+        ],
+        [
+          -121.2486,
+          37.0337
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06014",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/5/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen SD 14 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Vi fant ingen pressemelding fra henne om disse lovene."
+  ]
+}

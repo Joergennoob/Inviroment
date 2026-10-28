@@ -1,0 +1,366 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-esmeralda-soria",
+  "type": "lawmaker",
+  "name": "Esmeralda Z. Soria",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Esmeralda Z. Soria er demokrat. Hun sitter i forsamlingen for deler av Fresno, Madera og Merced. Håndboken sier at hun har sittet siden desember 2022.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Hun stemte nei til loven om lager av drivstoff ved raffineriene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "title": "Stemmeliste abx2",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260308020621/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Hun stemte ja til å varsle skoler når det sprøytes i nærheten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "title": "Stemmeliste ab1864",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260117220802/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "California Resources ga 5 500 dollar til valgkampen hennes 28. august 2024, før nei-stemmen om drivstoff i oktober.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS LCCM_CD, uttrekk 28. oktober 2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Gaven er en rad i tabellen, koblet til giveren via regnskapsforsiden."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-pesticides",
+      "text": "Ja til varsling."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-refineries",
+      "text": "Nei til drivstofflager."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-crc",
+      "text": "Gaven i august 2024."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -121.2486,
+          37.0337
+        ],
+        [
+          -121.2082,
+          37.0613
+        ],
+        [
+          -121.2455,
+          37.0891
+        ],
+        [
+          -121.2268,
+          37.1348
+        ],
+        [
+          -121.0674,
+          37.2622
+        ],
+        [
+          -120.9943,
+          37.2384
+        ],
+        [
+          -120.939,
+          37.2984
+        ],
+        [
+          -120.8225,
+          37.3057
+        ],
+        [
+          -120.7887,
+          37.4486
+        ],
+        [
+          -120.6417,
+          37.4321
+        ],
+        [
+          -120.6313,
+          37.4039
+        ],
+        [
+          -120.4495,
+          37.4011
+        ],
+        [
+          -120.284,
+          37.4629
+        ],
+        [
+          -120.1785,
+          37.2624
+        ],
+        [
+          -120.0521,
+          37.1831
+        ],
+        [
+          -120.2899,
+          37.1526
+        ],
+        [
+          -120.3109,
+          37.12
+        ],
+        [
+          -120.2202,
+          37.1378
+        ],
+        [
+          -120.2022,
+          37.0909
+        ],
+        [
+          -120.147,
+          37.1128
+        ],
+        [
+          -120.1723,
+          37.0546
+        ],
+        [
+          -120.1102,
+          37.0038
+        ],
+        [
+          -120.0563,
+          37.0397
+        ],
+        [
+          -120.0554,
+          36.9868
+        ],
+        [
+          -120.0037,
+          36.938
+        ],
+        [
+          -120.056,
+          36.9166
+        ],
+        [
+          -120.0561,
+          36.8229
+        ],
+        [
+          -119.9061,
+          36.8502
+        ],
+        [
+          -119.8416,
+          36.8227
+        ],
+        [
+          -119.8341,
+          36.7719
+        ],
+        [
+          -119.9163,
+          36.7789
+        ],
+        [
+          -119.9343,
+          36.7425
+        ],
+        [
+          -119.9344,
+          36.6771
+        ],
+        [
+          -119.8446,
+          36.6341
+        ],
+        [
+          -119.8456,
+          36.4891
+        ],
+        [
+          -119.9994,
+          36.4883
+        ],
+        [
+          -120.0313,
+          36.459
+        ],
+        [
+          -120.0133,
+          36.4152
+        ],
+        [
+          -119.9592,
+          36.401
+        ],
+        [
+          -119.9589,
+          36.1814
+        ],
+        [
+          -120.3151,
+          35.9072
+        ],
+        [
+          -120.3604,
+          35.9644
+        ],
+        [
+          -120.5298,
+          36.0243
+        ],
+        [
+          -120.5994,
+          36.1009
+        ],
+        [
+          -120.6461,
+          36.1047
+        ],
+        [
+          -120.6721,
+          36.1632
+        ],
+        [
+          -120.6269,
+          36.2032
+        ],
+        [
+          -120.6797,
+          36.2467
+        ],
+        [
+          -120.6828,
+          36.2943
+        ],
+        [
+          -120.5966,
+          36.3285
+        ],
+        [
+          -120.5972,
+          36.4882
+        ],
+        [
+          -120.9337,
+          36.7519
+        ],
+        [
+          -121.1415,
+          36.8367
+        ],
+        [
+          -121.1843,
+          36.909
+        ],
+        [
+          -121.2343,
+          36.9261
+        ],
+        [
+          -121.2117,
+          36.9574
+        ],
+        [
+          -121.2486,
+          37.0337
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06027",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/6/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen AD 27 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Vi fant ingen melding der hun forklarer nei-stemmen om drivstoff."
+  ]
+}

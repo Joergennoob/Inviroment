@@ -1,0 +1,501 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-jeff-gonzalez",
+  "type": "lawmaker",
+  "name": "Jeff Gonzalez",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Jeff Gonzalez er republikaner. Han sitter i forsamlingen for Imperial fylke og deler av Riverside og San Bernardino, ved Salton Sea. Håndboken fører ham som medlem for distrikt 36.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Han står ikke på stemmelistene fra sommeren 2024. De avstemningene var før han satt.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "title": "Stemmeliste ab1864",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260117220802/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Oljeselskapet Marathon ga 2 500 dollar til valgkampen hans 30. september 2024, og 4 000 dollar 24. mars 2026.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "title": "CAL-ACCESS LCCM_CD, uttrekk 28. oktober 2026",
+          "publisher": "California Secretary of State",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260930110449/https://campaignfinance.cdn.sos.ca.gov/dbwebexport.zip",
+          "archive_note": "Gaven er en rad i tabellen, koblet til giveren via regnskapsforsiden."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Vi har ingen stemme fra ham å legge ved siden av pengene, fordi han ikke satt da lovene vi leste ble vedtatt.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-salton-sea",
+      "text": "Distriktet dekker Imperial."
+    },
+    {
+      "rel": "organization",
+      "target_id": "org-marathon",
+      "text": "Gaver til valgkampen."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -117.1368,
+          33.5984
+        ],
+        [
+          -117.1198,
+          33.7143
+        ],
+        [
+          -116.9456,
+          33.7477
+        ],
+        [
+          -116.9672,
+          33.7148
+        ],
+        [
+          -116.8176,
+          33.7365
+        ],
+        [
+          -116.6457,
+          33.6375
+        ],
+        [
+          -116.6172,
+          33.6874
+        ],
+        [
+          -116.5122,
+          33.6849
+        ],
+        [
+          -116.4775,
+          33.6124
+        ],
+        [
+          -116.3215,
+          33.6707
+        ],
+        [
+          -116.3215,
+          33.6126
+        ],
+        [
+          -116.2681,
+          33.6127
+        ],
+        [
+          -116.2849,
+          33.584
+        ],
+        [
+          -116.2503,
+          33.5837
+        ],
+        [
+          -116.2247,
+          33.6202
+        ],
+        [
+          -116.2339,
+          33.671
+        ],
+        [
+          -116.2687,
+          33.6854
+        ],
+        [
+          -116.2652,
+          33.7443
+        ],
+        [
+          -116.3018,
+          33.7595
+        ],
+        [
+          -116.3103,
+          33.8439
+        ],
+        [
+          -116.3866,
+          33.8598
+        ],
+        [
+          -116.3784,
+          33.8892
+        ],
+        [
+          -116.4232,
+          33.9181
+        ],
+        [
+          -116.4063,
+          33.9469
+        ],
+        [
+          -116.1458,
+          33.8341
+        ],
+        [
+          -115.9959,
+          33.6924
+        ],
+        [
+          -115.8838,
+          33.6657
+        ],
+        [
+          -115.5793,
+          33.6743
+        ],
+        [
+          -115.4522,
+          33.7023
+        ],
+        [
+          -115.3966,
+          33.7726
+        ],
+        [
+          -115.3232,
+          33.7777
+        ],
+        [
+          -115.2559,
+          33.8383
+        ],
+        [
+          -115.2328,
+          34.0358
+        ],
+        [
+          -115.1136,
+          34.0871
+        ],
+        [
+          -115.1458,
+          34.1209
+        ],
+        [
+          -115.1058,
+          34.2427
+        ],
+        [
+          -115.166,
+          34.2766
+        ],
+        [
+          -115.1018,
+          34.2598
+        ],
+        [
+          -115.0667,
+          34.4115
+        ],
+        [
+          -115.0884,
+          34.418
+        ],
+        [
+          -115.0475,
+          34.4947
+        ],
+        [
+          -115.1599,
+          34.5443
+        ],
+        [
+          -115.1178,
+          34.6001
+        ],
+        [
+          -115.1803,
+          34.6692
+        ],
+        [
+          -115.0017,
+          34.6914
+        ],
+        [
+          -114.9893,
+          34.8372
+        ],
+        [
+          -114.9663,
+          34.8434
+        ],
+        [
+          -115.051,
+          34.83
+        ],
+        [
+          -115.0631,
+          34.9196
+        ],
+        [
+          -114.9844,
+          34.9187
+        ],
+        [
+          -114.9482,
+          35.2552
+        ],
+        [
+          -114.6335,
+          35.0019
+        ],
+        [
+          -114.6344,
+          34.8729
+        ],
+        [
+          -114.4705,
+          34.7114
+        ],
+        [
+          -114.4368,
+          34.5961
+        ],
+        [
+          -114.3808,
+          34.5297
+        ],
+        [
+          -114.3867,
+          34.4579
+        ],
+        [
+          -114.3354,
+          34.45
+        ],
+        [
+          -114.1383,
+          34.3032
+        ],
+        [
+          -114.1315,
+          34.2604
+        ],
+        [
+          -114.2297,
+          34.1869
+        ],
+        [
+          -114.4205,
+          34.1035
+        ],
+        [
+          -114.4405,
+          34.0193
+        ],
+        [
+          -114.5287,
+          33.9478
+        ],
+        [
+          -114.4942,
+          33.7079
+        ],
+        [
+          -114.5315,
+          33.6751
+        ],
+        [
+          -114.5242,
+          33.5531
+        ],
+        [
+          -114.6433,
+          33.4167
+        ],
+        [
+          -114.7253,
+          33.405
+        ],
+        [
+          -114.698,
+          33.3524
+        ],
+        [
+          -114.7312,
+          33.3024
+        ],
+        [
+          -114.6721,
+          33.2585
+        ],
+        [
+          -114.7065,
+          33.0882
+        ],
+        [
+          -114.6651,
+          33.0339
+        ],
+        [
+          -114.5201,
+          33.03
+        ],
+        [
+          -114.4684,
+          32.9707
+        ],
+        [
+          -114.469,
+          32.8452
+        ],
+        [
+          -114.5296,
+          32.7955
+        ],
+        [
+          -114.5269,
+          32.7571
+        ],
+        [
+          -114.5818,
+          32.7349
+        ],
+        [
+          -116.1062,
+          32.6184
+        ],
+        [
+          -116.0849,
+          33.4263
+        ],
+        [
+          -116.8838,
+          33.4269
+        ],
+        [
+          -116.9145,
+          33.4639
+        ],
+        [
+          -116.8973,
+          33.5103
+        ],
+        [
+          -116.946,
+          33.5175
+        ],
+        [
+          -116.9481,
+          33.5654
+        ],
+        [
+          -116.9794,
+          33.5747
+        ],
+        [
+          -117.0188,
+          33.5376
+        ],
+        [
+          -117.0837,
+          33.5835
+        ],
+        [
+          -117.1302,
+          33.5646
+        ],
+        [
+          -117.1368,
+          33.5984
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06036",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/6/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen AD 36 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Nøyaktig dato han avla ed."
+  ]
+}

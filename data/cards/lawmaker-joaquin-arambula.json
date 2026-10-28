@@ -1,0 +1,250 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-joaquin-arambula",
+  "type": "lawmaker",
+  "name": "Joaquin Arambula",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Joaquin Arambula er demokrat. Han sitter i forsamlingen for deler av Fresno. Håndboken sier at han har sittet siden april 2016.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Han stemte ja til loven som gir lokalsamfunn mer å si om skitten luft.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "title": "Stemmeliste ab617",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250531134318/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB617",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "På den endelige avstemningen om måling ved raffinerigjerdet stemte han ikke.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB1647",
+          "title": "Stemmeliste ab1647",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250919093406/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=201720180AB1647",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "På oljeloven i 2022 stemte han ikke.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "title": "Stemmeliste sb1137",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250920054954/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202120220SB1137",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-san-joaquin-air",
+      "text": "Ja til loven om lokal luft."
+    },
+    {
+      "rel": "bill",
+      "target_id": "bill-ab-617",
+      "text": "Ja-stemmen."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-drinking-water",
+      "text": "Distriktet ligger i dalen."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -120.0313,
+          36.433
+        ],
+        [
+          -119.9998,
+          36.4882
+        ],
+        [
+          -119.8456,
+          36.4891
+        ],
+        [
+          -119.8446,
+          36.6341
+        ],
+        [
+          -119.9344,
+          36.6771
+        ],
+        [
+          -119.9343,
+          36.7352
+        ],
+        [
+          -119.9163,
+          36.7789
+        ],
+        [
+          -119.8341,
+          36.7719
+        ],
+        [
+          -119.8444,
+          36.8083
+        ],
+        [
+          -119.8047,
+          36.7849
+        ],
+        [
+          -119.7541,
+          36.8231
+        ],
+        [
+          -119.7337,
+          36.7626
+        ],
+        [
+          -119.7004,
+          36.7607
+        ],
+        [
+          -119.6865,
+          36.7942
+        ],
+        [
+          -119.664,
+          36.7575
+        ],
+        [
+          -119.5561,
+          36.7646
+        ],
+        [
+          -119.5111,
+          36.699
+        ],
+        [
+          -119.2851,
+          36.7282
+        ],
+        [
+          -119.3051,
+          36.5737
+        ],
+        [
+          -119.4129,
+          36.5752
+        ],
+        [
+          -119.4308,
+          36.6258
+        ],
+        [
+          -119.5208,
+          36.6193
+        ],
+        [
+          -119.5211,
+          36.5902
+        ],
+        [
+          -119.6106,
+          36.6053
+        ],
+        [
+          -119.5569,
+          36.5021
+        ],
+        [
+          -119.6665,
+          36.4188
+        ],
+        [
+          -119.9773,
+          36.4009
+        ],
+        [
+          -120.0313,
+          36.433
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06031",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/6/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen AD 31 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Vi fant ingen melding som forklarer hvorfor han ikke stemte om oljebrønnene."
+  ]
+}

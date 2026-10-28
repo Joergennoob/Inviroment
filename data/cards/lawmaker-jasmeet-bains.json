@@ -1,0 +1,286 @@
+{
+  "schema_version": "1.0.0",
+  "id": "lawmaker-jasmeet-bains",
+  "type": "lawmaker",
+  "name": "Jasmeet Kaur Bains",
+  "state": "CA",
+  "updated": "2026-10-28",
+  "rank": null,
+  "org_kind": null,
+  "summary": [
+    {
+      "id": "s1",
+      "text": "Jasmeet Kaur Bains er demokrat. Hun sitter i forsamlingen for Kern, der det bores mye olje. Håndboken sier at hun har sittet siden desember 2022.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    },
+    {
+      "id": "s2",
+      "text": "Hun stemte nei til å la lokalsamfunn si mer om oljeboring.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB3233",
+          "title": "Stemmeliste ab3233",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20250918105303/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB3233",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s3",
+      "text": "Hun stemte nei til loven om lager av drivstoff ved raffineriene.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "title": "Stemmeliste abx2",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260308020621/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320242AB1",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    },
+    {
+      "id": "s4",
+      "text": "Hun stemte ja til å varsle skoler når det sprøytes i nærheten.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "title": "Stemmeliste ab1864",
+          "publisher": "California Legislative Counsel",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260117220802/https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240AB1864",
+          "archive_note": "Leginfo svarte 403 direkte. Listen er lest i arkivet."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Tallene og datoene står i stemmelisten og i håndboken. Sammendraget over er de samme faktaene med vanlige ord.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf",
+          "title": "California Legislature Handbook 2025-26",
+          "publisher": "California State Senate",
+          "retrieved": "2026-10-28",
+          "archive_url": "",
+          "archive_note": "PDF-en er lest 2026-10-28. Wayback er ikke slått opp."
+        }
+      ]
+    }
+  ],
+  "links": [
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-oil-gas-proximity",
+      "text": "Nei til lokal kontroll."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-refineries",
+      "text": "Nei til drivstofflager."
+    },
+    {
+      "rel": "problem",
+      "target_id": "ca-problem-pesticides",
+      "text": "Ja til varsling ved skoler."
+    }
+  ],
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [
+          -120.1944,
+          35.7894
+        ],
+        [
+          -119.0534,
+          35.7908
+        ],
+        [
+          -119.0666,
+          35.6894
+        ],
+        [
+          -119.039,
+          35.6538
+        ],
+        [
+          -118.9597,
+          35.6444
+        ],
+        [
+          -118.988,
+          35.626
+        ],
+        [
+          -118.9594,
+          35.586
+        ],
+        [
+          -118.959,
+          35.4258
+        ],
+        [
+          -118.9132,
+          35.3969
+        ],
+        [
+          -118.9497,
+          35.3832
+        ],
+        [
+          -118.8439,
+          35.3744
+        ],
+        [
+          -118.8432,
+          35.3382
+        ],
+        [
+          -118.7527,
+          35.2924
+        ],
+        [
+          -118.7526,
+          35.2094
+        ],
+        [
+          -118.8063,
+          35.2092
+        ],
+        [
+          -118.8421,
+          35.1655
+        ],
+        [
+          -118.95,
+          35.2087
+        ],
+        [
+          -118.9962,
+          35.1466
+        ],
+        [
+          -119.0031,
+          35.2596
+        ],
+        [
+          -119.0922,
+          35.2961
+        ],
+        [
+          -119.0583,
+          35.3631
+        ],
+        [
+          -119.0029,
+          35.3684
+        ],
+        [
+          -119.0262,
+          35.4633
+        ],
+        [
+          -119.305,
+          35.4418
+        ],
+        [
+          -119.3055,
+          35.3692
+        ],
+        [
+          -119.3412,
+          35.3621
+        ],
+        [
+          -119.5451,
+          35.3679
+        ],
+        [
+          -119.554,
+          35.3902
+        ],
+        [
+          -119.7584,
+          35.383
+        ],
+        [
+          -119.7922,
+          35.3371
+        ],
+        [
+          -119.8804,
+          35.3511
+        ],
+        [
+          -119.88,
+          35.4391
+        ],
+        [
+          -119.9932,
+          35.4395
+        ],
+        [
+          -120.0868,
+          35.5264
+        ],
+        [
+          -120.0862,
+          35.6144
+        ],
+        [
+          -120.194,
+          35.6144
+        ],
+        [
+          -120.1944,
+          35.7894
+        ]
+      ]
+    ],
+    "source_name": "US Census TIGERweb 2024",
+    "source_record_id": "06035",
+    "source_url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer/6/query",
+    "retrieved": "2026-10-28",
+    "note": "Valgkretsen AD 35 fra folketellingen i 2024. Det er området personen representerer, ikke området med forurensning."
+  },
+  "map_features": [],
+  "checked_empty": [
+    {
+      "field": "public_statement",
+      "searched": "En egen pressemelding ut over den som er sitert i sammendraget, er ikke åpnet for denne personen i denne runden.",
+      "result": "not_found",
+      "urls": [
+        "https://www.senate.ca.gov/system/files/2026-09/joint_handbook_2025-26_web_1.pdf"
+      ],
+      "retrieved": "2026-10-28"
+    }
+  ],
+  "open_questions": [
+    "Vi fant ingen melding der hun forklarer nei-stemmene om olje. I gavelisten vi leste, står hun ikke som mottaker fra oljeselskapene."
+  ]
+}
