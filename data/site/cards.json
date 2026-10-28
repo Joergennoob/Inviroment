@@ -7,7 +7,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Dette er loven som sier at luften skal måles ved gjerdet rundt raffinerier, og at naboene skal kunne se tallene. Den ble vedtatt i 2017. Forfatteren var Al Muratsuchi.",
+          "text": "Dette er loven som sier at luften skal måles ved gjerdet rundt raffinerier, fabrikker som lager bensin, og at naboene skal kunne se tallene. Den ble vedtatt i 2017. Al Muratsuchi la den fram.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -23,7 +23,7 @@
         },
         {
           "id": "s2",
-          "text": "Forsamlingen stemte 57 mot 19. Senatet stemte 28 mot 11.",
+          "text": "I delstatsparlamentet stemte forsamlingen 57 mot 19. Senatet stemte 28 mot 11.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -201,7 +201,7 @@
       "summary": [
         {
           "id": "plain-1",
-          "text": "Dette er en av tre lover fra 2014 som skulle stanse at grunnvann tappes for hardt. Roger Dickinson la den fram. Fran Pavley var medforslagsstiller.",
+          "text": "Dette er en av tre lover fra 2014 som skulle stanse at vann under bakken tappes for hardt. Roger Dickinson la den fram. Fran Pavley var med og la den fram.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -217,7 +217,7 @@
         },
         {
           "id": "plain-2",
-          "text": "Forsamlingen stemte 47 mot 28. Senatet stemte 26 mot 11.",
+          "text": "I delstatsparlamentet stemte forsamlingen 47 mot 28. Senatet stemte 26 mot 11.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -233,7 +233,7 @@
         },
         {
           "id": "plain-3",
-          "text": "Oljeselskapet Chevron skrev i et lobby-skjema at de jobbet med denne loven. Skjemaet sier ikke om de var for eller mot.",
+          "text": "Oljeselskapet Chevron skrev i et skjema om betalt påvirkning at de jobbet med denne loven. Skjemaet sier ikke om de var for eller mot.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13222,7 +13222,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Dette er delstatens vanntilsyn. De fører listen over vannverk som ikke holder helsereglene.",
+          "text": "Dette er Californias vanntilsyn. De fører listen over vannverk som ikke holder reglene for helse.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13238,7 +13238,7 @@
         },
         {
           "id": "s2",
-          "text": "De har også pålagt testing av kjemikaliene PFAS i drikkevannsbrønner.",
+          "text": "De har også pålagt testing av evighetskjemikalier, kalt PFAS, i drikkevannsbrønner. Det er stoffer som nesten ikke forsvinner.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13254,7 +13254,7 @@
         },
         {
           "id": "s3",
-          "text": "Rapporten om Salton Sea er sendt til dette styret.",
+          "text": "Rapporten om innsjøen Salton Sea er sendt til dette styret.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13887,7 +13887,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Western States Petroleum Association er oljebransjens organisasjon. I sesjonen 2025–2026 har de brukt om lag 19 millioner dollar på lobbyvirksomhet.",
+          "text": "Dette er oljeselskapenes felles organisasjon. I perioden 2025 til 2026 har de brukt om lag 19 millioner dollar på å betale folk for å påvirke politikere.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13935,7 +13935,7 @@
         },
         {
           "id": "s3",
-          "text": "I ett kvartal betalte de blant annet lobbyfirmaene Carpenter Garcia Sievers, Greenberg Traurig og Pillsbury.",
+          "text": "I ett kvartal betalte de blant annet firmaene Carpenter Garcia Sievers, Greenberg Traurig og Pillsbury for å påvirke politikere.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -13959,7 +13959,7 @@
         },
         {
           "id": "s4",
-          "text": "Kampanjebidragene deres er små ved siden av lobbyregningen. Den største kampanjestrengen er om lag 26 000 dollar.",
+          "text": "Pengene de ga til valgkamp, er små ved siden av det de betalte for påvirkning. Den største valgkampstrengen er om lag 26 000 dollar.",
           "status": "confirmed",
           "note": "",
           "sources": [
