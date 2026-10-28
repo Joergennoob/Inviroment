@@ -6,7 +6,7 @@
   "summary": [
     {
       "id": "plain-1",
-      "text": "I den lange jordbruksdalen fra Stockton til Bakersfield er luften den skitneste i USA, målt som fint svevestøv. EPA regnet med om lag 4 millioner mennesker der i 2010. Dalen har bedt om mer tid til å klare grensen, til slutten av 2030.",
+      "text": "I den lange jordbruksdalen fra Stockton til Bakersfield er luften den skitneste i USA, målt som fint støv. Fint støv er de minste partiklene, så små at du nesten ikke ser dem. Miljøtilsynet i USA regnet med om lag 4 millioner mennesker der i 2010. Dalen har bedt om mer tid, til slutten av 2030, for å klare grensen for ren luft.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -30,7 +30,7 @@
     },
     {
       "id": "plain-2",
-      "text": "Området klarer ikke grensen for fint svevestøv, og heller ikke en eldre grense for ozon. Støvmålingen er høyere enn i Los Angeles-området.",
+      "text": "Området har for mye fint støv, og det klarer heller ikke en eldre grense for ozon, en gass som irriterer lungene. Støvet er verre enn rundt Los Angeles.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -62,7 +62,7 @@
     },
     {
       "id": "plain-3",
-      "text": "Dalfeber, en sykdom man kan få av sopp i støv, er langt vanligere her. I Kern fylke var raten om lag 14 ganger så høy som i hele California i 2022.",
+      "text": "Dalfeber, en sykdom man kan få av sopp i støv, er langt vanligere her. I Kern fylke ble om lag 14 ganger så mange syke, sett i forhold til folketallet, som i hele California i 2022.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -78,7 +78,7 @@
     },
     {
       "id": "plain-4",
-      "text": "I selve luftområdet er andelen voksne uten videregående skole om lag halvannen gang så høy som i resten av California. Vi vet ikke om luften er årsaken.",
+      "text": "I selve området der luften er skitten, er det om lag halvannen gang så mange voksne uten videregående skole som i resten av California. Vi vet ikke om luften er grunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [
@@ -118,7 +118,7 @@
     },
     {
       "id": "plain-5",
-      "text": "I ett boligområde i Fresno er astmabesøk på legevakt verre enn i 97 av 100 områder i California. For hele dalen er astmatallene høyere, men ikke dobbelt så høye. Vi vet ikke om luften er årsaken.",
+      "text": "I ett nabolag i Fresno er legevaktbesøk for astma verre enn i 97 av 100 nabolag i California. For hele dalen er astma vanligere, men ikke dobbelt så vanlig. Vi vet ikke om luften er grunnen.",
       "status": "confirmed",
       "note": "",
       "sources": [
