@@ -11525,7 +11525,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Cal-Access-filer 1244770 har 1 321 231,64 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+          "text": "Marathon Petroleum har brukt om lag 1,3 millioner dollar på lobbyvirksomhet i California i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11541,7 +11541,7 @@
         },
         {
           "id": "s2",
-          "text": "Et navnesøk på MARATHON ga også Marathon Asset Management LP i finans, med 0 dollar. Den raden er ikke raffineriselskapet.",
+          "text": "Et fond som heter Marathon Asset Management er et annet selskap og er ikke tatt med.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -11557,7 +11557,7 @@
         },
         {
           "id": "s3",
-          "text": "Ingen FRS-post med navnet Marathon Los Angeles ga treff i søket som ble kjørt. Derfor er ikke et anleggspunkt lagt på dette kortet.",
+          "text": "Vi fant ikke et raffineripunkt i California under navnet Marathon i søket som ble kjørt.",
           "status": "not_found",
           "note": "",
           "sources": [
@@ -11585,6 +11585,54 @@
               "publisher": "California Secretary of State",
               "retrieved": "2026-10-28",
               "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Cal-Access-filer 1244770 har 1 321 231,64 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "Et navnesøk på MARATHON ga også Marathon Asset Management LP i finans, med 0 dollar. Den raden er ikke raffineriselskapet.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Ingen FRS-post med navnet Marathon Los Angeles ga treff i søket som ble kjørt. Derfor er ikke et anleggspunkt lagt på dette kortet.",
+          "status": "not_found",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=MARATHON%20LOS%20ANGELES&state_abbr=CA&output=JSON",
+              "title": "FRS-søk MARATHON LOS ANGELES",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20261028154604/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=MARATHON%20LOS%20ANGELES&state_abbr=CA&output=JSON",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
@@ -11724,6 +11772,96 @@
       "name": "PBF Energy Western Region og PBF Holding",
       "summary": [
         {
+          "id": "plain-1",
+          "text": "PBF er oljeselskapet som kjøpte raffineriet i Torrance i 2016. To av selskapets filer har brukt til sammen om lag 1 million dollar på lobbyvirksomhet.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            },
+            {
+              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "title": "EPA title V order, Torrance",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Det føderale tilsynet skrev i 2025 at Torrance Refining driver anlegget.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "title": "EPA title V order, Torrance",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Et annet treff på navnet PBF er en frisørorganisasjon. Den har ingenting med raffineriet å gjøre.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "De to PBF-beløpene er ikke summert, fordi det er to filer.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-pbf-own",
+          "text": "EPA skriver 7. januar 2025 at Torrance-raffineriet ble kjøpt av PBF Energy i 2016 og drives av Torrance Refining Company, LLC.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "title": "EPA title V order, Torrance",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
           "id": "s1",
           "text": "PBF Holding Company, filer 1408198, har 593 436,59 dollar i lobbybetalinger i sesjonen 2025-2026. PBF Energy Western Region LLC, filer 1382832, har 492 320,02 dollar. Begge står i oil and gas.",
           "status": "confirmed",
@@ -11776,40 +11914,6 @@
               "retrieved": "2026-10-28",
               "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
               "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "De to PBF-beløpene er ikke summert, fordi det er to filer.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
-              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
-              "publisher": "California Secretary of State",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
-            }
-          ]
-        },
-        {
-          "id": "r2-pbf-own",
-          "text": "EPA skriver 7. januar 2025 at Torrance-raffineriet ble kjøpt av PBF Energy i 2016 og drives av Torrance Refining Company, LLC.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
-              "title": "EPA title V order, Torrance",
-              "publisher": "US EPA",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -12623,6 +12727,88 @@
       "name": "Torrance Refining Company LLC",
       "summary": [
         {
+          "id": "plain-1",
+          "text": "Dette selskapet driver raffineriet i Torrance, sør i Los Angeles. Adressen er 3700 West 190th Street.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+              "title": "FRS facility TORRANCE REFINING COMPANY LLC",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-2",
+          "text": "Det føderale anleggsregisteret har et kartpunkt for anlegget.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+              "title": "FRS facility TORRANCE REFINING COMPANY LLC",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "plain-3",
+          "text": "Miljøtilsynet skrev i 2025 at selskapet driver anlegget.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "title": "EPA title V order, Torrance",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        }
+      ],
+      "claims": [
+        {
+          "id": "c1",
+          "text": "Et annet treff, registry 110065691745, heter ExxonMobil Corporation Torrance Refinery og har en annen koordinat. Det er ikke slått sammen med 110070241046.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+              "title": "FRS facility TORRANCE REFINING COMPANY LLC",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "r2-torr-op",
+          "text": "Samme EPA-vedtak sier at selskapet er operatør, og at South Coast AQMD utstedte fornyet title V-tillatelse 30. mai 2024 for facility ID 181667.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "title": "EPA title V order, Torrance",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
           "id": "s1",
           "text": "FRS har TORRANCE REFINING COMPANY LLC, registry 110070241046, 3700 W 190th St, Torrance, koordinater 33,854967 og -118,336907.",
           "status": "confirmed",
@@ -12667,40 +12853,6 @@
               "retrieved": "2026-10-28",
               "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
               "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
-            }
-          ]
-        }
-      ],
-      "claims": [
-        {
-          "id": "c1",
-          "text": "Et annet treff, registry 110065691745, heter ExxonMobil Corporation Torrance Refinery og har en annen koordinat. Det er ikke slått sammen med 110070241046.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
-              "title": "FRS facility TORRANCE REFINING COMPANY LLC",
-              "publisher": "US EPA",
-              "retrieved": "2026-10-28",
-              "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
-              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
-            }
-          ]
-        },
-        {
-          "id": "r2-torr-op",
-          "text": "Samme EPA-vedtak sier at selskapet er operatør, og at South Coast AQMD utstedte fornyet title V-tillatelse 30. mai 2024 for facility ID 181667.",
-          "status": "confirmed",
-          "note": "",
-          "sources": [
-            {
-              "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
-              "title": "EPA title V order, Torrance",
-              "publisher": "US EPA",
-              "retrieved": "2026-10-28",
-              "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
-              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             }
           ]
         }
@@ -12769,7 +12921,7 @@
       "summary": [
         {
           "id": "s1",
-          "text": "Valero Services, Inc, filer 1237027, har 508 895,85 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+          "text": "Valero Services har brukt om lag en halv million dollar på lobbyvirksomhet i sesjonen 2025–2026.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12785,7 +12937,7 @@
         },
         {
           "id": "s2",
-          "text": "FRS har BENICIA VALERO REFINERY, registry 110071102220, koordinater 38,074169 og -122,144559.",
+          "text": "Det føderale registeret har et kartpunkt for Valero-raffineriet i Benicia.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12801,7 +12953,7 @@
         },
         {
           "id": "s3",
-          "text": "Et annet treff med samme navn, registry 110067352821, har breddegrad 32,72, som ikke ligger i Benicia. Det punktet er forkastet.",
+          "text": "Et annet treff med samme navn ligger på feil breddegrad og er ikke brukt.",
           "status": "confirmed",
           "note": "",
           "sources": [
@@ -12831,6 +12983,54 @@
               "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
               "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
             },
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+              "title": "FRS facility BENICIA VALERO REFINERY",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154217/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s1",
+          "text": "Valero Services, Inc, filer 1237027, har 508 895,85 dollar i lobbybetalinger i sesjonen 2025-2026, kategori oil and gas.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "title": "Cal-Access Lobbyist Employer Category Search, sesjon 2025-2026, database oppdatert 28-OCT-2026 08:15:07",
+              "publisher": "California Secretary of State",
+              "retrieved": "2026-10-28",
+              "archive_url": "http://web.archive.org/web/20250525150615/https://dbsearch.sos.ca.gov/LobbyIntSearch.aspx",
+              "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s2",
+          "text": "FRS har BENICIA VALERO REFINERY, registry 110071102220, koordinater 38,074169 og -122,144559.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
+            {
+              "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+              "title": "FRS facility BENICIA VALERO REFINERY",
+              "publisher": "US EPA",
+              "retrieved": "2026-10-28",
+              "archive_url": "https://web.archive.org/web/20261028154217/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
+              "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+            }
+          ]
+        },
+        {
+          "id": "kept-s3",
+          "text": "Et annet treff med samme navn, registry 110067352821, har breddegrad 32,72, som ikke ligger i Benicia. Det punktet er forkastet.",
+          "status": "confirmed",
+          "note": "",
+          "sources": [
             {
               "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=VALERO%20REFINING&state_abbr=CA&output=JSON",
               "title": "FRS facility BENICIA VALERO REFINERY",

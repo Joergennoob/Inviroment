@@ -5,6 +5,88 @@
   "name": "Torrance Refining Company LLC",
   "summary": [
     {
+      "id": "plain-1",
+      "text": "Dette selskapet driver raffineriet i Torrance, sør i Los Angeles. Adressen er 3700 West 190th Street.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "title": "FRS facility TORRANCE REFINING COMPANY LLC",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-2",
+      "text": "Det føderale anleggsregisteret har et kartpunkt for anlegget.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "title": "FRS facility TORRANCE REFINING COMPANY LLC",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "plain-3",
+      "text": "Miljøtilsynet skrev i 2025 at selskapet driver anlegget.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA title V order, Torrance",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    }
+  ],
+  "claims": [
+    {
+      "id": "c1",
+      "text": "Et annet treff, registry 110065691745, heter ExxonMobil Corporation Torrance Refinery og har en annen koordinat. Det er ikke slått sammen med 110070241046.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "title": "FRS facility TORRANCE REFINING COMPANY LLC",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
+          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
+        }
+      ]
+    },
+    {
+      "id": "r2-torr-op",
+      "text": "Samme EPA-vedtak sier at selskapet er operatør, og at South Coast AQMD utstedte fornyet title V-tillatelse 30. mai 2024 for facility ID 181667.",
+      "status": "confirmed",
+      "note": "",
+      "sources": [
+        {
+          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "title": "EPA title V order, Torrance",
+          "publisher": "US EPA",
+          "retrieved": "2026-10-28",
+          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
+          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
+        }
+      ]
+    },
+    {
       "id": "s1",
       "text": "FRS har TORRANCE REFINING COMPANY LLC, registry 110070241046, 3700 W 190th St, Torrance, koordinater 33,854967 og -118,336907.",
       "status": "confirmed",
@@ -49,40 +131,6 @@
           "retrieved": "2026-10-28",
           "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
           "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
-        }
-      ]
-    }
-  ],
-  "claims": [
-    {
-      "id": "c1",
-      "text": "Et annet treff, registry 110065691745, heter ExxonMobil Corporation Torrance Refinery og har en annen koordinat. Det er ikke slått sammen med 110070241046.",
-      "status": "confirmed",
-      "note": "",
-      "sources": [
-        {
-          "url": "https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
-          "title": "FRS facility TORRANCE REFINING COMPANY LLC",
-          "publisher": "US EPA",
-          "retrieved": "2026-10-28",
-          "archive_url": "https://web.archive.org/web/20261028154201/https://frs-public.epa.gov/ords/frs_public2/frs_rest_services.get_facilities?facility_name=TORRANCE%20REFINERY&state_abbr=CA&output=JSON",
-          "archive_note": "Save Page Now 2026-10-28 opprettet et øyeblikksbilde."
-        }
-      ]
-    },
-    {
-      "id": "r2-torr-op",
-      "text": "Samme EPA-vedtak sier at selskapet er operatør, og at South Coast AQMD utstedte fornyet title V-tillatelse 30. mai 2024 for facility ID 181667.",
-      "status": "confirmed",
-      "note": "",
-      "sources": [
-        {
-          "url": "https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
-          "title": "EPA title V order, Torrance",
-          "publisher": "US EPA",
-          "retrieved": "2026-10-28",
-          "archive_url": "http://web.archive.org/web/20260219033913/https://www.epa.gov/system/files/documents/2025-01/torrance-order_1-7-25.pdf",
-          "archive_note": "Wayback availability 2026-10-28 fant et øyeblikksbilde."
         }
       ]
     }
