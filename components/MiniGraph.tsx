@@ -24,24 +24,29 @@ export default function MiniGraph({
   activeId: string;
   onPick: (id: string) => void;
 }) {
-  const placed: GraphNode[] = nodes.slice(0, 18).map((node) => ({
+  const placed: GraphNode[] = nodes.slice(0, 12).map((node) => ({
     id: node.id,
     name: node.name,
     column: COLUMN[node.type] ?? 2,
   }));
-  const byColumn = [0, 1, 2, 3, 4].map((column) => placed.filter((node) => node.column === column));
+  const used = [0, 1, 2, 3, 4].filter((column) => placed.some((node) => node.column === column));
+  const byColumn = used.map((column) => placed.filter((node) => node.column === column).slice(0, 5));
+  const visible = new Set(byColumn.flat().map((node) => node.id));
   const pos = new Map<string, { x: number; y: number }>();
+  const columnWidth = 156;
   byColumn.forEach((group, column) => {
     group.forEach((node, index) => {
-      pos.set(node.id, { x: 70 + column * 150, y: 36 + index * 54 });
+      pos.set(node.id, { x: 78 + column * columnWidth, y: 26 + index * 46 });
     });
   });
-  const height = Math.max(180, ...byColumn.map((group) => 50 + group.length * 54));
+  const width = Math.max(168, used.length * columnWidth + 8);
+  const height = Math.max(110, ...byColumn.map((group) => 16 + group.length * 46));
 
   return (
     <div className="graphwrap">
-      <svg viewBox={`0 0 760 ${height}`} role="img" aria-label="Koblinger rundt det du valgte">
-        {edges.slice(0, 24).map((edge) => {
+      <svg viewBox={`0 0 ${width} ${height}`} role="img" aria-label="Koblinger rundt det du valgte">
+        {edges.slice(0, 16).map((edge) => {
+          if (!visible.has(edge.from) || !visible.has(edge.to)) return null;
           const a = pos.get(edge.from);
           const b = pos.get(edge.to);
           if (!a || !b) return null;
@@ -58,7 +63,7 @@ export default function MiniGraph({
             </g>
           );
         })}
-        {placed.map((node) => {
+        {byColumn.flat().map((node) => {
           const point = pos.get(node.id);
           if (!point) return null;
           const on = node.id === activeId;

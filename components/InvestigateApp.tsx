@@ -547,8 +547,22 @@ function PoliticianRow({ person, problemId, onOpen }: { person: Card; problemId:
   );
 }
 
+const EDGE_RANK: Record<string, number> = {
+  contributed_to: 0,
+  voted_on: 1,
+  stated: 2,
+  represents: 3,
+  lobbied_on: 4,
+  relates_to: 5,
+  employed_by: 6,
+  firm_roster: 7,
+};
+
 function graphFor(nodeId: string, label: string, kind: string, cards: Map<string, Card>) {
-  const near = edges.filter((edge) => edge.from === nodeId || edge.to === nodeId).slice(0, 16);
+  const near = edges
+    .filter((edge) => edge.from === nodeId || edge.to === nodeId)
+    .sort((a, b) => (EDGE_RANK[a.type] ?? 9) - (EDGE_RANK[b.type] ?? 9))
+    .slice(0, 10);
   const graphNodes = new Map<string, { id: string; name: string; type: string }>();
   graphNodes.set(nodeId, { id: nodeId, name: label, type: kind });
   for (const edge of near) {

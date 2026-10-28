@@ -257,7 +257,7 @@ ul.plain { padding-left: 1.1rem; }
 .graphnode { cursor: pointer; }
 .graphnode rect { fill: #f7f3ec; stroke: #e4dccf; }
 .graphnode rect.on { fill: #1f4d3a; }
-.graphnode text { font-size: 11px; fill: #1c1915; }
+.graphnode text { font-size: 13px; fill: #1c1915; }
 .graphnode rect.on + text { fill: white; }
 .textbtn { border: 0; background: transparent; color: #1d4e89; padding: 0; cursor: pointer; }
 @media (max-width: 900px) {
