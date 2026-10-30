@@ -10,6 +10,9 @@ export default function SourceChip({ claim }: { claim: Claim }) {
   return (
     <span className="srcchip">
       <i className={`dot ${claim.status}`} title={word} />
+      <span className={`chip ${claim.status === "indication" ? "alert" : claim.status === "confirmed" ? "" : "muted"}`}>
+        {word.charAt(0).toUpperCase() + word.slice(1)}
+      </span>
       <button type="button" onClick={() => setOpen((value) => !value)} aria-expanded={open}>
         Kilde
       </button>

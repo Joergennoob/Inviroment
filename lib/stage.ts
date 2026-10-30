@@ -42,18 +42,85 @@ export const HEADLINE: Record<string, string> = {
   "ca-problem-groundwater-overdraft": "Om lag 4 millioner bor der",
 };
 
-export const STRIPE: Record<string, string> = {
-  "ca-problem-south-coast-air": "#c45c26",
-  "ca-problem-san-joaquin-air": "#a36b12",
-  "ca-problem-drinking-water": "#1d4e89",
-  "ca-problem-oil-gas-proximity": "#1f4d3a",
-  "ca-problem-pesticides": "#6b3f69",
-  "ca-problem-salton-sea": "#1a6b7a",
-  "ca-problem-refineries": "#9a4318",
-  "ca-problem-aliso-canyon": "#6b4a32",
-  "ca-problem-pfas": "#5c3d8a",
-  "ca-problem-groundwater-overdraft": "#3d6b8a",
+/** Short place line already present in the plain title. Not a new location claim. */
+export const PLACE: Record<string, string> = {
+  "ca-problem-south-coast-air": "Rundt Los Angeles",
+  "ca-problem-san-joaquin-air": "Jordbruksdalen",
+  "ca-problem-drinking-water": "Vannverk i delstaten",
+  "ca-problem-oil-gas-proximity": "Nær hus og skoler",
+  "ca-problem-pesticides": "På jordene",
+  "ca-problem-salton-sea": "Salton Sea",
+  "ca-problem-refineries": "Tett på boliger",
+  "ca-problem-aliso-canyon": "Gasslageret",
+  "ca-problem-pfas": "Brønner som testes",
+  "ca-problem-groundwater-overdraft": "Vann under bakken",
 };
+
+const RANK: Record<string, number> = {
+  "ca-problem-south-coast-air": 1,
+  "ca-problem-san-joaquin-air": 2,
+  "ca-problem-drinking-water": 3,
+  "ca-problem-oil-gas-proximity": 4,
+  "ca-problem-pesticides": 5,
+  "ca-problem-salton-sea": 6,
+  "ca-problem-refineries": 7,
+  "ca-problem-aliso-canyon": 8,
+  "ca-problem-pfas": 9,
+  "ca-problem-groundwater-overdraft": 10,
+};
+
+/** Yellow at rank 10, orange in the middle, dark red at rank 1. */
+export function severityColor(rank: number): string {
+  const clamped = Math.min(10, Math.max(1, rank));
+  const t = (10 - clamped) / 9;
+  const yellow = [253, 230, 138];
+  const orange = [249, 115, 22];
+  const dark = [127, 29, 29];
+  const [a, b, u] = t < 0.5 ? [yellow, orange, t / 0.5] : [orange, dark, (t - 0.5) / 0.5];
+  const mix = a.map((channel, index) => Math.round(channel + (b[index] - channel) * u));
+  return `#${mix.map((channel) => channel.toString(16).padStart(2, "0")).join("")}`;
+}
+
+export function problemColor(id: string): string {
+  return severityColor(RANK[id] ?? 5);
+}
+
+export const LAYER_RANK: Record<string, number> = {
+  pm25: 1,
+  ozone: 1,
+  "valley-fever": 2,
+  "failing-water": 3,
+  "oil-zone": 4,
+  wells: 4,
+  schools: 4,
+  pesticide: 5,
+  "salton-line": 6,
+  "salton-ring": 6,
+  circles: 7,
+  facilities: 7,
+  pfas: 9,
+  basins: 10,
+};
+
+export function layerColor(id: string): string {
+  return id === "districts" ? "#6B7075" : severityColor(LAYER_RANK[id] ?? 5);
+}
+
+export function headlineParts(text: string): { figure: string; unit: string } {
+  const approx = /^om lag\s+/i.test(text);
+  const body = text.replace(/^om lag\s+/i, "");
+  const match = body.match(/^(\d[\d\s.,]*)\s*(.*)$/);
+  if (!match) return { figure: "–", unit: text };
+  return { figure: `${approx ? "~" : ""}${match[1].trim()}`, unit: match[2] };
+}
+
+export function mapPoint(id: string): string {
+  const camera = PROBLEM_CAMERA[id];
+  if (!camera) return "";
+  const lat = Math.abs(camera.lat).toFixed(2).replace(".", ",");
+  const lng = Math.abs(camera.lng).toFixed(2).replace(".", ",");
+  return `${lat}° N  ${lng}° V`;
+}
 
 export function youtubeId(url: string): string | null {
   try {

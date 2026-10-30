@@ -1,17 +1,17 @@
 import type { Metadata } from "next";
-import { Fraunces, Outfit } from "next/font/google";
+import { Geist_Mono, Inter_Tight } from "next/font/google";
 import "./globals.css";
 
-const outfit = Outfit({
+const inter = Inter_Tight({
   subsets: ["latin"],
   weight: ["400", "500", "600"],
-  variable: "--font-outfit",
+  variable: "--font-ui",
 });
 
-const fraunces = Fraunces({
+const mono = Geist_Mono({
   subsets: ["latin"],
-  weight: ["600", "700"],
-  variable: "--font-fraunces",
+  weight: ["400", "500"],
+  variable: "--font-mono",
 });
 
 export const metadata: Metadata = {
@@ -21,8 +21,8 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="nb" className={`${outfit.variable} ${fraunces.variable}`}>
-      <body className={outfit.className}>{children}</body>
+    <html lang="nb" className={`${inter.variable} ${mono.variable}`}>
+      <body className={inter.className}>{children}</body>
     </html>
   );
 }

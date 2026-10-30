@@ -10,10 +10,14 @@ import { allCards } from "@/lib/cards";
 import {
   dollars,
   HEADLINE,
+  headlineParts,
+  layerColor,
+  mapPoint,
+  PLACE,
   PROBLEM_CAMERA,
   PROBLEM_LAYERS,
+  problemColor,
   STATUS_WORD,
-  STRIPE,
   initials,
   voteWord,
   youtubeId,
@@ -107,14 +111,16 @@ export default function InvestigateApp() {
     () => cards.filter((card) => card.type === "problem").sort((a, b) => (a.rank ?? 99) - (b.rank ?? 99)),
     [cards],
   );
-  const [problemId, setProblemId] = useState(problems[0]?.id ?? "");
+  const [problemId, setProblemId] = useState("");
   const [panel, setPanel] = useState<PanelTab>("hva");
   const [stack, setStack] = useState<string[]>([]);
   const [query, setQuery] = useState("");
-  const [layers, setLayers] = useState<{ id: string; title: string }[]>([]);
+  const [layers, setLayers] = useState<{ id: string; title: string; kind: string }[]>([]);
   const [enabled, setEnabled] = useState<string[]>([]);
   const [focus, setFocus] = useState<MapFocus | null>(null);
   const [sheet, setSheet] = useState<"list" | "detail">("list");
+  const [layersOpen, setLayersOpen] = useState(true);
+  const [layersMobile, setLayersMobile] = useState(false);
   const [booted, setBooted] = useState(false);
 
   const flyTo = (id: string) => {
@@ -128,20 +134,20 @@ export default function InvestigateApp() {
     const problem = params.get("problem");
     const tab = params.get("panel");
     const kort = params.get("kort");
-    const chosen = problem && byId.get(problem)?.type === "problem" ? problem : problems[0]?.id ?? "";
+    const chosen = problem && byId.get(problem)?.type === "problem" ? problem : "";
     if (chosen) {
       setProblemId(chosen);
+      setSheet("detail");
       const camera = PROBLEM_CAMERA[chosen];
       if (camera) setFocus({ ...camera, token: `start-${chosen}` });
-      if (problem) setSheet("detail");
     }
     if (tab && TABS.some((item) => item.id === tab)) setPanel(tab as PanelTab);
     if (kort && (byId.get(kort) || nodeById(kort))) setStack([kort]);
     void fetch("/data/layers/index.json")
       .then((response) => response.json())
-      .then((index: { layers: { id: string; title: string; default: boolean }[] }) => {
+      .then((index: { layers: { id: string; title: string; kind: string; default: boolean }[] }) => {
         setLayers(index.layers);
-        const base = chosen && PROBLEM_LAYERS[chosen] ? PROBLEM_LAYERS[chosen] : index.layers.filter((layer) => layer.default).map((layer) => layer.id);
+        const base = chosen && PROBLEM_LAYERS[chosen] ? PROBLEM_LAYERS[chosen] : [];
         const withDistricts = tab === "politikere" ? [...new Set([...base, "districts"])] : base;
         setEnabled(withDistricts);
       })
@@ -152,12 +158,12 @@ export default function InvestigateApp() {
   useEffect(() => {
     if (!booted) return;
     const params = new URLSearchParams();
-    if (problemId) params.set("problem", problemId);
-    if (panel) params.set("panel", panel);
+    if (sheet === "detail" && problemId) params.set("problem", problemId);
+    if (sheet === "detail" && panel) params.set("panel", panel);
     if (stack[0]) params.set("kort", stack[0]);
-    const next = `/?${params.toString()}`;
+    const next = params.toString() ? `/?${params.toString()}` : "/";
     window.history.replaceState(null, "", next);
-  }, [booted, problemId, panel, stack]);
+  }, [booted, problemId, panel, stack, sheet]);
 
   const openProblem = (id: string) => {
     setProblemId(id);
@@ -230,10 +236,14 @@ export default function InvestigateApp() {
     return nodeById(id)?.name ?? id;
   };
 
+  const tally = `${problems.length} saker · ${cards.length} kort · ${cards.filter((card) => card.type === "lawmaker").length} politikere · ${roster.firms.length} lobbyfirma`;
+  const showList = sheet === "list" && !activeCard && !activeNode;
+
   return (
-    <div className={`inv ${sheet === "detail" ? "sheet-detail" : "sheet-list"}`}>
+    <div className={`inv ${layersOpen ? "" : "layers-shut"} ${layersMobile ? "layers-mobile" : ""} ${sheet === "detail" ? "sheet-detail" : "sheet-list"}`}>
       <header className="inv-top">
         <Link href="/" className="brand">
+          <i />
           Miljøkart
         </Link>
         <div className="search">
@@ -270,88 +280,141 @@ export default function InvestigateApp() {
             </ul>
           ) : null}
         </div>
+        <p className="counts mono">{tally}</p>
         <nav>
-          <Link href="/lobbyister/">Lobbyister</Link>
+          <Link href="/lobbyister/" className="lobby-link">
+            Lobbyister
+          </Link>
           <Link href="/ord/" className="helpbtn" aria-label="Ord og forklaringer">
             ?
           </Link>
         </nav>
       </header>
+      <aside className="desk-layers" aria-label="Kartlag">
+        <div className="layer-head">
+          <p className="kicker">Kartlag</p>
+          <button type="button" className="iconbtn" aria-label={layersOpen ? "Skjul kartlag" : "Vis kartlag"} onClick={() => setLayersOpen((open) => !open)}>
+            {layersOpen ? "‹" : "›"}
+          </button>
+        </div>
+        {layers.map((layer) => {
+          const point = layer.kind === "circle" || layer.kind === "cluster";
+          return (
+            <label key={layer.id} className="layer-row">
+              <span className="switch">
+                <input
+                  type="checkbox"
+                  checked={enabled.includes(layer.id)}
+                  onChange={() =>
+                    setEnabled((current) => (current.includes(layer.id) ? current.filter((id) => id !== layer.id) : [...current, layer.id]))
+                  }
+                />
+                <i />
+              </span>
+              <span>{LAYER_TITLE[layer.id] ?? layer.title}</span>
+              <span
+                className={`minscale ${point || layer.kind === "choropleth" ? "heat" : layer.kind === "circle" ? "dot" : ""}`}
+                style={point || layer.kind === "choropleth" || layer.id === "districts" ? undefined : { background: layerColor(layer.id) }}
+              />
+            </label>
+          );
+        })}
+        <Link href="/lobbyister/" className="layer-foot">
+          Lobbyister
+        </Link>
+      </aside>
       <div className="inv-map">
         <MapView enabled={enabled} summaries={summaries} focus={focus} onSelect={(cardId) => openTarget(cardId)} />
-        {problem ? (
-          <p className="mapchip">
-            <i style={{ background: STRIPE[problem.id] ?? "#1f4d3a" }} />
-            {plainTitle(problem)}
-          </p>
-        ) : null}
-        <fieldset className="layers inv-layers">
-          <legend>Kartlag</legend>
-          {layers.map((layer) => (
-            <label key={layer.id}>
-              <input
-                type="checkbox"
-                checked={enabled.includes(layer.id)}
-                onChange={() =>
-                  setEnabled((current) => (current.includes(layer.id) ? current.filter((id) => id !== layer.id) : [...current, layer.id]))
-                }
-              />
-              {LAYER_TITLE[layer.id] ?? layer.title}
-            </label>
-          ))}
-        </fieldset>
-      </div>
-      <aside className="inv-side" aria-label="De ti problemene">
-        <p className="side-kicker">Ti problemer</p>
-        {problems.map((card) => (
-          <button
-            key={card.id}
-            type="button"
-            className={`pcard ${card.id === problemId ? "on" : ""}`}
-            onClick={() => openProblem(card.id)}
-          >
-            <i style={{ background: STRIPE[card.id] ?? "#1f4d3a" }} />
-            <span className="rank">{card.rank}</span>
-            <strong>{plainTitle(card)}</strong>
-            <em>{HEADLINE[card.id] ?? ""}</em>
-          </button>
-        ))}
-      </aside>
-      <aside className={`inv-panel ${sheet === "detail" ? "open" : ""}`} aria-label="Detaljer">
-        <div className="sheet-handle" />
-        <div className="crumbs">
-          <button type="button" onClick={() => { setStack([]); setSheet("list"); }}>
-            Problemer
-          </button>
-          {problem ? (
-            <button type="button" onClick={() => setStack([])}>
-              {plainTitle(problem)}
-            </button>
-          ) : null}
-          {stack
-            .slice()
-            .reverse()
-            .map((id, index, all) =>
-              index === all.length - 1 ? (
-                <span key={id}>{crumbName(id)}</span>
-              ) : (
-                <button key={id} type="button" onClick={() => setStack((current) => current.slice(current.indexOf(id)))}>
-                  {crumbName(id)}
-                </button>
-              ),
-            )}
+        <button type="button" className="lagbtn" onClick={() => setLayersMobile((open) => !open)}>
+          Lag
+        </button>
+        <div className="legend" aria-hidden>
+          <p className="kicker">Alvor</p>
+          <div className="scale" />
+          <div className="ticks mono">
+            <span>10</span>
+            <span>1</span>
+          </div>
         </div>
-        {activeCard ? (
-          <EntityView card={activeCard} cards={byId} onOpen={openTarget} onBack={() => setStack((current) => current.slice(1))} />
-        ) : activeNode ? (
-          <NodeView node={activeNode} cards={byId} onOpen={openTarget} onBack={() => setStack((current) => current.slice(1))} />
-        ) : problem ? (
-          <ProblemView card={problem} cards={cards} tab={panel} onTab={chooseTab} onOpen={openTarget} />
+      </div>
+      <aside className="desk-rail" aria-label={showList ? "De ti problemene" : "Detaljer"}>
+        <div className="sheet-handle" />
+        {showList ? (
+          <div className="rail-scroll">
+            <div className="rail-head">
+              <p className="kicker">Saker</p>
+              <span className="mono note">{problems.length}</span>
+            </div>
+            {problems.map((card) => {
+              const parts = headlineParts(HEADLINE[card.id] ?? "");
+              return (
+                <button key={card.id} type="button" className={`scard ${card.id === problemId ? "on" : ""}`} onClick={() => openProblem(card.id)}>
+                  <Thumb id={card.id} />
+                  <span>
+                    <span className="meta mono">{String(card.rank ?? "").padStart(2, "0")} · {PLACE[card.id] ?? ""}</span>
+                    <strong>{plainTitle(card)}</strong>
+                    <span className="meta">{mapPoint(card.id)}</span>
+                  </span>
+                  <span className="figcol">
+                    <span className="figure mono">{parts.figure}</span>
+                    <span className="meta">{parts.unit}</span>
+                    <i className={`dot ${card.summary[0]?.status ?? "not_verified"}`} title={STATUS_WORD[card.summary[0]?.status ?? "not_verified"]} />
+                  </span>
+                </button>
+              );
+            })}
+          </div>
         ) : (
-          <p>Velg et problem til venstre.</p>
+          <div className="rail-scroll">
+            <div className="crumbs">
+              <button type="button" onClick={() => { setStack([]); setSheet("list"); }}>
+                Saker
+              </button>
+              {problem ? (
+                <button type="button" onClick={() => setStack([])}>
+                  {plainTitle(problem)}
+                </button>
+              ) : null}
+              {stack
+                .slice()
+                .reverse()
+                .map((id, index, all) =>
+                  index === all.length - 1 ? (
+                    <span key={id}>{crumbName(id)}</span>
+                  ) : (
+                    <button key={id} type="button" onClick={() => setStack((current) => current.slice(current.indexOf(id)))}>
+                      {crumbName(id)}
+                    </button>
+                  ),
+                )}
+            </div>
+            {activeCard ? (
+              <EntityView card={activeCard} cards={byId} onOpen={openTarget} onBack={() => setStack((current) => current.slice(1))} />
+            ) : activeNode ? (
+              <NodeView node={activeNode} cards={byId} onOpen={openTarget} onBack={() => setStack((current) => current.slice(1))} />
+            ) : problem ? (
+              <ProblemView card={problem} cards={cards} tab={panel} onTab={chooseTab} onOpen={openTarget} />
+            ) : (
+              <p className="empty">Velg en sak i listen.</p>
+            )}
+          </div>
         )}
       </aside>
     </div>
+  );
+}
+
+function Thumb({ id }: { id: string }) {
+  const camera = PROBLEM_CAMERA[id];
+  const x = camera ? ((camera.lng + 124.4) / 10.4) * 56 : 28;
+  const y = camera ? ((42 - camera.lat) / 9.6) * 40 : 20;
+  const color = problemColor(id);
+  return (
+    <svg className="thumb" viewBox="0 0 56 40" aria-hidden>
+      <rect width="56" height="40" fill="#F4F4F2" />
+      <circle cx={x} cy={y} r="9" fill={color} opacity="0.28" />
+      <circle cx={x} cy={y} r="2.2" fill={color} />
+    </svg>
   );
 }
 
@@ -372,11 +435,13 @@ function ProblemView({
   const companies = roster.employers.filter((employer) => employer.problems.includes(card.id));
   const firms = roster.firms.filter((firm) => firm.problems.includes(card.id));
   const relatedFilms = films.filter((film) => film.problems.includes(card.id));
+  const parts = headlineParts(HEADLINE[card.id] ?? "");
   return (
     <div>
-      <p className="eyebrow">Nummer {card.rank} av 10</p>
+      <p className="kicker">Nummer {card.rank} av 10 · oppdatert {card.updated}</p>
       <h2>{plainTitle(card)}</h2>
-      <p className="headline-num">{HEADLINE[card.id]}</p>
+      <p className="headline-num mono">{parts.figure}</p>
+      <p className="note">{parts.unit}{mapPoint(card.id) ? ` · ${mapPoint(card.id)}` : ""}</p>
       <div className="tabs" role="tablist">
         {TABS.map((item) => (
           <button key={item.id} type="button" role="tab" aria-selected={tab === item.id} className={tab === item.id ? "on" : ""} onClick={() => onTab(item.id)}>
@@ -405,13 +470,28 @@ function ProblemView({
       {tab === "rammes" ? <WhoLives card={card} /> : null}
       {tab === "penger" ? (
         <div>
-          {companies.length === 0 && firms.length === 0 ? <p>Vi har ikke et lobbybeløp koblet rett til dette problemet.</p> : null}
-          {companies.map((employer) => (
-            <button key={employer.filer_id} type="button" className="rowbtn" onClick={() => onOpen(employer.card_id || employer.filer_id)}>
-              <strong>{employer.name}</strong>
-              <span>{employer.session_text}</span>
-            </button>
-          ))}
+          {companies.length === 0 && firms.length === 0 ? <p className="empty">Vi har ikke et lobbybeløp koblet rett til dette problemet.</p> : null}
+          {companies.length > 0 ? (
+            <table className="desk-table">
+              <thead>
+                <tr>
+                  <th>Selskap</th>
+                  <th className="num">Dollar</th>
+                </tr>
+              </thead>
+              <tbody>
+                {companies.map((employer) => (
+                  <tr key={employer.filer_id} onClick={() => onOpen(employer.card_id || employer.filer_id)}>
+                    <td>
+                      <strong>{employer.name}</strong>
+                      <small className="empty">{employer.session_text}</small>
+                    </td>
+                    <td className="num mono">{new Intl.NumberFormat("nb-NO", { maximumFractionDigits: 0 }).format(employer.session_lobby_usd)}</td>
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          ) : null}
           {firms.map((firm) => (
             <article key={firm.filer_id} className="firmblock">
               <button type="button" className="rowbtn" onClick={() => onOpen(firm.card_id || `firm-${firm.filer_id}`)}>
@@ -434,15 +514,27 @@ function ProblemView({
       ) : null}
       {tab === "politikere" ? (
         <div>
-          {people.length === 0 ? <p>Ingen politiker i kortene er koblet rett til dette problemet ennå.</p> : null}
-          {people.map((person) => (
-            <PoliticianRow key={person.id} person={person} problemId={card.id} onOpen={onOpen} />
-          ))}
+          {people.length === 0 ? <p className="empty">Ingen politiker i kortene er koblet rett til dette problemet ennå.</p> : (
+            <table className="desk-table">
+              <thead>
+                <tr>
+                  <th>Person</th>
+                  <th>Stemme</th>
+                  <th className="num">Penger</th>
+                </tr>
+              </thead>
+              <tbody>
+                {people.map((person) => (
+                  <PoliticianRow key={person.id} person={person} problemId={card.id} onOpen={onOpen} />
+                ))}
+              </tbody>
+            </table>
+          )}
         </div>
       ) : null}
       {tab === "filmer" ? (
         <div>
-          {relatedFilms.length === 0 ? <p>Vi har ikke en bekreftet film for dette problemet ennå.</p> : null}
+          {relatedFilms.length === 0 ? <p className="empty">Vi har ikke en bekreftet film for dette problemet ennå.</p> : null}
           {relatedFilms.map((film) => {
             const video = youtubeId(film.url);
             return (
@@ -531,19 +623,27 @@ function PoliticianRow({ person, problemId, onOpen }: { person: Card; problemId:
   if (votes.length && said.length) badge = "Sier vs. stemmer";
   else if (votes.length) badge = "Sier vs. stemmer · bare stemme";
   else if (said.length) badge = "Sier vs. stemmer · bare uttalelse";
-  const voteLine = votes[0] ? `Stemme: ${voteWord(votes[0].vote)}` : "";
-  const gift = money[0] ? `Penger: ${dollars(money[0].amount_usd)}${money[0].date ? `, ${money[0].date}` : ""}` : "";
+  const vote = votes[0]?.vote;
+  const voteLabel = vote === "yes" ? "Ja" : vote === "no" ? "Nei" : vote === "nvr" ? "Ikke stemt" : "Ikke i listen";
+  const voteClass = vote === "yes" ? "yes" : vote === "no" ? "no" : "muted";
+  const gift = money[0] ? dollars(money[0].amount_usd) : "–";
   return (
-    <button type="button" className="person" onClick={() => onOpen(person.id)}>
-      <span className="avatar">{initials(person.name)}</span>
-      <span>
-        <strong>{person.name}</strong>
-        <em>{person.summary[0]?.text}</em>
-        <b className="pill">{badge}</b>
-        {voteLine ? <small>{voteLine}</small> : null}
-        {gift ? <small>{gift}</small> : null}
-      </span>
-    </button>
+    <tr onClick={() => onOpen(person.id)}>
+      <td>
+        <span className="who">
+          <span className="avatar">{initials(person.name)}</span>
+          <span>
+            <strong>{person.name}</strong>
+            <small className="clamp">{person.summary[0]?.text}</small>
+            <b className="chip">{badge}</b>
+          </span>
+        </span>
+      </td>
+      <td>
+        <span className={`chip ${voteClass}`}>{voteLabel}</span>
+      </td>
+      <td className="num mono">{gift}</td>
+    </tr>
   );
 }
 
@@ -603,7 +703,7 @@ function EntityView({
       <button type="button" className="back" onClick={onBack}>
         Tilbake
       </button>
-      <p className="eyebrow">{TYPE_LABEL[card.type]}</p>
+      <p className="kicker">{TYPE_LABEL[card.type]}</p>
       <h2>{plainTitle(card)}</h2>
       {card.type === "lawmaker" ? <span className="avatar lg">{initials(card.name)}</span> : null}
       {card.summary.map((claim) => (
@@ -661,7 +761,7 @@ function NodeView({
       <button type="button" className="back" onClick={onBack}>
         Tilbake
       </button>
-      <p className="eyebrow">{KIND[node.type] ?? "Oppføring"}</p>
+      <p className="kicker">{KIND[node.type] ?? "Oppføring"}</p>
       <h2>{node.name}</h2>
       {node.type === "lobbyist" || node.type === "politician" ? <span className="avatar lg">{initials(node.name)}</span> : null}
       <p className="lead">

@@ -1,7 +1,8 @@
 "use client";
 
 import { useEffect, useRef } from "react";
-import type { GeoJSONSource, Map as MlMap } from "maplibre-gl";
+import type { Map as MlMap } from "maplibre-gl";
+import { layerColor } from "@/lib/stage";
 import { explainPlacement } from "@/lib/words";
 
 export type Placement = {
@@ -100,13 +101,13 @@ export default function MapCanvas({ enabled, summaries, focus, onSelect }: Props
       if (cancelled || !node.current || mapRef.current) return;
       const map = new maplibregl.Map({
         container: node.current,
-        style: "https://tiles.openfreemap.org/styles/liberty",
+        style: "/map/desk.json",
         center: [-119.4, 36.5],
         zoom: 5.3,
       });
       mapRef.current = map;
       map.addControl(new maplibregl.NavigationControl({ showCompass: false }), "top-right");
-      const popup = new maplibregl.Popup({ closeButton: true, closeOnClick: true, maxWidth: "280px" });
+      const popup = new maplibregl.Popup({ closeButton: true, closeOnClick: true, maxWidth: "260px", className: "desk-pop" });
       popupHolder.popup = popup;
 
       const show = (properties: Record<string, unknown> | null | undefined) => {
@@ -135,93 +136,93 @@ export default function MapCanvas({ enabled, summaries, focus, onSelect }: Props
           const payload = await response.json();
           const data = spec.kind === "cluster" ? wellsCollection(payload) : asCollection(payload, spec.filter);
           const sourceId = `src-${spec.id}`;
-          if (spec.kind === "cluster") {
-            map.addSource(sourceId, { type: "geojson", data, cluster: true, clusterRadius: 48, clusterMaxZoom: 12 });
+          if (spec.kind === "cluster" || spec.kind === "circle") {
+            map.addSource(sourceId, { type: "geojson", data });
+            const color = layerColor(spec.id);
             map.addLayer({
-              id: `${spec.id}-clusters`,
-              type: "circle",
+              id: `${spec.id}-heat`,
+              type: "heatmap",
               source: sourceId,
-              filter: ["has", "point_count"],
               paint: {
-                "circle-color": spec.color,
-                "circle-radius": ["step", ["get", "point_count"], 12, 50, 16, 200, 22],
-                "circle-stroke-width": 1,
-                "circle-stroke-color": "#ffffff",
+                "heatmap-weight": 1,
+                "heatmap-intensity": ["interpolate", ["linear"], ["zoom"], 0, 0.35, 8, 1],
+                "heatmap-radius": ["interpolate", ["linear"], ["zoom"], 0, 5, 8, 14],
+                "heatmap-opacity": ["interpolate", ["linear"], ["zoom"], 4, 0.8, 8, 0.4, 10.5, 0],
+                "heatmap-color": [
+                  "interpolate",
+                  ["linear"],
+                  ["heatmap-density"],
+                  0,
+                  "rgba(253,230,138,0)",
+                  0.2,
+                  "rgba(253,230,138,0.55)",
+                  0.55,
+                  "rgba(249,115,22,0.75)",
+                  1,
+                  "rgba(127,29,29,0.92)",
+                ],
               },
             });
             map.addLayer({
-              id: `${spec.id}-count`,
-              type: "symbol",
-              source: sourceId,
-              filter: ["has", "point_count"],
-              layout: { "text-field": ["get", "point_count_abbreviated"], "text-size": 11 },
-              paint: { "text-color": "#ffffff" },
-            });
-            map.addLayer({
-              id: `${spec.id}-points`,
+              id: `${spec.id}-glow`,
               type: "circle",
               source: sourceId,
-              filter: ["!", ["has", "point_count"]],
-              paint: { "circle-color": spec.color, "circle-radius": 4, "circle-stroke-width": 1, "circle-stroke-color": "#ffffff" },
-            });
-            map.on("click", `${spec.id}-clusters`, async (event) => {
-              const feature = event.features?.[0];
-              if (!feature || feature.geometry.type !== "Point") return;
-              const source = map.getSource(sourceId) as GeoJSONSource;
-              const zoom = await source.getClusterExpansionZoom(Number(feature.properties?.cluster_id));
-              map.easeTo({ center: feature.geometry.coordinates as [number, number], zoom });
-            });
-            map.on("click", `${spec.id}-points`, (event) => show(event.features?.[0]?.properties));
-          } else if (spec.kind === "line") {
-            map.addSource(sourceId, { type: "geojson", data });
-            map.addLayer({ id: spec.id, type: "line", source: sourceId, paint: { "line-color": spec.color, "line-width": 2 } });
-            map.on("click", spec.id, (event) => show(event.features?.[0]?.properties));
-          } else if (spec.kind === "circle") {
-            map.addSource(sourceId, { type: "geojson", data, cluster: true, clusterRadius: 36, clusterMaxZoom: 11 });
-            map.addLayer({
-              id: `${spec.id}-clusters`,
-              type: "circle",
-              source: sourceId,
-              filter: ["has", "point_count"],
-              paint: { "circle-color": spec.color, "circle-radius": 13, "circle-stroke-width": 1, "circle-stroke-color": "#fff" },
+              paint: {
+                "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 1.5, 13, 9],
+                "circle-color": color,
+                "circle-blur": 1,
+                "circle-opacity": ["interpolate", ["linear"], ["zoom"], 7.2, 0, 9, 0.4],
+              },
             });
             map.addLayer({
               id: spec.id,
               type: "circle",
               source: sourceId,
-              filter: ["!", ["has", "point_count"]],
-              paint: { "circle-color": spec.color, "circle-radius": 5, "circle-stroke-width": 1, "circle-stroke-color": "#fff" },
+              paint: {
+                "circle-radius": ["interpolate", ["linear"], ["zoom"], 7, 1, 13, 3.2],
+                "circle-color": color,
+                "circle-opacity": ["interpolate", ["linear"], ["zoom"], 7.2, 0, 9, 0.95],
+                "circle-stroke-width": 0,
+              },
             });
             map.on("click", spec.id, (event) => show(event.features?.[0]?.properties));
-            map.on("click", `${spec.id}-clusters`, async (event) => {
-              const feature = event.features?.[0];
-              if (!feature || feature.geometry.type !== "Point") return;
-              const source = map.getSource(sourceId) as GeoJSONSource;
-              const zoom = await source.getClusterExpansionZoom(Number(feature.properties?.cluster_id));
-              map.easeTo({ center: feature.geometry.coordinates as [number, number], zoom });
-            });
+          } else if (spec.kind === "line") {
+            map.addSource(sourceId, { type: "geojson", data });
+            map.addLayer({ id: spec.id, type: "line", source: sourceId, paint: { "line-color": layerColor(spec.id), "line-width": 1.5 } });
+            map.on("click", spec.id, (event) => show(event.features?.[0]?.properties));
           } else {
             map.addSource(sourceId, { type: "geojson", data });
-            const color =
-              spec.kind === "choropleth"
-                ? [
-                    "case",
-                    ["==", ["to-string", ["get", "value"]], ""],
-                    "#e4ddd0",
-                    ["interpolate", ["linear"], ["to-number", ["get", "value"]], 0, "#f4e7c8", spec.id === "valley-fever" ? 20 : 1000000, "#e0b15a", spec.id === "valley-fever" ? 80 : 8000000, "#c45c26", spec.id === "valley-fever" ? 260 : 26000000, "#6b2410"],
-                  ]
-                : spec.color;
+            const sequential = [
+              "case",
+              ["==", ["to-string", ["get", "value"]], ""],
+              "#E5E5E2",
+              [
+                "interpolate",
+                ["linear"],
+                ["to-number", ["get", "value"]],
+                0,
+                "#FDE68A",
+                spec.id === "valley-fever" ? 40 : 2000000,
+                "#F97316",
+                spec.id === "valley-fever" ? 160 : 12000000,
+                "#7F1D1D",
+              ],
+            ];
+            const fill = spec.kind === "choropleth" ? sequential : spec.id === "districts" ? "#6B7075" : layerColor(spec.id);
             map.addLayer({
               id: spec.id,
               type: "fill",
               source: sourceId,
-              paint: { "fill-color": color as string, "fill-opacity": spec.kind === "choropleth" ? 0.72 : 0.28 },
+              paint: {
+                "fill-color": fill as string,
+                "fill-opacity": spec.id === "districts" ? 0.08 : spec.kind === "choropleth" ? 0.78 : 0.34,
+              },
             });
             map.addLayer({
               id: `${spec.id}-line`,
               type: "line",
               source: sourceId,
-              paint: { "line-color": spec.color, "line-width": 1 },
+              paint: { "line-color": spec.id === "districts" ? "#6B7075" : layerColor(spec.id), "line-width": spec.id === "districts" ? 0.6 : 1 },
             });
             map.on("click", spec.id, (event) => {
               const properties = event.features?.[0]?.properties;
@@ -238,7 +239,7 @@ export default function MapCanvas({ enabled, summaries, focus, onSelect }: Props
               popup
                 .setLngLat(event.lngLat)
                 .setHTML(
-                  `<strong>${escapeHtml(explained.headline)}</strong>${cardLine ? `<div>${escapeHtml(cardLine)}</div>` : ""}<div><strong>Hvorfor ligger dette her?</strong> ${escapeHtml(explained.plain)}</div><details><summary>For journalister: tekniske detaljer</summary><div>${escapeHtml(String(properties.name ?? ""))}. ${escapeHtml(String(properties.source_note ?? ""))} ${escapeHtml(String(properties.source_name ?? ""))}, post ${escapeHtml(String(properties.source_record_id ?? ""))}.${value ? ` Verdi: ${escapeHtml(value)}.` : ""} <a href="${escapeHtml(String(properties.source_url ?? ""))}" target="_blank" rel="noreferrer">Kildelenke</a>. Hentet ${escapeHtml(String(properties.source_retrieved ?? ""))}.</div></details>`,
+                  `<strong>${escapeHtml(explained.headline)}</strong>${cardLine ? `<div>${escapeHtml(cardLine)}</div>` : ""}<div>${escapeHtml(explained.plain)}</div>${value ? `<div class="mono">${escapeHtml(value)}</div>` : ""}`,
                 )
                 .addTo(map);
               show(properties);
@@ -253,7 +254,7 @@ export default function MapCanvas({ enabled, summaries, focus, onSelect }: Props
           const on = new Set(enabledRef.current);
           for (const spec of all) {
             const visible = on.has(spec.id) ? "visible" : "none";
-            for (const suffix of ["", "-line", "-clusters", "-count", "-points"]) {
+            for (const suffix of ["", "-line", "-heat", "-glow", "-clusters", "-count", "-points"]) {
               const id = suffix ? `${spec.id}${suffix}` : spec.id;
               if (target.getLayer(id)) target.setLayoutProperty(id, "visibility", visible);
             }
